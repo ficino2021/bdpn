@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!---
+1. Sol y Luna eran considerados en la antiguedad planetas.
+2. Los nombres de villas, provincias, regiones, reinos o imperios ocuparán un id en lugares. 
+3. Los nombres de villas, provincias, regiones, reinos o imperios se complementarán con el nombre del pais en donde se ubican, ej.: Mendoza, Argentina; Mendoza, España ; Guadalajara, México; Guadalajara, España.
+4. Si hay algun nombre de lugar que haya cambiado, se asentará tal cual está en la obra. 
+--> 
+<places>
+<placeList nom="A">
+ <place id="A001">Alcantara, España</place>
+ <place id="A002">Asturias, España</place>
+ <place id="A003">Aragón, España</place>
+ <place id="A004">Aguilar, España</place>
+ <place id="A005">Asia</place>
+ <place id="A006">África</place>
+ <place id="A007">Alcázares, España</place>
+ <place id="A008">América</place>
+ <place id="A009">Asia oriental</place>
+ <place id="A010">Austral</place><!--Polo o Hemisfério sur-->
+ <place id="A011">Azimutal</place><!--Porció de la Tierra-->
+</placeList>
+
+
+
+<placeList nom="B">
+ <place id="B001">Babilonia</place>
+ <place id="B002">Buenos Aires</place>
+</placeList>
+
+
+<placeList nom="C">
+ <place id="C001">Castilla, España</place>
+ <place id="C002">Corzantes, España</place>
+ <place id="C003">Ceclavín, España</place>
+ <place id="C004">Cerdá, España</place><!--Zerda-->
+ <place id="C005">Chile</place>
+</placeList>
+
+
+<placeList nom="D">
+ <place id="D001"> </place>
+</placeList>
+
+
+<placeList nom="E">
+ <place id="E001">España</place>
+ <place id="E002">Europa</place>
+ <place id="E003">Egipto</place>
+</placeList>
+
+
+<placeList nom="F">
+ <place id="F001"> </place>
+</placeList>
+
+
+<placeList nom="G">
+ <place id="G001">Galve Turuel, España</place>
+ <place id="G002">Galias</place>
+</placeList>
+
+<placeList nom="H">
+ <place id="H001">Hijar, España</place>
+ <place id="H002">Hemisferio mexicano</place>
+ <place id="H003">Horizonte</place>
+ <place id="H004">Horizonte Oriental</place>
+</placeList>
+
+
+<placeList nom="I">
+ <place id="I001">India</place>
+ <place id="I002">Imperio</place>
+</placeList>
+
+
+<placeList nom="J">
+ <place id="J001">Judea</place>
+ <place id="J002">Júpiter (planeta)</place>
+</placeList>
+
+
+<placeList nom="K">
+ <place id="K001"> </place>
+</placeList>
+
+
+<placeList nom="L">
+ <place id="L001">León, España</place>
+ <place id="L002">Lerma, España</place>
+ <place id="L003">Los Argüellos, España</place>
+ <place id="L004">Luna</place> <!--era consideraro un planeta-->
+ <place id="L005">Latitud boreal</place>
+
+</placeList>
+
+
+<placeList nom="M">
+ <place id="M001">México</place>
+ <place id="M002">Melito, Italia</place>
+ <place id="M003">Manzanares del Real, España</place>
+ <place id="M004">Milán, Italia</place>
+ <place id="M005">Madrid, España</place>
+ <place id="M006">Mendoza, España</place>
+ <place id="M007">Mundo</place>
+ <place id="M008">Mundo grande</place>
+ <place id="M009">Mundo pequeño</place>
+ <place id="M010">Mercurio (planeta)</place>
+ <place id="M011">Marte (planeta)</place>
+ <place id="M012">Ciudad de México</place>
+</placeList>
+
+
+<placeList nom="N">
+ <place id="N001">Nueva España</place>
+ <place id="N002">Nación</place>
+ <place id="N003">Nación española</place>
+ <place id="N004">Norte</place>
+</placeList>
+
+
+<placeList nom="Ñ">
+ <place id="Ñ001"> </place>
+</placeList>
+
+
+<placeList nom="O">
+ <place id="O001">Oriente y Occidente</place>
+ <place id="O002">Orbe</place>
+ <place id="O003">Occidente</place>
+ <place id="O004">Orbes celestes</place>
+</placeList>
+
+
+<placeList nom="P">
+ <place id="P001">Pastrana</place>
+ <place id="P002">Perú</place>
+ <place id="P003">Paraguay</place>
+ <place id="P004">Peredes, España</place>
+ <place id="P005">Portugal</place>
+ <place id="P006">Paralaxis, España</place>
+</placeList>
+
+
+<placeList nom="Q">
+ <place id="Q001"> </place>
+</placeList>
+
+
+
+<placeList nom="R">
+ <place id="R001"> </place>
+</placeList>
+
+
+<placeList nom="S">
+ <place id="S001">Sacedón, España</place>
+ <place id="S002">Silva, España</place>
+ <place id="S003">Sandoval de Reina, España</place>
+ <place id="S004">Santillana, España</place>
+ <place id="S005">Saldaña, España</place>
+ <place id="S006">Septentrional América</place>
+ <place id="S007">Sol</place><!--era consideraro un planeta-->
+ <place id="S008">Siete planetas</place>
+ <place id="S009">Septentrional</place>
+ <place id="S010">Saturno (planeta)</place>
+</placeList>
+
+
+<placeList nom="T">
+ <place id="T001">Toledo, España</place>
+ <place id="T002">Tórtola, España</place>
+ <place id="T003">Teochichimecatl, Tlaxcala, México</place>
+ <place id="T004">Tierra (planeta)</place>
+</placeList>
+
+
+<placeList nom="U">
+ <place id="U001"> </place>
+</placeList>
+
+
+<placeList nom="V">
+ <place id="V001">Vizcaya, España</place>
+ <place id="V002">Venecia, España</place> <!---Introducir nuevo nombre--> 
+ <place id="V003">Venus</place>
+
+</placeList>
+
+
+<placeList nom="W">
+ <place id="W001"> </place>
+</placeList>
+
+
+<placeList nom="X">
+ <place id="X001"> </place>
+</placeList>
+
+
+<placeList nom="Y">
+ <place id="Y001"> </place>
+</placeList>
+
+
+<placeList nom="Z">
+ <place id="Z001">Zalamea de la Serena, España</place><!---Cenete--> 
+ <place id="Z002">Zenete, España</place><!---Cenete--> 
+</placeList>
+</places>

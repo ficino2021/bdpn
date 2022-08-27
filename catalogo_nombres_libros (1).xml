@@ -1,0 +1,110 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<operas>
+	<operaList nom="A">
+ 		<opera id="A001"></opera>
+ 	</operaList>
+
+	<operaList nom="B">
+ 		<opera id="B001"></opera>
+ 	</operaList>
+
+ 	<operaList nom="C">
+ 		<opera id="C001"></opera>
+ 	</operaList>
+
+ 	<operaList nom="D">
+ 		<opera id="D001"></opera>
+ 	</operaList>
+
+ 	<operaList nom="E">
+ 		<opera id="E001"></opera>
+ 	</operaList>
+
+ 	<operaList nom="F">
+ 		<opera id="F001"></opera>
+ 	</operaList>
+
+ 	<operaList nom="G">
+ 		<opera id="G001"></opera>
+ 	</operaList>
+
+ 	<operaList nom="H">
+ 		<opera id="H001"></opera>
+ 	</operaList>
+
+ 	<operaList nom="I">
+ 		<opera id="I001"></opera>
+ 	</operaList>
+
+ 	<operaList nom="J">
+ 		<opera id="J001"></opera>
+ 	</operaList>
+
+ 	<operaList nom="K">
+ 		<opera id="K001"></opera>
+ 	</operaList>
+
+ 	<operaList nom="L">
+ 		<opera id="L001"></opera>
+ 	</operaList>
+
+ 	<operaList nom="M">
+ 		<opera id="M001"></opera>
+ 	</operaList>
+
+ 	<operaList nom="N">
+ 		<opera id="N001"></opera>
+ 	</operaList>
+
+ 	<operaList nom="O">
+ 		<opera id="O001"></opera>
+ 	</operaList>
+
+ 	<operaList nom="P">
+ 		<opera id="P001"></opera>
+ 	</operaList>
+
+ 	<operaList nom="Q">
+ 		<opera id="Q001"></opera>
+ 	</operaList>
+
+ 	<operaList nom="R">
+ 		<opera id="R001"></opera>
+ 	</operaList>
+
+ 	<operaList nom="S">
+ 		<opera id="S001"></opera>
+ 	</operaList>
+
+ 	<operaList nom="T">
+ 		<opera id="T001"></opera>
+ 	</operaList>
+
+ 	<operaList nom="U">
+ 		<opera id="U001"></opera>
+ 	</operaList>
+
+ 	<operaList nom="V">
+ 		<opera id="V001"></opera>
+ 	</operaList>
+
+ 	<operaList nom="W">
+ 		<opera id="W001"></opera>
+ 	</operaList>
+
+<operaList nom="X">
+ 		<opera id="X001"></opera>
+ 	</operaList>
+
+<operaList nom="Y">
+ 		<opera id="Y001"></opera>
+ 	</operaList>
+
+ 	<operaList nom="Z">
+ 		<opera id="Z001"></opera>
+ 	</operaList>
+</operas>
+
+

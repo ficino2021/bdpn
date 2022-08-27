@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<terminos> 
+	<termCuerpo nom="A"> 
+		<cuerpo id="A01">ala</cuerpo>
+		<cuerpo id="A002">arteria</cuerpo>
+		<cuerpo id="A003">angina</cuerpo>
+		<cuerpo id="A004">Ánima</cuerpo>
+	</termCuerpo>
+	<termCuerpo nom="B"> 
+		<cuerpo id="B001"></cuerpo>
+	</termCuerpo>
+	<termCuerpo nom="C"> 
+		<cuerpo id="C001">cabeza</cuerpo>
+		<cuerpo id="C002">cuerpo</cuerpo>
+		<cuerpo id="C003">corazón</cuerpo>
+		<cuerpo id="C004">cerebro</cuerpo>
+		<cuerpo id="C005">cavidad</cuerpo>
+	</termCuerpo>
+ <termCuerpo nom="D"> 
+		<cuerpo id="D001"></cuerpo>
+	</termCuerpo>
+<termCuerpo nom="E"> 
+		<cuerpo id="E001">extremidades</cuerpo>
+		<cuerpo id="E002">estómago</cuerpo>
+	</termCuerpo>
+	<termCuerpo nom="F"> 
+		<cuerpo id="F001"></cuerpo>
+	</termCuerpo>
+	<termCuerpo nom="G"> 
+		<cuerpo id="G001"></cuerpo>
+	</termCuerpo>
+	<termCuerpo nom="H"> 
+		<cuerpo id="H001">hueso</cuerpo>
+		<cuerpo id="H002">hígado</cuerpo>
+	</termCuerpo>
+	<termCuerpo nom="I"> 
+		<cuerpo id="I001"></cuerpo>
+	</termCuerpo>
+	<termCuerpo nom="J"> 
+		<cuerpo id="J001"></cuerpo>
+	</termCuerpo>
+<termCuerpo nom="K"> 
+		<cuerpo id="K001"></cuerpo>
+	</termCuerpo>
+	<termCuerpo nom="L"> 
+		<cuerpo id="L001"></cuerpo>
+	</termCuerpo>
+	<termCuerpo nom="M"> 
+		<cuerpo id="M001">mano</cuerpo>
+		<cuerpo id="M002">mente</cuerpo>
+	</termCuerpo>
+	<termCuerpo nom="N"> 
+		<cuerpo id="N001">nervio</cuerpo>
+	</termCuerpo>
+	<termCuerpo nom="O"> 
+		<cuerpo id="O001">ojo</cuerpo>
+		<cuerpo id="O002">oído</cuerpo>
+		<cuerpo id="O003">ombligo</cuerpo>
+	</termCuerpo>
+	<termCuerpo nom="P"> 
+		<cuerpo id="P001">palma</cuerpo>
+		<cuerpo id="P002">Pies</cuerpo>
+	</termCuerpo>
+	<termCuerpo nom="Q"> 
+		<cuerpo id="Q001">quijada</cuerpo>
+	</termCuerpo>
+	<termCuerpo nom="R"> 
+		<cuerpo id="R001">rodilla</cuerpo>
+		<cuerpo id="R002">riñón</cuerpo>
+		<cuerpo id="R003">rótula</cuerpo>
+	</termCuerpo>
+	<termCuerpo nom="S"> 
+		<cuerpo id="S001"></cuerpo>
+	</termCuerpo>
+	<termCuerpo nom="T"> 
+		<cuerpo id="T001"></cuerpo>
+	</termCuerpo>
+	<termCuerpo nom="U"> 
+		<cuerpo id="U001"></cuerpo>
+	</termCuerpo>
+	<termCuerpo nom="V"> 
+		<cuerpo id="V001">vientre</cuerpo>
+		<cuerpo id="V002">vena</cuerpo>
+		<cuerpo id="V003">vértice de cabeza</cuerpo>
+	</termCuerpo>
+	<termCuerpo nom="W"> 
+		<cuerpo id="W001"></cuerpo>
+	</termCuerpo>
+	<termCuerpo nom="X"> 
+		<cuerpo id="X001"></cuerpo>
+	</termCuerpo>
+	<termCuerpo nom="Y"> 
+		<cuerpo id="Y001"></cuerpo>
+	</termCuerpo>
+	<termCuerpo nom="Z"> 
+		<cuerpo id="Z001"></cuerpo>
+	</termCuerpo>
+</terminos>
+
+
+
+
+
