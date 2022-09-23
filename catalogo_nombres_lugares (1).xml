@@ -34,7 +34,6 @@
  <place id="C003">Ceclavín, España</place>
  <place id="C004">Cerdá, España</place><!--Zerda-->
  <place id="C005">Chile</place>
- <place id="C005">Zenit</place>
 </placeList>
 
 
@@ -211,5 +210,6 @@
 <placeList nom="Z">
  <place id="Z001">Zalamea de la Serena, España</place><!---Cenete--> 
  <place id="Z002">Zenete, España</place><!---Cenete--> 
+ <place id="Z003">Zenit</place><!--región astronómica-->
 </placeList>
 </places>
