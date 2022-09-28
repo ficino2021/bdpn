@@ -147,6 +147,7 @@
  <place id="P009">Plano del Meridiano</place>
  <place id="P010">Planos polares</place>
  <place id="P011">Polo</place>
+ <place id="P012">Parabolas</place><!--tipo de órbita que siguen algunos cometas-->
 </placeList>
 
 
