@@ -17,8 +17,10 @@
  <place id="A008">América</place>
  <place id="A009">Asia oriental</place>
  <place id="A010">Austral</place><!--Polo o Hemisfério sur-->
- <place id="A011">Azimutal</place><!--Porció de la Tierra-->
- <place id="A012">Amilcantaradas</place><!--círculos paralelos al horizonte> 
+ <place id="A011">Azimutal</place><!--Porción de la Tierra-->
+ <place id="A012">Amilcantaradas</place><!--círculos astronomicos paralelos al horizonte> 
+ <place id="A013">Arcos semidiurnos</place><!--arco trazado por la salida del Sol-->
+ <place id="A014">Arcos seminocturnos</place>
 </placeList>
 
 
