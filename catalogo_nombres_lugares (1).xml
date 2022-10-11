@@ -155,6 +155,7 @@
  <place id="P011">Polo</place>
  <place id="P012">Parabolas</place><!--tipo de órbita que siguen algunos cometas-->
  <place id="P013">Polo sur</place>
+ <place id="P014">Polo norte</place>
 </placeList>
 
 
