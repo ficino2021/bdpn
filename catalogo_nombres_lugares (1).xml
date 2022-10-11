@@ -52,6 +52,7 @@
  <place id="E002">Europa</place>
  <place id="E003">Egipto</place>
  <place id="E004">Elipses</place><!--orbitas elipticas-->
+ <place id="E005">Eclíptica<place><!--camino seguido por el sol sobre la esfera celeste-->
 </placeList>
 
 
