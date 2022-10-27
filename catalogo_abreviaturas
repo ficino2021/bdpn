@@ -2,7 +2,7 @@
 <abbreviations>
 <abbreviationList nom="A">
  <abbreviation id="A001">AEqt</abbreviation><!--Abreviación de "Ecuatorial"-->
- <abbreviation id="A002">
+ <abbreviation id="A002">AEqtes</abbreviation> <!--Ecuatoriales-->
 </abbreviationList>
 
 
