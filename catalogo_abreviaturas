@@ -141,6 +141,7 @@
 <abbreviationList nom="V">
  <abbreviation id="V001">V.E.</abbreviation>
  <abbreviation id="V002">V.Ex.</abbreviation>
+ <abbreviation id="V003">Viaram.te</abbreviation> <!--Variamente. Los caracteres seguidos del punto aparecen como superindices en el manuscrito-->
 </abbreviationList>
 
 
