@@ -72,6 +72,7 @@
  <place id="H003">Horizonte</place>
  <place id="H004">Horizonte Oriental</place>
  <place id="H005">Hyperbolas</place><!--es un tipo de órbita abierta-->
+ <place id="H006">Horizonte occidental</place>
 </placeList>
 
 
