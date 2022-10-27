@@ -25,6 +25,7 @@
 <abbreviationList nom="D">
  <abbreviation id="D001">D.</abbreviation><!--Don-->
  <abbreviation id="D002">Doct.</abbreviation><!--Doctor-->
+ <abbreviation id="D003">Dho.</abbreviation> <!--Dicho-->
 </abbreviationList>
 
 
@@ -119,6 +120,7 @@
  <abbreviation id="S002">S</abbreviation><!--Santo-->
  <abbreviation id="S003">S.</abbreviation><!--Santa--> 
  <abbreviation id="S004">Solam.te</abbreviation><!--abreviación de "solamente". Los caracteres seguidos al punto aparecen en el manuscrito como superindices-->
+ <abbreviation id="S005">Sig.te</abbreviation> <!--Siguiente. Los caracteres seguidos al punto aparecen como superindices en el manuscrito-->
 </abbreviationList>
 
 
