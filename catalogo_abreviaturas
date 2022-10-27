@@ -19,6 +19,7 @@
  <abbreviation id="C001">cap.</abbreviation>
  <abbreviation id="C002">c.</abbreviation>
  <abbreviation id="C003">Complem.to</abbreviation> <!--Complemento. Los caracteres seguidos al punto aparecen como superindices en el manuscrito-->
+ <abbreviation id="C004">Correlativam.te</abbreviation> <!--Correlativamente. Los caracteres seguidos al puntos aparecen como superindices en el manuscrito-->
 </abbreviationList>
 
 
@@ -26,6 +27,7 @@
  <abbreviation id="D001">D.</abbreviation><!--Don-->
  <abbreviation id="D002">Doct.</abbreviation><!--Doctor-->
  <abbreviation id="D003">Dho.</abbreviation> <!--Dicho-->
+ <abbreviation id="D004">Derecham.te</abbreviation> <!--Derechamente. Los caracteres seguidos al punto aparecen como superindices en el manuscrito-->
 </abbreviationList>
 
 
