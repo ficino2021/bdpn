@@ -95,6 +95,7 @@
 <abbreviationList nom="P">
  <abbreviation id="P001">pag.</abbreviation>
  <abbreviation id="P002">P.</abbreviation> <!--Padre-->
+ <abbreviation id="P003">P.tes</abbreviation> <!--Parte. Los caracteres seguidos del punto aparecen en el manuscrtico como superindices-->
 </abbreviationList>
 
 
