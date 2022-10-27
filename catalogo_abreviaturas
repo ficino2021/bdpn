@@ -3,6 +3,7 @@
 <abbreviationList nom="A">
  <abbreviation id="A001">AEqt</abbreviation><!--Abreviación de "Ecuatorial"-->
  <abbreviation id="A002">AEqtes</abbreviation> <!--Ecuatoriales-->
+ <abbreviation id="A003">Alt.a</abbreviation> <!--Altura. Los caracteres seguidos al punto aparecen como superindices en el manuscrito-->
 </abbreviationList>
 
 
@@ -17,6 +18,7 @@
 <abbreviationList nom="C">
  <abbreviation id="C001">cap.</abbreviation>
  <abbreviation id="C002">c.</abbreviation>
+ <abbreviation id="C003">Complem.to</abbreviation> <!--Complemento. Los caracteres seguidos al punto aparecen como superindices en el manuscrito-->
 </abbreviationList>
 
 
@@ -33,6 +35,8 @@
  <abbreviation id="E004">Ex.mo. Sr.</abbreviation>
  <abbreviation id="E005">EX. mo</abbreviation>
  <abbreviation id="E006">EX.</abbreviation>
+ <abbreviation id="E007">Ett.a</abbreviation> <!--Etcetera. Los caracteres seguidos al punto aparecen como superindices en el manuscrtio-->
+ <abbreviation id="E008">Etca</abbreviation> <!--Variante de abreviación de “etcétera"-->
 </abbreviationList>
 
 
@@ -57,7 +61,7 @@
 
 
 <abbreviationList nom="J">
- <abbreviation id="J001"></abbreviation>
+ <abbreviation id="J001">Juntam.te</abbreviation> <!--Juntamente. Los caracteres seguidos al punto aparecen como superindices en el manuscrito-->
 </abbreviationList>
 
 
@@ -100,7 +104,7 @@
 
 
 <abbreviationList nom="Q">
- <abbreviation id="Q001"></abbreviation>
+ <abbreviation id="Q001"></abbreviation> 
 </abbreviationList>
 
 
@@ -124,7 +128,7 @@
 
 
 <abbreviationList nom="U">
- <abbreviation id="U001"></abbreviation>
+ <abbreviation id="U001">Ultimam.te</abbreviation> <!--Ultimamente. Los caracteres seguidos al punto aparecen como superindices en el manuscrito-->
 </abbreviationList>
 
 
