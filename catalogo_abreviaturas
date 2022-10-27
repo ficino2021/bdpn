@@ -47,7 +47,7 @@
 
 
 <abbreviationList nom="G">
- <abbreviation id="G001">gr.</abbreviation>
+ <abbreviation id="G001">gr.</abbreviation> <!--Grados-->
 </abbreviationList>
 
 
@@ -79,6 +79,7 @@
 <abbreviationList nom="M">
  <abbreviation id="M001">M. D.</abbreviation>
  <abbreviation id="M002">mi.</abbreviation>
+ <abbreviation id="M003">Mt.</abbreviation> <!--Minutos-->
 </abbreviationList>
 
 
