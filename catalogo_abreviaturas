@@ -112,7 +112,8 @@
 <abbreviationList nom="S">
  <abbreviation id="S001">S.</abbreviation><!--San-->
  <abbreviation id="S002">S</abbreviation><!--Santo-->
- <abbreviation id="S002">S.</abbreviation><!--Santa--> 
+ <abbreviation id="S003">S.</abbreviation><!--Santa--> 
+ <abbreviation id="S004">Solam.te</abbreviation><!--abreviación de "solamente". Los caracteres seguidos al punto aparecen en el manuscrito como superindices-->
 </abbreviationList>
 
 
