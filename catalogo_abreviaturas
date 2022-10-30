@@ -112,6 +112,7 @@
  <abbreviation id="P003">P.tes</abbreviation> <!--Partes. Los caracteres seguidos del punto aparecen en el manuscrtico como superindices-->
  <abbreviation id="P004">P.te</abbreviation> <!--Parte-->
  <abbreviation id="P005">Porq</abbreaviation> <!--Porque-->
+ <abbreviation id="P006">Pa</Abbreviation> <!--Para-->
 </abbreviationList>
 
 
