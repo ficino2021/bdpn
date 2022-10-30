@@ -40,6 +40,8 @@
  <place id="C005">Chile</place>
  <place id="C006">Cielo</place> <!--region astronomica-->
  <place id="C007">Círculos horarios</places>
+ <place id="C008">Capricornio</place> <!--Constelacion parte de la franja del zodiaco-->
+ <place id="C009">Cáncer</place> <!--Constelacion parte de la franja del zodiaco-->
 </placeList>
 
 
@@ -66,6 +68,7 @@
 <placeList nom="G">
  <place id="G001">Galve Turuel, España</place>
  <place id="G002">Galias</place>
+ <place id="G003">Géminis</place> <!--Constelacion parte de la franja del zodiaco-->
 </placeList>
 
 <placeList nom="H">
@@ -189,6 +192,7 @@
  <place id="S010">Saturno (planeta)</place>
  <place id="S011">Sur</place>
  <place id="S012">Semicírculos horarios</place>
+ <place id="S013">Sagitario</place> <!--Constelacion parte de la franja del zodiaco-->
 </placeList>
 
 
