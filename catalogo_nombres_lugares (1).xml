@@ -21,6 +21,7 @@
  <place id="A012">Amilcantaradas</place><!--círculos astronomicos paralelos al horizonte>
  <place id="A013">Arcos semidiurnos</place><!--arco trazado por la salida del Sol-->  <!--por qué esta linea esta toda en gris?! debería ser solo el comentario-->
  <place id="A014">Arcos seminocturnos</place>
+ <place id="A015">Acuario</place> <!--Constelacion parte de la franja del zodiaco de la esfera celeste, por la que se desplazan anualmente el Sol, la Luna y los planetas-->
 </placeList>
 
 
@@ -99,6 +100,7 @@
  <place id="L003">Los Argüellos, España</place>
  <place id="L004">Luna</place> <!--era consideraro un planeta-->
  <place id="L005">Latitud boreal</place>
+ <place id="L006">Leo</place> <!--Constelación parte de la franja del zodiaco de la esfera celeste, por la que se desplazan anualmente el Sol, la Luna y los planetas.--> 
 
 </placeList>
 
@@ -196,6 +198,7 @@
  <place id="T004">Tierra (planeta)</place>
  <place id="T005">Trópico de Capricornio</place>
  <place id="T006">Trópico de Cáncer</place>
+ <place id="T007">Tauro</place> <!--Constelación parte de la franja del zodiaco de la esfera celeste, por la que se desplazan anualmente el Sol, la Luna y los planetas.--> 
 </placeList>
 
 
