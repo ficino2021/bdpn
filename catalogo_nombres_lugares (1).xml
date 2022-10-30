@@ -61,7 +61,7 @@
 
 
 <placeList nom="F">
- <place id="F001"> </place>
+ <place id="F001">Frankfurt</place>
 </placeList>
 
 
@@ -78,6 +78,7 @@
  <place id="H004">Horizonte Oriental</place>
  <place id="H005">Hyperbolas</place><!--es un tipo de órbita abierta-->
  <place id="H006">Horizonte occidental</place>
+ <place id="H007">Hafnia</place <!--Forma latina de "Copenhague"-->
 </placeList>
 
 
@@ -216,6 +217,7 @@
  <place id="V001">Vizcaya, España</place>
  <place id="V002">Venecia, España</place> <!---Introducir nuevo nombre--> 
  <place id="V003">Venus</place>
+ <place id="V004">Venecia, Italia</place>
 
 </placeList>
 
