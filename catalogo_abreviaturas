@@ -22,6 +22,7 @@
  <abbreviation id="C002">c.</abbreviation>
  <abbreviation id="C003">Complem.to</abbreviation> <!--Complemento. Los caracteres seguidos al punto aparecen como superindices en el manuscrito-->
  <abbreviation id="C004">Correlativam.te</abbreviation> <!--Correlativamente. Los caracteres seguidos al puntos aparecen como superindices en el manuscrito-->
+ <abreviation id="C005">Conq.</abbreviation> <!--Con que-->
 </abbreviationList>
 
 
@@ -30,6 +31,7 @@
  <abbreviation id="D002">Doct.</abbreviation><!--Doctor-->
  <abbreviation id="D003">Dho.</abbreviation> <!--Dicho-->
  <abbreviation id="D004">Derecham.te</abbreviation> <!--Derechamente. Los caracteres seguidos al punto aparecen como superindices en el manuscrito-->
+ <abbreviation id="D005">Dist.a</abbreviation> <!--Distancia-->
 </abbreviationList>
 
 
@@ -130,6 +132,7 @@
  <abbreviation id="S003">S.</abbreviation><!--Santa--> 
  <abbreviation id="S004">Solam.te</abbreviation><!--abreviación de "solamente". Los caracteres seguidos al punto aparecen en el manuscrito como superindices-->
  <abbreviation id="S005">Sig.te</abbreviation> <!--Siguiente. Los caracteres seguidos al punto aparecen como superindices en el manuscrito-->
+ <abbreviation id="S006">Septt.</abbreviation> <!--Septentrional-->
 </abbreviationList>
 
 
