@@ -33,6 +33,7 @@
  <abbreviation id="D003">Dho.</abbreviation> <!--Dicho-->
  <abbreviation id="D004">Derecham.te</abbreviation> <!--Derechamente. Los caracteres seguidos al punto aparecen como superindices en el manuscrito-->
  <abbreviation id="D005">Dist.a</abbreviation> <!--Distancia-->
+ <abbreviation id="D006">Diffrá</abbreviation> <!--Diferencia-->
 </abbreviationList>
 
 
@@ -94,6 +95,7 @@
 
 <abbreviationList nom="N">
  <abbreviation id="N001">N.</abbreviation> <!--Nuestro-->
+ <abbreviation id="N002">Necess.o</abbreviation> <!--Necesario-->
 </abbreviationList>
 
 
