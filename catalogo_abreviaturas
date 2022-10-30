@@ -5,7 +5,8 @@
  <abbreviation id="A002">AEqtes</abbreviation> <!--Ecuatoriales-->
  <abbreviation id="A003">Alt.a</abbreviation> <!--Altura. Los caracteres seguidos al punto aparecen como superindices en el manuscrito-->
  <abbreviation id="A004">Aritmeticam.te</abbreviation> <!--Aritmeticamente. Los caracteres seguidos del punto aparecen como superindices en el manuscrito-->
- <abbreviation id="A005">Aunq</abbreviation> <!--Aunque-->
+ <abbreviation id="A005">Aunq.</abbreviation> <!--Aunque-->
+ <abbreviation="A006">Alt.as</abbreviation> <!--Alturas. Los caracteres seguidos al punto aparecen como superindices en el manuscrito-->
 </abbreviationList>
 
 
