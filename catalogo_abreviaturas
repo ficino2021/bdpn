@@ -134,6 +134,7 @@
  <abbreviation id="S004">Solam.te</abbreviation><!--abreviación de "solamente". Los caracteres seguidos al punto aparecen en el manuscrito como superindices-->
  <abbreviation id="S005">Sig.te</abbreviation> <!--Siguiente. Los caracteres seguidos al punto aparecen como superindices en el manuscrito-->
  <abbreviation id="S006">Septt.</abbreviation> <!--Septentrional-->
+ <abbreviation id="S007">Septes.</abbreviation> <!--Septentrionales-->
 </abbreviationList>
 
 
