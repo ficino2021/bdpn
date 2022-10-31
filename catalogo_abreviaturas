@@ -98,6 +98,7 @@
 <abbreviationList nom="N">
  <abbreviation id="N001">N.</abbreviation> <!--Nuestro-->
  <abbreviation id="N002">Necess.o</abbreviation> <!--Necesario-->
+ <abbreviation id="N003">Nra.</abbreviation> <!--Nuestra-->
 </abbreviationList>
 
 
@@ -120,6 +121,7 @@
  <abbreviation id="P006">Pa</Abbreviation> <!--Para-->
  <abbreviation id="P007">Permutadam.te</abbreviation> <!--Permutadamente-->
  <abbreviation id="P008">Porq.to</abbreviation> <!--Por cuanto-->
+ <abbreviation id="P009">Perfectam.te</abbreviation> <!--Perfectamente-->
 </abbreviationList>
 
 
