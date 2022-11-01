@@ -25,7 +25,8 @@
  <abbreviation id="C002">c.</abbreviation>
  <abbreviation id="C003">Complem.to</abbreviation> <!--Complemento. Los caracteres seguidos al punto aparecen como superindices en el manuscrito-->
  <abbreviation id="C004">Correlativam.te</abbreviation> <!--Correlativamente. Los caracteres seguidos al puntos aparecen como superindices en el manuscrito-->
- <abreviation id="C005">Conq.</abbreviation> <!--Con que-->
+ <abbreviation id="C005">Conq.</abbreviation> <!--Con que-->
+ <abbreviation id="C006">Claram.te</abbreviation> <!--Claramente-->
 </abbreviationList>
 
 
