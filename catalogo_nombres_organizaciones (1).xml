@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<organizations>
+<organizationList nom="A">
+ <organization id="A001">Arzobispado de México</organization>
+</organizationList>
+
+
+
+<organizationList nom="B">
+ <organization id="B001"> </organization>
+</organizationList>
+
+
+<organizationList nom="C">
+ <organization id="C001">casas reales</organization>
+ <organization id="C002">Corte de Mancebo</organization>
+ <organization id="C003">Corte de Madrid</organization>
+ <organization id="C004">Corte de México</organization>
+ <organization id="C005">Corte</organization>
+ <organization id="C006">Camara de su majestad</organization>
+ <organization id="C007">curatos</organization>
+ <organization id="C008">capellanías</organization>
+ <organization id="C009">conventos</organization>
+ <organization id="C010">colegios</organization>
+ <organization id="C011">Corona Española</organization>
+ <organization id="C012">Compañía de Jesús</organization>
+ <organization id="C013">Consejo de su majestad</organization>
+ <organization id="C014">Colegio</organization>
+</organizationList>
+
+
+<organizationList nom="D">
+ <organization id="D001"> </organization>
+</organizationList>
+
+
+<organizationList nom="E">
+ <organization id="E001"> </organization>
+</organizationList>
+
+
+<organizationList nom="F">
+ <organization id="F001"> </organization>
+</organizationList>
+
+
+<organizationList nom="G">
+ <organization id="G001">Gobernaciones</organization>
+ <organization id="G002">Gobierno eclesiástico y secular</organization>
+</organizationList>
+
+<organizationList nom="H">
+ <organization id="H001">Hospital</organization>
+</organizationList>
+
+
+<organizationList nom="I">
+ <organization id="I001">Imperio de chichimecos</organization>
+ <organization id="I002">iglesias</organization>
+ <organization id="I003">Imperio Español</organization>
+</organizationList>
+
+
+<organizationList nom="J">
+ <organization id="J001"> </organization>
+</organizationList>
+
+
+<organizationList nom="K">
+ <organization id="K001"> </organization>
+</organizationList>
+
+
+<organizationList nom="L">
+ <organization id="L001"> </organization>
+</organizationList>
+
+
+<organizationList nom="M">
+ <organization id="M001">Mayorazgo y Títulos</organization>
+ <organization id="M002">monasterios</organization>
+ <organization id="M003">Monasterio de la Madre de Dios</organization>
+ <organization id="M004">Monasterio</organization>
+</organizationList>
+
+
+<organizationList nom="N">
+ <organization id="N001"> </organization>
+</organizationList>
+
+<organizationList nom="O">
+ <organization id="O001">Orden de Caballería de Alcántara</organization>
+ <organization id="O002">Orden de San Agustín</organization><!--O. S. A.-->
+</organizationList>
+
+
+<organizationList nom="P">
+ <organization id="P001">Puertos y Marinas de Corzantes</organization>
+ <organization id="P002">Provincias</organization>
+ Provincia
+</organizationList>
+
+
+<organizationList nom="Q">
+ <organization id="Q001"> </organization>
+</organizationList>
+
+<organizationList nom="R">
+ <organization id="R001">-repúblicas</organization>
+ <organization id="R002">-Real Audiencia de México</organization>
+ <organization id="R003">-Real Pontificia Universidad de México</organization>
+</organizationList>
+
+
+
+<organizationList nom="S">
+ <organization id="S001">Santo Oficio de la Inquisición</organization> 
+</organizationList>
+
+<organizationList nom="T">
+ <organization id="T001">Tribunales y juzgados</organization>
+</organizationList>
+
+<organizationList nom="U">
+ <organization id="U001"> </organization>
+</organizationList>
+
+
+<organizationList nom="V">
+ <organization id="V001">Virreynato</organization>
+</organizationList>
+
+<organizationList nom="W">
+ <organization id="W001"> </organization>
+</organizationList>
+
+
+<organizationList nom="X">
+ <organization id="X001"> </organization>
+</organizationList>
+
+
+<organizationList nom="Y">
+ <organization id="Y001"> </organization>
+</organizationList>
+
+<organizationList nom="Z">
+ <organization id="Z001"> </organization>
+</organizationList>
+
+
+<organizationList nom="Z">
+ <organization id="Z001"> </organization>
+</organizationList>
+
+
+<organizationList nom="Z">
+ <organization id="Z001"> </organization>
+</organizationList>
+</organizations>
