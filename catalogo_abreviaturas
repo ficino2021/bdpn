@@ -163,6 +163,7 @@
  <abbreviation id="V002">V.Ex.</abbreviation>
  <abbreviation id="V003">Variam.te</abbreviation> <!--Variamente. Los caracteres seguidos del punto aparecen como superindices en el manuscrito-->
 </abbreviationList>
+ <abbreviation id="V004">Vmd.</abbreviation> <!--Vuestra Magestad-->
 
 
 <abbreviationList nom="W">
