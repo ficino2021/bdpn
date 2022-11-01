@@ -71,7 +71,7 @@
 		<cuerpo id="R003">rótula</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="S"> 
-		<cuerpo id="S001"></cuerpo>
+		<cuerpo id="S001">sangre</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="T"> 
 		<cuerpo id="T001"></cuerpo>
