@@ -106,9 +106,10 @@
 </organizationList>
 
 <organizationList nom="R">
- <organization id="R001">-repúblicas</organization>
- <organization id="R002">-Real Audiencia de México</organization>
- <organization id="R003">-Real Pontificia Universidad de México</organization>
+ <organization id="R001">repúblicas</organization>
+ <organization id="R002">Real Audiencia de México</organization>
+ <organization id="R003">Real Pontificia Universidad de México</organization>
+ <organization id="R003">Real Universidad de Salamanca</organization>
 </organizationList>
 
 
