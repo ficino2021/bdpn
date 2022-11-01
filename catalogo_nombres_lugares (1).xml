@@ -108,6 +108,7 @@
  <place id="L005">Latitud boreal</place>
  <place id="L006">Leo</place> <!--Constelación parte de la franja del zodiaco de la esfera celeste, por la que se desplazan anualmente el Sol, la Luna y los planetas.--> 
  <place id="L007">Lima, Perú</place>
+ <place id="L008">Laguna</place>
 
 </placeList>
 
@@ -181,6 +182,7 @@
 
 <placeList nom="R">
  <place id="R001">Region del aire</place><!--lo que hoy llamamos atmosfera, lugar donde se formaban los cometas--> 
+ <place id="R002">Río</place>
 </placeList>
 
 
