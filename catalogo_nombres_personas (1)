@@ -344,7 +344,7 @@
 		 <person id="M023">Montesinos de Lara, Pedro (coronel)</person>
 		 <person id="M024">Melicertes</person>
 		 <person id="M025">Mota, Pedro de la (fray)</person>
-		 <person id="M026">Maurolico, Francesco (matemático)</person>
+		 <person id="M026"> </person> <!--Ocupar este espacio-->
 		 <person id="M027">Milichio, Jacobo (astrónomo)</person>
 	</personList>
 	<personList nom="N">
