@@ -64,6 +64,7 @@
 	<termCuerpo nom="P"> 
 		<cuerpo id="P001">palma</cuerpo>
 		<cuerpo id="P002">Pies</cuerpo>
+		<cuerpo id="P003">poro</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="Q"> 
 		<cuerpo id="Q001">quijada</cuerpo>
