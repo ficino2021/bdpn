@@ -23,6 +23,8 @@
 <termCuerpo nom="E"> 
 		<cuerpo id="E001">extremidades</cuerpo>
 		<cuerpo id="E002">estómago</cuerpo>
+		<cuerpo id="E003">entrañas</cuerpo>
+	
 	</termCuerpo>
 	<termCuerpo nom="F"> 
 		<cuerpo id="F001"></cuerpo>
