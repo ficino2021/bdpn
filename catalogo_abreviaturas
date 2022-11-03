@@ -51,7 +51,7 @@
  <abbreviation id="E005">EX. mo</abbreviation>
  <abbreviation id="E006">EX.</abbreviation>
  <abbreviation id="E007">Ett.a</abbreviation> <!--Etcetera. Los caracteres seguidos al punto aparecen como superindices en el manuscrtio-->
- <abbreviation id="E008">Etca</abbreviation> <!--Variante de abreviación de “etcétera"-->
+ <abbreviation id="E008">Etc.a</abbreviation> <!--Variante de abreviación de “etcétera"-->
  <abreviation id="E009">Eclipt.a</abbreviation> <!--Eclíptica-->
 </abbreviationList>
 
