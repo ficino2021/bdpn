@@ -128,6 +128,7 @@
  <place id="M012">Ciudad de México</place>
  <place id="M013">Meridiano</place>
  <place id="M014">Mar</place> 
+ <place id="M015">Meridianos</place> <!--plural-->
 </placeList>
 
 
