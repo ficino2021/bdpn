@@ -253,5 +253,6 @@
  <place id="Z001">Zalamea de la Serena, España</place><!---Cenete--> 
  <place id="Z002">Zenete, España</place><!---Cenete--> 
  <place id="Z003">Zenit</place><!--región astronómica-->
+ <place id="Z003">Zodiaco</place><!--esfera celeste en la cual se encuentran las constelaciones del zodiaco-->
 </placeList>
 </places>
