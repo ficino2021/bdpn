@@ -35,6 +35,7 @@
 	<termCuerpo nom="H"> 
 		<cuerpo id="H001">hueso</cuerpo>
 		<cuerpo id="H002">hígado</cuerpo>
+		<cuerpo id="H002">hombro</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="I"> 
 		<cuerpo id="I001"></cuerpo>
