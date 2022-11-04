@@ -73,6 +73,7 @@
 		<cuerpo id="R001">rodilla</cuerpo>
 		<cuerpo id="R002">riñón</cuerpo>
 		<cuerpo id="R003">rótula</cuerpo>
+		<cuerpo id="R004">rostro</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="S"> 
 		<cuerpo id="S001">sangre</cuerpo>
