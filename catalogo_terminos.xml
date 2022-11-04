@@ -30,7 +30,7 @@
 		<cuerpo id="F001"></cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="G"> 
-		<cuerpo id="G001"></cuerpo>
+		<cuerpo id="G001">garganta</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="H"> 
 		<cuerpo id="H001">hueso</cuerpo>
