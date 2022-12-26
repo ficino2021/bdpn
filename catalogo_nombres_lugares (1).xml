@@ -59,7 +59,8 @@
  <place id="E004">Elipses</place><!--orbitas elipticas-->
  <place id="E005">Eclíptica<place><!--camino seguido por el sol sobre la esfera celeste-->
  <place id="E006">Escorpio</place> <!--Constelacion parte de la franaj del zodiaco de la esfera celeste por la que se desplazan anualmente el Sol, la Luna y los planetas-->
-</placeList>
+ <place id="E007">Espiga</place> <!--Estrella parte de la constelación virgo. Espiga de la virgen.-->
+  </placeList>
 
 
 <placeList nom="F">
