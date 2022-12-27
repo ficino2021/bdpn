@@ -19,10 +19,11 @@
  <place id="A010">Austral</place><!--Polo o Hemisfério sur-->
  <place id="A011">Azimutal</place><!--Porción de la Tierra-->
  <place id="A012">Amilcantaradas</place><!--círculos astronomicos paralelos al horizonte>
- <place id="A013">Arcos semidiurnos</place><!--arco trazado por la salida del Sol-->  <!--por qué esta linea esta toda en gris?! debería ser solo el comentario-->
+ <place id="A013">Arcos semidiurnos</place> <!--arco trazado por la salida del Sol-->  <!--por qué esta linea esta toda en gris?! debería ser solo el comentario-->
  <place id="A014">Arcos seminocturnos</place>
  <place id="A015">Acuario</place> <!--Constelacion parte de la franja del zodiaco de la esfera celeste, por la que se desplazan anualmente el Sol, la Luna y los planetas-->
-</placeList>
+ <place id="A016">Alemania</place>
+ </placeList>
 
 
 
