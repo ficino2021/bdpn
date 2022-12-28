@@ -16,6 +16,7 @@
 		<cuerpo id="C003">corazón</cuerpo>
 		<cuerpo id="C004">cerebro</cuerpo>
 		<cuerpo id="C005">cavidad</cuerpo>
+		<cuerpo id="C006">cabellera</cuerpo>
 	</termCuerpo>
  <termCuerpo nom="D"> 
 		<cuerpo id="D001"></cuerpo>
