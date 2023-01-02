@@ -246,6 +246,7 @@
  <place id="V002">Venecia, España</place> <!---Introducir nuevo nombre--> 
  <place id="V003">Venus</place>
  <place id="V004">Venecia, Italia</place>
+ <place id="V005">Virgo</place> <!--constelacion-->
 
 </placeList>
 
