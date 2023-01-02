@@ -48,6 +48,7 @@
  <place id="C011">Can Mayor</place><!--Constelación canis maior-->
  <place id="C012">Campeche</place>
  <place id="C013">Casiopea</place> <!--Constelación compilada en el catálogo estelar de Ptolomeo-->
+ <place id="C014">Cometa</place> <!--cuerpo celeste que forma parte del sistema solar-->
 </placeList>
 
 
