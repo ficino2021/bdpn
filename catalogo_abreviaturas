@@ -10,6 +10,7 @@
  <abbreviation id="A007">Asc.</abbreviation> <!--Ascención-->
  <abbreviation id="A008">ad.</abbreviation> <!--Puede ser Año del Señor (Anno Domini) Checar en contexto--> 
  <abbreviation id="A009">Agto.</abbreviation> <!--Agosto-->
+ <abbreviation id="A010">Anteced.e</abbreviation> <!--antecedente-->
 </abbreviationList>
 
 
