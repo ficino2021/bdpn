@@ -8,7 +8,8 @@
  <abbreviation id="A005">Aunq.</abbreviation> <!--Aunque-->
  <abbreviation id="A006">Alt.as</abbreviation> <!--Alturas. Los caracteres seguidos al punto aparecen como superindices en el manuscrito-->
  <abbreviation id="A007">Asc.</abbreviation> <!--Ascención-->
- <abbreviation id="A007">ad.</abbreviation> <!--Puede ser Año del Señor (Anno Domini) Checar en contexto--> 
+ <abbreviation id="A008">ad.</abbreviation> <!--Puede ser Año del Señor (Anno Domini) Checar en contexto--> 
+ <abbreviation id="A009">Agto.</abbreviation> <!--Agosto-->
 </abbreviationList>
 
 
