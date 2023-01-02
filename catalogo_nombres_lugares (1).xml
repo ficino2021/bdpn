@@ -71,6 +71,7 @@
 
 <placeList nom="F">
  <place id="F001">Frankfurt</place>
+ <place id="F002">Firmamento</place> <!--El cielo en que se supone hallarse las estrellas-->
 </placeList>
 
 
