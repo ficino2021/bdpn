@@ -88,6 +88,7 @@
  <place id="H005">Hyperbolas</place><!--es un tipo de órbita abierta-->
  <place id="H006">Horizonte occidental</place>
  <place id="H007">Hafnia</place <!--Forma latina de "Copenhague"-->
+ <place id="H008">Hemisferio</place> <!--region trazada a partir del ecuador, que divide a la Tierra en Sur y Norte-->
 </placeList>
 
 
