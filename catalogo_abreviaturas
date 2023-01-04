@@ -11,6 +11,7 @@
  <abbreviation id="A008">ad.</abbreviation> <!--Puede ser Año del Señor (Anno Domini) Checar en contexto--> 
  <abbreviation id="A009">Agto.</abbreviation> <!--Agosto-->
  <abbreviation id="A010">Anteced.e</abbreviation> <!--antecedente-->
+ <abbreviation id="A011"Alg.as</abbreviation> <!--Algunas-->
 </abbreviationList>
 
 
