@@ -24,7 +24,7 @@
  <place id="A015">Acuario</place> <!--Constelacion parte de la franja del zodiaco de la esfera celeste, por la que se desplazan anualmente el Sol, la Luna y los planetas-->
  <place id="A016">Alemania</place>
  <place id="A017">Arturo</place> <!--Estrella que conforma la constelación Boyero-->
- <place id="A018">Altura meridiana</place> <!--Es la máxima altura que un cuerpo celeste puede alcanzar por sobre el horizonte. La entiendo como una ubicación en el espacio para posicionar cuerpos-->
+ <place id="A018">Altura meridiana</place> <!--Es la máxima altura que un cuerpo celeste puede alcanzar por sobre el horizonte-->
  </placeList>
 
 
