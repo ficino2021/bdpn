@@ -25,6 +25,7 @@
  <place id="A016">Alemania</place>
  <place id="A017">Arturo</place> <!--Estrella que conforma la constelación Boyero-->
  <place id="A018">Altura meridiana</place> <!--Es la máxima altura que un cuerpo celeste puede alcanzar por sobre el horizonte-->
+ <place id="A019">Aries</place> <!--constelacion del Zodiaco-->
  </placeList>
 
 
