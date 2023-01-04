@@ -156,6 +156,7 @@
 <abbreviationList nom="R">
  <abbreviation id="R001">R. P.</abbreviation>
  <abbreviation id="R002">Rectam.te</abbreviation> <!--Rectamente. Los caracteres seguidos del punto aparecen como superindices en el manuscrito-->
+ <abbreviation id="R003">Retrog.o</abbreviation> <!--Retrogado-->
 </abbreviationList>
 
 
