@@ -81,6 +81,7 @@
  <place id="G001">Galve Turuel, España</place>
  <place id="G002">Galias</place>
  <place id="G003">Géminis</place> <!--Constelacion parte de la franja del zodiaco-->
+ <place id="G004">Grecia</place>
 </placeList>
 
 <placeList nom="H">
