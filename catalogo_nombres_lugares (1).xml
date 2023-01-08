@@ -26,6 +26,7 @@
  <place id="A017">Arturo</place> <!--Estrella que conforma la constelación Boyero-->
  <place id="A018">Altura meridiana</place> <!--Es la máxima altura que un cuerpo celeste puede alcanzar por sobre el horizonte-->
  <place id="A019">Aries</place> <!--constelacion del Zodiaco-->
+ <place id="A020">Arabia</place>
  </placeList>
 
 
@@ -52,6 +53,7 @@
  <place id="C013">Casiopea</place> <!--Constelación compilada en el catálogo estelar de Ptolomeo-->
  <place id="C014">Cometa</place> <!--cuerpo celeste que forma parte del sistema solar-->
  <place id="C015">Ciudad de México</place> <!--OJOOO, no usar el codigo M012 para Ciudad de Mexico, usar este!-->
+ <place id="C016">Chipre</place>
 </placeList>
 
 
@@ -75,6 +77,7 @@
 <placeList nom="F">
  <place id="F001">Frankfurt</place>
  <place id="F002">Firmamento</place> <!--El cielo en que se supone hallarse las estrellas-->
+ <place id="F003">Francia</place>
 </placeList>
 
 
@@ -102,6 +105,7 @@
  <place id="I001">India</place>
  <place id="I002">Imperio</place>
  <place id="I003">Israel</place>
+ <place id="I004">Italia</place>
 </placeList>
 
 
@@ -148,6 +152,7 @@
  <place id="M015">Meridianos</place> <!--plural-->
  <place id="M016">Medusa</place> <!--Nebulosa-->
  <place id="M017">Mesopotamia</place>
+ <place id="M018">Mar arábigo</place>
 </placeList>
 
 
@@ -157,6 +162,7 @@
  <place id="N003">Nación española</place>
  <place id="N004">Norte</place>
  <place id="N005">Ninive</place> <!--ciudad de Ninive-->
+ <place id="N006">Nápoles</place>
 </placeList>
 
 
@@ -196,6 +202,9 @@
  <place id="P016">Pléyades</place> <!--Cúmulo estelar. También aparece como "Pleyadas"-->
  <place id="P017">Perseo</place> <!--Constelación-->
  <place id="P018">Puebla</place>
+ <place id="P019">Polonia</place>
+ <place id="P020">Palestina</place>
+ place id="P021">Persia</place>
 </placeList>
 
 
@@ -210,6 +219,7 @@
  <place id="R002">Río</place>
  <place id="R003">Roma</place>
  <place id="R004">Region del fuego</place>
+ <place id="R005">Rhodes</place>
 </placeList>
 
 
@@ -229,6 +239,7 @@
  <place id="S013">Sagitario</place> <!--Constelacion parte de la franja del zodiaco-->
  <place id="S014">Selenopolis</place> <!--Lugar ficticio-->
  <place id="S015">Selandia</place> <!--Isla en Dinamarca-->
+ <place id="S016">Sicilia</place>
 </placeList>
 
 
