@@ -148,7 +148,8 @@
  <abbreviation id="P008">Porq.to</abbreviation> <!--Por cuanto-->
  <abbreviation id="P009">Perfectam.te</abbreviation> <!--Perfectamente-->
  <abbreviation id="P010">Pr.o</abbreviation>
- <abbreviation id="Particularm.te</abbreviation> <!--Particularmente-->
+ <abbreviation id="P011">Particularm.te</abbreviation> <!--Particularmente-->
+ <abbreviation id="P012">Press.do</abbreviation> <!--Presentado-->
 </abbreviationList>
 
 
