@@ -55,6 +55,7 @@
  <place id="C014">Cometa</place> <!--cuerpo celeste que forma parte del sistema solar-->
  <place id="C015">Ciudad de México</place> <!--OJOOO, no usar el codigo M012 para Ciudad de Mexico, usar este!-->
  <place id="C016">Chipre</place>
+ <place id="C017">Cetus</place> <!--Constelacion tambien referida como 'Constelación de la Ballena' o 'Ballena''-->
 </placeList>
 
 
