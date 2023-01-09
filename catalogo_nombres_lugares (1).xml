@@ -182,6 +182,7 @@
  <place id="O006">Orto</place><!--Es una ubicacion en la que un astro (y el sol en particular) está cuando atraviesa el plano del horizonte y pasa a nuestro hemisferio visible-->
  <place id="O007">Ocaso</place><!--De manera contraria, se  está en el ocaso cuando atraviesa el plano del horizonte y pasa de nuestro hemisferio visible al no visible-->
  <place id="O008">Orión</place> <!--Constelación-->
+ <place id="O009">Osa mayor</place> <!--Constelación también conocida como "el carro" o "el cazo"-->
 </placeList>
 
 
