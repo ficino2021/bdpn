@@ -56,6 +56,7 @@
  <place id="C015">Ciudad de México</place> <!--OJOOO, no usar el codigo M012 para Ciudad de Mexico, usar este!-->
  <place id="C016">Chipre</place>
  <place id="C017">Cetus</place> <!--Constelacion tambien referida como 'Constelación de la Ballena' o 'Ballena''-->
+ <place id="C018">Cisne</place> <!--Cygnus, cigne; constelación del hemisferio norte que atraviesa la Vía Láctea-->
 </placeList>
 
 
@@ -148,7 +149,7 @@
  <place id="M009">Mundo pequeño</place>
  <place id="M010">Mercurio (planeta)</place>
  <place id="M011">Marte (planeta)</place>
- <place id="M012">Ciudad de México</place>
+ <place id="M012">Ciudad de México</place> <!--OJOOO, no usar el codigo M012 para Ciudad de Mexico, usar "C015" !-->
  <place id="M013">Meridiano</place>
  <place id="M014">Mar</place> 
  <place id="M015">Meridianos</place> <!--plural-->
