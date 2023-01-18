@@ -76,6 +76,7 @@
  <place id="E006">Escorpio</place> <!--Constelacion parte de la franaj del zodiaco de la esfera celeste por la que se desplazan anualmente el Sol, la Luna y los planetas-->
  <place id="E007">Espiga</place> <!--Estrella parte de la constelación virgo. Espiga de la virgen.-->
  <place id="E008">Erídano</place> <!--Constelación austral. También como Río Eridano-->
+ <place id="E009">Estrellas</place>
  </placeList>
 
 
