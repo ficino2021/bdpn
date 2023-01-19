@@ -52,7 +52,7 @@
  <place id="C011">Can Mayor</place><!--Constelación canis maior-->
  <place id="C012">Campeche</place>
  <place id="C013">Casiopea</place> <!--Constelación compilada en el catálogo estelar de Ptolomeo-->
- <place id="C014">Cometa</place> <!--cuerpo celeste que forma parte del sistema solar--> <!--ya no usar este id ni marcarlo como <placeName>-->
+ <place id="C014">Cometa</place> <!--ya no usar este id ni marcarlo como <placeName>-->
  <place id="C015">Ciudad de México</place> <!--OJOOO, no usar el codigo M012 para Ciudad de Mexico, usar este!-->
  <place id="C016">Chipre</place>
  <place id="C017">Cetus</place> <!--Constelacion tambien referida como 'Constelación de la Ballena' o 'Ballena''-->
