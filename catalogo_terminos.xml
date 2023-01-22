@@ -65,6 +65,7 @@
 		<cuerpo id="O003">ombligo</cuerpo>
 		<cuerpo id="O004">oreja</cuerpo>
 		<cuerpo id="O005">orejas</cuerpo>
+		<cuerpo id="O006">ojos</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="P"> 
 		<cuerpo id="P001">palma</cuerpo>
