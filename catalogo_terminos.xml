@@ -88,6 +88,7 @@
 	</termCuerpo>
 	<termCuerpo nom="U"> 
 		<cuerpo id="U001">uña</cuerpo>
+		<cuerpo id="U002">uñas</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="V"> 
 		<cuerpo id="V001">vientre</cuerpo>
