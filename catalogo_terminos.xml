@@ -57,6 +57,7 @@
 	<termCuerpo nom="N"> 
 		<cuerpo id="N001">nervio</cuerpo>
 		<cuerpo id="N002">nariz</cuerpo>
+		<cuerpo id="N003">narices</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="O"> 
 		<cuerpo id="O001">ojo</cuerpo>
