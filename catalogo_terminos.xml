@@ -54,6 +54,7 @@
 	<termCuerpo nom="M"> 
 		<cuerpo id="M001">mano</cuerpo>
 		<cuerpo id="M002">mente</cuerpo>
+		<cuerpo id="M003">mano izquierda</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="N"> 
 		<cuerpo id="N001">nervio</cuerpo>
