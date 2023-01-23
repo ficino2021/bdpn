@@ -8,8 +8,7 @@
 		<cuerpo id="A004">Ánima</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="B"> 
-		<cuerpo id="B001">barba</cuerpo>
-		<cuerpo id="B002">barbas</cuerpo>
+		<cuerpo id="B001">barbas</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="C"> 
 		<cuerpo id="C001">cabeza</cuerpo>
