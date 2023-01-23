@@ -73,6 +73,7 @@
 		<cuerpo id="P002">Pies</cuerpo>
 		<cuerpo id="P003">poro</cuerpo>
 		<cuerpo id="P004">poros</cuerpo>
+		<cuerpo id="P005">pie izquierdo</cuerpo><!--siniestro pie-->
 	</termCuerpo>
 	<termCuerpo nom="Q"> 
 		<cuerpo id="Q001">quijada</cuerpo>
