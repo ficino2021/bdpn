@@ -67,6 +67,8 @@
 
 <placeList nom="D">
  <place id="D001">Dania</place> <!--Dinamarca actualmente-->
+ <place id="D002">Declinación meridional</place> <!--Hacia el sur/meridiano-->
+ <place id="D003">Declinación septentrional</place> <!--Hacia el norte-->
 </placeList>
 
 
