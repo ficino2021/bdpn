@@ -211,7 +211,7 @@
  <place id="P011">Polo</place>
  <place id="P012">Parabolas</place><!--tipo de órbita que siguen algunos cometas-->
  <place id="P013">Polo sur</place>
- <place id="P014">Polo norte</place>
+ <place id="P014">Polo norte</place> <!--Polo septentrional-->
  <place id="P015">Poniente</place>
  <place id="P016">Pléyades</place> <!--Cúmulo estelar. También aparece como "Pleyadas"-->
  <place id="P017">Perseo</place> <!--Constelación-->
