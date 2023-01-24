@@ -88,6 +88,7 @@
 	</termCuerpo>
 	<termCuerpo nom="S"> 
 		<cuerpo id="S001">sangre</cuerpo>
+		<cuerpo id="S002">sudor</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="T"> 
 		<cuerpo id="T001"></cuerpo>
