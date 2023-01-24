@@ -81,7 +81,7 @@
  <place id="E006">Escorpio</place> <!--Constelacion parte de la franaj del zodiaco de la esfera celeste por la que se desplazan anualmente el Sol, la Luna y los planetas-->
  <place id="E007">Espiga</place> <!--Estrella parte de la constelación virgo. Espiga de la virgen.-->
  <place id="E008">Erídano</place> <!--Constelación austral. También como Río Eridano-->
- <place id="E009">Estrellas</place>
+ <place id="E009">Estrellas</place> <!--Creo que me equivoqué en cómo puse este id en el catálogo. No creo que haya diferencia entre "estrellas" y "estrella" por lo que considero que deberíamos eliminar la s-->
  </placeList>
 
 
@@ -220,7 +220,7 @@
  <place id="P020">Palestina</place>
  <place id="P021">Persia</place>
  <place id="P022">Panama</place>
- <place id="P023">Planetas</place>
+ <place id="P023">Planetas</place> <!--Mismo problema que con "Estrellas". También propongo que quitemos el plural del catálogo.-->
  <place id="P024">Perigeo</place> <!--Punto de una órbita en el que está más cerca de la Tierra-->
 </placeList>
 
