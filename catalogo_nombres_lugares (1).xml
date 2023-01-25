@@ -30,6 +30,7 @@
  <place id="A021">Argo Navis</place> <!--Constelacion descrita por Ptolomeo representaba el navío en que viajaron Jasón y los Argonautas de la mitología griega. Tambien referida como ''Nave'' o ''Constelación de la Nave''-->
  <place id="A022">Apogeo</place> <!--Punto de una órbita en el que está más separado de la Tierra-->
  <place id="A023">Ascendente</place> <!--punto cardinal Este sobre el horizonte local-->
+ <place id="A024">Algol</place> <!--Estrella de la constelación Perso que representa el ojo de Medusa. También como "Capud Medusae"-->
 </placeList>
 
 
@@ -144,7 +145,7 @@
  <place id="L007">Lima, Perú</place>
  <place id="L008">Laguna</place>
  <place id="L009">Libra</place> <!--Constelación del zodiaco-->
- <place id="L010">Lisboa</place>
+ <place id="L010">Lisboa, Portugal</place>
 
 </placeList>
 
