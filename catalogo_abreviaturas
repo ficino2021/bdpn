@@ -103,7 +103,8 @@
 <abbreviationList nom="L">
  <abbreviation id="L001">lib.</abbreviation>
  <abbreviation id="L002">Lic.</abbreviation> <!--Licenciado-->
- <abbreviation id="L002">leg.</abbreviation>
+ <abbreviation id="L003">leg.</abbreviation>
+ <abbreviation id="L004">lud.</abbreviation>
 </abbreviationList>
 
 
