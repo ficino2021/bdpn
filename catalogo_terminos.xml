@@ -101,6 +101,7 @@
 		<cuerpo id="V001">vientre</cuerpo>
 		<cuerpo id="V002">vena</cuerpo>
 		<cuerpo id="V003">vértice de cabeza</cuerpo>
+		<cuerpo id="V004">venas</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="W"> 
 		<cuerpo id="W001"></cuerpo>
