@@ -29,7 +29,8 @@
  <place id="A020">Arabia</place>
  <place id="A021">Argo Navis</place> <!--Constelacion descrita por Ptolomeo representaba el navío en que viajaron Jasón y los Argonautas de la mitología griega. Tambien referida como ''Nave'' o ''Constelación de la Nave''-->
  <place id="A022">Apogeo</place> <!--Punto de una órbita en el que está más separado de la Tierra-->
- </placeList>
+ <place id="A023">Ascendente</place> <!--punto cardinal Este sobre el horizonte local-->
+</placeList>
 
 
 
