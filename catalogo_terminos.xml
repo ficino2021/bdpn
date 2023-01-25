@@ -103,6 +103,7 @@
 		<cuerpo id="V002">vena</cuerpo>
 		<cuerpo id="V003">vértice de cabeza</cuerpo>
 		<cuerpo id="V004">venas</cuerpo>
+		<cuerpo id="V005">vómitos</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="W"> 
 		<cuerpo id="W001"></cuerpo>
