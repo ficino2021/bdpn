@@ -34,6 +34,7 @@
 	</termCuerpo>
 	<termCuerpo nom="G"> 
 		<cuerpo id="G001">garganta</cuerpo>
+		<cuerpo id="G002">genitales</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="H"> 
 		<cuerpo id="H001">hueso</cuerpo>
