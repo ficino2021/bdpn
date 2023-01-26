@@ -91,7 +91,7 @@
 		 <person id="B020">Bartolomé el Apóstol obispo de Artaxata (san)</person> <!--Natanael-->
 		 <person id="B021">Berrieza, José de</person> 
 		 <person id="B022">Bernardo Calderon (viuda de)</person> <!--impresor-->
-		 <person id="B023">Flavio Belisario (general)</person>
+		 <person id="B023">Belisario Flavio (general)</person>
 		 <person id="B024">Bolzano de la Fosse, Piero Valeriano (teólogo)</person>
 		 <person id="B025">Brígida de Suecia</person><!--Birgitta Birgersdotter-->
 		 <person id="B025">Brahe, Tycho (astrónomo)</person>
@@ -347,6 +347,7 @@
 		 <person id="M025">Mota, Pedro de la (fray)</person>
 		 <person id="M026">Mayorca (de), Vicente</person> <!--este espacio estaba vacío-->
 		 <person id="M027">Milichio, Jacobo (astrónomo)</person>
+		<person id="M028">Mezzavachis, Flaminio (astrónomo)</person>
 	</personList>
 	<personList nom="N">
 		 <person id="N001">Nabucodonosor II (rey)</person>
