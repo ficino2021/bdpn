@@ -38,6 +38,8 @@
 <placeList nom="B">
  <place id="B001">Babilonia</place>
  <place id="B002">Buenos Aires</place>
+ <place id="B003">Bolonia</place>
+ <place id="B004">Barlovento</place>
 </placeList>
 
 
@@ -64,6 +66,7 @@
  <place id="C020">Cadiz, España</place>
  <place id="C021">California</place> <!--No sé si en ese entonces había ambigüedad respecto a si se refiere a Alta California, Baja California o ambas-->
  <place id="C022">Cielos Superiores</place>
+ <place id="C023">Canarias</place>
 </placeList>
 
 
