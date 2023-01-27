@@ -126,8 +126,7 @@
  <place id="I002">Imperio</place>
  <place id="I003">Israel</place>
  <place id="I004">Italia</place>
- <place id="I005">Isla de Tile</place> <!--Isla que aparentemente se encontraba cerca de Noruega-->
- <place id="I006">Ítaca, Grecia</place>
+ <place id="I005">Ítaca, Grecia</place>
 </placeList>
 
 
@@ -284,6 +283,8 @@
  <place id="T007">Tauro</place> <!--Constelación parte de la franja del zodiaco de la esfera celeste, por la que se desplazan anualmente el Sol, la Luna y los planetas.--> 
  <place id="T008">Trópicos</place> <!--plural-->
  <place id="T009">Turquia</place>
+ <place id="T010">Tajo, Península Ibérica (río)</place>
+ <place id="T011">Tile (isla)</place> <!--Isla que aparentemente se encontraba cerca de Noruega-->
 </placeList>
 
 
