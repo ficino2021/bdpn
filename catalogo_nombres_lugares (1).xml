@@ -121,6 +121,7 @@
  <place id="H008">Hemisferio</place> <!--region trazada a partir del ecuador, que divide a la Tierra en Sur y Norte-->
  <place id="H009">Hungria</place>
  <place id="H010">Habana</place>
+ <place id="H011">Holanda</place>
 </placeList>
 
 
@@ -130,6 +131,7 @@
  <place id="I003">Israel</place>
  <place id="I004">Italia</place>
  <place id="I005">Ítaca, Grecia</place>
+ <place id="I006">Inglaterra</place>
 </placeList>
 
 
