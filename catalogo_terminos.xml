@@ -62,6 +62,7 @@
 		<cuerpo id="M004">mano derecha</cuerpo>
 		<cuerpo id="M005">manos</cuerpo>
 		<cuerpo id="M006">madre</cuerpo><!--matriz, útero-->
+		<cuerpo id="M007">muslo(s)</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="N"> 
 		<cuerpo id="N001">nervio</cuerpo>
