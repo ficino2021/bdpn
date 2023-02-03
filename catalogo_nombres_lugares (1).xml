@@ -100,6 +100,7 @@
  <place id="F001">Frankfurt</place>
  <place id="F002">Firmamento</place> <!--El cielo en que se supone hallarse las estrellas-->
  <place id="F003">Francia</place>
+ < id del lugar  = " F004 " >Filipinas</ lugar >
 </placeList>
 
 
