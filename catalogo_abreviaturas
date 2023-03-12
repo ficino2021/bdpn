@@ -86,7 +86,8 @@
 
 <abbreviationList nom="I">
  <abbreviation id="I001">Inmediatam.te</abbreviation> <!--Inmediatamente-->
- <abbreviation id="I002>Instrum.tos</abbreviation> <!--instrumentos-->
+ <abbreviation id="I002">Instrum.tos</abbreviation> <!--instrumentos-->
+ <abbreviation id="I003">ij.</abbreviation>
 </abbreviationList>
 
 
