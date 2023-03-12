@@ -72,7 +72,7 @@
  <place id="C023">Canarias</place>
  <place id="C024">China</place>
  <place id="C025">Concepción</place><!--Una de las tres provincias que integra la Región del Biobío en Chile-->
- <place id="C026">Ciudad de Jersualén</place><!--Diferente al país-->
+ <place id="C026">Ciudad de Jerusalén</place><!--Ciudad vieja de jersualén-->
 </placeList>
 
 
@@ -142,7 +142,8 @@
  <place id="J001">Judea</place>
  <place id="J002">Júpiter (planeta)</place>
  <place id="J003">Japón</place>
-</placeList>
+ <place id="J004">Jerusalén</place>
+ </placeList>
 
 
 <placeList nom="K">
