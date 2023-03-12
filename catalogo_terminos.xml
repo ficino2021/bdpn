@@ -10,6 +10,7 @@
 	<termCuerpo nom="B"> 
 		<cuerpo id="B001">barbas</cuerpo>
 		<cuerpo id="B002">brazo(s)</cuerpo>
+		<cuerpo id="B003">boca</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="C"> 
 		<cuerpo id="C001">cabeza</cuerpo>
