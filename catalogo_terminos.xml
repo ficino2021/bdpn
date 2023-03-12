@@ -43,6 +43,7 @@
 		<cuerpo id="H003">hombro</cuerpo>
 		<cuerpo id="H004">hombro derecho</cuerpo><!--ombro diestro-->
 		<cuerpo id="H005">humos biliosos</cuerpo><!--la bilis-->
+		<cuerpo id="H006">humores</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="I"> 
 		<cuerpo id="I001"></cuerpo>
