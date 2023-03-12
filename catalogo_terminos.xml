@@ -20,6 +20,7 @@
 		<cuerpo id="C006">cabellera</cuerpo>
 		<cuerpo id="C007">cuerpos</cuerpo>
 		<cuerpo id="C008">costado</cuerpo><!--partes laterales del torso que abarcan de la axila a la cadera-->
+	        <cuerpo id="C009">carne</cuerpo>
 	</termCuerpo>
  <termCuerpo nom="D"> 
 		<cuerpo id="D001">dedo índice</cuerpo>
