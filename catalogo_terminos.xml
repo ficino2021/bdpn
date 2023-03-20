@@ -30,6 +30,7 @@
 		<cuerpo id="E001">extremidades</cuerpo>
 		<cuerpo id="E002">estómago</cuerpo>
 		<cuerpo id="E003">entrañas</cuerpo>
+	<cuerpo id="E004">espalda(s)</cuerpo>
 	
 	</termCuerpo>
 	<termCuerpo nom="F"> 
