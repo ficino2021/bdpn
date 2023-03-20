@@ -51,7 +51,7 @@
  <abbreviation id="D012">Dor.</abbreviation> <!--Doctor-->
  <abbreviation id="D013">dialog.os</abbreviation> <!--Dialogos-->
  <abbreviation id="D014">Dha.</abbreviation> <!--Dicha (femenino)-->
- <abbreviation id="D015">d.</abbreviation> <!--Día-->
+ <abbreviation id="D015">d.</abbreviation> <!--Día(s)-->
 </abbreviationList>
 
 
@@ -83,6 +83,7 @@
 <abbreviationList nom="H">
  <abbreviation id="H001">hor.</abbreviation>
  <abbreviation id="H002">Horiz.e</abbreviation> <!--Horizonte-->
+ <abbreviation id="H003">h.</abbreviation> <!--Hora(s)-->
 </abbreviationList>
 
 
