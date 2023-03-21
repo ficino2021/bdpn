@@ -95,6 +95,7 @@
  <place id="E009">Estrellas</place> <!--Creo que me equivoqué en cómo puse este id en el catálogo. No creo que haya diferencia entre "estrellas" y "estrella" por lo que considero que deberíamos eliminar la s-->
  <place id="E010">Epiro, Grecia</place> <!--Reino de Epiro-->
  <place id="E011">Estrecho de Gibraltar</place>
+ <place id="E012">Estrellas Fijas</place>
 </placeList>
 
 
