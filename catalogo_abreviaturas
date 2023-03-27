@@ -77,6 +77,7 @@
 <abbreviationList nom="G">
  <abbreviation id="G001">gr.</abbreviation> <!--Grados-->
  <abbreviation id="G002">Geometricam.te</abbreviation> <!--Geometricamente. Los caracteres seguidos del punto aparencen como superindices en el manuscrito-->
+ <abbreviation id="G003">G.</abbreviation> <!--Otra notación para GRADOS-->
 </abbreviationList>
 
 
