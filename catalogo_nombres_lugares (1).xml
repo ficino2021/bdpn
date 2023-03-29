@@ -247,6 +247,7 @@
  <place id="P023">Planetas</place> <!--Mismo problema que con "Estrellas". También propongo que quitemos el plural del catálogo.-->
  <place id="P024">Perigeo</place> <!--Punto de una órbita en el que está más cerca de la Tierra-->
  <place id="P025">Piscis</place> <!--constelación del Zodiaco-->
+ <place id="P026">Portal de las Flores, Puebla (México)</place>
 </placeList>
 
 
