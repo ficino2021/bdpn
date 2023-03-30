@@ -94,7 +94,8 @@
 <organizationList nom="O">
  <organization id="O001">Orden de Caballería de Alcántara</organization>
  <organization id="O002">Orden de San Agustín</organization><!--O. S. -->
-<organization id="O003">Orden de Caballería de Santiago</organization>
+ <organization id="O003">Orden de Caballería de Santiago</organization>
+ <organization id="O004">Orden de la Merced</organization>
 </organizationList>
 
 
