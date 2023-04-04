@@ -411,7 +411,7 @@
 		 <person id="R006">Ribera y Zambrano, Alonso de (militar)</person>
 		 <person id="R007">Ribera, Juan Luis de</person>
 		 <person id="R008">Ricciolo, Juan Bautista (fray)</person>
-		 <person id="R009">Riederer de Paar, Mariana de</person>
+		 <person id="R009">Riederer de Paar, Mariana de</person>   <!--Marquesa de Guadalcázar-->
 		 <person id="R010">Rio, Martín Antonio del</person>
 		 <person id="R011">Rosa de Lima (santa)</person><!--Isabel Flores de Oliva--> 
 		 <person id="R012">Rodríguez de Rivas, Francisco</person>
@@ -419,8 +419,7 @@
 		 <person id="R014">Ruesta, Francisco de</person>
 		 <person id="R015">Ronda, Miguel de (fray)</person>
 		 <person id="R016">Ruchelo, Jerónimo</person>
-		 <person id="R017">Ríos, Guillermo de los</person>
-		 <person id="R018">Riedereer de Paam, Mariana </person>   <!--Marquesa de Guadalcázar-->
+		 <person id="R017">Ríos, Guillermo de los</person>		  
 	</personList>	 
 	<personList nom="S">
 		 <person id="S001">Salemerón y Castro, José de (astrónomo)</person>
