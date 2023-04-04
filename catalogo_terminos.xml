@@ -58,7 +58,7 @@
 		<cuerpo id="K001"></cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="L"> 
-		<cuerpo id="L001"></cuerpo>
+		<cuerpo id="L001">lágrima</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="M"> 
 		<cuerpo id="M001">mano</cuerpo>
