@@ -113,6 +113,7 @@
  <place id="G002">Galias</place>
  <place id="G003">Géminis</place> <!--Constelacion parte de la franja del zodiaco-->
  <place id="G004">Grecia</place>
+ <place id="G005">Galicia</place>
 </placeList>
 
 <placeList nom="H">
