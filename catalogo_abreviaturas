@@ -205,6 +205,7 @@
 
 <abbreviationList nom="T">
  <abbreviation id="T001">Tpo.</abbreviation> <!--Tiempo-->
+ <abbreviation id="T002">tiepo</abbreviation> <!--tiempo. Aparece la e con una virgulilla en el manuscrito-->
 </abbreviationList>
 
 
