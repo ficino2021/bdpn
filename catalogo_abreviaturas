@@ -144,7 +144,8 @@
  <abbreviation id="N002">Necess.o</abbreviation> <!--Necesario-->
  <abbreviation id="N003">Nra.</abbreviation> <!--Nuestra-->
  <abbreviation id="N004">Necess.a</abbreviation> <!--Necesaria-->
- <abbreviation id="N005">N.S.R.E.</abbreviation> 
+ <abbreviation id="N005">N.S.R.E.</abbreviation>
+ <abbreviation id="N006">naturalmete</abbreviation><!--naturalmente. Aparece la penúltima e con una virgulilla en el manuscrito-->
 </abbreviationList>
 
 
