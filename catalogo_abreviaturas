@@ -231,7 +231,8 @@
  <abbreviation id="V004">vers.</abbreviation>
  <abbreviation id="V005">VSS.</abbreviation> <!--No encontré el significado-->
  <abbreviation id="V006">Virg.</abbreviation><!--Virgilio-->
- <abbreviation id="V007">V.</abbreviation> <!--Verso-->
+ <abbreviation id="V007">v.</abbreviation> <!--Verso-->
+ <abbreviation id="V008">V. P.</abbreviation><!--No aparece significado.-->
 </abbreviationList>
 
 
