@@ -109,6 +109,7 @@
 <abbreviationList nom="J">
  <abbreviation id="J001">Juntam.te</abbreviation> <!--Juntamente. Los caracteres seguidos al punto aparecen como superindices en el manuscrito-->
  <abbreviation id="J002">Jud.</abbreviation>
+ <abbreviation id="J003">Juev.</abbreviation> <!--Jueves-->
 </abbreviationList>
 
 
