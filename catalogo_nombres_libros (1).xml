@@ -25,7 +25,7 @@
  	</operaList>
 
  	<operaList nom="F">
- 		<opera id="F001">Flatib. Hipócrates</opera>
+ 		<opera id="F001">Flatib. Hipócrates</opera> <!--No encontré la obra-->
  	</operaList>
 
  	<operaList nom="G">
@@ -70,7 +70,7 @@
  	</operaList>
 
  	<operaList nom="Q">
- 		<opera id="Q001"></opera>
+ 		<opera id="Q001">Quadrip. Ptolomeo, Claudio. Cap. 8</opera> <!--No encontré la obra-->
  	</operaList>
 
  	<operaList nom="R">
