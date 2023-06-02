@@ -6,7 +6,7 @@
 		 <person id="A003">Adamo Leonicero</person>
 		 <person id="A004">Publio Elio Adriano (emperador)</person>
 		 <person id="A005">Adán</person>
-		 <person id="A006">Julia Agripina Augusta</person>
+		 <person id="A006" genero="Femenino" procedencia="Roma">Julia Agripina Augusta</person>
 		 <person id="A007">Agustín obispo de Hipona (san)</person>
 		 <person id="A008">Ahumada y Vera, Luisa María del Rosario de</person>
 		 <person id="A009">Ahumada y Villalón, Agustín de</person>
