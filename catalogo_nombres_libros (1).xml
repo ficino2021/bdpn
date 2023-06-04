@@ -3,7 +3,7 @@
 
 <operas>
 	<operaList nom="A">
- 		<opera id="A001">Antiguedades Judias. Flavio Josefo. Libro 7. Capítulo 12</opera>
+ 		<opera id="A001">Antiguedades Judias. Flavio Josefo. Libro VII. Capítulo 12</opera>
  	</operaList>
 
 	<operaList nom="B">
@@ -18,7 +18,7 @@
  	<operaList nom="D">
  		<opera id="D001">De Natura Rerum. Beda el Venerable. XXIV</opera>
 		<opera id="D002">De cometis et prodigiosis eorum portentis. Francisco Fernandez Rajo y Gomez</opera>
-		<opera id="D003">De magnis conjunctionibus. Albumasar. Libro 5</opera>
+		<opera id="D003">De magnis conjunctionibus. Albumasar. Libro V</opera>
 		<opera id="D004">De natura Rerum. Beda el venerable. Capítulo XXIV</opera>
 		
  	</operaList>
@@ -58,6 +58,7 @@
  	<operaList nom="M">
  		<opera id="M001">Meteororum. Alberto Magno. Tratado III. Capítulo IV</opera> <!-- Alberto cita a Juan Damaseno-->
 		<opera id="M002">Manifiesto filosófico contra los cometas. Carlos de Sigüenza y Góngora</opera><!--Manifiesto Filosófico contra los cometas despojados del imperio que tenían sobre los tímidos-->
+		<opera id="M003">Metefísica. Aristóteles. Libro IX</opera>
  	</operaList>
 
  	<operaList nom="N">
