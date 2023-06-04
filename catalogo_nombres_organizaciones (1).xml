@@ -127,6 +127,7 @@
 
 <organizationList nom="S">
  <organization id="S001">Santo Oficio de la Inquisición</organization> 
+ <organization id="S002">Santa Iglesia de México</organization> 
 </organizationList>
 
 <organizationList nom="T">
