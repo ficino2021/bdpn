@@ -23,6 +23,7 @@
 </animalList>
 
 <animalList nom="H">
+	<animal id="H001">Humano</animal><!--También empleado "hombre" como sinónimo-->
 </animalList>
 
 <animalList nom="I">
