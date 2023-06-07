@@ -15,6 +15,7 @@
 </animalList>
 
 <animalList nom="D">
+	<animal id="D001">Dragón</animal>
 </animalList>
 
 <animalList nom="E">
@@ -57,6 +58,7 @@
 <animalList nom="P">
 	<animal id="P001">Perro labrador</animal>
 	<animal id="P002">Pulga</animal>
+	<animal id="P003">Perro</animal>
 </animalList>
 
 <animalList nom="Q">
