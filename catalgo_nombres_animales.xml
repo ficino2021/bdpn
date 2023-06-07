@@ -43,6 +43,7 @@
 </animalList>
 
 <animalList nom="L">
+	<animal id="L001">Liebre</animal>
 </animalList>
 
 <animalList nom="M">
