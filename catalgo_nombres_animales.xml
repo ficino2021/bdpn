@@ -48,6 +48,7 @@
 
 <animalList nom="M">
 	<animal id="M001">Mosquito</animal>
+	<animal id="M002">Medusa</animal><!--Ser mitológico-->
 </animalList>
 
 <animalList nom="N">
