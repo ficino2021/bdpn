@@ -2,12 +2,16 @@
 <animales>
 <animalList nom="A">
 	<animal id="A001">Aguila</animal>
+	<animal id="A002">Animal</animal>
+	<animal id="A003">Asno</animal>
 </animalList>
 
 <animalList nom="B">
+	<animal id="B001">Buey</animal>
 </animalList>
 
 <animalList nom="C">
+	<animal id="C001">Carnero</animal>
 </animalList>
 
 <animalList nom="D">
@@ -20,6 +24,8 @@
 </animalList>
 
 <animalList nom="G">
+	<animal id="G001">Ganado</animal><!--Conjunto de animales cuadrúpedos-->
+	<animal id="G002">Gallina</animal>
 </animalList>
 
 <animalList nom="H">
@@ -39,6 +45,7 @@
 </animalList>
 
 <animalList nom="M">
+	<animal id="M001">Mosquito</animal>
 </animalList>
 
 <animalList nom="N">
@@ -48,6 +55,8 @@
 </animalList>
 
 <animalList nom="P">
+	<animal id="P001">Perro labrador</animal>
+	<animal id="P002">Pulga</animal>
 </animalList>
 
 <animalList nom="Q">
