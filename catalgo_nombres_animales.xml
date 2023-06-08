@@ -44,6 +44,7 @@
 
 <animalList nom="L">
 	<animal id="L001">Liebre</animal>
+	<animal id="L002">León</animal>
 </animalList>
 
 <animalList nom="M">
@@ -61,6 +62,8 @@
 	<animal id="P001">Perro labrador</animal>
 	<animal id="P002">Pulga</animal>
 	<animal id="P003">Perro</animal>
+	<animal id="P004">Pescado</animal>
+	<animal id="P005">Perro lebreste</animal>
 </animalList>
 
 <animalList nom="Q">
