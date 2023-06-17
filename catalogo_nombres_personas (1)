@@ -1,222 +1,220 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <persons>
 	<personList nom="A">
-		 <person id="A001">Antínoo</person>
-		 <person id="A002">Abenragel</person>
-		 <person id="A003">Adamo Leonicero</person>
-		 <person id="A004">Publio Elio Adriano (emperador)</person>
-		 <person id="A005">Adán</person>
-		 <person id="A006" genero="Femenino" procedencia="Roma">Julia Agripina Augusta</person>
-		 <person id="A007">Agustín obispo de Hipona (san)</person>
-		 <person id="A008">Ahumada y Vera, Luisa María del Rosario de</person>
-		 <person id="A009">Ahumada y Villalón, Agustín de</person>
-		 <person id="A010">Al-Razi</person>
-		 <person id="A011">Alberto Magno obispo de Ratisbona(san)</person>
-		 <person id="A012">Albornoz,Bernardino de</person>
-		 <person id="A013">Albumasar (astrónomo)</person>
-		 <person id="A014">Alciato, Andrea (jurista)</person>
-		 <person id="A015">Alcántara, José de</person>
-		 <person id="A016">Alejandro Magno (rey)</person>
-		 <person id="A017">Alonso de Aragón (rey)</person>
-		 <person id="A018">Ambrosio obispo de Milán (san)</person>
-		 <person id="A019">Anastasio obispo de Sinaita (san)</person>
-		 <person id="A020">Anaxágoras (filósofo)</person>
-		 <person id="A021">Argoli, Andrea (astrónomo)</person>
-		 <person id="A022">Antípatro de Macedonia</person>
-		 <person id="A023">Antípatro de Tarso (filósofo)</person>
-		 <person id="A024">Antípatro de Tiro (filósofo)</person>
-		 <person id="A025">Argos (hijo de Zeus)</person>
-		 <person id="A026">Apiano, Pedro (matemático)</person>
-		 <person id="A027">Apolonio de Tiro (rey)</person>
-		 <person id="A028">Lucio Apuleyo</person>
-		 <person id="A029">Arana, Tomás Ignacio de</person>
-		 <person id="A030">Araujo y Río, José de</person>
-		 <person id="A031">Argoli, Andrés</person>
-		 <person id="A032">Arato (poeta)</person>
-		 <person id="A033">Argonautas</person>
-		 <person id="A034">Arindes de Oñate, Ana</person>
-		 <person id="A035">Aristóteles (filósofo)</person>
-		 <person id="A036">Arrivillaga, Juan Feliciano de</person>
-		 <person id="A037">Arsenio el Grande (san)</person>
-		 <person id="A038">Arteaga, Antonio de</person>
-		 <person id="A039">Artiga, Gabriel de</person>
-		 <person id="A040">Arévalo, Joaquín de</person>
-		 <person id="A041">Asunción, Andrés de la</person>
-		 <person id="A042">Asunción, Melchora de la</person>
-		 <person id="A043">Atlante</person>
-		 <person id="A044">Aurelio Prudencio Clemente (poeta)</person>
-		 <person id="A045">Avendaño, Juana de</person>
-		 <person id="A046">Avicena (médico)</person>
-		 <person id="A047">Augusto (emperador)</person> <!--Cayo Octavio, Octaviano, César Augusto-->
-		 <person id="A048">Andrés Apóstolo obispo de Bizancio (san)</person>
-		 <person id="A049">Álvarez de Abreu, Domingo Pantaleón</person>
-		 <person id="A050">Álvarez de Asturias y Navas, José</person>
-		 <person id="A051">Álvarez de Toledo, Juan Bautista</person>
-		 <person id="A052">Ángel, Cristóbal de</person>
-		 <person id="A053">Aarón</person>
-		 <person id="A054">Adonis</person>
-		 <person id="A055">Aracne</person>
-		 <person id="A056">Atia Balba Cesonia</person>
-		 <person id="A056">Artemisa (diosa)</person> <!--Diana-->
-		 <person id="A057">Apolo (dios)</person> <!--Febo-->
-		 <person id="A058">Araujo, Jerónimo de (fray)</person>
-		 <person id="A059">Pedro Apiano (matemático)</person>
-		 <person id="A060">Apolonio de Perge (matemático)</person>
-		 <person id="A061">Apóstoles,  Pedro de los (fray)</person>
- 		 <person id="A062">Anazarbeo, Pedanio Dioscórides (médico)</person>
- 		 <person id="A063">Apolonio de Rodas (poeta)</person><!--Aplolono Rodio-->
- 		 <person id="A064">Angeles, Isabel de los</person>
-		 <person id="A065">Atlas (dios)</person> 
+		<person id="A001" género="hombre" procedencia="Turquía">Antínoo</person>
+		<person id="A002" género="hombre" procedencia="Túnez">Abenragel</person>
+		<person id="A003" género="hombre" procedencia="Alemán">Adamo Leonicero</person>
+		<person id="A004" género="hombre" procedencia="Italia">Publio Elio Adriano (emperador)</person>
+		<person id="A005" género="hombre" procedencia="Mítico">Adán</person>
+		<person id="A006" género="mujer" procedencia="Italia">Julia Agripina Augusta</person>
+		<person id="A007" género="hombre" procedencia="Argelia">Agustín obispo de Hipona (san)</person>
+		<person id="A008" género="mujer" procedencia="España">Ahumada y Vera, Luisa María del Rosario de</person>
+		<person id="A009" género="hombre" procedencia="España">Ahumada y Villalón, Agustín de</person>
+		<person id="A010" género="hombre" procedencia="Irán">Al-Razi</person>
+		<person id="A011" género="hombre" procedencia="Alemania">Alberto Magno obispo de Ratisbona(san)</person>
+		<person id="A012" género="hombre" procedencia="España">Albornoz,Bernardino de</person>
+		<person id="A013" género="hombre" procedencia="Afganistán ">Albumasar (astrónomo)</person>
+		<person id="A014" género="hombre" procedencia="Italia">Alciato, Andrea (jurista)</person>
+		<person id="A015" género="hombre" procedencia="España">Alcántara, José de</person>
+		<person id="A016" género="hombre" procedencia="Grecia">Alejandro Magno (rey)</person>
+		<person id="A017" género="hombre" procedencia="España">Alonso de Aragón (rey)</person>
+		<person id="A018" género="hombre" procedencia="Alemania">Ambrosio obispo de Milán (san)</person>
+		<person id="A019" género="hombre" procedencia="Grecia">Anastasio obispo de Sinaita (san)</person>
+		<person id="A020" género="hombre" procedencia="Turquía">Anaxágoras (filósofo)</person>
+		<person id="A021" género="hombre" procedencia="Italia">Argoli, Andrea (astrónomo)</person>
+		<person id="A022" género="hombre" procedencia="Grecia">Antípatro de Macedonia</person>
+		<person id="A023" género="hombre" procedencia="Turquía">Antípatro de Tarso (filósofo)</person>
+		<person id="A024" género="hombre" procedencia="Libano">Antípatro de Tiro (filósofo)</person>
+		<person id="A025" género="hombre" procedencia="">Argos (hijo de Zeus)</person>
+		<person id="A026" género="hombre" procedencia="Alemania">Apiano, Pedro (matemático)</person>
+		<person id="A027" género="hombre" procedencia="Libano">Apolonio de Tiro (rey)</person>
+		<person id="A028" género="hombre" procedencia="Argelia">Lucio Apuleyo</person>
+		<person id="A029" género="hombre" procedencia="España">Arana, Tomás Ignacio de</person>
+		<person id="A030" género="hombre" procedencia="Perú ">Araujo y Río, José de</person>
+		<person id="A031" género="hombre" procedencia="Italia">Argoli, Andrés</person>
+		<person id="A032" género="hombre" procedencia="Turquía">Arato (poeta)</person>
+		<person id="A033" género="" procedencia="">Argonautas</person>
+		<person id="A034" género="mujer" procedencia="España">Arindes de Oñate, Ana</person>
+		<person id="A035" género="hombre" procedencia="Grecia">Aristóteles (filósofo)</person>
+		<person id="A036" género="hombre" procedencia="Aarón">Arrivillaga, Juan Feliciano de</person>
+		<person id="A037" género="hombre" procedencia="Italia">Arsenio el Grande (san)</person>
+		<person id="A038" género="hombre" procedencia="España">Arteaga, Antonio de</person>
+		<person id="A039" género="hombre" procedencia="España">Artiga, Gabriel de</person>
+		<person id="A040" género="hombre" procedencia="España">Arévalo, Joaquín de</person>
+		<person id="A041" género="hombre" procedencia="España">Asunción, Andrés de la</person>
+		<person id="A042" género="mujer" procedencia="México">Asunción, Melchora de la</person>
+		<person id="A043" género="" procedencia="">Atlante</person>
+		<person id="A044" género="hombre" procedencia="España">Aurelio Prudencio Clemente (poeta)</person>
+		<person id="A045" género="mujer" procedencia="México">Avendaño, Juana de</person>
+		<person id="A046" género="hombre" procedencia="Irán">Avicena (médico)</person>
+		<person id="A047" género="hombre" procedencia="Italia">Augusto (emperador)</person><!--Cayo Octavio, Octaviano, César Augusto-->
+		<person id="A048" género="hombre" procedencia="Siria">Andrés Apóstolo obispo de Bizancio (san)</person>
+		<person id="A049" género="hombre" procedencia="España">Álvarez de Abreu, Domingo Pantaleón</person>
+		<person id="A050" género="hombre" procedencia="Guatemala">Álvarez de Asturias y Navas, José</person>
+		<person id="A051" género="hombre" procedencia="Guatemala">Álvarez de Toledo, Juan Bautista</person>
+		<person id="A052" género="hombre" procedencia="">Ángel, Cristóbal de</person>
+		<person id="A053" género="hombre" procedencia="Egipto">Aarón</person>
+		<person id="A054" género="hombre" procedencia="">Adonis</person>
+		<person id="A055" género="mujer" procedencia="">Aracne</person>
+		<person id="A056" género="mujer" procedencia="Italia">Atia Balba Cesonia</person>
+		<person id="A056" género="mujer" procedencia="">Artemisa (diosa)</person><!--Diana-->
+		<person id="A057" género="hombre" procedencia="">Apolo (dios)</person><!--Febo-->
+		<person id="A058" género="hombre" procedencia="México">Araujo, Jerónimo de (fray)</person>
+		<person id="A059" género="hombre" procedencia="Alemania">Pedro Apiano (matemático)</person>
+		<person id="A060" género="hombre" procedencia="Griego">Apolonio de Perge (matemático)</person>
+		<person id="A061" género="hombre" procedencia="">Apóstoles,  Pedro de los (fray)</person>
+		<person id="A062" género="hombre" procedencia="Italia">Anazarbeo, Pedanio Dioscórides (médico)</person>
+		<person id="A063" género="hombre" procedencia="Egipto">Apolonio de Rodas (poeta)</person><!--Aplolono Rodio-->
+		<person id="A064" género="mujer" procedencia="">Angeles, Isabel de los</person>
+		<person id="A065" género="hombre" procedencia="">Atlas (dios)</person>
 	</personList>	
 	<personList nom="B">
-		 <person id="B001">Baca, Isabel</person>
-		 <person id="B002">Barchio, Jacobo (matemático)</person>
-		 <person id="B003">Briáreo</person>
-		 <person id="B004">Barrientos de Rivera Lomelin, Diego</person>
-		 <person id="B005">Barrientos, Bartolomé</person>
-		 <person id="B006">Basilio el Grande obispo de Cesarea (san)</person>
-		 <person id="B007">Bañuelos, José</person>
-		 <person id="B008">Beda el Venerable (san)</person>
-		 <person id="B009">Bernardo de Claraval (san)</person>
-		 <person id="B010">Bodin, Jean (filósofo)</person>
-		 <person id="B011">Bonatti, Guido (astrónomo)</person>
-		 <person id="B012">Boskhiero, Felipe</person>
-		 <person id="B013">Brahe, Tycho (astrónomo)</person>
-		 <person id="B014">Bravo de Sobremonte, Gaspar (médico)</person>
-		 <person id="B015">Bustamante y Tagle, Pedro Isidro de</person>
-		 <person id="B016">Braganza, Bárbara de (infanta de Pórtugal)</person>
-		 <person id="B017">Baransano, Cypriano Leovicio de</person>
-		 <person id="B018">BosKhiero, Felipe</person>
-		 <person id="B019">Brigio, Iusto</person>
-		 <person id="B017">Baransano, Cypriano Leovicio de</person>
-		 <person id="B020">Bartolomé el Apóstol obispo de Artaxata (san)</person> <!--Natanael-->
-		 <person id="B021">Berrieza, José de</person> 
-		 <person id="B022">Bernardo Calderon (viuda de)</person> <!--impresor-->
-		 <person id="B023">Belisario Flavio (general)</person>
-		 <person id="B024">Bolzano de la Fosse, Piero Valeriano (teólogo)</person>
-		 <person id="B025">Brígida de Suecia</person><!--Birgitta Birgersdotter-->
-		 <person id="B025">Brahe, Tycho (astrónomo)</person>
-		 <person id="B026">Benavides, Paula de</person> <!--Bernardo Calderon (viuda de)-->
+		<person id="B001" género="mujer" procedencia="">Baca, Isabel</person>
+		<person id="B002" género="hombre" procedencia="">Barchio, Jacobo (matemático)</person>
+		<person id="B003" género="hombre" procedencia="">Briáreo</person>
+		<person id="B004" género="hombre" procedencia="México">Barrientos de Rivera Lomelin, Diego</person>
+		<person id="B005" género="hombre" procedencia="España">Barrientos, Bartolomé</person>
+		<person id="B006" género="hombre" procedencia="Turquía">Basilio el Grande obispo de Cesarea (san)</person>
+		<person id="B007" género="hombre" procedencia="">Bañuelos, José</person>
+		<person id="B008" género="hombre" procedencia="Inglaterra">Beda el Venerable (san)</person>
+		<person id="B009" género="hombre" procedencia="Francia">Bernardo de Claraval (san)</person>
+		<person id="B010" género="hombre" procedencia="Francia">Bodin, Jean (filósofo)</person>
+		<person id="B011" género="hombre" procedencia="Italia">Bonatti, Guido (astrónomo)</person>
+		<person id="B012" género="hombre" procedencia="">Boskhiero, Felipe</person>
+		<person id="B013" género="hombre" procedencia="Suecia">Brahe, Tycho (astrónomo)</person>
+		<person id="B014" género="hombre" procedencia="España">Bravo de Sobremonte, Gaspar (médico)</person>
+		<person id="B015" género="hombre" procedencia="Estados Unidos">Bustamante y Tagle, Pedro Isidro de</person>
+		<person id="B016" género="hombre" procedencia="Portugal">Braganza, Bárbara de (infanta de Pórtugal)</person>
+		<person id="B017" género="hombre" procedencia="">Baransano, Cypriano Leovicio de</person>
+		<person id="B018" género="hombre" procedencia="">BosKhiero, Felipe</person>
+		<person id="B019" género="hombre" procedencia="">Brigio, Iusto</person>
+		<person id="B017" género="hombre" procedencia="">Baransano, Cypriano Leovicio de</person>
+		<person id="B020" género="hombre" procedencia="Israel">Bartolomé el Apóstol obispo de Artaxata (san)</person><!--Natanael-->
+		<person id="B021" género="hombre" procedencia="España">Berrieza, José de</person>
+		<person id="B022" género="mujer" procedencia="México">Bernardo Calderon (viuda de)</person><!--impresor-->
+		<person id="B023" género="hombre" procedencia="Bulgaria">Belisario Flavio (general)</person>
+		<person id="B024" género="hombre" procedencia="Italia">Bolzano de la Fosse, Piero Valeriano (teólogo)</person>
+		<person id="B025" género="mujer" procedencia="Suecia">Brígida de Suecia</person><!--Birgitta Birgersdotter-->
+		<person id="B025" género="hombre" procedencia="Suecia">Brahe, Tycho (astrónomo)</person>
+		<person id="B026" género="mujer" procedencia="México">Benavides, Paula de</person><!--Bernardo Calderon (viuda de)-->
 	</personList>
 	<personList nom="C">
-		 <person id="C001">Cabeo, Niccolo (filósofo)</person>
-		 <person id="C002">Calepino, Ambrosio (fray)</person>
-		 <person id="C003">Cano Sandoval, Juan</person>
-		 <person id="C004">Cano, Salvador</person>
-		 <person id="C005">Clemente de Alejandría</person> <!--Tito Flavio Clemente-->
-		 <person id="C006">Cardano, Girolamo (médico)</person>
-		 <person id="C007">Carlos I (rey)</person>
-		 <person id="C008">Carlos II (rey)</person>
-		 <person id="C009">Carlos V (rey)</person>
-		 <person id="C010">Copérnico, Nicolás (astrónomo)</person>
-		 <person id="C011">Castillet, Juan</person>
-		 <person id="C012">Castro, Juan de</person>
-		 <person id="C013">Causino, Nicolás</person>
-		 <person id="C014">Celso (filósofo)</person>
-		 <person id="C015">Cepeda y Ahumada, Teresa de</person>
-		 <person id="C016">Cerda y Aragón, Tomás de la</person>
-		 <person id="C017">Pedro Crisólogo arzobispo de Rávena (san)</person>
-		 <person id="C018">Clavio, Crsitóbal (matemático)</person> <!--Christopher Clavius-->
-		 <person id="C019">Marco Tulio Cicerón (retor)</person>
-		 <person id="C020">Tascio Cecilio Cipriano obispo de Cártago (san)</person>
-		 <person id="C021">Ciro el Grande (rey)</person>
-		 <person id="C022">Claudio Claudiano (poeta)</person>
-		 <person id="C023">Juan Crisóstomo arzobispo de Constantinopla (san)</person>
-		 <person id="C024">Cleree, Felipe</person>
-		 <person id="C025">Concepción, Ana de la</person>
-		 <person id="C026">Conti, Natali</person>
-		 <person id="C027">Cornelio Musso obispo de Bitonto</person>
-		 <person id="C028">Costado, María del</person>
-		 <person id="C029">Coya Inca de Loyola, María</person>
-		 <person id="C030">Cruz y Mesa, Juan de la</person>
-		 <person id="C031">Caribdis</person><!--Chárybdis-->
-		 <person id="C032">Ceres</person>
-		 <person id="C033">Clara de Asís (santa)</person><!--Chiara Favarone-->
-		 <person id="C034">Cruz. Inés de la (sor)</person>
-		 <person id="C035">Cruz, Marina de la (sor)</person>
-		 <person id="C036">Cristo, Francisco de (fray)</person>
-		 <person id="C037">Concepción, Pedro de la  (fray)</person>
-		 <person id="C038">Clara de Asísis (monja)</person><!--Chiara Scifi-->
-		 <person id="C039">Catalina de Siena (santa)</person><!--Catalina Benincasa-->
-		 <person id="C040">Carmen, Virgen del</person>
-		<person id="C041">Ceres</person> <!--Diosa de la fecundidad, agricultura-->
+		<person id="C001" género="hombre" procedencia="Italia">Cabeo, Niccolo (filósofo)</person>
+		<person id="C002" género="hombre" procedencia="Italia">Calepino, Ambrosio (fray)</person>
+		<person id="C003" género="hombre" procedencia="México">Cano Sandoval, Juan</person>
+		<person id="C004" género="hombre" procedencia="">Cano, Salvador</person>
+		<person id="C005" género="hombre" procedencia="Grecia">Clemente de Alejandría</person><!--Tito Flavio Clemente-->
+		<person id="C006" género="hombre" procedencia="Italia">Cardano, Girolamo (médico)</person>
+		<person id="C007" género="hombre" procedencia="Bélgica">Carlos I (rey)</person>
+		<person id="C008" género="hombre" procedencia="España">Carlos II (rey)</person>
+		<person id="C009" género="hombre" procedencia="Bélgica">Carlos V (rey)</person>
+		<person id="C010" género="hombre" procedencia="Polonia">Copérnico, Nicolás (astrónomo)</person>
+		<person id="C011" género="hombre" procedencia="">Castillet, Juan</person>
+		<person id="C012" género="hombre" procedencia="España">Castro, Juan de</person>
+		<person id="C013" género="hombre" procedencia="Francia">Causino, Nicolás</person>
+		<person id="C014" género="hombre" procedencia="Grecia">Celso (filósofo)</person>
+		<person id="C015" género="mujer" procedencia="España">Cepeda y Ahumada, Teresa de</person>
+		<person id="C016" género="hombre " procedencia="España">Cerda y Aragón, Tomás de la</person>
+		<person id="C017" género="hombre " procedencia="Italia">Pedro Crisólogo arzobispo de Rávena (san)</person>
+		<person id="C018" género="hombre " procedencia="Alemania">Clavio, Crsitóbal (matemático)</person><!--Christopher Clavius-->
+		<person id="C019" género="hombre " procedencia="Italia">Marco Tulio Cicerón (retor)</person>
+		<person id="C020" género="hombre " procedencia="Túnez">Tascio Cecilio Cipriano obispo de Cártago (san)</person>
+		<person id="C021" género="hombre " procedencia="Persia">Ciro el Grande (rey)</person>
+		<person id="C022" género="hombre " procedencia="Egipto">Claudio Claudiano (poeta)</person>
+		<person id="C023" género="hombre " procedencia="Turquía">Juan Crisóstomo arzobispo de Constantinopla (san)</person>
+		<person id="C024" género="hombre " procedencia="España">Cleree, Felipe</person>
+		<person id="C025" género="mujer" procedencia="">Concepción, Ana de la</person>
+		<person id="C026" género="hombre" procedencia="Italia">Conti, Natali</person>
+		<person id="C027" género="hombre" procedencia="Italia">Cornelio Musso obispo de Bitonto</person>
+		<person id="C028" género="mujer" procedencia="México">Costado, María del</person>
+		<person id="C029" género="mujer" procedencia="Chile">Coya Inca de Loyola, María</person>
+		<person id="C030" género="hombre" procedencia="España">Cruz y Mesa, Juan de la</person>
+		<person id="C031" género="mujer" procedencia="">Caribdis</person><!--Chárybdis-->
+		<person id="C032" género="mujer" procedencia="">Ceres</person>
+		<person id="C033" género="mujer" procedencia="Italia">Clara de Asís (santa)</person><!--Chiara Favarone-->
+		<person id="C034" género="mujer" procedencia="México">Cruz. Inés de la (sor)</person>
+		<person id="C035" género="mujer" procedencia="México">Cruz, Marina de la (sor)</person>
+		<person id="C036" género="hombre" procedencia="México">Cristo, Francisco de (fray)</person>
+		<person id="C037" género="hombre" procedencia="México">Concepción, Pedro de la  (fray)</person>
+		<person id="C038" género="mujer" procedencia="Italia">Clara de Asísis (monja)</person><!--Chiara Scifi-->
+		<person id="C039" género="mujer" procedencia="Italia">Catalina de Siena (santa)</person><!--Catalina Benincasa-->
+		<person id="C040" género="mujer" procedencia="">Carmen, Virgen del</person>
+		<person id="C041" género="mujer" procedencia="">Ceres</person><!--Diosa de la fecundidad, agricultura-->
 	</personList>
 	<personList nom="D">
-		 <person id="D001">Dionisio Areopagita obispo de Atenas (santo) </person>
-		 <person id="D002">Demócrito de Abdera (filósofo)</person>
-		 <person id="D003">David Fabricio</person>
-		 <person id="D004">Decio, Bruto</person>
-		 <person id="D005">Demetrio I de Macedonia</person>
-		 <person id="D006">Duns Escoto, Juan (teólogo)</person>
-		 <person id="D007">Diadumeno</person>
-		 <person id="D008">Diana</person>
-		 <person id="D009">Diablo</person>
-		 <person id="D010">Dios</person><!--Dios, Padre, Espírutu Santo-->
-		 <person id="D011">Domingo de Guzmán Garcés (santo)</person>
-		 <person id="D012">Diódoro de Tarso (historiador)</person>
-		 <person id="D013">Diego Rodriguez, Fray</person>
-		 
+		<person id="D001" género="hombre" procedencia="Grecia">Dionisio Areopagita obispo de Atenas (santo)</person>
+		<person id="D002" género="hombre" procedencia="Grecia">Demócrito de Abdera (filósofo)</person>
+		<person id="D003" género="hombre" procedencia="">David Fabricio</person>
+		<person id="D004" género="hombre" procedencia="Italia">Decio, Bruto</person>
+		<person id="D005" género="hombre" procedencia="Grecia">Demetrio I de Macedonia</person>
+		<person id="D006" género="hombre" procedencia="Escocia">Duns Escoto, Juan (teólogo)</person>
+		<person id="D007" género="hombre" procedencia="">Diadumeno</person>
+		<person id="D008" género="mujer" procedencia="">Diana</person>
+		<person id="D009" género="hombre" procedencia="">Diablo</person>
+		<person id="D010" género="hombre" procedencia="">Dios</person><!--Dios, Padre, Espírutu Santo-->
+		<person id="D011" género="hombre" procedencia="España">Domingo de Guzmán Garcés (santo)</person>
+		<person id="D012" género="hombre" procedencia="Grecia">Diódoro de Tarso (historiador)</person>
+		<person id="D013" género="hombre" procedencia="México">Diego Rodriguez, Fray</person>
 	</personList>
 	<personList nom="E">
-		 <person id="E001">Edipo (rey)</person>
-		 <person id="E002">Eduardo I (rey)</person>
-		 <person id="E003">Electra</person>
-		 <person id="E004">Elías (profeta)</person>
-		 <person id="E005">Escila (ninfa)</person>
-		 <person id="E006">Enrique III (rey)</person>
-		 <person id="E007">Enriquez de Rivera, Payo (virrey)</person>
-		 <person id="E008">Eolo (dios)</person>
-		 <person id="E009">Endimión</person>
-		 <person id="E010">Escalígero, Julio César (médico)</person>
-		 <person id="E011">Esquilo (dramaturgo)</person>
-		 <person id="E012">Escobar y Salemerón de Castro, José (médico)</person>
-		 <person id="E013">Escudero, Pedro de</person>
-		 <person id="E014">Esdras (escriba)</person>
-		 <person id="E015">Espinosa, Luis de</person>
-		 <person id="E016">Estrada y Azpeitia, José Agustín de</person>
-		 <person id="E017">Estrada y Azpeitia, Manuel José de</person>
-		 <person id="E018">Estrada y Azpeitia, Vicente Pedro de</person>
-		 <person id="E019">Estrada, Fabian</person>
-		 <person id="E020">Estrada, Tomás de</person>
-		 <person id="E021">Eufebio obispo de Cesarea</person>
-		 <person id="E022">Eurípides</person>
-		 <person id="E023">Eva</person>
-		 <person id="E024">Evelino, Gaspar Juan</person>
-		 <person id="E025">Ezequiel (profeta)</person>
-		 <person id="E026">Ezequías (rey)</person><!--Rey del pueblo judío-->
-		 <person id="E027">Esteban diácono (san)</person>
-		 <person id="E028">Encarnación, Mariana de la (sor)</person>
-		<person id="E029">Eúfrates</person>
+		<person id="E001" género="hombre" procedencia="">Edipo (rey)</person>
+		<person id="E002" género="hombre" procedencia="Portugal">Eduardo I (rey)</person>
+		<person id="E003" género="mujer" procedencia="">Electra</person>
+		<person id="E004" género="hombre" procedencia="Israel">Elías (profeta)</person>
+		<person id="E005" género="mujer" procedencia="">Escila (ninfa)</person>
+		<person id="E006" género="hombre" procedencia="España">Enrique III (rey)</person>
+		<person id="E007" género="hombre" procedencia="España">Enriquez de Rivera, Payo (virrey)</person>
+		<person id="E008" género="hombre" procedencia="">Eolo (dios)</person>
+		<person id="E009" género="hombre" procedencia="">Endimión</person>
+		<person id="E010" género="hombre" procedencia="Italia">Escalígero, Julio César (médico)</person>
+		<person id="E011" género="hombre" procedencia="Grecia">Esquilo (dramaturgo)</person>
+		<person id="E012" género="hombre" procedencia="México">Escobar y Salemerón de Castro, José (médico)</person>
+		<person id="E013" género="hombre" procedencia="España">Escudero, Pedro de</person>
+		<person id="E014" género="hombre" procedencia="Israel">Esdras (escriba)</person>
+		<person id="E015" género="hombre" procedencia="">Espinosa, Luis de</person>
+		<person id="E016" género="hombre" procedencia="España">Estrada y Azpeitia, José Agustín de</person>
+		<person id="E017" género="hombre" procedencia="Guatemala?">Estrada y Azpeitia, Manuel José de</person>
+		<person id="E018" género="hombre" procedencia="Guatemala?">Estrada y Azpeitia, Vicente Pedro de</person>
+		<person id="E019" género="hombre" procedencia="">Estrada, Fabian</person>
+		<person id="E020" género="hombre" procedencia="">Estrada, Tomás de</person>
+		<person id="E021" género="hombre" procedencia="Palestina">Eufebio obispo de Cesarea</person>
+		<person id="E022" género="hombre" procedencia="Grecia">Eurípides</person>
+		<person id="E023" género="mujer" procedencia="">Eva</person>
+		<person id="E024" género="Hombre" procedencia="México?">Evelino, Gaspar Juan</person>
+		<person id="E025" género="Hombre" procedencia="Israel">Ezequiel (profeta)</person>
+		<person id="E026" género="Hombre" procedencia="Israel">Ezequías (rey)</person><!--Rey del pueblo judío-->
+		<person id="E027" género="hombre" procedencia="Grecia">Esteban diácono (san)</person>
+		<person id="E028" género="mujer" procedencia="México">Encarnación, Mariana de la (sor)</person>
+		<person id="E029" género="" procedencia="">Eúfrates</person>
 	</personList>
-
 	<personList nom="F">
-		 <person id="F001">Faetón</person>
-		 <person id="F002">Fariñas, Manuel de</person>
-		 <person id="F003">Fauno</person>
-		 <person id="F004"></person>
-		 <person id="F005">Favonio</person>
-		 <person id="F006">Francisco de Asís (san)</person><!--Giovanni di Pietro Bernardone-->
-		 <person id="F007">Felipe II (rey)</person>
-		 <person id="F008">Felipe III (rey de España)</person>
-		 <person id="F009">Felipe III (rey de Habsburgo)</person>
-		 <person id="F010">Felipe IV (rey)</person>
-		 <person id="F011">Felipo IIII</person>
-		 <person id="F012">Fernando VI (rey de España)</person>
-		 <person id="F013">Fernández Rajo y Gómez, Francisco (médico)</person>
-		 <person id="F014">Fernández de Córdoba y López de Roelas, Diego (marqués)</person>
-		 <person id="F015">Ferrufino, Julio César (matemático)</person>
-		 <person id="F016">Fieno, Tomás</person>
-		 <person id="F017">Figuera, Gaspar Juan de la (obispo)</person>
-		 <person id="F018">Figueredo y Victoria, Francisco José de (obispo)</person>
-		 <person id="F019">Felipe de Jesús (san)</person><!--Felipe de las Casas Ruíz-->
-		 <person id="F020">Flegonte</person><!--Nombre común para esclavos o libertos romanos-->
-		 <person id="F021">Flora (diosa)</person>
-		 <person id="F022">Florencia, Francisco de</person>
-		 <person id="F023">Flores de Oliva, Isabel</person>
-		 <person id="F024">Publio Nigidio Fígulo (filósofo)</person>
-		 <person id="F025">Fernández Raxo y Gómez, Francisco</person>
-		 <person id="F026">Flavio, Josefo (historiador judeoromano)</person>
-		 <person id="F027">Felipe, San (apóstol)</person>
+		<person id="F001" género="hombre" procedencia="">Faetón</person>
+		<person id="F002" género="hombre" procedencia="">Fariñas, Manuel de</person>
+		<person id="F003" género="hombre" procedencia="">Fauno</person>
+		<person id="F004" género="" procedencia=""></person>
+		<person id="F005" género="hombre" procedencia="">Favonio</person>
+		<person id="F006" género="hombre" procedencia="Italia">Francisco de Asís (san)</person><!--Giovanni di Pietro Bernardone-->
+		<person id="F007" género="hombre" procedencia="España">Felipe II (rey)</person>
+		<person id="F008" género="hombre" procedencia="España">Felipe III (rey de España)</person>
+		<person id="F009" género="hombre" procedencia="España">Felipe III (rey de Habsburgo)</person>
+		<person id="F010" género="hombre" procedencia="España">Felipe IV (rey)</person>
+		<person id="F011" género="hombre" procedencia="">Felipo IIII</person>
+		<person id="F012" género="hombre" procedencia="España">Fernando VI (rey de España)</person>
+		<person id="F013" género="hombre" procedencia="España">Fernández Rajo y Gómez, Francisco (médico)</person>
+		<person id="F014" género="hombre" procedencia="España">Fernández de Córdoba y López de Roelas, Diego (marqués)</person>
+		<person id="F015" género="hombre" procedencia="España">Ferrufino, Julio César (matemático)</person>
+		<person id="F016" género="hombre" procedencia="Bélgica">Fieno, Tomás</person>
+		<person id="F017" género="hombre" procedencia="España">Figuera, Gaspar Juan de la (obispo)</person>
+		<person id="F018" género="hombre" procedencia="Colombia">Figueredo y Victoria, Francisco José de (obispo)</person>
+		<person id="F019" género="hombre" procedencia="México">Felipe de Jesús (san)</person><!--Felipe de las Casas Ruíz-->
+		<person id="F020" género="hombre" procedencia="Roma">Flegonte</person><!--Nombre común para esclavos o libertos romanos-->
+		<person id="F021" género="mujer" procedencia="">Flora (diosa)</person>
+		<person id="F022" género="hombre" procedencia="Estados Unidos">Florencia, Francisco de</person>
+		<person id="F023" género="mujer" procedencia="Perú ">Flores de Oliva, Isabel</person>
+		<person id="F024" género="hombe" procedencia="Italia">Publio Nigidio Fígulo (filósofo)</person>
+		<person id="F025" género="hombre" procedencia="España">Fernández Raxo y Gómez, Francisco</person>
+		<person id="F026" género="hombre" procedencia="Israel">Flavio, Josefo (historiador judeoromano)</person>
+		<person id="F027" género="hombre" procedencia="Israel">Felipe, San (apóstol)</person>
 	</personList>
 	<personList nom="G">
 		 <person id="G001">Galileo Galilei (satrónomo)</person>
