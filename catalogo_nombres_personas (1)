@@ -96,7 +96,7 @@
 		<person id="B024" género="hombre" procedencia="Italia">Bolzano de la Fosse, Piero Valeriano (teólogo)</person>
 		<person id="B025" género="mujer" procedencia="Suecia">Brígida de Suecia</person><!--Birgitta Birgersdotter-->
 		<person id="B025" género="hombre" procedencia="Suecia">Brahe, Tycho (astrónomo)</person>
-		<person id="B026" género="mujer" procedencia="México">Benavides, Paula de</person><!--Bernardo Calderon (viuda de)-->
+		<person id="B026" género="mujer" procedencia="México">Benavides, Paula de</person><!--Viuda de Bernardo Calderon. Impresora-->
 	</personList>
 	<personList nom="C">
 		<person id="C001" género="hombre" procedencia="Italia">Cabeo, Niccolo (filósofo)</person>
