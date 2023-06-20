@@ -76,6 +76,8 @@
  <place id="C026">Ciudad de Jerusalén</place><!--Ciudad vieja de jersualén-->
  <place id="C027">Calle de San Agustín</place><!--Calle Real, calle en Sal Cristóbal de La Laguna, Tenerife, España-->
  <place id="C028">Chasma</place><!--Una grieta profunda o un cañón en los planetas. Raramente se usa para geología terrestre-->
+ <place id="C029">Celda</place>
+ <place id="C030">Coro</place>
 </placeList>
 
 
@@ -169,7 +171,7 @@
  <place id="L008">Laguna</place>
  <place id="L009">Libra</place> <!--Constelación del zodiaco-->
  <place id="L010">Lisboa, Portugal</place>
-
+ <place id="L011">Locutorio</place>
 </placeList>
 
 
@@ -226,6 +228,7 @@
  <place id="O007">Ocaso</place><!--De manera contraria, se  está en el ocaso cuando atraviesa el plano del horizonte y pasa de nuestro hemisferio visible al no visible-->
  <place id="O008">Orión</place> <!--Constelación-->
  <place id="O009">Osa mayor</place> <!--Constelación también conocida como "el carro" o "el cazo"-->
+ <place id="O010">Oratorio</place>
 </placeList>
 
 
@@ -276,6 +279,7 @@
  <place id="R007">Río de la Plata</place>
  <place id="R008">Reinos de California</place><!--Reynos de California-->
  <place id="R009">Regiones Septentrionales de Europa</place>
+ <place id="R010">Refectorio</place>
 </placeList>
 
 
