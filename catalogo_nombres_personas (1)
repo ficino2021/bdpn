@@ -155,6 +155,7 @@
 		<person id="D011" género="hombre" procedencia="España">Domingo de Guzmán Garcés (santo)</person>
 		<person id="D012" género="hombre" procedencia="Grecia">Diódoro de Tarso (historiador)</person>
 		<person id="D013" género="hombre" procedencia="México">Diego Rodriguez, Fray</person>
+     		<person id="D014" género="hombre" procedencia="España">Diego de Alcalá, Fray</person> <!--El religioso de San Diego-->
 	</personList>
 	<personList nom="E">
 		<person id="E001" género="hombre" procedencia="">Edipo (rey)</person>
