@@ -84,6 +84,7 @@
  <abbreviation id="F001">Fundam.tos</abbreviation> <!--fundamentos-->
  <abbreviation id="F002">Fr.</abbreviation><!--Fray-->
  <abbreviation id="F003">falta</abbreviation><!--faltan. Aparece la última letra con una virgulilla en el manuscrito-->
+ <abbreviation id="F004">Franco.</abbreviation> <!--Francisco-->
 </abbreviationList>
 
 
