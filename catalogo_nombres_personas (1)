@@ -3,7 +3,7 @@
 	<personList nom="A">
 		<person id="A001" género="hombre" procedencia="Turquía">Antínoo</person>
 		<person id="A002" género="hombre" procedencia="Túnez">Abenragel</person>
-		<person id="A003" género="hombre" procedencia="Alemán">Adamo Leonicero</person>
+		<person id="A003" género="hombre" procedencia="Alemán">Adamo Leonicero</person> <!--Adam Lonicer. Se le asume erroneamente como autro de la obra: Aquatilibus.-->
 		<person id="A004" género="hombre" procedencia="Italia">Publio Elio Adriano (emperador)</person>
 		<person id="A005" género="hombre" procedencia="Mítico">Adán</person>
 		<person id="A006" género="mujer" procedencia="Italia">Julia Agripina Augusta</person>
@@ -56,10 +56,10 @@
 		<person id="A053" género="hombre" procedencia="Egipto">Aarón</person>
 		<person id="A054" género="hombre" procedencia="">Adonis</person>
 		<person id="A055" género="mujer" procedencia="">Aracne</person>
-		<person id="A056" género="mujer" procedencia="Italia">Atia Balba Cesonia</person>
-		<person id="A056" género="mujer" procedencia="">Artemisa (diosa)</person><!--Diana-->
+		<person id="A056" género="mujer" procedencia="Italia">Atia Balba Cesonia</person> <!--id duplicado-->
+		<person id="A056" género="mujer" procedencia="">Artemisa (diosa)</person> <!--Diana--> <!--id duplicado-->
 		<person id="A057" género="hombre" procedencia="">Apolo (dios)</person><!--Febo-->
-		<person id="A058" género="hombre" procedencia="México">Araujo, Jerónimo de (fray)</person>
+		<person id="A058" género="hombre" procedencia="México">Araujo, Jerónimo de (fray)</person> 
 		<person id="A059" género="hombre" procedencia="Alemania">Pedro Apiano (matemático)</person>
 		<person id="A060" género="hombre" procedencia="Griego">Apolonio de Perge (matemático)</person>
 		<person id="A061" género="hombre" procedencia="">Apóstoles,  Pedro de los (fray)</person>
@@ -85,17 +85,17 @@
 		<person id="B014" género="hombre" procedencia="España">Bravo de Sobremonte, Gaspar (médico)</person>
 		<person id="B015" género="hombre" procedencia="Estados Unidos">Bustamante y Tagle, Pedro Isidro de</person>
 		<person id="B016" género="hombre" procedencia="Portugal">Braganza, Bárbara de (infanta de Pórtugal)</person>
-		<person id="B017" género="hombre" procedencia="">Baransano, Cypriano Leovicio de</person>
-		<person id="B018" género="hombre" procedencia="">BosKhiero, Felipe</person>
+		<person id="B017" género="hombre" procedencia="">Baransano, Cypriano Leovicio de</person> <!--id duplicado-->
+		<person id="B018" género="hombre" procedencia="">BosKhiero, Felipe</person> <!--Posible nombre duplicado B017 bis-->
 		<person id="B019" género="hombre" procedencia="">Brigio, Iusto</person>
-		<person id="B017" género="hombre" procedencia="">Baransano, Cypriano Leovicio de</person>
+		<person id="B017" género="hombre" procedencia="">Baransano, Cypriano Leovicio de</person> <!--Posible nombre duplicado B018, id duplicado-->
 		<person id="B020" género="hombre" procedencia="Israel">Bartolomé el Apóstol obispo de Artaxata (san)</person><!--Natanael-->
 		<person id="B021" género="hombre" procedencia="España">Berrieza, José de</person>
 		<person id="B022" género="mujer" procedencia="México">Bernardo Calderon (viuda de)</person><!--impresor-->
 		<person id="B023" género="hombre" procedencia="Bulgaria">Belisario Flavio (general)</person>
 		<person id="B024" género="hombre" procedencia="Italia">Bolzano de la Fosse, Piero Valeriano (teólogo)</person>
-		<person id="B025" género="mujer" procedencia="Suecia">Brígida de Suecia</person><!--Birgitta Birgersdotter-->
-		<person id="B025" género="hombre" procedencia="Suecia">Brahe, Tycho (astrónomo)</person>
+		<person id="B025" género="mujer" procedencia="Suecia">Brígida de Suecia</person><!--Birgitta Birgersdotter--> <!--id duplicado-->
+		<person id="B025" género="hombre" procedencia="Suecia">Brahe, Tycho (astrónomo)</person> <!--id duplicado-->
 		<person id="B026" género="mujer" procedencia="México">Benavides, Paula de</person><!--Viuda de Bernardo Calderon. Impresora-->
 	</personList>
 	<personList nom="C">
@@ -169,16 +169,16 @@
 		<person id="E009" género="hombre" procedencia="">Endimión</person>
 		<person id="E010" género="hombre" procedencia="Italia">Escalígero, Julio César (médico)</person>
 		<person id="E011" género="hombre" procedencia="Grecia">Esquilo (dramaturgo)</person>
-		<person id="E012" género="hombre" procedencia="México">Escobar y Salemerón de Castro, José (médico)</person>
+		<person id="E012" género="hombre" procedencia="México">Escobar y Salemerón de Castro, José (médico)</person> <!--Ortografía, debería decir Salmeron-->
 		<person id="E013" género="hombre" procedencia="España">Escudero, Pedro de</person>
 		<person id="E014" género="hombre" procedencia="Israel">Esdras (escriba)</person>
-		<person id="E015" género="hombre" procedencia="">Espinosa, Luis de</person>
-		<person id="E016" género="hombre" procedencia="España">Estrada y Azpeitia, José Agustín de</person>
-		<person id="E017" género="hombre" procedencia="Guatemala?">Estrada y Azpeitia, Manuel José de</person>
-		<person id="E018" género="hombre" procedencia="Guatemala?">Estrada y Azpeitia, Vicente Pedro de</person>
+		<person id="E015" género="hombre" procedencia="">Espinosa, Luis de</person> <!--Parece ser un fraile mexicano-->
+		<person id="E016" género="hombre" procedencia="España">Estrada y Azpeitia, José Agustín de</person> <!--Ver: El cabildo de Santiago de Guatemala-->
+		<person id="E017" género="hombre" procedencia="Guatemala?">Estrada y Azpeitia, Manuel José de</person> <!--Probabblemente hijos de José Agustín, quien adopta su segundo apellido después de su casamiento-->
+		<person id="E018" género="hombre" procedencia="Guatemala?">Estrada y Azpeitia, Vicente Pedro de</person> <!--Probabblemente hijos de José Agustín, quien adopta su segundo apellido después de su casamiento-->
 		<person id="E019" género="hombre" procedencia="">Estrada, Fabian</person>
 		<person id="E020" género="hombre" procedencia="">Estrada, Tomás de</person>
-		<person id="E021" género="hombre" procedencia="Palestina">Eufebio obispo de Cesarea</person>
+		<person id="E021" género="hombre" procedencia="Palestina">Eufebio obispo de Cesarea</person> <!--Probablemente de Israel. En Wikipedia se puede encontra como Eusebio-->
 		<person id="E022" género="hombre" procedencia="Grecia">Eurípides</person>
 		<person id="E023" género="mujer" procedencia="">Eva</person>
 		<person id="E024" género="Hombre" procedencia="México?">Evelino, Gaspar Juan</person>
@@ -192,16 +192,16 @@
 		<person id="F001" género="hombre" procedencia="">Faetón</person>
 		<person id="F002" género="hombre" procedencia="">Fariñas, Manuel de</person>
 		<person id="F003" género="hombre" procedencia="">Fauno</person>
-		<person id="F004" género="" procedencia=""></person>
+		<person id="F004" género="" procedencia=""></person> <!--Esta id está vacío-->
 		<person id="F005" género="hombre" procedencia="">Favonio</person>
 		<person id="F006" género="hombre" procedencia="Italia">Francisco de Asís (san)</person><!--Giovanni di Pietro Bernardone-->
 		<person id="F007" género="hombre" procedencia="España">Felipe II (rey)</person>
 		<person id="F008" género="hombre" procedencia="España">Felipe III (rey de España)</person>
 		<person id="F009" género="hombre" procedencia="España">Felipe III (rey de Habsburgo)</person>
 		<person id="F010" género="hombre" procedencia="España">Felipe IV (rey)</person>
-		<person id="F011" género="hombre" procedencia="">Felipo IIII</person>
+		<person id="F011" género="hombre" procedencia="">Felipo IIII</person> <!--Parece que se les fue una "I" demás. Felipo IIII me lleva a Felipe III-->
 		<person id="F012" género="hombre" procedencia="España">Fernando VI (rey de España)</person>
-		<person id="F013" género="hombre" procedencia="España">Fernández Rajo y Gómez, Francisco (médico)</person>
+		<person id="F013" género="hombre" procedencia="España">Fernández Rajo y Gómez, Francisco (médico)</person> <!--Nombre duplicado F025-->
 		<person id="F014" género="hombre" procedencia="España">Fernández de Córdoba y López de Roelas, Diego (marqués)</person>
 		<person id="F015" género="hombre" procedencia="España">Ferrufino, Julio César (matemático)</person>
 		<person id="F016" género="hombre" procedencia="Bélgica">Fieno, Tomás</person>
@@ -213,25 +213,25 @@
 		<person id="F022" género="hombre" procedencia="Estados Unidos">Florencia, Francisco de</person>
 		<person id="F023" género="mujer" procedencia="Perú ">Flores de Oliva, Isabel</person>
 		<person id="F024" género="hombe" procedencia="Italia">Publio Nigidio Fígulo (filósofo)</person>
-		<person id="F025" género="hombre" procedencia="España">Fernández Raxo y Gómez, Francisco</person>
+		<person id="F025" género="hombre" procedencia="España">Fernández Raxo y Gómez, Francisco</person> <!--Nombre duplicado F013-->
 		<person id="F026" género="hombre" procedencia="Israel">Flavio, Josefo (historiador judeoromano)</person>
 		<person id="F027" género="hombre" procedencia="Israel">Felipe, San (apóstol)</person>
 	</personList>
 	<personList nom="G">
 		<person id="G001" género="hombre" procedencia="Italia">Galileo Galilei (satrónomo)</person>
-		<person id="G002" género="hombre" procedencia="México?">Guzman y Córdova, Sebastián de</person>
+		<person id="G002" género="hombre" procedencia="México?">Guzman y Córdova, Sebastián de</person> <!--Parece mexicano. Se dice que fue juez y editor-->
 		<person id="G003" género="hombre" procedencia="España">Gonzalez de Mendoza, Pedro (cardenal)</person>
 		<person id="G004" género="hombre" procedencia="">Ganímedes (héroe)</person>
-		<person id="G005" género="hombre" procedencia="">García de León Castillo</person>
+		<person id="G005" género="hombre" procedencia="">García de León Castillo</person> <!--Se menciona que fue rector y tuvo algún cargo en la inquisición-->
 		<person id="G006" género="hombre" procedencia="Holanda">Gemma Frisio, Regnier (astrónomo)</person>
-		<person id="G007" género="hombre" procedencia="Holanda">Gemma, Cornelio (astrónomo)</person>
+		<person id="G007" género="hombre" procedencia="Holanda">Gemma, Cornelio (astrónomo)</person> <!--Parece que el es mismo de G006-->
 		<person id="G008" género="mujer" procedencia="Alemania">Gertrudis Magna (santa)</person>
 		<person id="G009" género="mujer" procedencia="España">Gonzaga, María Luisa</person>
 		<person id="G010" género="hombre" procedencia="Italia">Gregorio Magno papa (san)</person>
 		<person id="G011" género="hombre" procedencia="">Glauco</person>
 		<person id="G012" género="mujer" procedencia="">Galatea</person>
 		<person id="G013" género="hombre" procedencia="España">Guevara, Juan de</person>
-		<person id="G014" género="hombre" procedencia="">Guillermo (principe de Asia)</person>
+		<person id="G014" género="hombre" procedencia="">Guillermo (principe de Asia)</person> <!--Está mal escrito. Se trata de Guillermo pincipe de Alsacia-->
 		<person id="G015" género="hombre" procedencia="Italia">Giuntini, Francesco (astrólogo)</person> <!--Juventino, Junctinis o Junctinus-->
 		<person id="G016" género="hombre" procedencia="España">Gálvez y Corral, Bartolomé</person>
 		<person id="G017" género="hombre" procedencia="España">Güemes y Horcasitas, Juan Francisco de (virrey)</person>
@@ -241,21 +241,21 @@
 		<person id="G021" género="hombre" procedencia="Cuba">Gamboa Riaño y Vargas-Machuca, Marco Antonio de</person>
 	</personList>
 	<personList nom="H">
-		<person id="H001" género="" procedencia="">Hagesio</person>
+		<person id="H001" género="" procedencia="">Hagesio</person> <!--Aparece mencionado en la historia de la ciencia en México-->
 		<person id="H002" género="hombre" procedencia="Grecia">Hipócrates de Cos (médico)</person>
 		<person id="H003" género="hombre" procedencia="Israel">Heródes I el Grande (rey)</person>
 		<person id="H004" género="hombre" procedencia="Turquía">Heráclito de Éfeso (filósofo)</person>
 		<person id="H005" género="hombre" procedencia="Grecia">Hesiodo (poeta)</person>
-		<person id="H006" género="hombre" procedencia="Holanda">Heurnio, Juan</person>
+		<person id="H006" género="hombre" procedencia="Holanda">Heurnio, Juan</person> <!--buscar como Johannes Heurnius-->
 		<person id="H007" género="hombre" procedencia="Roma">Hipólotio de Roma obispo (san)</person>
-		<person id="H008" género="hombre" procedencia="Nicea">Hiparco de Nicea (satrónomo)</person>
+		<person id="H008" género="hombre" procedencia="Nicea">Hiparco de Nicea (satrónomo)</person> <!--Error de ortografía: satrónomo a astrónomo-->
 		<person id="H009" género="hombre" procedencia="Turquía">Homero (poeta)</person>
 		<person id="H010" género="hombre" procedencia="Italia">Quinto Horacio Flaco (poeta)</person>
 		<person id="H011" género="hombre" procedencia="Grecia">Higinio papa</person>
 		<person id="H012" género="hombre" procedencia="">Hermes (dios)</person>
  	</personList>
 	<personList nom="I">
-		<person id="I001" género="hombre" procedencia="España">Ignacio de Loyola (san)</person>
+		<person id="I001" género="hombre" procedencia="España">Ignacio de Loyola (san)</person> <!--Nombre repetido, ver L021-->
 		<person id="I002" género="hombre" procedencia="Italia">Inocencio I papa (san)</person>
 		<person id="I003" género="hombre" procedencia="Italia">Inocencio X papa</person>
 		<person id="I004" género="hombre" procedencia="">Ion</person>
@@ -271,10 +271,10 @@
 		<person id="J005" género="hombre" procedencia="Bosnia">Jerónimo (san)</person> <!--Esudebio Hierónimo-->
 		<person id="J006" género="hombre" procedencia="Israel">Jesucristo</person> <!--Jesús, Jesús Cristo, Cristo-->
 		<person id="J007" género="hombre" procedencia="España">Jesús María, Alonso de (fray)</person>
-		<person id="J008" género="hombre" procedencia="España? ">Jesús María, Cristóbal de (fray)</person>
-		<person id="J009" género="hombre" procedencia="España">Jesús María, Juan de (fray)</person>
-		<person id="J010" género="mujer" procedencia="España">Jesús, Beatriz de (sor)</person>
-		<person id="J011" género="mujer " procedencia="España">Jesús, María de (sor)</person>
+		<person id="J008" género="hombre" procedencia="España? ">Jesús María, Cristóbal de (fray)</person> <!--Parece que también fue conocido por Cristobal de Ulloa-->
+		<person id="J009" género="hombre" procedencia="España">Jesús María, Juan de (fray)</person> <!--Tiene un homónimo nacido en 1620-->
+		<person id="J010" género="mujer" procedencia="España">Jesús, Beatriz de (sor)</person> <!--conocida como La Santa del Ángel-->
+		<person id="J011" género="mujer " procedencia="España">Jesús, María de (sor)</person> <!--Tiene un homónima nacida en 1643-->
 		<person id="J012" género="hombre" procedencia="Israel">Juan el Bautista (san)</person>
 		<person id="J013" género="hombre" procedencia="Israel">José (san)</person> <!--Jhosep, padre de María--> 
 		<person id="J014" género="hombre" procedencia="Portugal">José I (rey de Portugal)</person>
@@ -282,14 +282,14 @@
 		<person id="J016" género="hombre" procedencia="Syria?">Judá (patriarca)</person>
 		<person id="J017" género="hombre" procedencia="Italia">Cayo Julio César (emperador)</person>
 		<person id="J018" género="hombre" procedencia="Palestina">Justino Mártir (san)</person>
-		<person id="J019" género="hombre" procedencia="Italia">Décimo Julio Juvenal (poeta)</person>
+		<person id="J019" género="hombre" procedencia="Italia">Décimo Julio Juvenal (poeta)</person> <!--Error de ortografía: Julio a Junio-->
 		<person id="J020" género="hombre" procedencia="">Júpiter (dios)</person> <!--Jove--> 
-		<person id="J021" género="hombre" procedencia="">Job (profeta)</person>
+		<person id="J021" género="hombre" procedencia="">Job (profeta)</person> 
 		<person id="J022" género="hombre" procedencia="">Jiménez Orlando, Francisco</person>
 		<person id="J023" género="hombre" procedencia="Siria? ">Juan Clímaco (san)</person>
-		<person id="J024" género="hombre" procedencia="">Jesús (san)</person>
+		<person id="J024" género="hombre" procedencia="">Jesús (san)</person> <!--Parece ser una fecha. Será la fiesta del santo nombre de Jesús?-->
 		<person id="J025" género="hombre" procedencia="Sira">Juan Damasceno (san) (teólogo)</person>
-		<person id="J026" género="hombre " procedencia="Israel">Juan Hierosolimitano (san)</person>
+		<person id="J026" género="hombre " procedencia="Israel">Juan Hierosolimitano (san)</person> <!--También conocido como Juan Bautista, ver J012-->
 		<person id="J027" género="hombre " procedencia="Israel">Judas Tadeo (san)</person>
 		<person id="J028" género="hombre " procedencia="Portugal">Juan IV (rey de Portugal)</person> <!--También fue duque de Braganza-->
 		<person id=J029 género=hombre  procedencia=España>Jerónimo , Fray García de Mendoza y Zuñiga</person>
@@ -316,48 +316,48 @@
 		<person id="L014" género="hombre " procedencia="España">Marco Anneo Lucano (poeta)</person>
 		<person id="L015" género="hombre " procedencia="Turquía">Luciano de Samosáta (sofista)</person>
 		<person id="L016" género="hombre " procedencia="Italia? ">Lucio Antonio (militar)</person>
-		<person id="L017" género="hombre " procedencia="México">Lugo, Felipe de</person>
+		<person id="L017" género="hombre " procedencia="México">Lugo, Felipe de</person> <!--Parece ser Felipe Antonio de Lugo Cornoado y Hierro-->
 		<person id="L018" género="hombre " procedencia="Alemania">Lutero, Martín (teólogo)</person>
 		<person id="L019" género="hombre " procedencia="España">López de Bonilla, Gabriel</person>
 		<person id="L020" género="hombre " procedencia="">López de Ezeiza, Isidro</person>
-		<person id="L021" género="hombre" procedencia="España">López de Loyola, Íñigo</person>
+		<person id="L021" género="hombre" procedencia="España">López de Loyola, Íñigo</person> <!--Nombre repetido, ver I001-->
 		<person id="L022" género="hombre" procedencia="España">López, Gregorio (beato)</person>
 		<person id="L023" género="hombre" procedencia="">López, Gregorio (padre)</person>
 		<person id="L024" género="hombre" procedencia="Austria">Leopoldo I de Habsburgo (rey)</person> <!--Leopoldo de Austria-->
-		<person id="L025" género="hombre" procedencia="Bélgica">Lambergio, Felipe (astrónomo)</person>
+		<person id="L025" género="hombre" procedencia="Bélgica">Lambergio, Felipe (astrónomo)</person> <!--Philippe van Lansberge-->
 		<person id="L026" género="hombre" procedencia="Austria">Leopoldo de Austria</person> <!--Leopoldo de Austria S. XII-XIII. Compilador de un texto medieval muy influyente acerca de astronomía y astrología-->
 		<person id=L027 género=hombre procedencia=Francia>Luis XIII</person> <!--También como Ludovico de Regis-->
 	</personList>
 	<personList nom="M">
 		<person id="M001" género="hombre" procedencia="Turquía">Marco Opelio Macrino (emperador)</person>
-		<person id="M002" género="hombre" procedencia="México? ">Madre de Dios, Domingo de la (fray)</person>
-		<person id="M003" género="hombre" procedencia="Italia">Magino, Juan Antonio</person>
+		<person id="M002" género="hombre" procedencia="México? ">Madre de Dios, Domingo de la (fray)</person> <!--tiene un homónimo nacido en 1792-->
+		<person id="M003" género="hombre" procedencia="Italia">Magino, Juan Antonio</person> <!--Giovanni Antonio Magini-->
 		<person id="M004" género="hombre" procedencia="España">Muñoz, Jerónimo Andrés</person>
 		<person id="M005" género="hombre" procedencia="Italia">Marco Manilio Capitolino (senador)</person>
 		<person id="M006" género="hombre" procedencia="Italia">Marco Antonio (militar)</person>
 		<person id="M007" género="mujer" procedencia="Bélgica">Margarita de Austria (reina)</person>
 		<person id="M008" género="hombre" procedencia="Croatia">Marino diácono (san)</person>
-		<person id="M009" género="" procedencia="">María de la Antigua (santa)</person>
+		<person id="M009" género="" procedencia="">María de la Antigua (santa)</person> <!--Advocación de la virgen-->
 		<person id="M010" género="hombre" procedencia="Turquía">Marciano de Siracusa (san)</person>
 		<person id="M011" género="hombre" procedencia="Italia">Martino Martini obispo de Trento</person>
-		<person id="M012" género="hombre" procedencia="Alemania">Enrico Martínez (cosmógrafo)</person>
+		<person id="M012" género="hombre" procedencia="Alemania">Enrico Martínez (cosmógrafo)</person> <!--Heinrich Martin-->
 		<person id="M013" género="hombre" procedencia="Israel">Mateo el Evangelista (san)</person> <!--Mateo Levó, Mateo el Apóstol-->
 		<person id="M014" género="hombre" procedencia="Israel">Matías el Apóstol (san)</person>
 		<person id="M015" género="hombre" procedencia="">Martínez de Lejarza Palacio, Manuel</person>
 		<person id="M016" género="hombre" procedencia="Italia">Maurolico, Francesco (matemático)</person>
-		<person id="M017" género="hombre" procedencia="Alemania">Mestlino, Miguel (astrónomo)</person>
+		<person id="M017" género="hombre" procedencia="Alemania">Mestlino, Miguel (astrónomo)</person> <!--Michael Maestlin-->
 		<person id="M018" género="mujer" procedencia="Israel">virgen María (santa)</person>
 		<person id="M019" género="mujer" procedencia="">Minerva (diosa)</person>
 		<person id="M020" género="mujer" procedencia="">Melpómene (musa)</person>
 		<person id="M021" género="hombre" procedencia="Turquía">Mitridates VI (rey)</person>
 		<person id="M022" género="hombre" procedencia="España">Molina, Luis de (teólogo)</person>
-		<person id="M023" género="hombre" procedencia="España? ">Montesinos de Lara, Pedro (coronel)</person>
+		<person id="M023" género="hombre" procedencia="España? ">Montesinos de Lara, Pedro (coronel)</person> 
 		<person id="M024" género="hombre" procedencia="">Melicertes</person>
 		<person id="M025" género="hombre" procedencia="España">Mota, Pedro de la (fray)</person>
-		<person id="M026" género="hombre" procedencia="">Mayorca (de), Vicente</person> <!--este espacio estaba vacío-->
-		<person id="M027" género="hombre" procedencia="Alemania">Milichio, Jacobo (astrónomo)</person>
-		<person id="M028" género="hombre" procedencia="Italia">Mezzavachis, Flaminio (astrónomo)</person>
-		<person id="M029" género="hombre" procedencia="">Marco Manilio (poeta)</person> <!--Marcus Manilius-->
+		<person id="M026" género="hombre" procedencia="">Mayorca (de), Vicente</person> <!--este espacio estaba vacío--> <!--Parece ser un sitio y no una persona, existe una playa con el nombre de San Vicente de Mayorca-->
+		<person id="M027" género="hombre" procedencia="Alemania">Milichio, Jacobo (astrónomo)</person> <!--Jacob Milich-->
+		<person id="M028" género="hombre" procedencia="Italia">Mezzavachis, Flaminio (astrónomo)</person> <!--Flaminio Mezzavacca-->
+		<person id="M029" género="hombre" procedencia="">Marco Manilio (poeta)</person> <!--Marcus Manilius--> <!--Probablemente nació en el norte de África-->
 	</personList>
 	<personList nom="N">
 		<person id="N001" género="hombre" procedencia="Irak">Nabucodonosor II (rey)</person>
@@ -366,7 +366,7 @@
 		<person id="N004" género="hombre" procedencia="">Nolasco, Manuel</person>
 		<person id="N005" género="hombre" procedencia="">Noé</person>
 		<person id="N006" género="hombre" procedencia="Italia">Numa Pompilio (rey)</person>
-		<person id="N007" género="hombre" procedencia="España">Nuñez de Zamora, Antonio</person>
+		<person id="N007" género="hombre" procedencia="España">Nuñez de Zamora, Antonio</person> <!--Autor de Repetitiones super caput primum et tertium libri de differentiis symptomatum-->
 		<person id="N008" género="mujer" procedencia="">Nictímene</person>
 		<person id="N009" género="mujer" procedencia="">Níobe</person>
 	</personList>
@@ -377,13 +377,13 @@
 		<person id="O004" género="hombre" procedencia="España">Otalora de Mondragón, Pedro</person>
 		<person id="O005" género="hombre" procedencia="Italia">Marco Salvio Otón (emperador)</person>
 		<person id="O006" género="hombre" procedencia="">Ovalle, Francisco de</person>
-		<person id="O007" género="hombre" procedencia="Alemania">Origanus David (astronomo)</person>
+		<person id="O007" género="hombre" procedencia="Alemania">Origanus David (astronomo)</person> <!--También conocido como David Tost-->
 		<person id="O008" género="hombre" procedencia="México">Ortega y Bonilla, Cristobal Tadeo</person> <!--dueño de imprenta-->
 		<person id="O009" género="mujer" procedencia="">Ops</person> <!--Diosa de la abundancia,hermana de Ceres, esposa de Saturno-->
 	</personList>
 	<personList nom="P">
 		<person id="P001" género="hombre" procedencia="Turquía">Pablo de Tarso apóstol (san)</person> <!--Saulo de Tarso--> 
-		<person id="P002" género="mujer" procedencia="Puebla">Pacheco de Padilla y Aguado, María Antonia Ceferina</person>
+		<person id="P002" género="mujer" procedencia="Puebla">Pacheco de Padilla y Aguado, María Antonia Ceferina</person> <!--Error ortográfico: Aguado por Aguayo-->
 		<person id="P003" género="hombre" procedencia="Turquía">Pérgamo, Claudio Galeno Nicon de (filósofo)</person>
 		<person id="P004" género="hombre" procedencia="Italia">Pablo V papa</person> <!--Paulo V-->
 		<person id="P005" género="hombre" procedencia="Israel">Simón Pedro obispo de Antioquía (san)</person>
@@ -413,38 +413,38 @@
 		<person id="R002" género="hombre" procedencia="Egipto">Ramsés II</person> <!--Usermaatra Setepenra - Ramsés Meriamón-->
 		<person id="R003" género="mujer" procedencia="Italia">Rita de Cassia (santa)</person>
 		<person id="R004" género="" procedencia="">Reyes Magos</person>
-		<person id="R005" género="hombre" procedencia="México">Ribadeneyra Barrientos, Antonio Joaquín</person>
+		<person id="R005" género="hombre" procedencia="México">Ribadeneyra Barrientos, Antonio Joaquín</person> <!--Parece que la ortogtrafía correcta es: Rivadeneira-->
 		<person id="R006" género="hombre" procedencia="España">Ribera y Zambrano, Alonso de (militar)</person>
 		<person id="R007" género="hombre" procedencia="España">Ribera, Juan Luis de</person>
-		<person id="R008" género="hombre" procedencia="Italia">Ricciolo, Juan Bautista (fray)</person>
+		<person id="R008" género="hombre" procedencia="Italia">Ricciolo, Juan Bautista (fray)</person> <!--Giovanni Battista Riccioli-->
 		<person id="R009" género="mujer" procedencia=" Alemania">Riederer de Paar, Mariana de</person> <!--Marquesa de Guadalcázar-->
 		<person id="R010" género="hombre " procedencia="Bélgica">Rio, Martín Antonio del</person>
 		<person id="R011" género="mujer" procedencia="Perú">Rosa de Lima (santa)</person> <!--Isabel Flores de Oliva-->
-		<person id="R012" género="hombre" procedencia="">Rodríguez de Rivas, Francisco</person>
+		<person id="R012" género="hombre" procedencia="">Rodríguez de Rivas, Francisco</person> <!--Se desconoce su origen, pero su vida está vinculada a Guatemala-->
 		<person id="R013" género="hombre" procedencia="España">Rodríguez de Rivas, Diego</person>
-		<person id="R014" género="hombre" procedencia="España">Ruesta, Francisco de</person>
+		<person id="R014" género="hombre" procedencia="España">Ruesta, Francisco de</person> <!--piloto mayor de la Casa de la Contratación-->
 		<person id="R015" género="hombe" procedencia="">Ronda, Miguel de (fray)</person>
-		<person id="R016" género="hombre" procedencia="Italia">Ruchelo, Jerónimo</person>
+		<person id="R016" género="hombre" procedencia="Italia">Ruchelo, Jerónimo</person> <!--Girolamo Ruscelli-->
 		<person id="R017" género="hombre" procedencia="">Ríos, Guillermo de los</person>		  
 	</personList>	 
 	<personList nom="S">
-		<person id="S001" género="hombre" procedencia="México">Salemerón y Castro, José de (astrónomo)</person>
+		<person id="S001" género="hombre" procedencia="México">Salemerón y Castro, José de (astrónomo)</person> <!--Parece el mismo que E012, este personaje era médico y astrónomo. Además, tiene el mismo error de ortografía-->
 		<person id="S002" género="hombre" procedencia="">Saturno (dios)</person>
 		<person id="S003" género="hombre" procedencia="México?">San Alberto, Nicolás de (fray)</person>
-		<person id="S004" género="hombre" procedencia="España? ">San Bernardo, Rodrigo de (fray)</person>
+		<person id="S004" género="hombre" procedencia="España? ">San Bernardo, Rodrigo de (fray)</person> <!--Es un Carmelita descalso que fundó el templo del Carmen de San Ángel-->
 		<person id="S005" género="hombre" procedencia="España? ">San Hilarión, Pedro de (fray)</person>
 		<person id="S006" género="hombre" procedencia="España">San José Betancur, Pedro de</person>
-		<person id="S007" género="mujer" procedencia="España">San José, Ana de (madre)</person>
-		<person id="S008" género="hombre" procedencia="España">San José, Esteban de (fray)</person>
-		<person id="S009" género="hombre" procedencia="España? ">San José, Francisco de</person>
+		<person id="S007" género="mujer" procedencia="España">San José, Ana de (madre)</person> <!--ver:http://www.centroestudiosagreda.es/archivos/index.php/garcia-diez-ana-sor-ana-de-san-jose;isaar-->
+		<person id="S008" género="hombre" procedencia="España">San José, Esteban de (fray)</person> <!--Tiene un homónimo del s. XIX, muerto en la guerra cívil-->
+		<person id="S009" género="hombre" procedencia="España? ">San José, Francisco de</person> <!--Parece ser Francisco Blancas de San José -->
 		<person id="S010" género="mujer" procedencia="">San Miguel, Ana de (madre)</person>
 		<person id="S011" género="hombre" procedencia="España? ">San Vicente, Tomás de (fray)</person>
 		<person id="S012" género="hombre" procedencia="">Sansón</person>
-		<person id="S013" género="mujer" procedencia="México?">Santa María, Isabel Manuela de (madre)</person>
+		<person id="S013" género="mujer" procedencia="México?">Santa María, Isabel Manuela de (madre)</person> <!--Ver:https://www.iisue.unam.mx/publicaciones/libros/isabel-manuela-de-santa-maria-de-conciencia-->
 		<person id="S014" género="hombre" procedencia="Israel">Santiago el Mayor</person>  <!--Apóstol-->
-		<person id="S015" género="mujer" procedencia="">Santiago, Beatriz de (madre)</person>
+		<person id="S015" género="mujer" procedencia="">Santiago, Beatriz de (madre)</person> <!--Nombre repetido S027-->
 		<person id="S016" género="hombre" procedencia=" Alemania">Scheiner, Christoph (físico)</person>
-		<person id="S017" género="hombre" procedencia="Italia">Servio Horonaro, Mario (gramático)</person>
+		<person id="S017" género="hombre" procedencia="Italia">Servio Horonaro, Mario (gramático)</person> <!--Mario o Mauro Servio Honorato. Error de ortografía, Honoraro a Honorato-->
 		<person id="S018" género="hombre" procedencia=" Marruecos">Sebastián I (rey)</person>
 		<person id="S019" género="hombre" procedencia="Israel">Simón el Cananeo (apóstol)</person> <!--Simón el Zelote-->
 		<person id="S020" género="mujer" procedencia="Grecia">Sibila Eritrea</person>
@@ -454,7 +454,7 @@
 		<person id="S024" género="hombre" procedencia="España">Suárez de Longoria, Pedro</person>
 		<person id="S025" género="hombre" procedencia="España">Sánchez Ciruelo, Pedro</person>
 		<person id="S026" género="hombre" procedencia="España">Anneo Lucio Séneca (El jóven)</person>
-		<person id="S027" género="mujer" procedencia="">Santiago, Beatriz de (madre)</person>
+		<person id="S027" género="mujer" procedencia="">Santiago, Beatriz de (madre)</person> <!--Nombre repetido S015-->
 		<person id="S028" género="hombre " procedencia="España">Salazar y Castro, Luis de</person>
 		<person id="S029" género="hombre " procedencia="España">Silva Mendoza Zandoval y Cerda, Gregorio de</person>
 		<person id="S030" género="hombre " procedencia="España">Salazar de Mendoza, Pedro de</person>
@@ -468,57 +468,57 @@
 		<person id="S038" género="hombre" procedencia="">San Miguel arcángel</person>		
 	</personList>
 	<personList nom="T">
-		<person id="T001" género="hombre" procedencia="Italia">Publio Cornelio Tácito​ (historiador)</person>
-		<person id="T002" género="hombre" procedencia="Italia">Tomás de Aquino (santo)</person>
+		<person id="T001" género="hombre" procedencia="Italia">Publio Cornelio Tácito​ (historiador)</person> <!--Nombre repetido T006-->
+		<person id="T002" género="hombre" procedencia="Italia">Tomás de Aquino (santo)</person> <!--Nombre repetido T011-->
 		<person id="T003" género="mujer" procedencia="España">Teresa de Jesús(santa)</person>
 		<person id="T004" género="hombre" procedencia="Túnez">Quinto Septimio Florente Tertuliano​ (escritor)</person>
 		<person id="T005" género="hombre" procedencia="España">Torquemada, Juan de (fray)</person>
-		<person id="T006" género="hombre" procedencia="Italia">Publio Cornelio Tácito​ (escritor)</person>
-		<person id="T007" género="hombre" procedencia="Holanda">Titelmans, Francisco (fray)</person>
+		<person id="T006" género="hombre" procedencia="Italia">Publio Cornelio Tácito​ (escritor)</person> <!--Nombre repetido T001-->
+		<person id="T007" género="hombre" procedencia="Holanda">Titelmans, Francisco (fray)</person> <!--Frans o Franciscus Titelmans-->
 		<person id="T008" género="hombre" procedencia="España">Torre, Martín de la</person>
 		<person id="T009" género="hombre" procedencia="Italia? ">Tíbulo</person>
 		<person id="T010" género="hombre" procedencia="">Trismegisto, Hermes</person>
-		<person id="T011" género="hombre" procedencia="Italia">Tomás de Aquino (santo)</person>
+		<person id="T011" género="hombre" procedencia="Italia">Tomás de Aquino (santo)</person> <!--Nombre repetido T002-->
 		<person id="T012" género="hombre" procedencia="Israel">Tomás el Apóstol (apóstol de Jesús)</person>
 	</personList>
 	<personList nom="U">
  		<person id="U001" género="hombre" procedencia="">Ulises</person>
-		<person id="U002" género="" procedencia="">Uzi</person>
+		<person id="U002" género="" procedencia="">Uzi</person> <!--Posiblemente un rey judio-->
 	</personList>
 	<personList nom="V">
 		<person id="V001" género="mujer" procedencia="">Vaca, Isabel</person>
 		<person id="V002" género="" procedencia="">Valenciano</person>
-		<person id="V003" género="hombre" procedencia="España? ">Valenzuela, Francisco</person>
-		<person id="V004" género="hombre" procedencia="España? ">Valles, Francisco</person>
-		<person id="V005" género="hombre " procedencia="Alemania">Vaybel, Andrés</person>
+		<person id="V003" género="hombre" procedencia="España? ">Valenzuela, Francisco</person> <!--posiblemente Francisco Peréz Valenzuela-->
+		<person id="V004" género="hombre" procedencia="España? ">Valles, Francisco</person> <!--posiblemente Francisco Valles de Covarrubias-->
+		<person id="V005" género="hombre " procedencia="Alemania">Vaybel, Andrés</person> <!--buscar en google: inauthor:"Andreas Waibl". Nombre repetido W001-->
 		<person id="V006" género="hombre " procedencia="México? ">Vega y Vic, José de</person> <!--También como Joseph-->
 		<person id="V007" género="hombre " procedencia="España">Velasco y Castilla, Luis de</person>
-		<person id="V008" género="hombre" procedencia="">Velasco, Antonio</person>
-		<person id="V009" género="hombre" procedencia="">Velázquez</person>
-		<person id="V010" género="hombre" procedencia="Italia">Vespasiano</person>
-		<person id="V011" género="hombre" procedencia="Holanda">Villebrordo, Elnelio</person>
-		<person id="V012" género="hombre" procedencia="España">Villena, Francisco de</person>
+		<person id="V008" género="hombre" procedencia="">Velasco, Antonio</person> <!--Tiene varios homónimos-->
+		<person id="V009" género="hombre" procedencia="">Velázquez</person> <!--Podría ser el pintor-->
+		<person id="V010" género="hombre" procedencia="Italia">Vespasiano</person> <!--Debería ser Tito Flavio Vespasiano-->
+		<person id="V011" género="hombre" procedencia="Holanda">Villebrordo, Elnelio</person> <!--Willebrord Snellius o Willebrord Snel van Royen-->
+		<person id="V012" género="hombre" procedencia="España">Villena, Francisco de</person> <!--posiblemente Francisco de Orantes y Villena-->
 		<person id="V013" género="hombre" procedencia="Italia">Publio Virgilio Marón​ (poeta)</person>
 		<person id="V014" género="hombre" procedencia="Italia">Virgilio, Polidoro (historiador)</person>
-		<person id="V015" género="hombre" procedencia="España">Vélez Ulibarri, Juan Francisco de</person>
-		<person id="V017" género="mujer" procedencia="">Verónica (santa)</person>
+		<person id="V015" género="hombre" procedencia="España">Vélez Ulibarri, Juan Francisco de</person> <!--ver: https://gw.geneanet.org/wuayra?n=unceta+velez+de+ulibarri&oc=&p=josephe+francisco-->
+		<person id="V017" género="mujer" procedencia="">Verónica (santa)</person> <!--Parece un personaje alegórico relevante durante la edad media-->
 		<person id="V018" género="hombre" procedencia="Italia? ">Vegecio, Renato flavio  (escritor)</person>
 		<person id="V019" género="hombre" procedencia="">Vulcano</person>
 		<person id="V020" género="mujer" procedencia="">Vesta</person> <!--Hija de Saturno, encargada de proteger la paz en el Olimpo-->
 		<person id="V021" género="mujer" procedencia="">Venus (diosa)</person>
 	</personList>
 <personList nom="W">
-		<person id="W001" género="hombre" procedencia="Alemania">Waybel, Andrés</person>
+		<person id="W001" género="hombre" procedencia="Alemania">Waybel, Andrés</person> <!--Nombre repetido V005-->
 </personList>
 <personList nom="X">
-		<person id="X001" género="hombre" procedencia="España">Ximénez, Francisco</person>
+		<person id="X001" género="hombre" procedencia="España">Ximénez, Francisco</person> <!--Francisco Ximénez de Quesada-->
 </personList>
 <personList nom="Z">
 		<person id="Z001" género="hombre" procedencia="España">Zabalburu, Domingo de</person>
 		<person id="Z002" género="hombre" procedencia="España">Zamorano, Rodrigo de</person>
 		<person id="Z003" género="hombre" procedencia="España">Zaragoza, José de</person>
-		<person id="Z004" género="hombre" procedencia="España">Zerda, Thomas Antonio de la</person>
-		<person id="Z004" género="hombre" procedencia="">Zeus (dios)</person>
+		<person id="Z004" género="hombre" procedencia="España">Zerda, Thomas Antonio de la</person> <!--ID duplicado. Error de ortografía Thomas por Tomás-->
+		<person id="Z004" género="hombre" procedencia="">Zeus (dios)</person> <!--ID duplicado-->
 </personList>
 </persons>
 
