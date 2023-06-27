@@ -62,15 +62,16 @@
  <abbreviation id="D014">Dha.</abbreviation> <!--Dicha (femenino)-->
  <abbreviation id="D015">d.</abbreviation> <!--Día(s)-->
  <abbreviation id="D016">duran.</abbreviation> <!--abreviatura no identificada-->
+ <abbreviation id="D017">D. E</abbreviation> <!--Dedicado-->
 </abbreviationList>
 
 
 <abbreviationList nom="E">
- <abbreviation id="E001">EX. MO</abbreviation>
- <abbreviation id="E002">Ex. mo Sr. D.</abbreviation>
+ <abbreviation id="E001">EX. MO</abbreviation> 
+ <abbreviation id="E002">Ex. mo Sr. D.</abbreviation> <!--estas son tres abreviaturas diferentes. eliminar-->
  <abbreviation id="E003">Ex.ma.</abbreviation>
- <abbreviation id="E004">Ex.mo. Sr.</abbreviation>
- <abbreviation id="E005">EX. mo</abbreviation>
+ <abbreviation id="E004">Ex.mo. Sr.</abbreviation> <!--estas son dos abreviaturas diferentes. eliminar-->
+ <abbreviation id="E005">EX. mo</abbreviation> <!--Repetida-->
  <abbreviation id="E006">EX.</abbreviation>
  <abbreviation id="E007">Ett.a</abbreviation> <!--Etcetera. Los caracteres seguidos al punto aparecen como superindices en el manuscrtio-->
  <abbreviation id="E008">Etc.a</abbreviation> <!--Variante de abreviación de “etcétera"-->
@@ -129,6 +130,8 @@
  <abbreviation id="L003">leg.</abbreviation>
  <abbreviation id="L004">lud.</abbreviation>
  <abbreviation id="L005">lun.</abbreviation> <!--Lunes-->
+ <abbreviation id="L005">LLM</abbreviation> <!-- quizás licenciado-->
+
 </abbreviationList>
 
 
