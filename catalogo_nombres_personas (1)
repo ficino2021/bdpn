@@ -380,6 +380,7 @@
 		<person id="O007" género="hombre" procedencia="Alemania">Origanus David (astronomo)</person> <!--También conocido como David Tost-->
 		<person id="O008" género="hombre" procedencia="México">Ortega y Bonilla, Cristobal Tadeo</person> <!--dueño de imprenta-->
 		<person id="O009" género="mujer" procedencia="">Ops</person> <!--Diosa de la abundancia,hermana de Ceres, esposa de Saturno-->
+                <person id="O010" género="hombre" procedencia="México">Oriz de los Hexos, Juan</person> <!--Censor de la santa inquisición-->
 	</personList>
 	<personList nom="P">
 		<person id="P001" género="hombre" procedencia="Turquía">Pablo de Tarso apóstol (san)</person> <!--Saulo de Tarso--> 
