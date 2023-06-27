@@ -131,7 +131,7 @@
 
 
 <abbreviationList nom="M">
- <abbreviation id="M001">M. D.</abbreviation>
+ <abbreviation id="M001">M. D.</abbreviation> <!--Mande-->
  <abbreviation id="M002">mi.</abbreviation>
  <abbreviation id="M003">Mt.</abbreviation> <!--Minutos-->
  <abbreviation id="M004">Mex.co</abbreviation> <!--México-->
@@ -187,6 +187,7 @@
  <abbreviation id="P013">prohib.</abbreviation> <!--Prohibidoo-->
  <abbreviation id="P014">Psal..</abbreviation> <!--Hace referencia a un pasaje biblico, lo encontre como Salmos-->
  <abbreviation id="P015">P. e. </abbreviation> <!--Padre-->
+ <abbreviation id="P016">p’</abbreviation> <!--para-->
 </abbreviationList>
 
 
@@ -222,6 +223,7 @@
  <abbreviation id="S012">Sab.</abbreviation> <!--Sábado-->
  <abbreviation id="S013">Sn.</abbreviation><!--San-->
  <abbreviation id="S014">Sr.</abbreviation> <!--Señor-->
+ <abbreviation id="S015">supp.ca</abbreviation> <!--Suplica-->
 </abbreviationList>
 
 
