@@ -187,7 +187,7 @@
 		<person id="E027" género="hombre" procedencia="Grecia">Esteban diácono (san)</person>
 		<person id="E028" género="mujer" procedencia="México">Encarnación, Mariana de la (sor)</person>
 		<person id="E029">Eúfrates</person> <!--Ojo, es un río-->
-                <person id="E030" género="hombre" procedencia="México">Escobar (de) y Llamas, Diego Antonio</person> <!--Obispo de la Puebla de los Angeles-->
+                <person id="E030" género="hombre" procedencia="España">Escobar (de) y Llamas, Diego Osorio</person> <!--Obispo de la Puebla de los Angeles-->
 	</personList>
 	<personList nom="F">
 		<person id="F001" género="hombre" procedencia="">Faetón</person>
