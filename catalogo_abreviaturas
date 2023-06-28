@@ -43,6 +43,7 @@
  <abbreviation id="C013">Conjunct.</abbreviation> <!--conjunctionibus. Nombre de la obra de Albumasar-->
  <abbreviation id="C014">cn</abbreviation> <!--Cientos-->
 <abbreviation id="C015">Ctica</abbreviation> <!--Católica-->
+<abbreviation id="C016">Capan.</abbreviation> <!--Capitán-->
 </abbreviationList>
 
 
@@ -68,9 +69,9 @@
 
 
 <abbreviationList nom="E">
- <abbreviation id="E001">EX. MO</abbreviation> 
+ <abbreviation id="E001">EX. MO</abbreviation> <!--Exelentisimo-->
  <abbreviation id="E002">Ex. mo Sr. D.</abbreviation> <!--estas son tres abreviaturas diferentes. eliminar-->
- <abbreviation id="E003">Ex.ma.</abbreviation>
+ <abbreviation id="E003">Ex.ma.</abbreviation> <!--Excelencia-->
  <abbreviation id="E004">Ex.mo. Sr.</abbreviation> <!--estas son dos abreviaturas diferentes. eliminar-->
  <abbreviation id="E005">EX. mo</abbreviation> <!--Repetida-->
  <abbreviation id="E006">EX.</abbreviation>
@@ -80,6 +81,7 @@
  <abreviation id="E010">etc.</abbreviation> <!--Etcétera-->
  <abreviation id="E011">elemetares</abbreviation> <!--elementares. Aparece la tercera e con una virgulilla en el manuscrito-->
  <abreviation id="E012">elect.</abbreviation> <!--electo-->
+ <abreviation id="E013">Exa.</abbreviation> <!--Excelencia-->
 </abbreviationList>
 
 
@@ -162,6 +164,7 @@
  <abbreviation id="N004">Necess.a</abbreviation> <!--Necesaria-->
  <abbreviation id="N005">N.S.R.E.</abbreviation>
  <abbreviation id="N006">naturalmete</abbreviation><!--naturalmente. Aparece la penúltima e con una virgulilla en el manuscrito-->
+ <abbreviation id="N007">Nua.</abbreviation> <!--Nueva-->
 </abbreviationList>
 
 
@@ -264,6 +267,8 @@
  <abbreviation id="V010">viue.</abbreviation> 
  <abbreviation id="V011">Vier.</abbreviation> <!--Viernes-->
  <abbreviation id="V012">V.s.a</abbreviation>  <!--Vuestra-->
+ <abbreviation id="V013">Vlma</abbreviation> <!--sin identificar-->
+ <abbreviation id="V014">V.</abbreviation> <!--Vuestra-->
 </abbreviationList>
 
 
