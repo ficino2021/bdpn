@@ -240,6 +240,7 @@
 		<person id="G019" género="hombre" procedencia="España">Gómez de Gayangos y Morquecho, Tomás (militar)</person>
 		<person id="G020" género="hombre" procedencia="Turquía">Claudio Galeno Nicon de Pérgamo (médico)</person>
 		<person id="G021" género="hombre" procedencia="Cuba">Gamboa Riaño y Vargas-Machuca, Marco Antonio de</person>
+                <person id="G022" género="hombre" procedencia="">Gonzalez, Andrés</person> <!--Teologo y matemático--> 
 	</personList>
 	<personList nom="H">
 		<person id="H001" género="" procedencia="">Hagesio</person> <!--Aparece mencionado en la historia de la ciencia en México-->
@@ -290,10 +291,11 @@
 		<person id="J023" género="hombre" procedencia="Siria? ">Juan Clímaco (san)</person>
 		<person id="J024" género="hombre" procedencia="">Jesús (san)</person> <!--Parece ser una fecha. Será la fiesta del santo nombre de Jesús?-->
 		<person id="J025" género="hombre" procedencia="Sira">Juan Damasceno (san) (teólogo)</person>
-		<person id="J026" género="hombre " procedencia="Israel">Juan Hierosolimitano (san)</person> <!--También conocido como Juan Bautista, ver J012-->
-		<person id="J027" género="hombre " procedencia="Israel">Judas Tadeo (san)</person>
-		<person id="J028" género="hombre " procedencia="Portugal">Juan IV (rey de Portugal)</person> <!--También fue duque de Braganza-->
-		<person id=J029 género=hombre  procedencia=España>Jerónimo , Fray García de Mendoza y Zuñiga</person>
+		<person id="J026" género="hombre" procedencia="Israel">Juan Hierosolimitano (san)</person> <!--También conocido como Juan Bautista, ver J012-->
+		<person id="J027" género="hombre" procedencia="Israel">Judas Tadeo (san)</person>
+		<person id="J028" género="hombre" procedencia="Portugal">Juan IV (rey de Portugal)</person> <!--También fue duque de Braganza-->
+		<person id=J029 género="hombre" procedencia="España">Jerónimo , Fray García de Mendoza y Zuñiga</person>
+                <person id=J030 género="" procedencia="">Justin</person>  <!--no identificado aun-->
 	</personList>
 	<personList nom="K">
 		<person id="K001" género="hombre " procedencia="Alemania">Kepler, Johannes (astrónomo)</person>
@@ -427,7 +429,8 @@
 		<person id="R014" género="hombre" procedencia="España">Ruesta, Francisco de</person> <!--piloto mayor de la Casa de la Contratación-->
 		<person id="R015" género="hombe" procedencia="">Ronda, Miguel de (fray)</person>
 		<person id="R016" género="hombre" procedencia="Italia">Ruchelo, Jerónimo</person> <!--Girolamo Ruscelli-->
-		<person id="R017" género="hombre" procedencia="">Ríos, Guillermo de los</person>		  
+		<person id="R017" género="hombre" procedencia="">Ríos, Guillermo de los</person>
+                <person id="R017" género="hombre" procedencia="">Rocha, Tomás</person> 
 	</personList>	 
 	<personList nom="S">
 		<person id="S001" género="hombre" procedencia="México">Salemerón y Castro, José de (astrónomo)</person> <!--Parece el mismo que E012, este personaje era médico y astrónomo. Además, tiene el mismo error de ortografía-->
