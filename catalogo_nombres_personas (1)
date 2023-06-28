@@ -296,6 +296,7 @@
 		<person id="J028" género="hombre" procedencia="Portugal">Juan IV (rey de Portugal)</person> <!--También fue duque de Braganza-->
 		<person id=J029 género="hombre" procedencia="España">Jerónimo , Fray García de Mendoza y Zuñiga</person>
                 <person id=J030 género="" procedencia="">Justin</person>  <!--no identificado aun-->
+                <person id=J031 género="" procedencia="">Jeanzoui, Henrico</person> <!--no identificado aun-->
 	</personList>
 	<personList nom="K">
 		<person id="K001" género="hombre " procedencia="Alemania">Kepler, Johannes (astrónomo)</person>
