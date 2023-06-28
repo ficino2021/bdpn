@@ -44,6 +44,7 @@
  <abbreviation id="C014">cn</abbreviation> <!--Cientos-->
 <abbreviation id="C015">Ctica</abbreviation> <!--Católica-->
 <abbreviation id="C016">Capan.</abbreviation> <!--Capitán-->
+<abbreviation id="C017">Ciu.</abbreviation>  <!--variante de ciudad-->
 </abbreviationList>
 
 
@@ -165,6 +166,7 @@
  <abbreviation id="N005">N.S.R.E.</abbreviation>
  <abbreviation id="N006">naturalmete</abbreviation><!--naturalmente. Aparece la penúltima e con una virgulilla en el manuscrito-->
  <abbreviation id="N007">Nua.</abbreviation> <!--Nueva-->
+ <abbreviation id="N008">nta.</abbreviation> <!--¿Nuestra?-->
 </abbreviationList>
 
 
@@ -236,6 +238,7 @@
  <abbreviation id="S015">supp.ca</abbreviation> <!--Suplica-->
  <abbreviation id="S016">Sigts</abbreviation> <--siguientes-->
  <abbreviation id="S017">Sor.</abbreviation> <--Señor-->
+ <abbreviation id="S018">ssma</abbreviation> <--Santísima-->
 </abbreviationList>
 
 
