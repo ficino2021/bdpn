@@ -97,6 +97,7 @@
 		<person id="B025" género="mujer" procedencia="Suecia">Brígida de Suecia</person><!--Birgitta Birgersdotter--> <!--id duplicado-->
 		<person id="B025" género="hombre" procedencia="Suecia">Brahe, Tycho (astrónomo)</person> <!--id duplicado-->
 		<person id="B026" género="mujer" procedencia="México">Benavides, Paula de</person><!--Viuda de Bernardo Calderon. Impresora-->
+                <person id="B027" género="hombre" procedencia="México">Bonilla (de), Fabriello</person>
 	</personList>
 	<personList nom="C">
 		<person id="C001" género="hombre" procedencia="Italia">Cabeo, Niccolo (filósofo)</person>
