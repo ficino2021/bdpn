@@ -83,6 +83,8 @@
  <abreviation id="E011">elemetares</abbreviation> <!--elementares. Aparece la tercera e con una virgulilla en el manuscrito-->
  <abreviation id="E012">elect.</abbreviation> <!--electo-->
  <abreviation id="E013">Exa.</abbreviation> <!--Excelencia-->
+ <abreviation id="E014"ER.</abbreviation>
+
 </abbreviationList>
 
 
@@ -155,6 +157,7 @@
  <abbreciation id="M013">mag.</abbreviation> <!--Magnis. Nombre de la obra de Albumasar-->
  <abbreciation id="M014">Mart.</abbreviation> <!--Martes-->
  <abbreciation id="M015">Mierc.</abbreviation> <!--Miércoles-->
+ <abbreciation id="M016">MEB</abbreviation> 
 </abbreviationList>
 
 
@@ -236,9 +239,10 @@
  <abbreviation id="S013">Sn.</abbreviation><!--San-->
  <abbreviation id="S014">Sr.</abbreviation> <!--Señor-->
  <abbreviation id="S015">supp.ca</abbreviation> <!--Suplica-->
- <abbreviation id="S016">Sigts</abbreviation> <--siguientes-->
- <abbreviation id="S017">Sor.</abbreviation> <--Señor-->
- <abbreviation id="S018">ssma</abbreviation> <--Santísima-->
+ <abbreviation id="S016">Sigts</abbreviation> <!--siguientes-->
+ <abbreviation id="S017">Sor.</abbreviation> <!--Señor-->
+ <abbreviation id="S018">ssma</abbreviation> <!--Santísima-->
+ <abbreviation id="S019">Suppco</abbreviation> <!--Suplico-->
 </abbreviationList>
 
 
