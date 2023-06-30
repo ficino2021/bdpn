@@ -27,6 +27,7 @@
 <animalList nom="G">
 	<animal id="G001">Ganado</animal><!--Conjunto de animales cuadrúpedos-->
 	<animal id="G002">Gallina</animal>
+	<animal id="G003">Gusano</animal>
 </animalList>
 
 <animalList nom="H">
