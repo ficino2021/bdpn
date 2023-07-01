@@ -148,11 +148,11 @@
 
 <abbreviationList nom="M">
  <abbreviation id="M001">M. D.</abbreviation> <!--Mande-->
- <abbreviation id="M002">mi.</abbreviation>
+ <abbreviation id="M002">mi.</abbreviation>  <!--Minutos-->
  <abbreviation id="M003">Mt.</abbreviation> <!--Minutos-->
  <abbreviation id="M004">Mex.co</abbreviation> <!--México-->
- <abbreviation id="M005">min.</abbreviation>
- <abbreviation id="M006">minut.</abbreviation>
+ <abbreviation id="M005">min.</abbreviation>  <!--Minutos-->
+ <abbreviation id="M006">minut.</abbreviation> <!--Minutos-->
  <abbreviation id="M007">Movim.to</abbreviation> <!--movimiento-->
  <abbreviation id="M008">Mag.d</abbreviation> <!--Magestad-->
  <abbreviation id="M009">M.M.S.D.C.C.</abbreviation> <!--No encontré el significado en el diccionario de abreviaturas-->
