@@ -94,6 +94,7 @@
  <abbreviation id="F002">Fr.</abbreviation><!--Fray-->
  <abbreviation id="F003">falta</abbreviation><!--faltan. Aparece la última letra con una virgulilla en el manuscrito-->
  <abbreviation id="F004">Franco.</abbreviation> <!--Francisco-->
+ <abbreviation id="F005">Feb</abbreviation> <!--Febrero-->
 </abbreviationList>
 
 
@@ -176,6 +177,7 @@
  <abbreviation id="N008">nta.</abbreviation> <!--¿Nuestra?-->
  <abbreviation id="N009">Nobre.</abbreviation> <!--Noviembre-->
  <abbreviation id="N010">Nam.</abbreviation> <!--Abreviatura en latín-->
+ <abbreviation id="N011">NovR</abbreviation> <!--Variación de noviembre-->
 </abbreviationList>
 
 
