@@ -86,6 +86,7 @@
  <place id="D001">Dania</place> <!--Dinamarca actualmente-->
  <place id="D002">Declinación meridional</place> <!--Hacia el sur/meridiano-->
  <place id="D003">Declinación septentrional</place> <!--Hacia el norte-->
+ <place id="D004">Dragón</place> <!--Constelación-->
 </placeList>
 
 
@@ -147,7 +148,8 @@
  <place id="I006">Inglaterra</place>
  <place id="I007">Iglesia Mayor</place>
  <place id="I008">Las Indias</place>
- <place id="I009">Islas de Beurlossto</place>
+ <place id="I009">Islas de Beurlossto</place> <!--No sé a que se refiera pero incluye Costa Rica y Santo Domingo-->
+ <place id="I010">Islas de Barlovento</place> <!--Parecen ser las mismas que el anterior-->
  
 </placeList>
 
@@ -298,13 +300,13 @@
  <place id="S004">Santillana, España</place>
  <place id="S005">Saldaña, España</place>
  <place id="S006">Septentrional América</place>
- <place id="S007">Sol</place><!--era consideraro un planeta-->
+ <place id="S007">Sol</place><!--era considerado un planeta-->
  <place id="S008">Siete planetas</place>
  <place id="S009">Septentrional</place>
  <place id="S010">Saturno (planeta)</place>
  <place id="S011">Sur</place>
  <place id="S012">Semicírculos horarios</place>
- <place id="S013">Sagitario</place> <!--Constelacion parte de la franja del zodiaco-->
+ <place id="S013">Sagitario</place> <!--Constelación parte de la franja del zodiaco-->
  <place id="S014">Selenopolis</place> <!--Lugar ficticio-->
  <place id="S015">Selandia</place> <!--Isla en Dinamarca-->
  <place id="S016">Sicilia</place>
@@ -312,6 +314,7 @@
  <place id="S018">Sajonia</place>
  <place id="S019">Santa Fe, Hospital de México</place>
  <place id="S020">Salita</place>
+ <place id="S021">Santo Domingo</place>
  </placeList>
 
 
