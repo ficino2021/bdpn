@@ -234,7 +234,7 @@
 		<person id="G012" género="mujer" procedencia="">Galatea</person>
 		<person id="G013" género="hombre" procedencia="España">Guevara, Juan de</person>
 		<person id="G014" género="hombre" procedencia="">Guillermo (principe de Asia)</person> <!--Está mal escrito. Se trata de Guillermo pincipe de Alsacia-->
-		<person id="G015" género="hombre" procedencia="Italia">Giuntini, Francesco (astrólogo)</person> <!--Juventino, Junctinis o Junctinus-->
+		<person id="G015" género="hombre" procedencia="Italia">Giuntini, Francesco (astrólogo)</person> <!--Juventino, Junctinis o Junctinus, ¿Justino? -->
 		<person id="G016" género="hombre" procedencia="España">Gálvez y Corral, Bartolomé</person>
 		<person id="G017" género="hombre" procedencia="España">Güemes y Horcasitas, Juan Francisco de (virrey)</person>
 		<person id="G018" género="hombre" procedencia="">Gramico, Teodoro</person>
@@ -472,7 +472,8 @@
 		<person id="S035" género="mujer" procedencia="">Santa Clara, Juana</person>
 		<person id="S036" género="hombre" procedencia="Turquía">Solimán I (sultán)</person> <!--Kanuni-->
 		<person id="S037" género="mujer" procedencia="Israel?">Santa Ana (madre de la virgen María)</person>
-		<person id="S038" género="hombre" procedencia="">San Miguel arcángel</person>		
+		<person id="S038" género="hombre" procedencia="">San Miguel arcángel</person>
+                <person id="S039" género="hombre" procedencia="Flandes">Stadius, Johannes</person> <!--matemático y astrólogo 1500--> 
 	</personList>
 	<personList nom="T">
 		<person id="T001" género="hombre" procedencia="Italia">Publio Cornelio Tácito​ (historiador)</person> <!--Nombre repetido T006-->
