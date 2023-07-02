@@ -234,7 +234,7 @@
 		<person id="G012" género="mujer" procedencia="">Galatea</person>
 		<person id="G013" género="hombre" procedencia="España">Guevara, Juan de</person>
 		<person id="G014" género="hombre" procedencia="">Guillermo (principe de Asia)</person> <!--Está mal escrito. Se trata de Guillermo pincipe de Alsacia-->
-		<person id="G015" género="hombre" procedencia="Italia">Giuntini, Francesco (astrólogo)</person> <!--Juventino, Junctinis o Junctinus, ¿Justino? -->
+		<person id="G015" género="hombre" procedencia="Italia">Giuntini, Francesco (astrólogo)</person> <!--Juventino, Junctinis o Junctinus, ¿Juntino o Justino? -->
 		<person id="G016" género="hombre" procedencia="España">Gálvez y Corral, Bartolomé</person>
 		<person id="G017" género="hombre" procedencia="España">Güemes y Horcasitas, Juan Francisco de (virrey)</person>
 		<person id="G018" género="hombre" procedencia="">Gramico, Teodoro</person>
