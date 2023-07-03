@@ -25,7 +25,8 @@
  	</operaList>
 
  	<operaList nom="E">
- 		<opera id="E001">Eneida. Virgilio Marón. Libro 10</opera>
+ 		<opera id="E001">Eneida. Virgilio Marón.</opera>
+		<opera id="E002">Efemérides. Johannes Stadius</opera> 
  	</operaList>
 
  	<operaList nom="F">
@@ -33,7 +34,7 @@
  	</operaList>
 
  	<operaList nom="G">
- 		<opera id="G001">Geórgicas. Virgilio. Libro I</opera>
+ 		<opera id="G001">Geórgicas. Virgilio.</opera>
  	</operaList>
 
  	<operaList nom="H">
@@ -59,7 +60,7 @@
  	<operaList nom="M">
  		<opera id="M001">Meteororum. Alberto Magno. Tratado III. Capítulo IV</opera> <!-- Alberto cita a Juan Damaseno-->
 		<opera id="M002">Manifiesto filosófico contra los cometas. Carlos de Sigüenza y Góngora</opera><!--Manifiesto Filosófico contra los cometas despojados del imperio que tenían sobre los tímidos-->
-		<opera id="M003">Metefísica. Aristóteles. Libro IX</opera>
+		<opera id="M003">Metefísica. Aristóteles</opera>
  	</operaList>
 
  	<operaList nom="N">
@@ -80,7 +81,7 @@
  	</operaList>
 
  	<operaList nom="P">
- 		<opera id="P001"></opera>
+ 		<opera id="P001">Política. Aristóteles</opera>
  	</operaList>
 
  	<operaList nom="Q">
