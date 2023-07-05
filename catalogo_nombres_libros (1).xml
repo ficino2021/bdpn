@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 
 <operas>
@@ -93,7 +92,7 @@
  	</operaList>
 
  	<operaList nom="S">
- 		<opera id="S001"></opera>
+ 		<opera id="S001">Sermon 81. San Agustín</opera>
  	</operaList>
 
  	<operaList nom="T">
@@ -103,9 +102,8 @@
  	<operaList nom="U">
  		<opera id="U001"></opera>
  	</operaList>
-
  	<operaList nom="V">
- 		<opera id="V001">tuen Valet. Galeno. Libro 1</opera> <!--No encontré la obra original-->
+ 		<opera id="V001">Galeno. Libro 1</opera> <!--No encontré la obra original-->
  	</operaList>
 
  	<operaList nom="W">
