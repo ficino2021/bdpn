@@ -11,7 +11,8 @@
  	</operaList>
 
  	<operaList nom="C">
- 		<opera id="C001"></opera>
+ 		<opera id="C001">Commentariorum in textum evangelicum. João da Sylveira</opera>
+		<opera id="C002">Canon de medicina. Avicena</opera> <!--probablemente, la cita no es clara-->
  	</operaList>
 
  	<operaList nom="D">
