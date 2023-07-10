@@ -6,6 +6,7 @@
 		<cuerpo id="A002">arteria</cuerpo>
 		<cuerpo id="A003">angina</cuerpo>
 		<cuerpo id="A004">Ánima</cuerpo>
+		<cuerpo id="A005">achaque</cuerpo><!—enfermedad?—>
 	</termCuerpo>
 	<termCuerpo nom="B"> 
 		<cuerpo id="B001">barbas</cuerpo>
@@ -22,14 +23,17 @@
 		<cuerpo id="C007">cuerpos</cuerpo>
 		<cuerpo id="C008">costado</cuerpo><!--partes laterales del torso que abarcan de la axila a la cadera-->
 	        <cuerpo id="C009">carne</cuerpo>
+		<cuerpo id="C010">calentura</cuerpo><!—enfermedad?—>
 	</termCuerpo>
  <termCuerpo nom="D"> 
 		<cuerpo id="D001">dedo índice</cuerpo>
+	 	<cuerpo id="D002">desauciado</cuerpo><!—enfermedad?—>
 	</termCuerpo>
 <termCuerpo nom="E"> 
 		<cuerpo id="E001">extremidades</cuerpo>
 		<cuerpo id="E002">estómago</cuerpo>
 		<cuerpo id="E003">entrañas</cuerpo>
+		<cuerpo id="E004">enfermedad</cuerpo>
 	<cuerpo id="E004">espalda(s)</cuerpo>
 	
 	</termCuerpo>
@@ -104,6 +108,7 @@
 	<termCuerpo nom="S"> 
 		<cuerpo id="S001">sangre</cuerpo>
 		<cuerpo id="S002">sudor</cuerpo>
+		<cuerpo id="S003">salud</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="T"> 
 		<cuerpo id="T001">tobillo</cuerpo>
