@@ -141,7 +141,6 @@
 		<person id="C039" género="mujer" procedencia="Italia">Catalina de Siena (santa)</person><!--Catalina Benincasa-->
 		<person id="C040" género="mujer" procedencia="">Carmen, Virgen del</person>
 		<person id="C041" género="mujer" procedencia="">Ceres</person><!--Diosa de la fecundidad, agricultura-->
-                <person id="C042" género="hombre" procedencia="">Campeche, Francisco de</person>
 	</personList>
 	<personList nom="D">
 		<person id="D001" género="hombre" procedencia="Grecia">Dionisio Areopagita obispo de Atenas (santo)</person>
