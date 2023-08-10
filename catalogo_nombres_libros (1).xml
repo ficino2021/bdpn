@@ -6,8 +6,10 @@
  	</operaList>
 
 	<operaList nom="B">
- 		<opera id="B001">La Biblia. Salmos 146</opera> <!--Lo encontre como Psal. 146-->
-		<opera id="B002">La Biblia. Job. Capítulo 35, verso 5</opera>
+ 		<opera id="B001">Biblia. Salmos 146</opera> <!--Lo encontre como Psal. 146-->
+		<opera id="B002">Biblia. Job. Capítulo 35, verso 5</opera>
+		<opera id="B003">Biblia. Libro de Oseas</opera>
+		<opera id="B004">Biblia. Salmos 67. vers. 10</opera>
  	</operaList>
 
  	<operaList nom="C">
