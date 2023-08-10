@@ -44,7 +44,7 @@
  	</operaList>
 
  	<operaList nom="I">
- 		<opera id="I001">Liber introductorii maioris ad scientiam judiciorum astrorum. Albumasar</opera>
+ 		<opera id="I001"></opera>
  	</operaList>
 
  	<operaList nom="J">
@@ -57,6 +57,7 @@
 
  	<operaList nom="L">
  		<opera id="L001">Lunario 1681. Carlos de Sigüenza y Góngora</opera>
+		<opera id="L002">Liber introductorii maioris ad scientiam judiciorum astrorum. Albumasar</opera>
  	</operaList>
 
  	<operaList nom="M">
