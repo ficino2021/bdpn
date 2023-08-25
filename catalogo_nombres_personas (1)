@@ -295,9 +295,9 @@
 		<person id="J026" género="hombre" procedencia="Israel">Juan Hierosolimitano (san)</person> <!--También conocido como Juan Bautista, ver J012-->
 		<person id="J027" género="hombre" procedencia="Israel">Judas Tadeo (san)</person>
 		<person id="J028" género="hombre" procedencia="Portugal">Juan IV (rey de Portugal)</person> <!--También fue duque de Braganza-->
-		<person id=J029 género="hombre" procedencia="España">Jerónimo , Fray García de Mendoza y Zuñiga</person>
-                <person id=J030 género="" procedencia="">Justin</person>  <!--no identificado aun-->
-                <person id=J031 género="" procedencia="">Jeanzoui, Henrico</person> <!--no identificado aun-->
+		<person id="J029" género="hombre" procedencia="España">Jerónimo , Fray García de Mendoza y Zuñiga</person>
+                <person id="J030" género="" procedencia="">Justin</person>  <!--no identificado aun-->
+                <person id="J031" género="" procedencia="">Jeanzoui, Henrico</person> <!--no identificado aun-->
 	</personList>
 	<personList nom="K">
 		<person id="K001" género="hombre " procedencia="Alemania">Kepler, Johannes (astrónomo)</person>
@@ -317,7 +317,7 @@
 		<person id="L010" género="hombre " procedencia="España">Lope de Vega y Carpio, Félix (poeta)</person>
 		<person id="L011" género="hombre " procedencia="España">Lorenz de Rada y Arenaza, José (marqués)</person>
 		<person id="L012" género="hombre " procedencia="España">Lorenzo de Roma diácono (san)</person><!--Laurentinus--> 
-		<person id="L013" género="hombre " procedencia="">Losa, Francisco (fray)</person>
+		<person id="L013" género="hombre " procedencia="">Losa, Francisco (fray)</person> <!-- ¿Será el mencionado aqui? https://dbe.rah.es/biografias/12259/gregorio-lopez-->
 		<person id="L014" género="hombre " procedencia="España">Marco Anneo Lucano (poeta)</person>
 		<person id="L015" género="hombre " procedencia="Turquía">Luciano de Samosáta (sofista)</person>
 		<person id="L016" género="hombre " procedencia="Italia? ">Lucio Antonio (militar)</person>
@@ -327,7 +327,7 @@
 		<person id="L020" género="hombre " procedencia="">López de Ezeiza, Isidro</person>
 		<person id="L021" género="hombre" procedencia="España">López de Loyola, Íñigo</person> <!--Nombre repetido, ver I001-->
 		<person id="L022" género="hombre" procedencia="España">López, Gregorio (beato)</person>
-		<person id="L023" género="hombre" procedencia="">López, Gregorio (padre)</person>
+		<person id="L023" género="hombre" procedencia="">López, Gregorio (padre)</person> <!-- ¿Será este? https://dbe.rah.es/biografias/12259/gregorio-lopez-->
 		<person id="L024" género="hombre" procedencia="Austria">Leopoldo I de Habsburgo (rey)</person> <!--Leopoldo de Austria-->
 		<person id="L025" género="hombre" procedencia="Bélgica">Lambergio, Felipe (astrónomo)</person> <!--Philippe van Lansberge-->
 		<person id="L026" género="hombre" procedencia="Austria">Leopoldo de Austria</person> <!--Leopoldo de Austria S. XII-XIII. Compilador de un texto medieval muy influyente acerca de astronomía y astrología-->
