@@ -1,0 +1,1226 @@
+<?xml version="1.0"?>
+<TEI
+	xmlns="http://www.tei-c.org/ns/1.0"
+	xmlns:rng="http://relaxng.org/ns/structure/1.0" 
+	xml:lang="es"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="validation/document.xsd">
+
+
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			 <title type="main">
+				Fundación del convento [de Santa Teresa la Antigua]
+			</title>
+			<title type="short">Fundación del convento</title>
+			<author>Inés de la Cruz</author>
+		</titleStmt>
+	<editionStmt>
+		<edition n="2">
+			Edición digital de Fundación del convento
+   </edition>
+			  <respStmt>
+			  	<name>Clara Ramírez</name> 
+			  	<name>Claudia Llanos</name>
+			  	<resp>Dirección</resp> 
+			  </respStmt>
+			  <respStmt>
+			  	<name>Citlali Campos</name>
+				<resp>Localización y transcripción</resp>
+              </respStmt> 
+<respStmt>
+                <name>Daniela Pastor</name>                
+				<resp>Cuidado de la edición digital</resp>
+               </respStmt>
+               <respStmt>              
+                                                                                            
+                                <resp>Marcaje textual para la edición digital</resp>
+                                <name>Diana Barreto</name>
+                                <name>Iván Casasola</name> 
+                                <name>Atzin Bahena</name>
+                                <name>Yolanda García</name> 
+                                <name>Sofía Torres</name>
+                                <name>Mirna Flores</name> 
+                                <name>Citlali Campos</name>
+                                <name>Araceli Aguirre</name>
+                                <name>Gibran Bautista</name>
+                            </respStmt>
+			  	<respStmt>  
+			  	<resp>Revisión del marcado</resp>
+			  	<name>José Manuel López Villanueva</name>
+</respStmt>
+<respStmt>  
+			  	<resp>Curaduría digital</resp>
+			  	<name>Luis Fernando Duarte Felix</name>
+
+			</respStmt>
+			</editionStmt>
+<publicationStmt>
+    <publisher>
+      Instituto de Investigaciones sobre la Universidad y la Educación. Universidad Nacional Autónoma de México
+    </publisher>
+			<distributor>
+				Colección Escritos de mujeres. Siglos XVI al XVIII
+			</distributor>
+    <publisher> Facultad de Filosofía y Letras. Universidad Nacional autónoma de México</publisher>
+    <distributor>
+      Biblioteca Digital del Pensamiento Novohispano
+  </distributor>
+  
+  </publicationStmt>
+		
+		<sourceDesc>
+			<bibl>
+				El documento se encuentra en el archivo privado del Convento de Tlacopac, en San Ángel, en la Ciudad de México.
+                                No cuenta con signatura. El documento tiene 24 folios, en papel algodón, escritos por ambos lados, cosidos entre sí; cada folio mide 14 cm. de alto por 12 cm. de ancho.
+                                Se encuentra en un buen estado de conservación.
+                                Hay una transcripción del documento editada por Manuel Ramos Medina en Místicas y descalzas: fundaciones femeninas carmelitas en la Nueva España, 
+                                México, CONDUMEX, 1997.
+                        </bibl>
+		</sourceDesc>
+
+  </fileDesc>
+</teiHeader>
+
+
+
+<text>
+	<front>
+	<titlePage>
+<docTitle>
+<titlePart type="main">
+	FUNDACIÓN DEL CONVENTO ESCRIPTA POR NUESTRA
+
+	VENERABLE MADRE INÉS DE LA CRUZ.
+
+</titlePart>
+</docTitle>
+
+<titlePart type="portadilla">
+[Crismon]Este cuadernito, está escrito
+todo de letra de Nuestra Madre fu
+ndadora, <persName ref="catalogo_nombres_personas.xml#C034">Inés de la 
+	Cruz.
+</persName>
+</titlePart>
+</titlePage>
+</front>
+
+
+<body>
+<div><p>Folio 1 recto</p> 
+<p>
+	<persName ref="catalogo_nombres_personas.xml#J006">Jesús</persName>, <persName ref="catalogo_nombres_personas.xml#M018">María</persName>, <persName ref="catalogo_nombres_personas.xml#J013">José</persName>. </p>
+<p>Yten. En el nonbre de la <persName ref="catalogo_nombres_personas.xml#D010">sanctísima trinidad</persName>, padre,
+hijo y espíritu sancto y de mi <persName ref="catalogo_nombres_personas.xml#C040">madre y se
+ñora la gran Reina del Carmen</persName> oy <date when="1625-09-05">5		
+de setienbre de 1625</date> años, comienço
+a escrebir la fundaçión de <orgName ref="catalogo_nombres_organizaciones.xml#C015">San José
+de Carmelitas Descalças de México</orgName> para
+gloria de <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> y que sea serbido y ama
+do de las almas deste berjelito, que si
+puede aber zielo en la tierra lo es estos
+rincones donde El Señor se biene a
+recrear y alibiar de las ofensas que
+le haçen con su pecados [sic] esos yngra
+tos del mundo.</p>
+<note place="left margin">1 Junto con que habla de su convento</note>
+<note place="left margin">2 Obediençia</note>
+<p>Muchos días a que me mandó haçer
+esto nuestro padre probinçial, el padre <persName ref="catalogo_nombres_personas.xml#S008">fray Es
+teban de San José</persName>, y al presente
+el que tengo en lugar de <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName>, el padre
+<persName ref="catalogo_nombres_personas.xml#F017">Gaspar de la Figuera</persName> de la <orgName ref="catalogo_nombres_organizaciones.xml#C012">Conpañía 
+de Jesús</orgName>, a quien obedesco de muy</p></div>
+<div><p>Folio 1 verso</p>
+<p>buena gana, por entender es gusto
+de <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> En ber mobida la boluntad
+que asta aquí sentía repunançia;
+la memoria es poca, la torpeça mucha:
+el término desde que se fundó nueve
+años y medio mediante la graçia de <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName>
+diré lo que se me acordare.</p>
+<note place="left margin">3 Vocasión al estado religioso</note>
+<p>Desde que tube uso de de raçón deseé
+ser religiosa sin jamás aber tenido
+un brebe pensamiento contrario y que
+fuese en horden muy estrecha* sin otro
+discurso, sólo padeçer mucho por Él, que
+dio su vida por mí.</p>
+<note place="left margin">4 Deseos de padeçer</note>
+<p>Vibían mis padres en <placeName ref="catalogo_nombres_lugares.xml#T001">Toledo</placeName>, muy çer
+ca del <orgName ref="catalogo_nombres_organizaciones.xml#C015">conbento de carmelitas descalças</orgName>;
+no mereçí tomar allí el ábito por benir 
+se ellos a <placeName ref="catalogo_nombres_lugares.xml#">las Yndias</placeName> siendo yo de 14 años;
+mi madre y dos ermanas benían para mo
+rirse de pena; yo muy alegre pensan
+do habría ocasión en este reino para </p>
+<note place="left margin">5 Edad en que vino a <placeName ref="catalogo_nombres_lugares.xml#M001">México</placeName></note>
+<note place="left margin">6 Deseos de martyrio</note></div>
+<div><p>2</p>
+<p>morir mártir, así açía dicursos de los tor
+mentos que abía de padeçer; solo el pen
+sarlo me traía con ferbor*; tube por buen
+pronóstico llamarse el nabío en que be
+nimos de Sancta María, por la gran deboçi
+ón que tenía con <persName ref="catalogo_nombres_personas.xml#M018">Nuestra Señora</persName>. Llegada
+a esta <placeName ref="catalogo_nombres_lugares.xml#C015">ziudad</placeName>, pensé ser luego monja; di
+latose asta tener 18 años. Sienpre me
+an benido grandes vienes por medio de
+los padres de la <orgName ref="catalogo_nombres_organizaciones.xml#C012">Compañía</orgName>: uno que me
+confesaba, viendo que mis padres esta
+ban remisos, me conçertó en el <orgName ref="catalogo_nombres_organizaciones.xml#C016">conben
+to de Jesús María</orgName>; dentro de un día tomé el
+ábito, aunque con gran dolor de mi <term type="body" ref="catalogo_terminos.xml#C003">coraçón</term> por no ser en las <orgName ref="catalogo_nombres_organizaciones.xml#C015">descalças</orgName>. Fue el
+más alegre día que asta allí había te
+nido por salir de un mundo que yo
+tan mal quería. Tomé el ábito bi
+ernes de la octaba de resureçión a
+<date when="1588-04-22">22 de abril de 1588 años</date>.
+</p> 
+<note place="left margin">1 Amor a Nuestra <persName ref="catalogo_nombres_personas.xml#M018">Virgen María</persName></note>
+<note place="left margin">2 Entra en la religión</note>
+</div>
+<div>
+<p>Folio 2 verso</p>
+<note place="left margin">3 <term type="body" ref="catalogo_termonos.xml#E004">Enfermedad</term> que tubo en <orgName ref="catalogo_nombres_organizaciones.xml#C016">Jesús María</orgName></note>
+<p>A seis o siete años de profesión <term type="body" ref="catalogo_termonos.xml#E004">enfermé</term>
+sin saber los médicos, aunque eran bue
+nos, de qué <term type="body" ref="catalogo_termonos.xml#A005">achaque</term>, porque no era 
+de su facultad -yo tube la mayor cul
+pa en no declararme. Con los muchos 
+remedios me <term type="body" ref="catalogo_termonos.xml#E004">enfermaron</term> dexándome 
+<term type="body" ref="catalogo_termonos.xml#D002">desauçiada</term>, mas sanome el médico del çielo 
+porque no se había llegado el término de 
+la partida. Estube más de ocho años sin
+quitárseme <term type="body" ref="catalogo_termonos.xml#C010">calentura</term>, me dio ética y otros 
+<term type="body" ref="catalogo_termonos.xml#A005">achaques</term> que me obligaban a comer car
+ne asta el viernes santo, y estar lo más 
+en la cama sin poder pasar sin tomar algo
+cada rato de noche, que si no me desmaya
+ba que pareçe me moría.</p>
+<p>Viendo se me pasaba la vida tan misera
+blemente, determiné morirme sigiendo co
+munidad; con no açer más remedios fuy 
+mejorando quando del todo perdí el mie
+do a la muerte, me dio El Señor más ente
+ra <term type="body" ref="catalogo_termonos.xml#S003">salud</term> que a otras, y con las pocas fuer
+</p>
+<note place="left margin">4 Coro y comunidad</note>
+</div>
+<div>
+<p>3</p>
+<p>cas que siempre e tenido, quiso <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> hiçiese 
+más que los fuertes.
+</p>
+<note place="right margin">1 Inspiración de ser carmelita</note>
+<p>Bolbiéronme mis antiguos deseos de ser car
+melita con huna behemente inspiración
+de procurar fundar un conbento; entre o
+tros motibos que me obligaban, fue que 
+pues yo abía estado tan tibia en la religi
+ón y no conseguido el fin para que entré, 
+y como <term type="body" ref="catalogo_termonos.xml#D002">desauçiada</term> de mejorarme por mi ru
+yndad que las ocupaçiones de ofiçios, y ser 
+muchas las religiosas, me dibertían y de 
+tenían procurando se hiçiese este conbento;
+quería ser parte para que algunas sirbi
+esen a <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> como ánjeles en la tierra, suplien
+do lo que yo había faltado, y entre ellas 
+estarme yo en una çelda como en un desi
+erto*, que siempre e sido muy afiçionada a so
+ledad. Y llebada desta ynclinaçión cu
+ando era niña, poco más de çinco años, que
+leía las vidas de los hermitaños, pensé no 
+era mayor el mundo que sola la çiudad
+y que en saliendo fuera era todo desi  
+</p>
+<note place="left margin">2 Retiro</note>
+</div>
+<div>
+<p>Folio 3 verso</p>
+<note place="right margin">2 Martyrio</note>
+<note place="left margin">3 y no supe decir quién eran mis padres</note>
+<p>erto, determiné un día huirme a ser hermita
+ña; a pocas calles me perdí, y otro día me 
+pregonaron. Aquella noche me recogieron en una casa. 
+Así mesmo, tenía mucha ynclinaçión a mo
+rir mártir quando mis padres vinieron
+a <placeName ref="catalogo_nombres_lugares.xml#I008">las Yndias</placeName>; mi madre y dos ermanas pareçe
+se querían morir de pena; yo benía conten
+tísima pensando abría ocasión para mo
+rir mártir.* En todo descubría mi ynoran
+çia; así fue en esta fundaçión que se me
+figuraban como sanctas pintadas sin 
+ocupaçiones <term type="body" ref="catalogo_termonos.xml#C002">corporales</term>, que hera de lo que
+yo huía; fue esto tan sin discurso que pi
+enso me çegó <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName>, porque mucho tien
+po después adbertí que acá abía de tra
+baxar y tener cuidados, y me dio tan gran 
+tristeça y tentaçión de dexarlo, mas no 
+quiso <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName>. Hiçe huna determinaçión de 
+procurar esta fundación con todas mis fuer
+ças, por todos los medios líçitos, sin dexar de
+açer dilijençia ninguna que se me alcança
+se por dificultosa que fuese, y lo prinçipal,</p>
+<note place="right margin">3 humildad</note>
+<note place="right margin">4 determinación a la fundación</note>
+</div>
+<div>
+<p>4</p>
+<note place="right margin">1 resignación</note>
+<p>pedir a <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> el açierto; así lo cunplí doçe años
+que andube en la demanda*. Lo bueno que
+en esto abía, es que en açiendo lo que era
+de mi parte dexaba lo demás que obrase <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName>
+quedándome en gran paz y recsinaçión
+en lo quel Señor hordenaba sin ynquie
+tud ninguna, y sienpre confiada en que
+abía de açerse, y más quando algunas dili
+jençias me salían en bano; allí esperaba
+más en que <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> abía de tomar la mano,
+como así fue. Sea por sienpre bendito.
+</p>
+<note place="right margin">2 confiança</note>
+<p>Tube notiçia de un honbre llamado <persName ref="catalogo_nombres_personas.xml#R007">Juan
+Luis de Ribera</persName>, que abía muchos años de
+seaba haçer un <orgName ref="catalogo_nombres_organizaciones.xml#C009">conbento</orgName> de <orgName ref="catalogo_nombres_organizaciones.xml#C015">religiosas
+carmelitas</orgName>, y para su fundaçión conprado
+las casas en questamos, que le costaron 18
+mil pesos, y abía enbiado a <placeName ref="catalogo_nombres_lugares.xml#E001">España</placeName> por religio
+sas para su fundaçión porque no quería
+fu[e]sen de <placeName ref="catalogo_nombres_lugares.xml#M001">México</placeName> y no se las abían que
+rido dar; pienso que fue éste a quien
+se las negó nuestra <persName ref="catalogo_nombres_personas.xml#M018">sancta madre</persName> como aquí
+diré.
+</p>
+<note place="right margin">3 tiene noticia de <persName ref="catalogo_nombres_personas.xml#R007">Juan Luis de Rivera</persName></note>
+</div>
+<div>
+<p>Folio 4 verso</p>
+<note place="left margin">4 Profeçía de <persName ref="catalogo_nombres_personas.xml#T003">Santa Teresa</persName> de la fundación de esta casa</note>
+<p>Publicándose cómo se açía este <orgName ref="catalogo_nombres_organizaciones.xml#C015">conbento</orgName>, 
+bino de muy lexos un benefiçiado hon
+bre de edad y habló con el <persName ref="catalogo_nombres_personas.xml#Q001">doctor Quesa
+da</persName>, questaba açiendo la obra; cojióle a 
+la puerta y le abraçó y dixo que benía 
+de su partido a sólo darle estas buenas
+nuebas quél se alló con nuestra sancta madre, 
+<persName ref="catalogo_nombres_personas.xml#T003">Teresa de Jesús</persName>, que andaba açiendo las 
+fundaçiones, y vido que fueron de <placeName ref="catalogo_nombres_lugares.xml#M001">Méxi
+co</placeName> a pedirle fundaçión, y que la <persName ref="catalogo_nombres_personas.xml#T003">sancta</persName> 
+prometió dar religiosas, y después vido 
+que se benían sin traerlas, y preguntó
+por qué, respondiéronle que deçía la 
+sancta que haora no era boluntad 
+de <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> que se hiçiese, que andando el 
+tienpo se fundaría como si ella lo hiçie
+se; con esto se bolbieron.
+</p>
+<note place="left margin">5 Escribe a <persName ref="catalogo_nombres_personas.xml#R007">Juan Luis de Rivera</persName></note>
+<p>Escrebí al dicho <persName ref="catalogo_nombres_personas.xml#R007">Juan Luis de Ribera</persName>
+un día de <date when="--05-03">sancta cruz de mayo</date> con par
+ticular mobimiento de <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName>, porque 
+jamás le abía visto ni ablado, unas</p></div>
+<div><p>5</p>
+<p>brebes raçones diçiendo que pues no le que
+rían dar fundaçión <placeName ref="catalogo_nombres_lugares.xml#E001">despaña</placeName>, que ya lo era, 
+y suplica la graçia de <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName>; lo demás porque siempre me abía dado deseos de ser 
+carmelita. Enbiéle la carta con un ca
+pellán en gran secreto; con el mesmo, me 
+respondió luego que se alegraba mucho 
+de oýrlo y así me nonbraba por funda
+dora; y para lo demás que se abía de con
+çertar, vino <placeName ref="catalogo_nombres_lugares.xml#C010">alocutorio</placeName>, ofreçió las casas, 
+1500 pesos de renta y lo demás neçesario; 
+enpero, pidió condiçiones que no se le podí
+an conçeder, aunque nunca se hiçiera;
+aunque no le mostré disgusto, díxele 
+enbiase a <placeName ref="catalogo_nombres_lugares.xml#R001">Roma</placeName> por brebe, entre tanto
+beríamos lo que conbenía. Comunique 
+lo con nuestro padre fray <persName ref="catalogo_nombres_personas.xml#S005">Pedro de San Ylarión</persName>, pri
+or al presente <orgName ref="catalogo_nombres_organizaciones.xml#C017">del Carmen</orgName>, y que abía
+benido por fundador de los padres <placeName ref="catalogo_nombres_lugares.xml#E001">despa
+ña</placeName>, tratolo con el dicho <persName ref="catalogo_nombres_personas.xml#R007">Juan Luis de Ri 
+bera</persName> y diome los consejos que conbenía.
+</p>
+<note place="left margin">1 Comunica con los padres carmelitas</note>
+</div>
+<div>
+<p>Folio 5 verso</p>
+<note place="left margin">2 Viene el arçobispo <persName ref="catalogo_nombres_personas.xml#J029">Gerónimo</persName></note>
+<p>En este tiempo vino a <placeName ref="catalogo_nombres_lugares.xml#M001">México</placeName> el arçobis
+po <persName ref="catalogo_nombres_personas.xml#J029">Jerónimo</persName>, por estremo afiçionado a 
+nuestra sagrada religión, y deseoso que 
+se fundase un conbento de religiosas;
+comuniquelo con él, y tratolo con <persName ref="catalogo_nombres_personas.xml#R007">Juan Luis 
+de Ribera</persName>; primero se los llebó <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> a anbos, 
+que se hiçiese nada; murió ocho días an
+tes  <persName ref="catalogo_nombres_personas.xml#R007">Juan Luis de Ribera</persName>, dexó en su testa
+mento se hiçiese la fundaçión como de
+xaba conçertado con el señor arçobispo, y
+que diesen las casas y quatro mil pesos pa
+ra sacristía y mil y quinientos pesos de
+renta, y en caso que no alcançase las
+mandas de sus erederos al cumplimiento, 
+diesen las casas y los quatro mil pesos por 
+obra pía; esto quedó en pleito que concluió 
+después el <persName ref="catalogo_nombres_personas.xml#Q001">doctor Quesada</persName>, como diré a 
+su tienpo. Desde luego que di el primer paso en pre 
+tender esto, fue de un pareçer con la madre 
+<persName ref="catalogo_nombres_personas.xml#E028">Mariana de la Encarnaçión</persName>, començé a
+</p>
+<note place="left margin">3 Mueren el señor Arçobispo y <persName ref="catalogo_nombres_personas.xml#R007">Juan Luis</persName></note>
+<note place="left margin">4 Comunican sus almas las dos fundadoras con el padre <persName ref="catalogo_nombres_personas.xml#A058">Araujo</persName> dominico</note>
+</div>
+<div>
+<p>6</p>
+<p>comunicarla desta manera; las dos tratá
+bamos con un gran sierbo de <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName>, reli
+gioso dominico llamado <persName ref="catalogo_nombres_personas.xml#A058">fray Jerónimo
+de Araujo</persName>, pudiera deçir mucho de sus pren
+das y virtud; llamole <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> la noche que 
+se desposó en <placeName ref="catalogo_nombres_lugares.xml#G005">Galiçia</placeName>, dexó toda la jente 
+en la fiesta y fuese por las religiones 
+a ber en cual le querían reçebir; al fin que
+dó en <orgName ref="catalogo_nombres_organizaciones.xml#O005">sancto Domingo</orgName>. Su çiençia más fue 
+ynfusa que de escuelas, por el gran fru
+cto que açía; con ser vien extraño quiso
+<persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> nos tratase mucho; con él me confesé, 
+jeneralmente para morir, que para eso es
+taba entonces desauçiada; viéndome tan 
+sola, le rogó a la madre <persName ref="catalogo_nombres_personas.xml#E028">Mariana</persName>
+que me curase, y ella lo hiço con tan gran cuidado 
+como si se lo mandara <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName>. De aquí quedé 
+obligada a açerle todo el vien que pudi
+ese; así lo tratamos juntas aunque por 
+sus muchas enfermedades no estaba re
+suelta de traerla asta lo que diré des
+</p>
+<note place="left margin">1 Enfermedad grande de la madre <persName ref="catalogo_nombres_personas.xml#C034">Inés de la Cruz</persName></note>
+</div>
+<div>
+<p>Folio 6 verso</p>
+<note place="left margin">2 Diligençias para la fundaçión</note>
+<p>pués; tenía hecho boto de ser carmelita, y de 
+procurarlo, afiçionábame mucho su buen jui
+çio y abilidad, y para mucho trabajo y 
+yo para nada buena, açíamos todo lo que 
+podíamos. Yo no perdía ocasión de soliçi
+tarlo; dos beçes enbié por brebe: la una se
+murió el religioso que yba, la otra se hiço 
+tanto como nada, todo en gran secreto y con 
+consexo de mis padres <orgName ref="catalogo_nombres_organizaciones.xml#O006">del Carmen</orgName> y en el a
+çierto vía los mobía <persName ref="catalogo_nombres_personas.xml#E028">Dios</persName>. Mas todo lo bue
+no trae contradiçión, como entonçes se of[r]e
+çió, y mandaron no tratasen de ello ni bi
+niesen al conbento, sólo por escrito diesen
+su pareçer, si se lo pidiesen.
+</p>
+<note place="left margin">3 Quiere la prelada ser carmelita</note>
+<p>Otro buen trabaxo se me ofreçió en el conben
+to, que huna religiosa muy grabe, y en
+tonçes perlada de gran entendimiento y
+virtud, que dentro y fuera la tenían
+por una <persName ref="catalogo_nombres_personas.xml#G008">sancta Gertrudis</persName>, enparentada y 
+con muchas amigas, dio en que abía de ser
+carmelita y açer la fundadión [sic], no sólo no 
+açía dilixençias, sino que por su respeto</p></div>
+<div><p>7</p>
+<p>no las podía yo açer, ni escrebir una letra
+sin rejistro, ni hablar palabra, porque 
+era toda la casa suya, y con espías, y lo 
+peor que abía era que éramos amigas,
+y tenía obligaçión de comunicarle mi
+yntento. Dibirtióse con el ofiçio y al
+gunas deboçiones, y quedé algo libre, a
+unque podía poco, por no desgustarla, 
+arto pudiera deçir en que se mereçió.
+Con sola la madre <persName ref="catalogo_nombres_personas.xml#E028">Mariana</persName> lo comunicaba y
+las dos pusimos los <term type="body" ref="catalogo_terminos.xml#O001">ojos</term> en una gran re
+ligiosa llamada <persName ref="catalogo_nombres_personas.xml#C025">Ana de la Conçepçión</persName>, pa
+ra traerla por perlada, fuera singular
+bentura conseguirlo por su mucha virtud 
+y talento, capaz para gobernar todos los con
+bentos deste reino al presente. Era abadesa
+y tenida por sancta. Comunicaba en espíritu con nuestra <persName ref="catalogo_nombres_personas.xml#T003">sancta madre</persName> y deseaba mucho ser car
+melita, si <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> se lo ofreçiese, de su parte no
+açía ninguna dilijençia. Antes que la  <persName ref="catalogo_nombres_personas.xml#T003">san
+cta madre</persName> fuese beatificada, <date when="--10-15">su día</date> le cantá
+bamos unas bísperas muy solenes en el ora</p>
+<note place="left margin">1 Las dos solas comunican y con la madre <persName ref="catalogo_nombres_personas.xml#C025">Ana de la Conçepçión</persName></note></div>
+<div><p>Folio 7 verso</p>
+<p>torio; un día después destas vísperas, esta si
+erba de <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> dixo quería entrar en nobi
+[ci]ado para ber si podría cunplir su regla,
+y fue un año nobiçia, cunpliendo la regla 
+<orgName ref="catalogo_nombres_organizaciones.xml#O006">del Carmen</orgName>; y en la cama de la enfermedad
+de la muerte profesó la regla <orgName ref="catalogo_nombres_organizaciones.xml#O006">del Carmen</orgName>,
+y que sería su religiosa si vibiese. Llevó
+sela <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> con señales de yrle a goçar. Esta 
+religiosa es la questá en el libro del sier
+bo de Dios, que vido la proçesisión [sic] que allí
+diçe del padre <persName ref="catalogo_nombres_personas.xml#L022">Gregorio López</persName>; era mucho nuestra ami
+ga y por su consexo nos gobernábamos. 
+</p>
+<note place="left margin">2 Comunica con la >madre <persName ref="catalogo_nombres_personas.xml#C035">Marina de la Cruz</persName></note>
+<p>Así mesmo, desde que tomé el ábito, comuniqué
+con otra religiosa llamada <persName ref="catalogo_nombres_personas.xml#C035">Marina de la
+Cruz</persName>, tenida por sancta desde seglar, hera de
+<placeName ref="catalogo_nombres_lugares.xml#G006">Granada</placeName> y viuda; con una su hija entró 
+religiosa; muriose la hija nobiçia; estubo 
+la madre para morirse de pena: açertó a tomar 
+entonçes el ábito, admitiome en lugar de 
+su hija, con que se consoló esta perfecta 
+religiosa. Tubo espíritu de profeçía desde 
+moça, que siempre fue muy virtuosa
+</p></div>
+<div><p>8</p>
+<p>en vida, y en muerte hiço muchos mila
+gros al conbento: libró dos beçes de fuego 
+que a desora de la noche se quemaba la ca
+sa, hiço abrir las puertas y que lo baxa
+sen [a] apagar a muchas personas del convento,
+y fuera deçía sus tentaçiones y daba re
+medios y la comunicaban muchos sierbos 
+de <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName>; açía vida tan penitente como si fue
+ra de yerro; apenas se creerá sino quien 
+lo vido que se pasaba con sola una bebida 
+de atole por las mañanas sin comer otro bo
+cado; un confesor suyo, llamado <persName ref="catalogo_nombres_personas.xml#M025">Pedro de la 
+Mota</persName>, ermano del obispo de la <placeName ref="catalogo_nombres_lugares.xml#P018">Puebla</placeName>, escri
+bió su vida y della algunos libros que 
+repartió en las ziudades. Esta religiosa es
+tanbién la que diçe en el libro del sierbo de
+<persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> <persName ref="catalogo_nombres_personas.xml#L022">Gregorio López</persName>; estando el siervo de <persName ref="catalogo_nombres_personas.xml#D010">Di 
+os</persName> enfermo, y desto con cuidado las religio
+sas, un día, a las doçe, subiendo de las gra
+çias del refitorio, nos encontró la madre <persName ref="catalogo_nombres_personas.xml#C035">Marina</persName>, 
+que baxaba de su çelda, y dixo quen aquel
+</p>
+</div>
+<div>
+<p>Folio 8 verso</p> 
+<p>punto acababa despirar y estaba goçando 
+de <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName>; y así allamos que fue.</p>
+<p>Esta relixiosa tenía mucha comunicaçión 
+con nuestra sancta madre <persName ref="catalogo_nombres_personas.xml#T003">Teresa de Jesús</persName> y la lla
+maba ermana. Un día después de prima, estan
+do yo con la madre <persName ref="catalogo_nombres_personas.xml#C025">Ana de la Conçepçión</persName>, bino 
+muy alegre y le dixo a la madre <persName ref="catalogo_nombres_personas.xml#C025">Ana</persName> que buena 
+visita abía tenido aquella noche, y ella 
+no la entendió. Y fue el caso que, despu
+és de maitines, se bolbía la madre <persName ref="catalogo_nombres_personas.xml#C025">Ana de la Con
+çesión</persName> a su cama por questaba enferma; yo 
+me quedaba en el coro y a las quatro la 
+llamaban a oraçión, biniendo aquella no
+che a llamarla al punto que acababan de dar,
+la allé lebantada; díxele: "<q who="Inés de la Cruz">¿Pues cómo madre, ya 
+está en oraçión?</q>" Respondió: "<q who="Ana de la Concepción">Ya me a llama
+do dos beçes, y con ésta son tres</q>". Viendo la 
+madre <persName ref="catalogo_nombres_personas.xml#C035">Marina</persName>, que no sabía quién la abía 
+llamado, la dixo: "<q who="Ana de la Concepción">Mi ermana <persName ref="catalogo_nombres_personas.xml#T003">Teresa de Jesús</persName> 
+me fue anoche a decir lebántese a oraçión
+que ella yba a recordar tanbién a la madre</q>
+</p>
+</div>
+<div>
+<p>9</p>
+<p><q who="Ana de la Concepción"><persName ref="catalogo_nombres_personas.xml#C025">Ana</persName></q>", entonçes adbirtió y nos dixo que por
+donde yo la solía llamar, que dormía jun
+to a ella, le habían dicho "<q who="Santa Teresa de Jesús">Lebántase a alabar
+a <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> questa</q>", y se estubo queda y bolbió segunda
+bez y le alçó el paño de la cama y se sen
+tó en ella; y le pareció a la madre <persName ref="catalogo_nombres_personas.xml#C025">Ana</persName> questa
+ba muy blanca y le dixo "<q who="Santa Teresa de Jesús">Levántese si se
+a de lebantar</q>", y luego se puso en oraçión, don
+de yo la allé terçera vez.</p>
+<p>Siendo perlada esta sierva de Dios, llegó a lo úl
+timo, ayudándola a morir, todas afligidas por
+que era amparo de la virtud. Entró la madre <persName ref="catalogo_nombres_personas.xml#C035">Ma
+rina</persName> y nos dixo: "<q who="Marina de la Cruz">No lloren hijas, que aora
+no morirá su perlada; otra pagará por ella,
+que ya tengo ofreçida mi vida a <persName ref="catalogo_nombres_personas.xml#CD010">Dios</persName></q>". Así
+fue que la una sanó y la otra cayó, y mu
+rió de aý a dos días; habíale dicho nuestro Señor 
+moriría en biernes sancto; viendo ella que
+faltaba mucho, le preguntó a nuestro Señor có
+mo abía de ser y le respondió: "<q who="Dios">Anda <persName ref="catalogo_nombres_personas.xml#C035">Mari
+na</persName> que todos los viernes son sanctos</q>". Así
+murió, biernes, a las onçe del día, <date when= "--01-17">17 de enero</date>.
+</p></div>
+<div><p>Folio 9 verso</p>
+<p>Cada noche me yba después de bendeçir a su
+cama, que hera una tabla y una piedra; no
+se desnudaba por questaba todo el <term type="body" ref="catalogo_terminos.xml#C002">
+cuerpo</term> a
+tado de cadenas y rallos. Contábame lo que
+aquel día le había pasado con nuestro Señor, y re
+belaçiones, y me daba gran consuelo deciŗme [sic]
+<persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> me quería vien.</p>
+<note place="left margin">Enfermedad de la Madre <persName ref="catalogo_nombres_personas.xml#C034">Inés</persName> [debajo: dibujo de una mano con el dedo índice señalando el texto]</note>
+<p>Quando los médicos me dexaron, le dixe: "<q who="Inés de la Cruz">Madre en
+comiéndeme a <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName>, que me muero</q>", respondió:
+"<q who="Ana de la Concepción">No hija, no se morirá tan presto, mucho le
+queda qué pasar, quel <orgName ref="catalogo_nombres_organizaciones.xml#C015">conbento de San
+José</orgName> se hará, y tendrá dos puertas: a la
+una la guardará <persName ref="catalogo_nombres_personas.xml#T003">nuestra señora</persName> y a la otra,
+<persName ref="catalogo_nombres_personas.xml#J013">San José</persName>, y en él se serbirá mucho nuestro
+Señor</q>".</p>
+<p>Por que concluya con el vien que me hiço es
+ta sierba de <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName>, lo remato con lo que me su
+çedió después que falleçió.</p>
+<p>Mi mayor cuidado hera pedir a nuestro Señor que
+si esta fundaçión hera para su serbiçio,
+se efetuase por ynterçesión de mi madre y
+señora la <persName ref="catalogo_nombres_personas.xml#M018">Virgen</persName> sanctísima quen todas </p>
+<note place="left margin">Devoción a <persName ref="catalogo_nombres_personas.xml#M018">nuestra señora</persName> la qual alcançó de <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> esta fundaçión</note></div>
+<div><p>10</p>
+<p>[crismón] ocasiones me ha echo merced, amparando a esta su
+esclabilla; pareçiome vía en espírutu [sic] a la <persName ref="catalogo_nombres_personas.xml#D010">Sanctí
+sima Trinidad</persName> En una ynmensidad de glo
+ria en forma de globo, y a <persName ref="catalogo_nombres_personas.xml#M018">nuestra señora</persName> pidiendo
+la dicha fundaçión y se la conçedió, no sé en qué 
+modo fue que no vide nada, digo persona nin
+guna distinta, mas entendilo así, y quedome 
+çertidunbre que se aría aunque yo no allaba más 
+que deseos.</p>
+<note place="left margin">1 Certificación del <orgName ref="catalogo_nombres_organizaciones.xml#C015">Convento</orgName> con <term type="body" ref="catalogo_terminos.xml#M001">mano</term> de <persName ref="catalogo_nombres_personas.xml#M018">nuestra señora</persName></note>
+<p>Así mesmo, tratamos la madre <persName ref="catalogo_nombres_personas.xml#E028">Mariana</persName> y yo de to
+mar dos sanctos para procuradores en el zie
+lo; dixo ella escojía a nuestra sancta madre <persName ref="catalogo_nombres_personas.xml#T003">Teresa de
+Jesús</persName>; yo dixe: "<q who="Inés de la Cruz">Escoxo a la sancta de mi conben
+to, la madre <persName ref="catalogo_nombres_personas.xml#C035">Marina de la Cruz</persName></q>", que abía poco era 
+muerta, de aý algunos días, que me suçedió lo 
+que arriba dexo dicho. Estando en mi cama, en
+comendándolo a <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName>, la vide pasar por delante
+con su ábito muy blanco y una muçeta, como 
+que hiba de camino muy apriesa y me dixo:
+"<q who="Marina de la Cruz">Hija, <persName ref="catalogo_nombres_personas.xml#M018">nuestra señora</persName> alcansado de su hijo el açer
+se la fundaçión</q>", y pasó adelante; no fue es
+to con <term type="body" ref="catalogo_terminos.xml#O001">ojos</term> <term type="body" ref="catalogo_terminos.xml#C002">corporales</term>.
+</p></div>
+<div><p>Folio 10 verso</p>
+<note place="left margin">2 Conoçe quando se concedió el brebe</note>
+<p>Por benir en este lugar digo un punto estan
+do en el coro, donde tomaba los exerçiçios, 
+de dies días que mis padres <orgName ref="catalogo_nombres_organizaciones.xml#O006">
+del Carmen</orgName> a
+bían yntroduçido, y ya los açe todo el con
+bento pidiéndole a nuestro Señor tubiese efe[c]
+to esta fundaçión, si conbenía a su ser
+biçio, entendí ynteriormente solas es
+tas dos palabras: "<q who="Dios">Hija, harase</q>", y presto
+así las escrebí en mi divino el día, mes y 
+año. Después que vino el brebe, allé por 
+esta cuenta se había conçedido dies días 
+después, esto hera quando el señor ar
+çobispo enbió por el brebe.  
+</p>
+<note place="left margin">3 Tratan de traer carmelitas de la <placeName ref="catalogo_nombres_lugares.xml#P018">Puebla</placeName></note>
+<p>Buelta a lo que yba diçiendo, cómo <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> lle
+bó a la madre <persName ref="catalogo_nombres_personas.xml#C025">Ana de la Conçeçión</persName>, pedimos con
+sexo a nuestros padres en traer algunas religio
+sas del <orgName ref="catalogo_nombres_organizaciones.xml#C015">conbento de carmelitas de la Puebla</orgName>; la 
+señora marquesa se las pidió al obispo, res
+pondió que para su casa no tenía. Tratá
+bamos de yr las dos a tener el nobiçiado 
+allá; esto hera más a mi propósito por pa
+reçerme más mortificaçión a <persName ref="catalogo_nombres_personas.xml#J006">Jesús</persName> de mi 
+alma, y que se pareçió en el discurso de 
+</p>
+<note place="left margin">4 humildad</note>
+<note place="left margin">5 Trabajos</note>
+</div>
+<div>
+<p>11</p>
+<note place="left margin">1 Viene el señorarzobispo y comunícale</note>
+<p>tanto tiempo por tener opuesta a la que ten
+go dicha, que era como de huna hormiga con 
+un elefante. Así mesmo, pretendían esta fun
+daçión en otros conbentos. Y hunas beatas, 
+que a solo esto binieron <placeName ref="catalogo_nombres_lugares.xml#E001">despaña</placeName> y traían re 
+caudos, al fin se pasaron grandes baraúndas, 
+sin <term type="body" ref="catalogo_terminos.xml#P002">pies</term> ni <term type="body" ref="catalogo_terminos.xml#C001">cabeça</term>, dando traças al ayre ni po
+día escrebir ni hablar a nuestros padres; huno 
+dellos, a lo que entiendo, con particular mo
+bimiento de <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName>, nos vino a dar muchas 
+adbertençias, como en cosa echa; al fin se 
+acabaron los nublados y amaneçía la luz.
+Con la benida del señor arçobispo en las pri
+meras vistas de los <orgName ref="catalogo_nombres_organizaciones.xml#C009">conbentos</orgName>, fue a <orgName ref="catalogo_nombres_organizaciones.xml#C016">Jesús 
+María</orgName>, y por saber hera muy afiçionado a nuestra 
+sagrada religión, le ab[l]é y di parte de mis 
+yntentos; allele deseoso de fundar un con
+bento, y para esto dixo abía enbiado por bre
+be, luego que saltó en el puerto, de los primeros 
+treçientos pesos de su salario; preguntele que por 
+qué camino; respondió su yntento era 
+de todos sus <orgName ref="catalogo_nombres_organizaciones.xml#C009">conbentos</orgName> escoxer las religio
+sas más oserbantes: de uno, dos; de otro, tres 
+</p>
+<note place="left margin">2 Como quería su Ilustrísima haçer la fundaçión</note>
+</div>
+<div>
+<p>Folio 11 verso</p>
+<note place="left margin">3 Sancta madre cuenta del testamento de <persName ref="catalogo_nombres_personas.xml#R007">Juan Luis de Rivera</persName></note>
+<p>o huna, asta cumplir el número; acuér
+dome que le dixe: "<q who="Inés de la Cruz">Eso será haçer una lei
+de muchas setas</q>"; como su deseo era de
+açertar sin otros respectos de tierra, miro 
+lo con más consideraçión; dile noticia del 
+testamento de <persName ref="catalogo_nombres_personas.xml#R007">Juan Luis de Ribera</persName>, y to
+mó a su cargo el soliçitarlo como si fuera 
+el mayor de los negoçios de su arçobispado; 
+hiço açer ynformaçión de cómo el difunto de
+xaba nonbradas por fundadoras a la madre <persName ref="catalogo_nombres_personas.xml#E028">Ma
+riana</persName> y a mí. Hiçose con tres testigos, aun 
+que no fue de ynportançia porque pidiéndo
+le algunas personas al señor arçobispo la ad 
+mitiese y hiçiese el nonbramiento en las 
+dos, dixo que era ynformaçión de conpadres,
+que mejor nos estaba el nonbramiento a títu
+lo de méritos que de derecho; y así lo hiço, 
+enbió al conbento un notario y escribano 
+que diésemos poder para que su açedor 
+en <placeName ref="catalogo_nombres_lugares.xml#R013">Roma</placeName> procurase los recaudos; fue
+ron en abiso; entretanto se siguió acá el
+pleito.
+</p>
+</div>
+<div>
+<p>12</p>
+<note>1 Breve del tal al <persName ref="catalogo_nombres_personas.xml#Q001">doctor Quesada</persName></note>
+<p>Mobió <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> a un oydor llamado <persName ref="catalogo_nombres_personas.xml#Q001">Juan Que
+sada de Figueroa</persName> a tomar esta causa por
+tan propia, como si le ynportara su sal
+baçión, y lo concluyó en brebe tienpo; y mos
+tró el señor darse por serbido, pues no se lo pagó 
+en pajas, si no con mucha gloria, y en esta 
+vida con pribarle del osio y nabegaçiones 
+y muertes de hijos, y después le llebó 
+a él a goçarle.</p>
+<note place="left margin">2 Comunican a la mujer del <persName ref="catalogo_nombres_personas.xml#Q001">doctor Quesada</persName></note><p>
+Fue así: su muger del dicho oydor era ene
+miga de monjas; habíale pedido de condiçión
+quando se casó, que no abía de tratar con 
+monjas. Los dos heran muy debotos de <persName ref="catalogo_nombres_personas.xml#C040">nuestra 
+Señora del Carmen</persName> y bienechores de nuestros 
+padres. El padre que me comunicaba abía 
+muchas beçes rogado a esta señora que 
+nos biera, y nunca lo pudo acabar con
+ella; ofreçiósele una ocasión que deseaba
+mucho: hiço boto que si lo alcançaba, nos 
+bería. Luego se le cunplió y se alló obliga
+da; fue a bernos y quedó tan afiçionada</p></div>
+<div><p>Folio 12 verso</p>
+<note place="left margin">3 Dase la sentençia en fabor de la fu[n]daçión</note>
+<p>que hiço con el <persName ref="catalogo_nombres_personas.xml#Q001">doctor</persName> que nos visitase; 
+encargose de lo que perteneçía a la fun
+daçión. Desde aquel día, corrió todo por
+su cuenta, soliçitó el pleito hasta el fin, 
+y fue vien menester el fabor de <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> 
+y sus dilijençias, y aun con todo salió 
+algunas beçes en discordia. Y la última
+sentençia estaba para darse en fabor 
+de los erederos, y lo tenían ya ellos como 
+cosa propia; viendo esto, el <persName ref="catalogo_nombres_personas.xml#Q001">doctor</persName> le
+dixo a otro oydor, muy sierbo de <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName>:
+"<q who="Juan Quesada de Figueroa">¿Por qué quiere dar contento al diablo 
+en ynpedir esta fundaçión?</q>"; tubo escrúpu
+lo y mobimiento de <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName>, y quedó botado en 
+nuestro fabor, <date when="--05-30">bíspera de nuestra Señora de la Visita
+çión</date>, en que entregase las casas y quatro mil 
+pesos por obra pía, sino alcançasen los vienes 
+a dar la renta, y quedase libre del patro
+nasgo, que fue lo que mejor nos estubo.
+</p>
+<p>Huna persona ofreçió tres mil pesos de renta 
+por ser patrón, y no le admitimos; esto fue 
+después de fundado.</p></div>
+<div><p>13</p>
+<note place="left margin">1 Es la liçençia del Vi Rey</note>
+<p>El señor arçobispo estaba muy remiso de
+ber no había persona que diese renta, y la 
+liçencia no la quería dar el señor virrei pa
+ra la fundaçión sin algún caudal, ofreçió 
+<persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> un vienechor que dio una escritura 
+de un çenso de 18 mil pesos, tan mal ynpuesto
+que asta el día de oy está en pleito, sin a
+berle cobrado nada. Quiso <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> sirbiese sólo 
+el nonbre y sonbra para no negar la liçen
+çia. Acuérdome dixe al señor arçobispo: "<q who="Inés de la Cruz">No re
+pare vuestra señoría en nada, que adelante berá las o
+bras de <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName></q>", con que se animó y a sido tan çier
+to que nada a faltado, y es el conbento más 
+descansado de <placeName ref="catalogo_nombres_lugares.xml#M001">México</placeName> en tener por patrón
+una gran confiança en el poderoso rey.
+</p>
+<note place="left margin">2 Dexose en <term type="body" ref="catalogo_terminos.xml#M005">manos</term> de <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> confianza</note>
+<p>Un testamento guardo en el <orgName ref="catalogo_nombres_organizaciones.xml#C015">conbento</orgName> de una 
+persona que después de sus días haçe eredero 	
+al <orgName ref="catalogo_nombres_organizaciones.xml#C015">conbento</orgName> de más de setenta mil pesos.</p>
+<p>Virtudes cudiçió los vienes temporales de 
+<persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> a los otros <orgName ref="catalogo_nombres_organizaciones.xml#C009">conbentos</orgName> que tienen más 
+neçesidad.</p>   </div>
+<div><p>Folio 13 verso</p>
+<note place="left margin">3 Viene la Marqueza de <persName ref="catalogo_nombres_personas.xml#R009">Guadalcaçar</persName></note>
+<p>En esta ocasión truxo <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> al ánjel de la
+Marquesa de <persName ref="catalogo_nombres_personas.xml#R009">Guadalcaçar</persName>, religiosa en cos
+tunbres, gran debota de nuestra sagrada re
+ligión, y deseosa de ber en esta tierra un
+conbento de <orgName ref="catalogo_nombres_organizaciones.xml#C015">carmelitas descalças</orgName>. Luego que 
+llegó al puerto, tubo notiçia de las dos, y be
+nida a <placeName ref="catalogo_nombres_lugares.xml#M001">México</placeName> nos visitó y cobró tan gran
+de amor, como se a bisto por las obras de pro
+curar esta fundaçión, sin perder ocasión 
+ni con el virrei ni arçobispo, y fue con él 
+gran parte para quebrar con dificultades
+en mucho ascrito; no podría deçir lo que esta
+señora açía: con <term type="body" ref="catalogo_terminos.xml#L001">lágrimas</term> enbidiaba nuestra buena su
+erte, que ella deçía no mereçió, y así se conso
+laba en ayudarnos*; quando entraba en el
+<orgName ref="catalogo_nombres_organizaciones.xml#C015">conbento</orgName> hera como una de nuestras religio
+sas: acudía a comunidad cantando y reçan
+do, y la hora de oraçión con un libro, que
+de hordinario traía en la manga, nos en
+tretenía diçiendo mil lindeças a nuestro Señor;
+sobre tarde pedía le diesen si abía sobrado 
+algo del refitorio que no daba más cui
+</p>
+<note place="left margin"> Lo que hazía la marqueza después de fundado el convento</note>
+</div>
+<div>
+<p>14</p>
+<p>dado; tenía a su cargo encomendar los sermo
+nes y pláticas, y esaminar las que abía
+mos de reçebir por término, se las enbiába
+mos. Los ábitos y paños nos hiço ella como
+los usaban las <placeName ref="catalogo_nombres_lugares.xml#E001">despaña</placeName>. Los retablos que
+están en la iglesia los dexó açiendo cu
+ando <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> la llebó, díxome era su yntento
+que primero estubiesen acabados que se su
+piese. Acudía con tanta puntualidad y cu
+ydado a todo lo neçesario, pareçía no tenía
+otros mayores cuidados en su estado. 
+</p>
+<note place="left margin">1 Padre <persName ref="catalogo_nombres_personas.xml#R017">Guillermo</persName>concluida resolución del <orgName ref="catalogo_nombres_organizaciones.xml#C009">convento</orgName> con el señor arçobispo</note>
+<p>Estando todo así dispuesto, como ojas sueltas, ofre
+çió el señor un medio efiças con que se en
+cuadernó, que fue tomar la <term type="body" ref="catalogo_terminos.xml#M001">mano</term> el padre <persName ref="catalogo_nombres_personas.xml#R017">Gui
+llermo de los Ríos</persName> de la <orgName ref="catalogo_nombres_organizaciones.xml#C012">Compañía de Jesús</orgName>;
+sienpre de estos benditos padres he reçebido gran
+des vienes y se an preçiado de amparar a nuestra sa
+grada religión, como se be en los fabores que
+hiçieron a nuestra sancta madre <persName ref="catalogo_nombres_personas.xml#T003">Teresa de Jesús</persName>, y
+a partiçipado este conbento mobiéndole Di
+os a comunicarnos en el confisionario, tratá</p></div>
+<div><p>Folio 14 verso</p>
+<p>mosle el estado de las cosas, y él al señor ar
+çobispo façilitándole lo quél tenía, aca
+bó con él se concluyese. Estando un día 
+en plática, le dixo: "<q who="Guillermo de los Ríos">¿Vuestra señoría ylustrísima gusta des
+ta desta [sic] fundaçión?</q>", respondió que lo
+deseaba mucho; dixo nuestro padre "<q who="Guillermo de los Ríos">Pues quie
+re y puede, qué le detiene</q>", con esto ad
+birtió el señor arçobispo que tenía ra 
+çón y dixo: "<q who="arzobispo de la Serna">Entrémonos en la carroça y
+bamos a buscar casa</q>", porque hera an
+tes que dieran sentençia de dar estas. 
+Fue el señor arçobispo y nuestro padre y el <persName ref="catalogo_nombres_personas.xml#Q001">do
+tor Quesada</persName>, toda huna tarde rodean
+do la <placeName ref="catalogo_nombres_lugares.xml#C015">ziudad</placeName>, no allaron otra más a propó
+sito questa; así quedó determinado fue
+se esta por el buen sitio y çerca de su señoría;
+con esta resoluçión, luego que salió la 
+sentencia, aún bibiendo jente en la 
+casa, huna mañana entró el señor 
+arçobispo y poniendo un dosel en un
+</p>
+<note place="left margin">2 Toma poçesión el señor arçobispo de la casa</note>
+</div>
+<div>
+<p>15</p>
+<p>aposento dixo la primer misa y quedó
+tomada la posesión.</p>
+<note place="left margin">1 Disponen de los sermones</note>
+<p>Ya tengo esperiençia que en los negoçi
+os desta casa a dado <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> graçia al padre
+<persName ref="catalogo_nombres_personas.xml#R017">Guillermo</persName> de concluirlos, viniendo al 
+confesionario ocho días antes de la fun
+daçión, sabiendo hera sin ningun ser
+món, me dixo: "<q who="Guillermo de los Ríos">No ostante ques corto el
+tiempo, los procure, que no conbenía a tan
+solene fiesta no aber sermones</q>". Luego es
+crebí al <persName ref="catalogo_nombres_personas.xml#Q001">doctor Quesada</persName>, y él se fue con el
+arçobispo, y aquella noche quedaron to
+dos repartidos por las religiones, y el
+último de la octava dixo: "<q who="Guillermo de los Ríos">Su señoría que dio
+más gusto que todos</q>".
+</p>
+<note place="left margin">2 Resuelve el señor arçobispo hacer solemne fiesta</note>
+<p>Pidiéndole las dos al señor arçobispo nos
+llebase huna noche sin ruido, respon
+dió: "<q who="arzobispo de la Serna">He de haçer la mayor fiesta que 
+se hubiere echo ni se haga jamás</q>",
+y así fue en este reino.</p></div>		
+<div><p>Folio 15 verso</p>
+<note place="left margin">3 El Vi Rey da la liçençia</note>
+<p>Dio liçençia el señor marqués para la 
+fundaçión antes de benir el brebe, en
+virtud de huna carta que presentó el 
+señor arçobispo, de un açedor suyo, en que 
+deçía estaba ya conçedido.
+</p>
+<note place="left margin">4 Tiempo en que se hizo la obra</note>	
+<p>El <persName ref="catalogo_nombres_personas.xml#Q001">doctor Quesada</persName> hera el obrero, y dá
+base mucha priesa; en ocho meses se hi
+ço la <orgName ref="catalogo_nombres_organizaciones.xml#I002">yglesia</orgName> y los dos y huna 
+salita con cuatro puertas, que no tenía
+mos sitio donde estar, que todo lo demás 
+se desiço para acomodarla; así estabamos
+con mucho miedo de noche, cerrando las
+quatro puertas, que lo demás estaba e
+cho corrales. Nosotras tubimos la culpa 
+por benir para acomodar la casa como 
+está aora, que ni sobra ni falta y echas
+todas las çeldas y ofiçinas, muy a nuestro
+gusto. Deçía el señor arçobispo, cuando en
+traba acá, se le refrescaba la <term type="body" ref="catalogo_terminos.xml#S001">sangre</term>. 
+</p>
+<note place="left margin">5 Después de fundado, cómo se acabó el convento</note>
+</div>
+<div>
+<p>16</p>
+<p>Dándole priesa al <persName ref="catalogo_nombres_personas.xml#Q001">doctor Quesada</persName> para be
+nir, nos dixo: "<q who="Juan Quesada de Figueroa">Madres, miren lo que haçen
+que no tiene más que casa, lo demás lo 
+an de buscar, que yo no me obligo a dárse
+lo</q>"; benimos en este conçierto, y así que
+dó fuese el día del ánjel de la guarda,
+<date when="1616-03-01">primero de marzo de 1616</date> años.</p>
+<note place="left margin">1 Confiança</note>
+<note place="left margin">2 Señálase día de la fundaçión</note><p>
+En el tienpo que se estaba açiendo la casa,	
+ofreçió <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> algunos trabajillos: huna car	
+ta de dos pliegos mescribio huna persona 	
+de la <placeName ref="catalogo_nombres_lugares.xml#P018">Puebla</placeName>; ella fue con çelo de [cuidado], más mui	
+temeraria, diçiendo no me dexase llebar de la 
+anbinçión, questaba çiega, y que abía de	
+desdorar la religion no llebando fundaçión
+de la <orgName ref="catalogo_nombres_organizaciones.xml#O006">horden</orgName>; esto era lo quél pretendía, no	
+son para escritas las cosas que deçía, no me	
+enbaraçó ni dio ningún cuidado; respondí
+solas dos raçones diçiendo agradeçía sus con
+sexos, que no respondía más largo por es	
+tar ocupada reçibiendo el brebe y recau	
+dos.
+</p>
+<note place="left margin">3 Trajo de la <placeName ref="catalogo_nombres_lugares.xml#P018">Puebla</placeName></note>	
+</div>
+<div>
+<p>Folio 16 verso</p>
+<note place="left margin">4 Del de San Diego</note>	
+<p>Otro papel reçebí que me dio gran pena
+y turbaçión de un religioso de San Diego, 
+que desde el primer paso me abía ayu
+dado y aconsejado; tenía gran ynclina
+çión que biniese por fundadora huna
+muy buen religiosa de la <placeName ref="catalogo_nombres_lugares.xml#P018">Puebla</placeName>
+de las <orgName ref="catalogo_nombres_organizaciones.xml#C015">carmelitas descalças</orgName>; lo mesmo pro
+curaba yo, más no quiso <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName>, viendo
+questaba ya determinado fuese de acá
+o por ber que se dilataba; al fin <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> le
+dio liçençia que me aconsexase que no
+hiçiese más ruidos, que me quietase en
+mi conbento, que a otras quería <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> para 
+esta obra y les daría la abilidad y ta
+lento que me faltaba, y que no tratase
+más desto, que para otras guardaba <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName>
+esta fundaçión, y otras muchas raçones
+pesadas. Rompí la carta porque no la
+viese la madre <persName ref="catalogo_nombres_personas.xml#E028">Mariana</persName> y se cayese mu
+erta, aunque vide en algo tenía ra</p></div>
+<div><p>17</p>
+<note place="left margin">1 Humildad</note>
+<p>çón en que me atrebiese yo a procurar
+lo que no merecía, siendo tan torpe e y	
+norante ynperfeta, di mi quexas a nuestro
+Señor diçiéndole yo buscaba a su magestad, y	
+él buscaba a otras de que tenía yo muchos
+çelos; mi ocupaçión era haçer cosas para	
+los altares, y tenía echa huna caxa, y	
+al presente estaba labrando hunos <term type="body" ref="catalogo_terminos.xml#C002">corpo	
+rales</term> blancos; tomé seda açul y labré en	
+tre medias, diçiendo: "<q who="Inés de la Cruz">Esto quedará por memo	
+ria de los çelos que tengo de que mi dulçe	
+<persName ref="catalogo_nombres_personas.xml#J007">Jesús</persName> de desecha por ruin, mas yo no le ten	
+go de dexar, aunque me mate</q>".
+</p>
+<note place="left margin">2 Temor de [Jesús]</note>
+<note place="left margin">3 Resoluçión de que viniese la madre <persName ref="catalogo_nombres_personas.xml#E028">Mariana</persName></note>
+<p>En que biniese la madre <persName ref="catalogo_nombres_personas.xml#E028">Mariana</persName> tube grandes	
+dudas por su poca salud y males de <term type="body" ref="catalogo_terminos.xml#C003">corazón</term>,	
+y como yo hera para tan poco, deseaba quel	
+benir ella fuese al gusto de <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName>, aunque
+tenía algunos yndiçios en que, açiéndo	
+me el señor algunas mercedes de agradarse	
+desta fundaçión, siempre allaba en mi con	
+pañía a la madre <persName ref="catalogo_nombres_personas.xml#E028">Mariana</persName>; mas no fiándo	</p></div>
+<div><p>[17v]</p>
+<note place="left margin">Obediençia al pareçer ajeno</note>
+<p>me de mi parecer quise açertar por el a	
+jeno, esto hera ya muy çerca debenir	
+nos; yo comunicaba con un padre de la <orgName ref="catalogo_nombres_organizaciones.xml#C012">Compa	
+ñía</orgName>; un día en el confesionario, le dixe
+lo que en esto me daba cuidado que lo en	
+comendase a <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> y me dixese su pareçer;	
+prometió de açerlo, y perdió a una per	
+sona sierba de <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName>; luego que la vido otro	
+día, le dixo: "<q who="Inés de la Cruz">Padre, ayer cuando estaba en el
+confesionario con <persName ref="catalogo_nombres_personas.xml#C034">Ynés de la Cruz</persName>, estaba 
+allí nuestra <persName ref="catalogo_nombres_personas.xml#M018">señora</persName>, con mucho gusto de lo que	
+trataban. Díxole encomendase a <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> lo que	
+llebaba a cargo</q>". Otro día mescribó así: "<q who="Inés de la Cruz">Diçe	
+aquella persona no dexe de llebar consigo	
+a la  madre <persName ref="catalogo_nombres_personas.xml#E028">Mariana</persName>, su poca salud es lo que	
+sea de fiar de <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName>"</q>, con esto me acabé de	
+determinar.	
+</p>
+<note place="left margin">Resoluçión de dos fundadoras solas</note>
+<p>
+Estando en elocutorio con el <persName ref="catalogo_nombres_personas.xml#Q001">doctor Que	
+sada</persName>, tratando quántas bendríamos,
+fue de allí a preguntarlo a la <orgName ref="catalogo_nombres_organizaciones.xml#C012">Compañía</orgName>	
+y al <orgName ref="catalogo_nombres_organizaciones.xml#O006">Carmen</orgName>, y bolbió con resolución</p></div>
+<div><p>18</p>
+<p>que si pudiesen ser dos, no fuesen tres, y las
+dos de una alma y boluntad, como si fuesen
+una. De allí fue a dar notiçia al señor arço
+bispo; díxole quél tenía huna religiosa
+que llebar de tales prendas, que mereçía
+estar engastada en diamantes; así era, mas
+teníamos determinado de no traer a ninguna
+de otro <orgName ref="catalogo_nombres_organizaciones.xml#C009">conbento</orgName> por entender que no con
+benía. Trayendo el <persName ref="catalogo_nombres_personas.xml#Q001">doctor Quesada</persName> este re
+caudo, le bolbió con respuesta que en resolu
+ción deçíamos que yendo de otro conben
+to, cualquiera que fuese, aunque tan san
+cta como la que deçía nos tubiese por escu
+sadas; aunque se sintió, bino en lo que pedía
+mos. <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> nosle guarde muchos años y le dé
+huna corona de gloria, que las ocasiones le
+an descubierto el çelo de <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName>, y deseo de a
+çertar en benir solas dos; lo a sido mucho por
+que no a abido sino huna boluntad, aun
+que se a padeçido mucho, porque como he di
+</p>
+</div>
+<div>
+<p>Folio 18 verso</p>
+<note place="left margin">1 Trabajo en la obra que tubo la madre <persName ref="catalogo_nombres_personas.xml#E028">Mariana</persName></note>
+<p>cho, yo no soy para nada, y la madre se ocu
+pó en obrera y trabajó mucho; en poco más
+de tres años se acabó la casa con la çerca tan
+cumplida que no ay más que hacer. 
+Señalando el día que abíamos de venir, fue
+el señor arçobispo al <orgName ref="catalogo_nombres_organizaciones.xml#C016">conbento de Jesús María</orgName>,
+dixo bísperas de pontifical y dio el ábito
+a las dos estando dentro la señora marque
+sa; fueron sus dos niñas las madrinas. Por
+estar yndispuesta, no bino a otro día en la
+proçesión la señora marquesa.
+</p>
+<note place="left margin">2 Da el señor arçobispo el hábito a las madres</note>
+<note place="left margin">3 Lo que suçedió el día de la fundaçión</note>	
+<p>A las siete de la mañana, <date when="1616-03-01">día del Ángel</date>, binie
+ron al <orgName ref="catalogo_nombres_organizaciones.xml#C016">conbento de Jesús María</orgName> la muguer [sic] del
+oydor Morquecho y la del oydor <persName ref="catalogo_nombres_personas.xml#Q001">Quesada</persName>,
+nuestras madrinas, con gran aconpañamiento
+de jente y carroças, cada huna en la suya;
+nos llebaron a la yglesia mayor, donde
+nos estaban aguardando el señor virrei
+y el señor arçobispo, de allí salió la proçesi
+ón muy solene, aunque poco podimos ver
+por los belos. El primer altar era del se
+</p>
+</div>
+<div>
+<p>19</p>
+<p>nor [sic] arçobispo, en saliendo de la <orgName ref="catalogo_nombres_organizaciones.xml#I002">yglesia</orgName> de	
+çían hera cosa muy para ber; muy con	
+forme al afeto de su gran deboçión, diçí	
+an abía más de beinte alterares[sic] de mu	
+chas ynbençiones; a la puerta del <persName ref="catalogo_nombres_personas.xml#D010">doctor	
+Quesada</persName> estaba el suyo que tomaba u	
+na quadra; la señora marquesa hiço	
+uno junto al conbento, donde descansó el	
+señor arçobispo, y puso el Sanctísimo Sa
+cramento sobre el altar y cantaron	
+un billançico. Tanbién descansó junto	
+al colegio de la <orgName ref="catalogo_nombres_organizaciones.xml#C012">Conpañía de Jesús</orgName>, estaban	
+allí nuestros padres, y los estudiantes colexia	
+les hiçieron un coloquio; bino aconpañán	
+donos, en la proçesión, El ánjel de talla que
+abían de colocar aquel año, que fue el
+primero de guarda, y se dilató el colocarse	
+en su yglesia.
+</p>
+<p>Así mesmo, truxeron en la proçesión el	
+<term type="body" ref="catalogo_terminos.xml#C002">cuerpo</term> del sierbo de <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> <persName ref="catalogo_nombres_personas.xml#L023">Gregorio Lopes</persName> en	</p></div>
+<div>
+<p>Folio 19 verso</p>
+<p>un cofre de terçiopelo carmesí, que por venir
+él y honrarle <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> pudo ser se hordenase
+tan solene proçesión; de su relaçión se hi
+çieron muchos cartapaçios. 
+Llegando al <orgName ref="catalogo_nombres_organizaciones.xml#C015">convento</orgName>, a las honçe, se dixo la 
+misa de pontifical; estaba la señora mar
+quesa en la <orgName ref="catalogo_nombres_organizaciones.xml#I002">yglesia</orgName>, estubimos con ella 
+mientras la misa, y en ella comulgamos;
+acabada echó suertes el señor arçobispo
+de cómo se abía de llamar el <orgName ref="catalogo_nombres_organizaciones.xml#C015">conbento</orgName>: 
+su señoría quería fuese sancta Teresa, por 
+la gran deboçión que la tenía; el <persName ref="catalogo_nombres_personas.xml#Q001">doctor 
+Quesada</persName> deseaba que se llamase sancta
+María del Monte Carmelo, y rogole al señor 
+arçobispo hiçiese sus dilijençias para que salie
+se; <persName ref="catalogo_nombres_personas.xml#J013">San Joseph</persName> se echó por no aber su ygle
+sia en <placeName ref="catalogo_nombres_lugares.xml#M001">México</placeName>; El ánjel por ser la funda
+çión su día; así que fueron Entre qua
+tro las suertes bolbiose el señor arçobis
+po al pueblo y dixo: "<q who="arzobispo de la Serna">Todas mis jitanerías</q>
+</p>
+<note place="left margin">1 Missa de aquel día</note>
+</div>
+<div>
+<p>20</p>
+<p><q who="arzobispo de la Serna">e echo porque saliese nuestra señora, mas	
+no me an balido; tres beçes e echado su	
+ertes, y todas tres a salido el glorio	
+so <persName ref="catalogo_nombres_personas.xml#J013">San Joseph</persName>, así se llamará este conben	
+to</q>".</p>	
+<p>Lo mesmo nos suçedió en <orgName ref="catalogo_nombres_organizaciones.xml#C016">Jesús María</orgName>, que 	
+echamos suertes en los mesmos quatro,	
+y tres beçes salió el bendito <persName ref="catalogo_nombres_personas.xml#J013">San Joseph</persName>;
+quiso <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> se cunpliese lo que tantos	
+años atrás dixo la madre <persName ref="catalogo_nombres_personas.xml#C035">Marina de la	
+Cruz</persName>, de que se llamaría <persName ref="catalogo_nombres_personas.xml#J013">San Joseph</persName>.
+</p>
+<note place="left margin">1 Entra en la clausura</note>
+<p>Acabada la misa, entró, acá con nosotras,
+el señor arçobispo y virreyes, y la de más	
+jente. No fue posible acabarlos de echar	
+asta la tarde, aunque estaba la casa	
+tan desacomodada, y sin guarda medio	
+en la calle; no me dio cuidado con el anpa	
+ro del Sanctísimo Sacramento, que no	
+me cansaba de darle graçias en ber es	
+</p>
+<note place="left margin">2 Confiança en <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName></note>
+</div>
+<div><p>Folio 20 verso</p>
+<p>taba tan cerca del coro bajo, y que
+abía huna yglesia, más con yns	
+tituto de rogar a <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> por nuestra madre la	
+<orgName ref="catalogo_nombres_organizaciones.xml#I002">yglesia</orgName> y por los ministros della y	
+reyes católicos.</p>
+<note place="left margin">3 Entran dos</note>	
+<p>Quando benimos estaban dos hermanas	
+legas en el conbento que teníamos ya	
+reçebidas; la huna se fue de aý a po	
+cos meses, que no pudo llevar el ri	
+gor.</p>
+<note place="left margin">4 Entran tres</note>	
+<p>Dentro de 15 días dimos el ábito a tres; la
+primera hera criada de la marquesa;	
+éstas profesaron.	</p>
+<note place="left margin">5 Profesión de las madres</note><p>
+No entraron más asta cunplido nuestro año	
+de nobiçiado, que profesamos <date when="1616-05-01">domingo	
+del buen pastor</date>, predicó el padre <persName ref="catalogo_nombres_personas.xml#M022">Moli
+na</persName> de la <orgName ref="catalogo_nombres_organizaciones.xml#C012">Conpanía de Jesús</orgName>; dixo la mi
+sa de pontifical el señor arçobispo,
+y en sus <term type="body" ref="catalogo_terminos.xml#M005">manos</term> hiçimos las dos profe	
+sión, que las demás profesan acá dentro.</p></div>
+<div><p>21</p>
+<p>En <term type="body" ref="catalogo_termonos.xml#M005">manos</term> de la priora estaba acá dentro	
+la señora marquesa, y en la yglesia
+el virrey y algunos de nuestros padres y	
+el padre probinçial <persName ref="catalogo_nombres_personas.xml#A041">fray Andrés de la A
+sunçión</persName>; híçose muy solene fiesta. Aca	
+bada la profesión, me llebó la señora	
+marquesa a la cama, questube aquel	
+día çerca de morirme.	</p>
+<note place="left margin">1 Sore una [sic] </note>
+<p>Anse hido reçibiendo, y quatro se an des	
+pedido, y huna se fue al zielo: murió	
+cantando tan alto que se oýa en el
+patio. Asta oy ay quinçe profesas 
+y huna nobiçia; desde luego que venimos,	
+se a reçado el ofiçio divino en el coro y	
+cantado misas, y se ha acudido a cosas
+de comunidad, como si el número de be	
+ynte y huna estubiera cunplido. Los	
+primeros años se pasó gran trabajo to	
+mando las horas de oraçión de noche, por	
+acudir de día a la obra; todo el tiempo que	
+</p>
+<note place="left margin">2 coro</note>
+<note place="left margin">3 Vera [sic]</note></div>
+<div><p>Folio 21 verso</p>
+<p>no estaba en audiençia, el <persName ref="catalogo_nombres_personas.xml#Q001">dotor Quesa	
+da</persName> no faltaba de la obra, quedábase por
+portero mientras ýbamos todas a bíspe
+ras; ayudaba con su persona a los ofiçia	
+les; deçía hera el tapisque mayor;	
+buscó limosnas con que hiço la <orgName ref="catalogo_nombres_organizaciones.xml#I002">ygle
+sia</orgName> y parte de la casa; qué diré de la
+humildad y caridad deste gran amigo	
+de <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName>, con que acudía por solo dar	
+gusto a su majestad y a <persName ref="catalogo_nombres_personas.xml#C040">nuestra Señora del
+Monte Carmelo</persName>, de quien hera mui	
+deboto sin otro ningún ynterés.</p>
+<note place="left margin">4 Pónense los dos patrones a las puertas</note>
+<p>	Con cuidado me tenía estar el convento	
+sin los dos porteros que me abía dicho	
+la madre <persName ref="catalogo_nombres_personas.xml#C035">Marina de la Cruz</persName>, que a una pu	
+erta le guardaría <persName ref="catalogo_nombres_personas.xml#C040">nuestra Señora del Car	
+men</persName>, y a la otra <persName ref="catalogo_nombres_personas.xml#J013">San Joseph</persName>; más lle	
+gose la hora de <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName>, diome ynspiraçión	
+de pedírselo a un buen honbre que ni co
+noçía, ni abía bisto; escrebile si que	
+ría açerle este serbiçio a nuestra señora,</p></div>
+<div><p>22</p>
+<p>respondió luego que agredeçía mucho se	
+quisiese serbir de sus vienes, ofreçiose	
+de dar tres mil y ochoçientos pesos, a que	
+se apreçió el açerla. Asta haora no he	
+bisto nos ha faltado nada, ni faltará lo	
+neçesario si pusiéremos todo el cuidado	
+en solo contentar a <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName>.</p>
+<note place="left margin">1 Providençia de Dios</note>
+<note place="left margin">2 Primer capellán venerable padre <persName ref="catalogo_nombres_personas.xml#L013">Francisco Losa</persName></note>
+<p>Desde la fundaçión nos enbió nuestro señor	
+por capellán al padre <persName ref="catalogo_nombres_personas.xml#L013">Francisco Losa</persName>, man	
+dándole el señor arçobispo que lo fuese,
+bino de <placeName ref="catalogo_nombres_lugares.xml#S019">Sancta Fee</placeName>, donde estaba des
+de vida del sierbo de <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> <persName ref="catalogo_nombres_personas.xml#L022">Gregorio	
+López</persName>; estubo con mucho gusto asta	
+que <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> lo llebó a <date when="1624-08-26">26 de agosto	
+de 1624</date> años.</p>
+<p>Acabose de escribir esto, oy <date when="1625-09-16"> 16 de setien	
+bre de 1625</date> años, para gloria de <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName>, y
+que sea su majestad amado y serbido de las
+que al presentes son, y de las que les</p></div>
+<div><p>Folio 22 verso</p><p>
+suçedieren en este <orgName ref="catalogo_nombres_organizaciones.xml#C015">Conbento de San 
+Joseph de Carmelitas Descalças de	
+México</orgName>.</p>
+<p><persName ref="catalogo_nombres_personas.xml#C034">Ynés de la Cruz</persName>
+Esclaba de <persName ref="catalogo_nombres_personas.xml#J007">Jesucristo</persName>
+[RÚBRICA]</p></div>
+</body>
+</text>
+</TEI>

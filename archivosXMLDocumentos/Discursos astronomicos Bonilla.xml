@@ -1,0 +1,643 @@
+<TEI
+  xmlns="http://www.tei-c.org/ns/1.0"
+  xmlns:rng="http://relaxng.org/ns/structure/1.0"
+  xml:lang="es"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="validation/document.xsd">
+
+<teiHeader>
+ <fileDesc>
+  <titleStmt>
+       <title type="main">Diario y Discursos Astronomicos Según la Revolucion y Eclipses deste Año que Viene de 1665</title>
+       <title type="short">Diario y Discursos Astronomicos</title>
+       <author>Gabriel López Bonilla</author>
+  </titleStmt>
+  <editionStmt>
+   <edition n="1">
+     Edición digital de la obra Diario y Discursos Astronomicos
+   </edition>
+   <respStmt>
+        <name>Ernesto Priani Saaisó</name>
+     <resp>Marcado original XML/TEI</resp>
+    </respStmt>
+    <respStmt>
+     <name>Héctor Aparicio Sedano</name>
+     <resp>Transcripción</resp>
+    </respStmt>
+  </editionStmt>
+  <publicationStmt>
+    <publisher>
+      Universidad Nacional Autónoma de México
+    </publisher>
+    <publisher>
+      Facultad de Filosofía y Letras
+    </publisher>
+    <distributor>
+      Biblioteca Digital del Pensamiento Novohispano
+    </distributor>
+  </publicationStmt>
+  <sourceDesc>
+    <bibl>
+      <author>Gabriel López Bonilla</author>
+      <title>Diario y Discursos Astronomicos</title>
+      <date>1665</date>
+    </bibl>
+  </sourceDesc>
+ </fileDesc>
+</teiHeader>
+<text>
+<body>
+  <div>
+<p>670/57</p>
+<p>[Margen superior izquierdo]
+Pressenta en <date when="1664-04-20">Veinte de april 
+De mil y seis <abbr source="catalogo_abreviaturas.xml#C014">cn</abbr> y sesenta
+Y quatro</date> años estando en
+<abbr source="catalogo_abreviaturas.xml#I004">Inqq</abbr></p>
+<p>Rúbrica</p>
+<p>[Margen superior derecho]
+[cruz signo de Jesucristo]
+Que lo vea el </p>
+<p>Rúbrica</p>
+<p>1  <persName ref="catalogo_nombres_personas.xml#L019">Gabriel Lopez de Bonilla</persName> V desta
+2  ciudad profesor de Mathematicas
+3  dire para En cumplimiento de lo
+4  mandado por <abbr source="catalogo_abreviaturas.xml#V012">V.s.a</abbr> has dado En lim
+5  pio tu discurso astronómico quita
+6  das las censuras que el <abbr source="catalogo_abreviaturas.xml#V012">P.e.</abbr> <persName ref="catalogo_nombres_personas.xml#P015">Juan
+7  Ortiz de los Hexos</persName> le hizo como Con
+8  tara por el, y estando assi <abbr source="catalogo_abreviaturas.xml#s015">supp.ca</abbr>
+9  a <abbr source="catalogo_abreviaturas.xml#V012">V.s.a</abbr> se le Conceda nueva licencia
+10  para le piden imprimir atento
+11  Ser Vtil y necesario <abbr source="catalogo_abreviaturas.xml#P016">p’</abbr> La medici
+12  na As_________ y navegación, y
+13  no tener otra forma de que poder
+14  sustentar sus obligaciones, que En
+15  ello recivira bien y <abbr source="catalogo_abreviaturas.xml#M001">md.</abbr></p>
+<p>16  [firma] <persName ref="catalogo_nombres_personas.xml#L019">Gabriel lopez de Bonilla</persName></p>
+<p>[Margen iaquierdo]
+En <date when="1664-04-22">22 de april
+De 1664</date> se le da
+ Para
+Que le imprimi
+Ese, como en esta
+</p>
+<p><persName ref="catalogo_nombres_personas.xml#O008">Ortega</persName> [Rubrica]</p>
+</div>
+<div>
+<p>670/58</p>
+<p>1 Diario 
+2  y
+3  Discursos Astronomicos [tachado: Morales y Po]
+4  [tachado: Liticos] Según la Revolucion y Eclip
+5  ses deste Año que Viene de <date when="1965">1665</date>
+6  <abbr source="catalogo_abreviaturas.xml#D017">D. E</abbr>
+7  Al <abbr source="catalogo_abreviaturas.xml#L006">LLM</abbr> y <abbr source="catalogo_abreviaturas.xml#E001">exmo.</abbr> Señor Doctor Don
+8  <persName ref="catalogo_nombres_personas.xml#E030">Diego Antonio, de Escovar y Llamas</persName>, <!--checar en manuscrito-->
+9  Obispo de la <placeName ref="catalogo_nombres_lugares.xml#P018">Puebla de los Angeles</placeName>
+10  del Consejo de su <abbr source="catalogo_abreviaturas.xml#M008">Mag.</abbr> Virrey,
+11  Gobernador y Capitan General desta
+12  <placeName ref="catalogo_nombres_lugares.xml#N001">Nueva España</placeName>, y Presidente dela
+13  <abbr source="catalogo_abreviaturas.xml#R004">Rl.</abbr> Chancilleria de <placeName ref="catalogo_nombres_lugares.xml#M001">Mexico</placeName>
+14  y Por <persName ref="catalogo_nombres_personas.xml#L019">Gabriel Lopez de Bonilla</persName> As
+15  tronomo y Mathematico vezino
+16  desta ciudad, y Natural de la Via
+17  De Alco lea de Tajo ArÇbispadas de
+18  <placeName ref="catalogo_nombres_lugares.xml#T001">Toledo</placeName>, En los Reynos de <placeName ref="catalogo_nombres_lugares.xml#C001">Castilla</placeName>
+</p>
+</div>
+<div>
+<p>670/58 bis</p>
+<p>1  Esta advertencia no se puso aquí para imprimir 
+2  Adevertencia (enmarcado: para que los doctos que censuraren
+3  Este Discurso lo hagan Justificadamente sino
+4  supieren Esta ciencia pues no tienen noticia
+5  de los libros que son permitidos. que son los <abbr source="catalogo_abreviaturas.xml#S016">Sigts.</abbr>
+6  El primer Tomo del <abbr source="catalogo_abreviaturas.xml#D012">Dor.</abbr> <persName ref="catalogo_nombres_personas.xml#J030">Juntin</persName> En que recopilo
+7  todo lo bueno de quanto Autores auia ha hase 
+8  tiempo, y de todas naciones sin Expuriacion 
+9  El libro del sezenitt por <persName ref="catalogo_nombres_personas.xml#L026">Leopoldo de Austria</persName> de
+10  Astroerum scientia=
+11  Los tratados que hizo El <abbr source="catalogo_abreviaturas.xml#D012">Dor.</abbr> <persName ref="catalogo_nombres_personas.xml#R017">Thomas Rocha</persName> en
+12  ra con desta ciencia=
+13  Los discursos del <abbr source="catalogo_abreviaturas.xml#D012">d</abbr> <persName ref="catalogo_nombres_personas.xml#G022">Andres Gonzales</persName> theologo
+14  y mathematico =)
+15  Las obras de  <persName ref="catalogo_nombres_personas.xml#J031">Henrrico Jeanzoui</persName>  bien Regio de
+16  La cesarea Magestad, que solo le demandaron 
+17  tildar los sonetos y demás versos honorificos
+18  por hallar que Este hombre avia muerto
+19  herege fin que En sus obras defiziese Es
+20  puriacion ninguna 
+21  pues por los señores de la Suprema Estan concedidos
+22  Estos libros y otros mas El expurgador no puede
+23  hildar de los discursos lo que con ellos se aleja y parti
+24  cularmente hablando con la modestia y recato 
+25  que pide Nuestra Sancta Religión <abbr source="catalogo_abreviaturas.xml#C015">Ctica.</abbr></p>
+</div>
+<div>
+<p>670/99</p>
+<p>1  Al y <abbr source="catalogo_abreviaturas.xml#L007">llma.</abbr> y <abbr source="catalogo_abreviaturas.xml#E001">ExMo.</abbr> <abbr source="catalogo_abreviaturas.xml#S017">Sor.</abbr> Dottor Don <persName ref="catalogo_nombres_personas.xml#E030">Diego Ossorio
+2  de Escovar y llamas</persName>, Obispo de la <placeName ref="catalogo_nombres_lugares.xml#P018">Puebla de los An
+3  geles</placeName>, del Consejo de su Magd. Virrey, Gobernador,
+4  y <abbr source="catalogo_abreviaturas.xml#C016">Capan.</abbr> General deste Reyno de la <placeName ref="catalogo_nombres_lugares.xml#N001"><abbr source="catalogo_abreviaturas.xml#N007">Nua.</abbr> España</placeName>
+5  SPD
+6  Considerando y <abbr source="catalogo_abreviaturas.xml#V013">Vlma.</abbr> y <abbr source="catalogo_abreviaturas.xml#E003">Exma.</abbr> <abbr source="catalogo_abreviaturas.xml#S017">Sor.</abbr> Loque importa
+7  a los que escriven y sacan Sus obras a Luz te
+8  ner Un Protector que las ampare y de Lallude
+9  con su Gran Valor y Autoridad, Necesitado yo
+10  desto, y Viendo lo muhco que En <abbr source="catalogo_abreviaturas.xml#V014">V.</abbr> <abbr source="catalogo_abreviaturas.xml#E013">Exa.</abbr> res
+11  plandece, allí de Letras Como de Exelentes
+12  y heroycas Virtudes, Como todo Este Reyno de
+13  La<placeName ref="catalogo_nombres_lugares.xml#N001">Nueva España</placeName> Lo aclama, y particular
+14  mente Este tan Leal Como agradecida <placeName ref="catalogo_nombres_lugares.xml#C015"><abbr source="catalogo_abreviaturas.xml#C017">Ciu.</abbr>
+15  de México</placeName>, determine poner a los pies de
+16  <abbr source="catalogo_abreviaturas.xml#V014">V.</abbr> <abbr source="catalogo_abreviaturas.xml#E013">Exa.</abbr> Estos mis Discursos y Consideraciones
+17  astronómicas derivados de las influencias
+18  celestes que se ofrecen En este Año que Viene
+19  del <date when="1666">66s</date>  pues por ambos titulos de <abbr source="catalogo_abreviaturas.xml#V014">V.</abbr> y <abbr source="catalogo_abreviaturas.xml#V014">V.</abbr> <abbr source="catalogo_abreviaturas.xml#S018">ssma.</abbr> 
+20  <abbr source="catalogo_abreviaturas.xml#E013">Exa.</abbr> esta obligado a Amparar y faborecer
+21  Las Letras y a sus profesores y principalmte.
+22  diendo, comston Estas que dfiero, desta <abbr source="catalogo_abreviaturas.xml#N008">nta.</abbr></p>
+</div>
+<div>
+<p>670/59 bis</p>
+<p>1  Vtilidad a la Republica Como la Experiencia 
+2  lo ha demostrado En 37 Años que ha que firmo 
+3  con ella a Este Reyno Con raconable opinion 
+4  por que Entiendo sera el Vltimo que Escriture
+5  según Lo Cotijo de la invecilidad  de mi Espiri
+6  tu. Vitales, <abbr source="catalogo_abreviaturas.xml#S019">Suppco.</abbr> humildemente a . <abbr source="catalogo_abreviaturas.xml#E013">Exa.</abbr> con
+7  su benignidad acepte Esta mi corta oferta aunque
+8  dilatada lo que ha sido posible que con ello
+9  Estare Seguro de que estos mis Discursos no seran
+10  ofendidos de ingenios tan  mordaces que mas 
+11  Emplean Su ambicion y Vanidad En con
+12  tradecir y deslustrar obras que no Entienden
+13  que En aprehenderlas para poder sin Culpa
+14  ser censuradores <abbr source="catalogo_abreviaturas.xml#E014">ER.</abbr> ellas =Nio señor pros
+15  pere La Vida de <abbr source="catalogo_abreviaturas.xml#V014">V</abbr> <abbr source="catalogo_abreviaturas.xml#E013">Exa.</abbr> por tan felices años 
+16  de salud y a diferencia de gobierno Como
+17  Esta ciudad de fe y para su bien y reparo <date when="1964-06-03">tres
+18  Junio 29 de 1664</date>
+19 Humilde Siervo de <abbr source="catalogo_abreviaturas.xml#V014">V.</abbr> <abbr source="catalogo_abreviaturas.xml#E013">Exa.</abbr>
+20  que sus Sagradas <abbr source="catalogo_abreviaturas.xml#M016">MEB</abbr> (rúbrica <persName ref="catalogo_nombres_personas.xml#B027">Fabriello De Bonilla)</persName></p>
+</div>
+<div>
+<p>670/60</p>
+<p>(cruz que indica: Jesucristo)</p>
+<p>1 Discursos Astronómicos. Morales Politicos deste
+2  La Revolución del Año de <date when="1665">1665</date>, y Eclipses sucedan
+3   Iueves <date when="1965-03-19">19 de MarÇo deste Año de 1665</date> primero des
+4  pues de Bisisesto, a las 5<abbr source="catalogo_abreviaturas.xml#H003">H.</abbr> 11 <abbr source="catalogo_abreviaturas.xml#M002">mi.</abbr> 6 <abbr source="catalogo_abreviaturas.xml#S009">seg.</abbr> de la tade ten
+5  dra su principio Este Año Astronmico y finira
+6  <date when="1966-03-19">Viernes 19 de MarÇo de 1666</date> cerca de media noche,
+7  En eL qual Dia y hora Ascenderan por <placeName ref="catalogo_nombres_lugares.xml#H003"> El Hori
+8  zonte</placeName> desta <placeName ref="catalogo_nombres_lugares.xml#M001">Ciudad de Mexico</placeName> Los 18 <abbr source="catalogo_abreviaturas.xml#G003">g.</abbr> 27 <abbr source="catalogo_abreviaturas.xml#M002">mi.</abbr> del
+9  signo de <placeName ref="catalogo_nombres_lugares.xml#V005">Virgo</placeName>, hallandose <placeName ref="catalogo_nombres_lugares.xml#M010">Mercurio</placeName> señor del y
+10  de la decima En la <placeName ref="catalogo_nombres_lugares.xml#V005">Sexta Casa</placeName> En 1 <abbr source="catalogo_abreviaturas.xml#G003">G.</abbr> 44 <abbr source="catalogo_abreviaturas.xml#M002">mi.</abbr> de
+11  <placeName ref="catalogo_nombres_lugares.xml#P025">pisces</placeName>, su dehimiento, Caida y Filteza indicios
+12  de havalos En el Estado Secular y El <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName> señor
+13  de la <placeName ref="catalogo_nombres_lugares.xml#P025">duodécima</placeName>, y Significador general de per
+14  sonas Supremas En Su exaltacion [ que no pue
+15  de ser menor en semejantes ocasiones] se halla
+16  En la <placeName ref="catalogo_nombres_lugares.xml#L009">Septima</placeName> que tambien Es Significador par
+17  ticular de Enemigos assi ocultos como declarados
+18  por raÇon de las causas, de Esta separando dela
+19  Conjuncion de <placeName ref="catalogo_nombres_lugares.xml#M011">Marte</placeName> que le biene Combusto, ya apli
+20  cando al quadrado de <placeName ref="catalogo_nombres_lugares.xml#S010">Saturno</placeName>, y en la Conjun
+21  cion presvencional En Conjuncion partil
+22  Con el mesmo <placeName ref="catalogo_nombres_lugares.xml#M011">Marte</placeName> y Con la <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> Señora de la
+23  <placeName ref="catalogo_nombres_lugares.xml#A015">Vndecima</placeName>, Configuraciones que requieresn muy 
+24  Grande Consideracion = <placeName ref="catalogo_nombres_lugares.xml#J002">Jupiter</placeName> señor de la <placeName ref="catalogo_nombres_lugares.xml#C009">quarta</placeName>
+25  En la <placeName ref="catalogo_nombres_lugares.xml#L006">quinta Cassa</placeName> que no tiene mas infortunios</p>
+</div>
+<div>
+<p>670/60bis</p>
+<p>1  que es hallarse peregrino, Este por su parte, y <placeName ref="catalogo_nombres_lugares.xml#V003">Ve
+2  nus</placeName> por la suia En la <placeName ref="catalogo_nombres_lugares.xml#S013">Novena</placeName> En los 12 <abbr source="catalogo_abreviaturas.xml#G003">g.</abbr> 8 <abbr source="catalogo_abreviaturas.xml#M002">mi.</abbr> de
+3  <placeName ref="catalogo_nombres_lugares.xml#T007">Tauro</placeName> Su Cassa y triplicidad aplicando a ella la 
+4  <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> que Goza de su exaltacion prometen feli
+5  cidad y Buenos socesos En el Estado Eclesias
+6  tico que Es lo que mas se puede desear 9ª y alguna
+7  fundacion nueba de <orgName ref="catalogo_nombres_organizaciones.xml#C00)">Convento de Monjas</orgName> y final
+8  mente <placeName ref="catalogo_nombres_lugares.xml#S010">Saturno</placeName> Señor de la <placeName ref="catalogo_nombres_lugares.xml#L006">quinta</placeName> y desta ley
+9  se halla En los 8 <abbr source="catalogo_abreviaturas.xml#G003">g.</abbr> <abbr source="catalogo_abreviaturas.xml#M002">44 mi.</abbr> de <placeName ref="catalogo_nombres_lugares.xml#C008">Capricornio</placeName> Su hay 
+10  y gran dignidad y en la <placeName ref="catalogo_nombres_lugares.xml#C009">quarta</placeName>. que Es el Angu
+11  lo de la tierra, que aunque Esta aplicando a el
+12  El <placeName ref="catalogo_nombres_lugares.xml#S007">sol</placeName> por quadrado, antes le faborece que le 
+13  Daña pues le tiempla su naturaleza tan fria 
+14  y seca, con que promete Guerras y fertiles simen
+15  teras sino Las daña el <name type="animal" ref="catalogo_nombre_animale.xml#G003">gusano</name> que denota la
+16  cola del <placeName ref="catalogo_nombres_lugares.xml#D004">Dragon</placeName> enel dge Signo y en la <placeName ref="catalogo_nombres_lugares.xml#L006">quinta
+17  cassa</placeName> que es la de los huertos= y esta Es la disposi
+18  cion de <abbr source="catalogo_abreviaturas.xml#N008">Nta.</abbr> rebolucion que le ira declarando
+19  particularmente con las demas Causas que oviese
+20  Notas Vulgares fiestas movibles
+21  Conta se han Este Año de Aureo numero y Epacta 13=
+22  Letra Dominical D= Septuagesima  a <date when="1666-02-01">primero de <abbr source="catalogo_abreviaturas.xml#N008">Feb</abbr></date>=
+23  ceniÇa a <date when="1666-02-18">18</date> del= Pascua de Resurreccion  a <date when="1666-04-05">5 de Abril</date>=
+24  Letanias aii de Maio = La Ascention del Señor a <date when="1666-05-14">14
+25  del dicho</date> = Pasqua de Espiritu Santo a <date when="1666-05-14">24 del Ogo</date>=
+26  La Santissima Trinidad a postrero del ___ = Corpus
+27  Christi a <date when="1666-06-04">4 de junio</date> = Adviento a <date when="1666-11-29">29 de <abbr source="catalogo_abreviaturas.xml#N011">NovR.</abbr></date></p>
+</div>
+<div>
+<p>670/61</p>
+<p>1 (centrado como título) Quatro Temporas
+2 Primeras. <date when="1666-02-25">25</date>,<date when="1666-02-27">27</date>, <date when="1666-02-28">28 de febrero</date> = <date when="1666-05-27">27</date>, <date when="1666-05-28">28</date>,<date when="1666-05-30">30, de
+3  Maio</date> = Terceras <date when="1666-09-16">16</date>,<date when="1666-09-19">19</date>, <date when="1666-09-19">19 de Septiembre</date> = Vltimas <date when="1666-12-16">16</date>
+4  <date when="1666-12-18">18</date>,<date when="1666-12-19">19, de Diciembre</date>=
+5  Verse han Eneste Año Dos Eclipses. Vno de <placeName ref="catalogo_nombres_lugares.xml#L004">luna</placeName> y otro
+6  de <placeName ref="catalogo_nombres_lugares.xml#S007">sol</placeName>
+7  El primero que es de <placeName ref="catalogo_nombres_lugares.xml#L004">luna</placeName> sucedera a <date when="1666-01-30">30 de Henero</date>, 
+8  Eclipsandose Casi la mitad de su Cuerpo lunar En
+9  Los 12 <abbr source="catalogo_abreviaturas.xml#G003">g.</abbr> 6 <abbr source="catalogo_abreviaturas.xml#M002">mi.</abbr> 20 <abbr source="catalogo_abreviaturas.xml#S009">seg.</abbr> del signo de <placeName ref="catalogo_nombres_lugares.xml#L006">Leon</placeName>, auiendo pa
+10  sado la <placeName ref="catalogo_nombres_lugares.xml#L004">luna</placeName> por la <term type="cuerpo" ref="catalogo_terminos.xml#C001">Cabeca</term> del <placeName ref="catalogo_nombres_lugares.xml#D004">Dragon</placeName> cuio prin
+11  cipio sera Enesta <placeName ref="catalogo_nombres_lugares.xml#M001">ciudad de Mexico</placeName> alas 10<abbr source="catalogo_abreviaturas.xml#H003">H.</abbr> 50 <abbr source="catalogo_abreviaturas.xml#M002">mi.</abbr>
+12  de la Noche = Su mitad y mayor obscu (inicia un dibujode la <placeName ref="catalogo_nombres_lugares.xml#L004">luna)</placeName>
+13  racion a las 12 <abbr source="catalogo_abreviaturas.xml#H003">H.</abbr> 7 <abbr source="catalogo_abreviaturas.xml#M002">mi</abbr>: y su fin ala 1<abbr source="catalogo_abreviaturas.xml#H003">H</abbr>
+14  20 <abbr source="catalogo_abreviaturas.xml#M002">mi.</abbr> de la madrugada. tardando
+15  de principio a fin 2<abbr source="catalogo_abreviaturas.xml#H003">H.</abbr> y media. ascendien
+16  do por el horizonte a la mitad de su Eclipse Los
+17  13 <abbr source="catalogo_abreviaturas.xml#G003">g.</abbr> 12 <abbr source="catalogo_abreviaturas.xml#M002">mi.</abbr> de <placeName ref="catalogo_nombres_lugares.xml#E006">Escorpion</placeName>. <placeName ref="catalogo_nombres_lugares.xml#M011">Marte</placeName> Señor del se ha
+18  lla En la <placeName ref="catalogo_nombres_lugares.xml#C009">quarta Cassa</placeName> (cuidado con el fuego)  En=
+19  los 21 <abbr source="catalogo_abreviaturas.xml#G003">g.</abbr> 20 <abbr source="catalogo_abreviaturas.xml#M002">mi.</abbr> de <placeName ref="catalogo_nombres_lugares.xml#A015">Aquario</placeName> Combusto, y de opposi
+20  cion a la <placeName ref="catalogo_nombres_lugares.xml#L004">luna</placeName> que la informa mucho= 
+21  Verse ha tambien En todas las <placeName ref="catalogo_nombres_lugares.xml#I009">islas de Beurlossto</placeName>.
+22  y tierra firme que caen al oriente desta ciudad,
+23  particularmente En la de <placeName ref="catalogo_nombres_lugares.xml#P029">Puerto Rico</placeName> Co
+24  mo la mar Oriental Siendo alli su primcipio
+25  a la 1<abbr source="catalogo_abreviaturas.xml#H003">H.</abbr> <abbr source="catalogo_abreviaturas.xml#M002">42mi.</abbr> de la madrugada, y su fin alas
+26  quatro y Vn quarto dia <date when="1666-01-31">31 de Henero</date>. y todo el</p>
+</div>
+<div>
+<p>1  sucedera media hora antes de las Dichas En la de <placeName ref="catalogo_nombres_lugares.xml#S021">san
+2  to Domingo</placeName>, y respectivamente En las demas 
+3  partes, como fuere la distancia ala de <placeName ref="catalogo_nombres_lugares.xml#P029">Puerto Rico</placeName>=
+4  sus Estados que se diran Eneste Discurso, comen
+5  caran En Nuestro <placeName ref="catalogo_nombres_lugares.xml#M013">Meridiano</placeName> desde <date when="1666-07-10">10 de Julio</date>
+6  y finiran por <date when="1666-09-25">25 de soptiembre</date> siguiente, siendo
+7  los mas sensibles por Agosto=
+8  El segundo Eclipse sera de <placeName ref="catalogo_nombres_lugares.xml#S007">sol</placeName> a <date when="1666-07-12">12 de Julio</date> Ec
+9  clipsandose poco mas d ela mitad de su Cuer
+10  po solar, En los 20 <abbr source="catalogo_abreviaturas.xml#G003">g.</abbr> 26 <abbr source="catalogo_abreviaturas.xml#M002">mi.</abbr> 25 <abbr source="catalogo_abreviaturas.xml#S009">seg.</abbr> de <placeName ref="catalogo_nombres_lugares.xml#C009">Cancer</placeName>
+11  poco antes de pasar la <placeName ref="catalogo_nombres_lugares.xml#L004">luna</placeName> por la cabeca del
+12  <placeName ref="catalogo_nombres_lugares.xml#D004">Cragon</placeName>= Su principio En Nuestro <placeName ref="catalogo_nombres_lugares.xml#M013">Meridiano</placeName>
+13  sucedera a las 11 <abbr source="catalogo_abreviaturas.xml#H003">H.</abbr> 36 <abbr source="catalogo_abreviaturas.xml#M002">mi.</abbr> del dia: (dibujo del sol)
+14  su mitad 24 <abbr source="catalogo_abreviaturas.xml#M002">mi.</abbr> despues de las 12
+15  y su fin a la 1<abbr source="catalogo_abreviaturas.xml#H003">H.</abbr> y Vn quarto despues
+16  de medio dia=
+17  Tambien se Vera En las dichas <placeName ref="catalogo_nombres_lugares.xml#I010">islas de Barlo
+18  uento</placeName>, y  de mas partes adjacentes desde las
+19  2<abbr source="catalogo_abreviaturas.xml#M002">H.</abbr> y media hasta despues de las 4 dela tarde
+20  Sus Efectos, que no dexaran de ser bien de
+21  finibles. por suceder Este Eclipse quando los
+22  de <placeName ref="catalogo_nombres_lugares.xml#L004">luna</placeName> comienÇan , no obstante que En
+23  Este año no los Gozaremos, fino desde prin
+24  cipio del que viene hasta <date when="1667-09-25">25 de Septiembre de 
+25  1667</date>, o que dellos resultare los aires de</p>
+</div>
+<div> 
+<p>670/62</p>
+<p>1  Sekos para su tiempo, Si <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> fuere servido de
+2  Darme salud y Vista, que Va ya todo muy mi
+3  norandose, y juntamente Con la Reuolu
+4  cion de aquel otoño hare discurso de lo que
+5  alcanÇare según Causas celestes, que fuse
+6  ha de ser Año no tan temerisso ni de tantas
+7  inquietudes Como algunos han querido Juz
+8  garle, y piadossamente se puede Creer
+9  pues en el que ha 120 años que no sucede
+10  otro , El Sancto Precursor nos Esta Enseñan
+11  do con su Dedo, y en su Sanctissimo dia, a
+12  <persName ref="catalogo_nombres_personas.xml#J006">Christo</persName> ya era mentado, para que acudamos
+13  Como debemos a pedirles mercedes pues se
+14  nos esta mostrando muy piadosso y caritativo=
+15  y prosiguiendo Nuestro discurso según la Revolu
+16  cion del Año, y demas Causas Estes que En el
+17  le ofrescer digo, que aunque <placeName ref="catalogo_nombres_lugares.xml#M010">Mercurio</placeName> de junio Ha,
+18  le mes avia de ser señor del Año por impedi
+19  mentos de infortunios que tiene La aura de ser
+20  <placeName ref="catalogo_nombres_lugares.xml#S010">saturno</placeName> por hallarse mas fuerte que otro dando
+21  le al <placeName ref="catalogo_nombres_lugares.xml#S007">sol</placeName> por su participante que se halla En la
+22  <placeName ref="catalogo_nombres_lugares.xml#L009">septima</placeName>, aun que lleno de perturbaciones Con la
+23  conjuncion de <placeName ref="catalogo_nombres_lugares.xml#M011">Marte</placeName>, calidad de la Cassa, y que 
+24  dado con que Va aplicando a <placeName ref="catalogo_nombres_lugares.xml#S010">saturno</placeName> que Es</p> 
+</div>
+<div>
+<p>670/62bis</p>
+<p>1  aspecto de media Enemistad, indicios de algunas
+2  Controversias, En razon del Gobierno del Año <abbr source="catalogo_abreviaturas.xml#Q005">qe.</abbr>
+3  al fin son de diferente calidad, y Con su Am
+4  bicion El <placeName ref="catalogo_nombres_lugares.xml#S007">sol</placeName> no se ha contentado, en aver gober
+5  nado desde el Año de <date when="1659">1659</date>, segun mi computo
+6  destruiendo y abrasando La tierra con justo 
+7  ficados rayos, chupandola la Virtud con que
+8  avia de criaz y alimentar sus fuertos hasta
+9  ponerlos En raÇon, sino tambien las de los de
+10  mas planetas Con quien se a ydo Configuran
+11  do, obras que han seguido Los de su disminuio
+12  por ser cossa muy puerta En preceptor desta <abbr source="catalogo_abreviaturas.xml#R004">RL.</abbr>
+13  ciencia que quantos generos de Estados ay En 
+14  Vna republica todos Estan subordinados a
+15  Los siete Planetas, y de la manera que Ellos
+16  se mueven en sus orbes assi influien En su
+17  ÷ Sangre siendo siempre El libre alvedrio de
+18  La persona superior a todas quantas inclina
+19  ciones dellas pueden sobre venir: y agora
+20  En este Año estando Como hombre cercano ala
+21  muerte por los infortunios dichos, pide ser
+22  participante En el Dominio, que en todo lo <abbr source="catalogo_abreviaturas.xml#Q005">qe.</abbr>
+23  <placeName ref="catalogo_nombres_lugares.xml#S010">Saturno</placeName> Como superior En el Govierno no le pu
+24  diere contemplar Con algunos aspectos fuertes</p>
+</div>
+<div>
+<p>670/63</p>
+<p>1  No dexara de ser aun peor de lo que hasta agora
+2  ha sido, haziendo muchos daños, no solo En 
+3  los fructops, Sino En muy agudas enfermeda
+4  des de su adulta naturaleza, muertes, violen
+5  tas , Robos, Alborotos , y sediciones por Gente
+6  facinerossa (io militar) por tener como tiene
+7  toda la dañada influencia de marte En si
+8  y desto nos avissa El Doctor <cit type="textual" source="catalogo_nombres_libros.xml#E002"><bibl><author><persName ref="catalogo_nombres_personas.xml#G15">Juntino</persName></author></bibl><quote> en sus  <!--confirmar en manuscrito, no Justino, ¿Stadius?-->
+9  revoluciones por la combustion de <placeName ref="catalogo_nombres_lugares.xml#M011">Marte</placeName> diziendo 
+10  <placeName ref="catalogo_nombres_lugares.xml#M011">Mars</placeName> enim Cum <placeName ref="catalogo_nombres_lugares.xml#S007">sole</placeName> omni qua poterit falsitate
+11  mi lites crabra Latebunt prodinones, et
+12  fis quantes per fidia cum dit geno prona ad
+13  tumultur et sediotiones</quote></cit>: y esto no se ha de  <!--la cita es de efemerides de Johannes Stadius-->
+14  Entender ser de solo influencia del iracundo
+15  <placeName ref="catalogo_nombres_lugares.xml#M011">Marte</placeName>, pues El solo teniendole como le tie
+16  ne combusto Le quita la Virtud y se reviste
+17  della hasiendose Vn <placeName ref="catalogo_nombres_lugares.xml#M011">Marte</placeName> de Grnades, des
+18  dichas obrando Con Gran FuerÇa En todo esto
+19  que esta dicho por autoridad del Doctor <persName ref="catalogo_nombres_personas.xml#G15">Jun
+20  tino</persName>, de que yo se tiene alguna Experiencia
+21  y ansei mesmo En las Enfermedades Colericas
+22  dichas, y en diversas partes del Cuerpo como
+{Margen izquierdo: 
+lo
+<abbr source="catalogo_abreviaturas.xml#Q004">q</abbr> io puedo
+creer <abbr source="catalogo_abreviaturas.xml#Q005">qe.</abbr>
+nosea aeste
+una de las
+muchas
+y prines.
+---------
+-----------
+-- ----
+autor}</p>
+</div>
+<div>
+<p>670/63 bis</p>
+<p>1  Son Dolores de costado; Tercianas; Tavardillos
+2  posiones deporacion, dolores de <term type="body" ref="catalogo_terminos.xml#E002">estomago</term>; fue
+3  go Sancto; Cancer; Encogimiento de <term type="body" ref="catalogo_terminos.xml#N001">Nieruos</term>
+4  reumas  En los <term type="body" ref="catalogo_terminos.xml#O001">ojos</term>; no hexas de <term type="body" ref="catalogo_terminos.xml#V004">Venas</term>; infla
+5  macion del <term type="body" ref="catalogo_terminos.xml#H002">Higado</term>; Tyricia ; encordior , y
+6  otros males en las partes <term type="body" ref="catalogo_terminos.xml#G002">genitales</term> con dis
+7  tolas dificultossas , En sus curas. y en
+8  algun particular personaje tales congojas
+9  por sufocacion del <term type="body" ref="catalogo_terminos.xml#H007">humor Colerico</term> que ven
+10  ga a morir muy desdichadamente . y todo
+11 Esto se denota no solo por la revolucion,
+12  sino por la conjuncion prevencional que
+13  sucedió tres dias antes=
+14  Ansi mesmo Esta conjuncion de <placeName ref="catalogo_nombres_lugares.xml#M011">Marte</placeName> con el
+15  <placeName ref="catalogo_nombres_lugares.xml#S007">sol</placeName> En la <placeName ref="catalogo_nombres_lugares.xml#L009">septima</placeName> de nuestra por su natu
+16  raleza muetros latrocinios; salteamientos
+17  muertes violentas y otros diversos sucessos
+18  facinerossos de que les amenaÇa misiones,
+19  y castigos exemplares por la buena solicitud
+20  de ministros de justicia segun lo demues
+21  tran La <term type="body" ref="catalogo_terminos.xml#C001">CabeÇa</term> de<placeName ref="catalogo_nombres_lugares.xml#D004">Dragon</placeName> En la <placeName ref="catalogo_nombres_lugares.xml#A015">Vndécima</placeName>
+22  y la <placeName ref="catalogo_nombres_lugares.xml#L004">luna</placeName> señora dedella tan Virtuossa En la de
+23  huca: <cit type="textual" source="catalogo_nombres_libros.xml#P001"><quote>Oporter Gonana civitatem de Virtute
+24  esse solicitam dire avitt.</quote> <bibl><title>lib 2 polit.</title></bibl></cit> y en el <cit type="textual" source="catalogo_nombres_libros.xml#P001"><bibl><title>7º</title></bibl><quote>
+25  felicitas perfecta est Vsus Virtutis</quote></cit> : mas</p> <!--Tomada de Dicta notabilia Aristotelis, 1515-->
+</div>
+<div>
+<p>670/64</p>
+<p>1  muy ala contra se ha Experimentado Enesta
+2  ciudad desde como tengo dicho como el <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName> El
+3  Gobierno, por cuia Causa, y ser En Vna Repu
+4  blica de tanta Virtud premiar al bueno, como
+5  Castigar al malo, dexo dicho El mesmo <cit type="textual" source="catalogo_nombres_libros.xml#P001"><bibl><persName ref="catalogo_nombres_personas.xml#A35">Axisto
+6  reler</persName> <title>lib. politz</title>.</bibl> <quote>oponter principem Gonos hono
+7  rare, etipsum eis honores di Asi fuere: suppli
+8  cia autem non perse sed per alios=</quote></cit>
+9  permita Su Magestad divina que desde este Año
+10  En adelante se Experimente El Remedio que
+11  poco antes fue ComenÇando atenex, pues sabes no
+12  Señor del Año En su Hay? y Gran dignidad lo de
+13  muestra y particular mente por hallarse en Ter
+14  mino de <placeName ref="catalogo_nombres_lugares.xml#J002">jupiter</placeName> planeta a quien se atriguien las 
+15  Guenas influencias para las Cassas Juntas: que fiassi 
+16 fuere , aunque los ecplises nos denoaran en Mayo
+17  xe de travajos de los dichos de los dichos por la Revolución, y de hoy
+18  que donde se infieren, a signos celi no literimere
+19  no ay que temer, que Dios Como padrepiadosso Con
+20  su sancta misericordia obrara ante Esta <placeName ref="catalogo_nombres_lugares.xml#M001">ciudad
+21  de Mexico</placeName> lo que obro con la de <placeName ref="catalogo_nombres_lugares.xml#N005">Ninive</placeName>: y po
+22  dra tener por cierto El que Este Discurso leyera
+23  quan flacamente obraran la influencia
+24  de las Estrellas En sus amenaÇas, fiel pueblo</p>
+</div>
+<div>
+<p>670/64 bis</p>
+<p>1  Doctrinado me forzare En las Costumbres, con hazer
+2  penitenciade lo pasado, y propufiere la Emmien
+3  da para adelante, pues los males y daños esten or
+4  denamos para los males y daños En su mal
+5  vivia, y por El consiguiente El trashueco de lo
+6  malo En bien para los Guenos , que son hijos de
+7  Dios por gracia=
+8  7 ase dixo el principio deste Discurso Como Su
+9  cederan En Este Año dos ecplipses que El prime
+10  ro sera de <placeName ref="catalogo_nombres_lugares.xml#L004">luna</placeName> a <date when="1666-01-30">30 de Henero</date>, En la <placeName ref="catalogo_nombres_lugares.xml#C008">decima
+11  cassa</placeName> de Nuestro <placeName ref="catalogo_nombres_lugares.xml#M013">Meridiano</placeName> y en los 12 <abbr source="catalogo_abreviaturas.xml#GQ003">G.</abbr> 6 <abbr source="catalogo_abreviaturas.xml#M002">mi.</abbr>
+12  28 <abbr source="catalogo_abreviaturas.xml#S009">seg.</abbr> del signo d <placeName ref="catalogo_nombres_lugares.xml#L006">Leon</placeName> y en Astere mi de Es
+13  trellas de Naturaleza de <placeName ref="catalogo_nombres_lugares.xml#S010">saturno</placeName> y <placeName ref="catalogo_nombres_lugares.xml#M011">Marte</placeName> y an
+14  si mesmo El Angulo de la <placeName ref="catalogo_nombres_lugares.xml#C008">decima</placeName> y el <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName> señor
+15  della y del signo Eclipties En Asterismos de la
+16  mesma naturaleza de la <placeName ref="catalogo_nombres_lugares.xml#L004">luna</placeName> j <placeName ref="catalogo_nombres_lugares.xml#M011">Marte</placeName>. El
+17  Ascendente En el Arterismo del lobo de la mes
+18  ma naturaleza:  <placeName ref="catalogo_nombres_lugares.xml#M011">Marte</placeName> señor del En el Aste
+19  rismo del <placeName ref="catalogo_nombres_lugares.xml#C008">Capricornio</placeName> de Naturaleza de 
+20  <placeName ref="catalogo_nombres_lugares.xml#S010">Saturno</placeName> y <placeName ref="catalogo_nombres_lugares.xml#J002">Jupiter</placeName>, que parece se aunaron
+21  todos Estos cinco de partes que son los principa
+22  les para El juicio del Eclipse pues Caieron
+23  todos en Asterismos de Estrellas Violentas pa
+24  ra denotarnos travajos , mi señonr inquie
+25  tudes y Enfermedades de tan malas Calidades</p>
+</div>
+<div>
+<p>670/65</p>
+<p>1  vie se puedan tener por contagiosas y por averse
+2  Causado El Eclipse En la Segunda faz del Signo de 
+3  <placeName ref="catalogo_nombres_lugares.xml#L006">Leon</placeName> denota algunas mudanÇas y alteraciones
+4  En Cassas politicas, no sin desabrimiento de muchos 
+5  Aplicar Essos señor del signo Ecpliptico a la
+6  conjuncion de <placeName ref="catalogo_nombres_lugares.xml#M011">Marte</placeName> Señor del Ascendente
+7  pieza de tener Virtud para excitar algun Come
+8  ta denota insistencia de Gente Vulgar Con
+9  tra sus mayores no sin Exemplares Castigos
+10  de los tales inobedientes, Segun de colpe por
+11  tener El <placeName ref="catalogo_nombres_lugares.xml#S007">sol</placeName> Señor de la decima que EsE su
+12  perior deste Reyno cofido a <placeName ref="catalogo_nombres_lugares.xml#M011">Marte</placeName> debajo de
+13  sus Rayos Como esta dicho=
+14  El temperamento del Ayre que promete Este
+15  Eclipse En el tiempo de sus Efectos demuestra
+16  ser muy tempestuoso de Agua cexos turbolentos
+17  de truenos y Rayos quod Deus avertat : no fal
+18  tando En ellos granizo, segun mis largas Ex
+19  periencias, que hagan algun Daño a las fi
+20  menteras=
+21  En <placeName ref="catalogo_nombres_lugares.xml#I010">las de de Barlomento</placeName>, particularmte.
+22  en la de <placeName ref="catalogo_nombres_lugares.xml#S021">sancto Domingo</placeName> y <placeName ref="catalogo_nombres_lugares.xml#P029">puerto Rico</placeName>, por
+23  suceder En ellas la mitad del Eclipse En la
+24  octava Costa se les denota muchas y muy pe
+25  ligrosas Enfermedades : En <placeName ref="catalogo_nombres_lugares.xml#C012">Campeche</placeName>, Pa</p>
+</div>
+<div>
+<p>670/65 bis</p>
+<p>1  <placeName ref="catalogo_nombres_lugares.xml#P022">nama</placeName>, <placeName ref="catalogo_nombres_lugares.xml#H010">Havana</placeName> y <placeName ref="catalogo_nombres_lugares.xml#C032">Cartajena</placeName> Aparato de Armas
+2  por nuevas que se tengan de algunas invationes
+3  de Enemigos, segun lo da a Entender avirse
+4  Causado dicho Eclipse En la <placeName ref="catalogo_nombres_lugares.xml#S013">Novena Cassa</placeName> de 
+5  aquellas partes, por donde Jusgo racionalmente
+6  que Estas prevenciones de Armadas nauales han
+7  de ser Contra las islas que Estuvieron ocupadas
+8  18ª de Herejes con mucha ruina de aquella nacion ≠
+9  V los Efectos del Eclipse de <placeName ref="catalogo_nombres_lugares.xml#S007">sol</placeName> que sucede-
+10  ra como el de la <placeName ref="catalogo_nombres_lugares.xml#L004">luna</placeName> En la <placeName ref="catalogo_nombres_lugares.xml#C008">decima Cassa</placeName> , se
+11  omiten Como tengo dicho para su tiempo
+12  solo de los efectos menores que tocan ala
+13  alteracion del ayre frio que por suceder 
+14  quando enesta ciud. ComienÇan Los Canicu
+15  lares seran dañados por corrupcion del ayre
+16  aunque no faltaran algunas lluvias por 
+17  hallarse En este tiempo, tres planetas que inogra
+18  dos que las prometen, Con que no dexara de
+19  templarse el calor que la Cunicula procede
+20  U y supuesto que por la revolucion y Eclip
+21  ses deste Año de <date when="1665">1665</date> se denotan muchos
+22  infortunios, nosolamente de enfermeda
+23  des agudas y pestilentes, sino de insultos
+24  Latascinios, salteamientos y quadrillas de</p>
+</div>
+<div>
+<p>670/66</p>
+<p>1  Gente facinerossa, Dos remedios preservan
+2  vos hallo de mucha Eficacia: El primer
+3  Es El de la Escorconera muy singular Contra
+4  Enfermedades Venenossas , Pestilenciales
+5  Complicadas y de mala naturaleza, Como
+6  La Experiencia, desde el Año de <date when="1636">1636</date> que di
+7  quenta della, lo ha demostrado En muchas y 
+8  diversas ocasiones quando ya en algunos
+9  Enfermos faltava la EsperanÇa de la salud
+10  Vsando della En Geuidas por distilacion, ococi
+11  miento, yen ayudas, y particularmente
+12  para Viruelas Es eficas remedio sin otro alguno=
+13  El segundo remedio preservativo contragen
+14  te facinerossa , de que tantos indicios ay
+15  En las Constelaciones celestes, y las causas te
+16  rrestes lo manifiestan, Es el perseguirlos
+17  Limpiando la tierra debaja mundos que 
+18  son los que por la mayor parte muevesn sedi-
+19  ciones y tumultos, y no hay que dudar dello por
+20  ud: quia ibi remedium Est multim: y ansi
+21  mesmos tener bien guarnecidos Los puertos desta</p>
+</div>
+<div>
+<p>670/66 bis</p>
+<p>1  <placeName ref="catalogo_nombres_lugares.xml#N001">Nueva España</placeName> por lo que sucediere, que <placeName ref="catalogo_nombres_lugares.xml#M011">Marte</placeName> En la
+2  nouestra Cassa del Eclipse del <placeName ref="catalogo_nombres_lugares.xml#S007">sol</placeName>, y en <placeName ref="catalogo_nombres_lugares.xml#G003">Geminis</placeName>, signi
+3  fica muchos cassarios y repentinas invasiones de
+4  Enemigos declarados En el tiempo de sus mayo
+5  res efectos, que como Esta dicho Sucederan desde
+6  <date when="1666-01">Henero de 666</date> , hasta <date when="1667-09">Septiembre de 667</date>. ya
+7  sido muy justo avisar de todo porque no viva
+8  mos a ciegas qui a iaculaminus seriunt que
+9   preveniuntur
+10  y porque esta dicho poco de <placeName ref="catalogo_nombres_lugares.xml#S010">Saturno</placeName> principal
+11  governador del Año, no obstante que estan di
+12  chos del algunos de sus temperamentos , y
+13  accidentes, General mente por hallarse En el
+14  Angulo de la <placeName ref="catalogo_nombres_lugares.xml#T004">tierra</placeName> que es de su naturaleza
+15  nos denota En todo nuestro <placeName ref="catalogo_nombres_lugares.xml#M013">Meridiano</placeName> , mu
+16  chos frios y Aguas nibossas , particularmente
+17  En los primeros meses del Año, Con que fieran
+18  disponiendo las simenteras de temporal, no
+19  faltando En los tiempos Convenientes lluvias
+20  Copiossas, como estan dichos por los efectos del
+21  Eclipse de <placeName ref="catalogo_nombres_lugares.xml#L004">luna</placeName> , con que mediante Dios
+22  se podran Esperar Guenas cosechas , que <placeName ref="catalogo_nombres_lugares.xml#S010">Sa
+23  turno</placeName> señor del Año En su Gran dignidad Co
+24  mo buen labrador por el dominio que tiene so
+25  bre la Agricultura, sabra Guiar tembien El.</p>
+</div>
+<div>
+<p>670/ 67</p>
+<p>1  Arado que Existe las rayzes de las malas y pro
+2  termas melezas que consumian la Virtud de la
+3  tierra Con que se podran Esperan Guerras Cosechas
+4  y ansi mesmo de todo genero de Ganado En que
+5  tiene influencia , y no promete menos En
+6  Labor de minas, principalmente en tie
+7  rras frias y las que se beneficiaren por fun
+8  dicion: y esto Es lo que Siendo En que quanto al tem
+9  peramento del año y accidentes dichos segun 
+10  las tres Causas celestes que se ofrecen Enel=
+11  Estando Escriviendo Este Discurso por AMrco
+12  de 64 me dieron noticia como en el dia 19 del
+13  y en el fiquiente , Vna persona que afista En
+14  El campo y se levanta Entre las dos y las tres
+15  de la Madrugada a recoger Vnas mulas que
+16  tenia asio cargo , En ambos dias Vido la <placeName ref="catalogo_nombres_lugares.xml#L004">luna</placeName>
+17  tan negra como si fuera de Carbon estando
+18  El cielo rasso, y siendo entonces quarto para
+19  de luz comenÇando el Vltimo quarto para
+20  la Conjuncion , y que assi pasava Con sus
+21  Rayos , de que quedo muy admirado, y Con al
+22  fungenero de temor por nota aver Visto nun
+23  ca de aquella tan triste Color, siendole muy</p>
+</div>
+<div>
+<p>670/67 bis</p>
+<p>1  de ordinario El verla Con la luz que Va conbrando
+2  o perdiendo cada dia Segun su movimiento_
+3  vesto mesmo me dixo otra persona de toda sa
+4  tisfacion sin preguntarle nada del sucesso =
+5  quince dias despues deste raro portento me die
+4  ron noticia de cómo avia sucedido otro , y par
+5  ticularmente Vn Religiosso descalco, de que
+6  Levantandose alas quatro de la madrugada 
+7  como bienen de Costumbre para ir al coro
+8  vido en el cielo cerca de la aprte donde El <placeName ref="catalogo_nombres_lugares.xml#S007">sol</placeName>
+9  llega a medio dia, Vn glovo como <term type="cuerpo" ref="catalogo_terminos.xml#C001">cabeÇa</term> de lo
+10  mera que dava desi luz y resplandor, y
+11  que dun que se movia hazia El les fuerte
+12  Era poco, como que fuera anadeando , y te
+13  nia alrededor desi muchas como estrellitas
+14  pequeñas, y lo mesmo me dixeron otras
+15  personas fidedignas de averlo visto , y
+16  anduvo muy comun teniendole por come
+17  ta: Ninguna cossa destas apariciones
+18  vide por ser adesora de la noche , y no te
+19  ner quien me avisara, pues nunca El que
+20  Escribe desta ciencia tiene pereÇa En levan
+21  tarde aver semejantes prodicios, pues
+22  Dios y la Naturaleza nihil facium Frustha.</p>
+</div>
+</body>
+</text>
+</TEI>
+
+
+
+
+
+
+

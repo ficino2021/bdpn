@@ -1,0 +1,693 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+    xmlns:rng="http://relaxng.org/ns/structure/1.0"
+    xml:lang="es"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="validation/document.xsd">
+<teiHeader>
+    <fileDesc>
+       <titleStmt>
+           <title type="main">Almanaque y Lunario de Don Carlos de Siguenza y Gongora Para el año Bisiesto de 1696. Segun el meridiano de Mexico</title>
+           <title type="short">Almanaque y Lunario</title>
+          <author>Don Carlos Siguenza y Gongora</author>
+      </titleStmt>
+      <editionStmt>
+        <edition n="1">Edición digital de la obra Almanaque y Lunario</edition>
+       <respStmt>
+         <name>Desconocido</name>
+          <resp>Marcado original XML/TEI</resp>
+       </respStmt>
+       <respStmt>
+          <name>Desconocido</name>
+          <resp>Marcado XML/TEI</resp> 
+       </respStmt> 
+       <respStmt>
+        <name>Betsabe Castro Ruiz</name>
+        <resp>Curaduría digital</resp>
+        </respStmt>
+        </editionStmt>
+        <publicationStmt>
+            <publisher>Universidad Nacional Autónoma de México</publisher>
+            <publisher>Facultad de Filosofía y Letras</publisher>
+            <distributor>Biblioteca Digital del Pensamiento Novohispano</distributor>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl>
+                <author>Don Carlos Siguenza y Gongora</author>
+                <title>Almanaque y Lunario de Don Carlos de Siguenza y Gongora Para el año Bisiesto de 1696. Segun el meridiano de Mexico</title>
+                <date>1696</date>
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+<text>
+    <front>
+          <titlePage>
+            <docTitle><titlePart type="main">Almanaque y Lunario de Don Carlos de Siguenza y Gongora Para el año Bisiesto de 1696. Segun el meridiano de Mexico</titlePart></docTitle></titlePage>
+    </front>
+<body>
+<div>
+    <p>Folio 233 recto</p>
+   <p>Sacalo a la Luz <persName ref="catalogo_nombres_personas.xml#T005">Juan de Torquemada</persName></p>
+<p>(rúbrica)</p>
+<p>Notas del Kalendario y Fiestas movibles</p>
+<p>Contaranse de  flureo[sic] numero 6. de Cielo Solar 25. de Epacto 26. de Ju
+diccion[sic] Romana 4. Letras Dominicales A y G. La del Martyrologio
+G y segun esto sera la Septuagesima a <date when="1696-02-19">19. de Febrero</date>. Miercoles de
+ceniza a <date when="1696-03-07">7. deMarzo</date>. Pascua de Resurrecion a <date when="1696-04-22">22 de Abril</date>. Roga
+ciones a <date when="1696-05-28">28</date>. <date when="1696-05-29">29</date>. <date when="1696-05-30">30. deMayo</date> : La Ascension del <persName ref="catalogo_nombres_personas.xml#D010">Señor</persName> a <date when="1696-05-31">31. del mismo</date>
+Pascua del <persName ref="catalogo_nombres_personas.xml#D010">espiritu Santo</persName> a <date when="1696-06-10">10. de Junio</date>. Domingo de <persName ref="catalogo_nombres_personas.xml#D010">la SantiSima Trinidad</persName>
+a <date when="1696-06-17">17</date>. Corpus Christi a <date when="1696-06-21">21. del mismo Junio</date>. Primera Dominica de Ad
+viento a <date when="1696-12-02">02. de Diciembre</date>.</p>
+
+<p>Cuatro Temporas</p>
+
+
+<p>Primeras _____ á _____<date when="1696-03-14">14</date>-<date when="1696-03-16">16</date>-<date when="1696-03-17">17- deMarzo</date></p>
+<p>Segundas _____ á _____<date when="1696-06-13">13</date>-<date when="1696-06-15">15</date>-<date when="1696-06-16">16- de Junio</date></p>
+<p>Terceras _____ á _____<date when="1696-09-15">15</date>-<date when="1696-09-21">21</date>-<date when="1696-09-22">22- deSeptiembre</date></p>
+<p>Cuartas ______ á _____<date when="1696-12-19">19</date>-<date when="1696-12-21">21</date>-<date when="1696-12-22">22- deDiciembre</date></p>
+
+
+<p>Eclipses en este año de <date when="1696">1696</date></p>
+
+<p>En la armonia admirable de los movimientos celestes es theorema demostrado
+el que quando sucede el medio de algun Astron eclipse de 
+<placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> muy cerca de la <term type="body" ref="catalogo_terminos.xml#C001">cabeza</term>, o <!--POSIBLE MARCADO-->cola del Dragon, la conJuncion que antecede, y la que se sigue á aquel plenilunico[sic]</p> 
+</div>
+<div><p>Folio 233 verso</p>
+<p>necesariamente son <placeName ref="catalogo_nombres_lugares.xml#E005">eclipticas</placeName>  :  La una acia el un <placeName ref="catalogo_nombres_lugares.xml#P011">polo</placeName> y la otra hacia el otro, y uno y otro eclipse de <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName> muy pequeños. De donde se infiere que sucediendo este año dos eclipses
+de <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> casi centrados de fuerza ha de hauer quatro eclipses de
+<placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName>, los quales de
+ninguna manera nos seran patentes en <placeName ref="catalogo_nombres_lugares.xml#M001">Mexico</placeName>, ni en toda la <placeName ref="catalogo_nombres_lugares.xml#N001">nueua españa</placeName>por quede 
+estos sera= El primero a <date when="1696-05-01">1° de Mayo</date> pero siendo entonces de noche, no ay para 
+que examinarlo= El segundo a <date when="1696-05-30">30 de Mayo</date> y sucediendo la conJuncion aparente
+respeto de este <placeName ref="catalogo_nombres_lugares.xml#M013">meridiano</placeName> despues de las 4 de la tarde, tiempo en que la latitud uer
+dadera de la <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> es 1 grado 11 minutos <abbr source="catalogo_nombres_abreviaturas.xml#M001">M. D.</abbr> y la poca paralaxis in latum que entonces tubiere
+tambien <placeName ref="catalogo_nombres_lugares.xml#M013">meridiano</placeName> (por hauer pasado la <placeName ref="catalogo_nombres_lugares.xml#E005">ecliptica</placeName> al Austro desde las 3 horas 56. minutos) de ningun
+modo sera obseruable= El Tercero a <date when="1696-10-25">25 de octubre</date> ya puesto el <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName> y por esso no 
+visible= El cuarto y ultimo a <date when="1696-11-24">24 de Nouiembre</date> y aunque la conJuncion visible 
+sera en <placeName ref="catalogo_nombres_lugares.xml#M001">Mexico</placeName> como a las 9. y media de la mañana teniendo entonces la <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> 1 grado 23.
+minutos de latitud <abbr source="catalogo_nombres_abreviaturas.xml#S011">S.A.</abbr> y siendo la paralaxis in latum 23 minutos algunas mas o menos, que dará 
+la latitud aparente casi 60. minutos y excediendo esta nimiamente al agregado de los semi-
+diametros de <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName> y <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName>, es imposible se vea en <placeName ref="catalogo_nombres_lugares.xml#M001">Mexico</placeName> ni en otra parte este eclipse</p>
+     <p>Quedan los de <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName>, de los quales es el primero á <date when="1696-05-16">16 de Mayo</date> y siendo su fin
+en <placeName ref="catalogo_nombres_lugares.xml#M001">Mexico</placeName> (supuesta la diferencia a <placeName ref="catalogo_nombres_lugares.xml#B003">Bolonia</placeName> de 7. horas 24. minutos) á las 6 horas 52. minutos de la tarde
+pudiera obseruarse el instante de su fin si mediante la refraccion y limpieza del ayre, estu
+biere eleuada la <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> sobre el <placeName ref="catalogo_nombres_lugares.xml#H003">orizonte</placeName> verase en las <placeName ref="catalogo_nombres_lugares.xml#B004">islas de Barlouento</placeName>, <placeName ref="catalogo_nombres_lugares.xml#P002">Peru</placeName>, <placeName ref="catalogo_nombres_lugares.xml#C023">Canarias</placeName>
+    El Segundo de <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> ha de ser á <date when="1696-11-08">8. de Nouiembre</date> y muy grande, esto es de 22 digi
+tos y 38. minutos estando la <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> en 17 grados 49. minutos de <placeName ref="catalogo_nombres_lugares.xml#T007">Tauro</placeName> apartada de la <!--ETIQUETA PARA ANIMALES-->cola del Dragon
+33 minutos Sera el principio á las 8 horas 22. minutos perdera todas sus luces á las 9 horas 16 minutos será el
+medio á las 10 horas 8 minutos comenzara a recobrar su resplandor á las 11 horas y quedará limpia
+y despeJada á las 11 horas 53. minutos durando de principio á fin 3 horas 31. minutos y totalmente obscure
+cida 1. hora 44. minutos.</p>
+
+<p>Juycio del Temperamento del Año.</p>
+
+<p>Los que usaren de las ephemerides de <persName ref="catalogo_nombres_personas.xml#A021">Andrés Argoli</persName> con la distancia para mi muy pro 
+bable de 7 horas 37. minutos entre <placeName ref="catalogo_nombres_lugares.xml#M001">Mexico</placeName> y <placeName ref="catalogo_nombres_lugares.xml#R003">Roma</placeName> determinaran la entrada del <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName> en <placeName ref="catalogo_nombres_lugares.xml#A019">Aries</placeName> un este <placeName ref="catalogo_nombres_lugares.xml#M013">me
+ridiano</placeName> el dia <date when="1696-03-19">19 de Marzo</date> á las 5. horas 39. minutos de la mañana. Pero no ualiendome yo de este
+Autor sino de <persName ref="catalogo_nombres_personas.xml#M028">Flaminio de Mezzauachis</persName> que es algo mas precisso digo sera el dicho equi
+noccio del Verano atendiendo precisamente á esta <placeName ref="catalogo_nombres_lugares.xml#C015">ciudad de Mexico</placeName> el mismo dia <date when="1696-03-19">Lunes
+19 de Marzo</date> á las 7. horas 58. mi. de la mañana segun el tiempo astronómico, pero segun el (palabra ilegible) y verdadero á las 7 h. 50 minutos instante en que suben por el <placeName ref="catalogo_nombres_lugares.xml#H004">horizonte oriental</placeName> 4 grados 24.
+minutos de <placeName ref="catalogo_nombres_lugares.xml#T007">Tauro</placeName> y en que se hallan en la decima casa 25. grados 30. minutos de <placeName ref="catalogo_nombres_lugares.xml#C008">Capricorno</placeName> y en las restan
+tes los que de otros signos les corresponden.</p>
+    <p>Señora del Ascendente (que es á quien se atiende en estos Juycios) es <placeName ref="catalogo_nombres_lugares.xml#V003">Venus</placeName>, la qual
+se halla oriental al <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName>, en el <placeName ref="catalogo_nombres_lugares.xml#M021">medio cielo</placeName>, en su termino, aplicada á la oposicion con <placeName ref="catalogo_nombres_lugares.xml#M011">Marte</placeName> 
+y en casa de <placeName ref="catalogo_nombres_lugares.xml#S010">Saturno</placeName>: Es este no solo señor de la decima pero (tambien oriental al <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName>) esta 
+corporalmente en su cuspide, esto es en 24. grados 56. minutos de <placeName ref="catalogo_nombres_lugares.xml#C008">Capricorno</placeName> donde tiene casa, tripli
+cidad y termino con que (aunque retrogrado) se le debe, acompañandolo con <placeName ref="catalogo_nombres_lugares.xml#V003">Venus</placeName>, el pre
+dominio del año.</p>
+    <p>La naturaleza de este, como ya otras ueces he dicho, es fría y seca destempladamente 
+y su complexion melancolica, y la de <placeName ref="catalogo_nombres_lugares.xml#V003">Venus</placeName> caliente y humeda y templadamente benefica
+Pero aunque son totalmente opuestas y contrarias estas qualidades de <placeName ref="catalogo_nombres_lugares.xml#V003">Venus</placeName> á aquellos 
+de <placeName ref="catalogo_nombres_lugares.xml#S010">Saturno</placeName> y este por mas fuerte ha conseguido en el gouierno del año el lugar primero
+no dudo conseguira tambien aquella con los cariños y halagos de su suauidad el mo
+rigerarlo . Con que con esta restriccion, o, por mejor decirlo con esperanza de que han de </p></div>
+<div><p>Folio 234 recto</p>
+<p>tener termino los malos años que ha tanto tiempo nos afligen se ha de entender lo que 
+aqui dixere y mas quando se ha experimentado que el año antecedente de que fue señor
+el mismo <placeName ref="catalogo_nombres_lugares.xml#S010">Saturno</placeName> acompañado de <placeName ref="catalogo_nombres_lugares.xml#J002">Jupiter</placeName> que es meJor planeta que <placeName ref="catalogo_nombres_lugares.xml#V003">Venus</placeName> no fue, en el 
+todo sino buen año, menos el contratiempo del yelo de septiembre, que causa el mismo <placeName ref="catalogo_nombres_lugares.xml#S010">Saturno</placeName></p>
+    <p>Sera pues el presente de <date when="1696">1696</date> en su mayor parte mas fresco que caliente por que
+constipando <placeName ref="catalogo_nombres_lugares.xml#S010">Saturno</placeName> el ayre, para que no reciba la tierra enteramente el calor del 
+<placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName>, será causa pobissima de este accidente, el qual se fortificara, assi por ser <placeName ref="catalogo_nombres_lugares.xml#S009">septentrio
+nal</placeName> descendente su latitud, como por hallarse sin impedimento de <placeName ref="catalogo_nombres_lugares.xml#M011">Marte</placeName>.</p>
+    <p>Esto, que por ser no conforme a la naturaleza, se reputara en otros tiempos por 
+muy nociuo, puede ser consequencia de algún prouecho en la ocasion presente, por que 
+hauiendo enseñado la experiencia no hauer cosa que mas se oponga á la plaga del chia
+huiztli que el frio y las escarchas, como se vio en los trigos auentureros del año pasado, si
+ahora, (a lo que yo Jusgo) ha de ser lo proprio, confianza pueda hauer, y mas poniendola
+en <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> de que conualesca  la tierra y buelua á dar sus frutos con la primitiua abundancia.</p>
+ <p>De la asistencia de <placeName ref="catalogo_nombres_lugares.xml#S010">Saturno</placeName> en <placeName ref="catalogo_nombres_lugares.xml#C008">Capricorno</placeName> dice <cit type="parafrasis" source="catalogo_nombres_libros.xml#S002"><bibl><author><persName ref="catalogo_nombres_personas.xml#A013"> Albumasar</persName></author></bibl> <quote>que causa multi
+tudinem pluviarum cum terremotibus, corruptiones agricultures, et redditus hereditatis
+propter multas aquas, et humiditates : Esto es . Muchas aguas con daño de la agricul
+tura y de los esquilmos de las haciendas; pero quando fuere <placeName ref="catalogo_nombres_lugares.xml#S009">septentrional</placeName> su latitud
+(como lo es ahora) añade que significa multam miaem et multum gelu et uehe
+mentiom frigorli super abundantiam qusque humiditatum</quote></cit> muchas nieues con exce
+sivos frios y yelos (quales son los que temo á mediado octubre compañeros del que 
+preuine y se experimento por septiembre del año pasado) y no solo esto sino muchas aguas</p> 
+    <p>Que sean estas ciertas quando lo aduierto en el Diario, parece lo comprueba 
+     el dominio de <placeName ref="catalogo_nombres_lugares.xml#V003">Venus</placeName> y su assistencia en <placeName ref="catalogo_nombres_lugares.xml#A015">Aquario</placeName>, de que dixo el mismo <persName ref="catalogo_nombres_personas.xml#A013">Autor</persName> <cit type="textual" source="catalogo_nombres_libros.xml#S002"><quote>(cum fuerit 
+<placeName ref="catalogo_nombres_lugares.xml#V003">Venus</placeName> equidistan <placeName ref="catalogo_nombres_lugares.xml#A015">Aquario</placeName> significat bonam aeris complexionem multum ventum cum
+multitudine pluviarum et nebularum)</quote></cit> que causa buen temperamento en el ayre con
+muchos uientos neblinas y aguas, y aunque por estar <placeName ref="catalogo_nombres_lugares.xml#S009">septentrional</placeName> pudiera preualecer 
+a esto la sequedad, creo será la primera por la aplicación que tiene á la oposicion de
+<placeName ref="catalogo_nombres_lugares.xml#M011">Marte</placeName> que sucedera á <date when="1696-03-22">22 de Marzo</date>, lo qual coadJuvado de los aspectos ordinarios de otros 
+Planetas distribuira á sus tiempos la agua con abundancia___</p>
+    <p>De la probabilidad racional de esta mi pronosticacion y, lo que es mas cierto de
+sus propias experiencias y del conocimiento de sus tierras podran inferir los Labrado
+res lo que deben executar persuadiendose primero y ante todas cosas el que dependi
+endo quanto subsiste de la primera causa que es <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName>, á sola su <persName ref="catalogo_nombres_personas.xml#D010">diuina Magestad</persName> se
+debe acudir con oraciones y suplicas para que abunde todo. Por que si los nombres (co
+mo dice el <cit type="textual" source="catalogo_nombres_libros.xml#B003"><bibl><author><persName ref="catalogo_nombres_personas.xml#O003">Sagrado Profeta  Oseas</persName></author> <title>cap. 2 vers. 21 :</title></bibl> <quote>exaudiam, dicit <persName ref="catalogo_nombres_personas.xml#D010">Dominus</persName>, exaudiam  <placeName ref="catalogo_nombres_lugares.xml#C006">celos</placeName> [?]
+et illi exaudient <placeName ref="catalogo_nombres_lugares.xml#T004">terrom</placeName>, et <placeName ref="catalogo_nombres_lugares.xml#T004">terra</placeName> exaudiet tritivem, vinum, et oleoum et hye exau-
+dient (palabra ilegible))</quote></cit> necesitan de los bastimentos para pasar la vida y aquellos de la <placeName ref="catalogo_nombres_lugares.xml#T004">tierra</placeName> 
+para que tengan sazon, y esta de los influxos y agua del <placeName ref="catalogo_nombres_lugares.xml#C006">cielo</placeName> para producirlos y
+uegetarlos y el <placeName ref="catalogo_nombres_lugares.xml#C006">cielo</placeName> de Sola la voluntad y arbitrio de <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> para influyr en todo, quien 
+será el ignorante que quiera el que faltandose a la connexion deste admirable cir
+culo se consigan buenos sucesos, oponiendose con sus procederes á la fuente de ellos ___</p>
+    <p>Muchas veces he discurrido si es algo de esto la causa de la enfermedad de los
+trigos con el chiahuiztli, por que uiendo que tocarlos la agua del <placeName ref="catalogo_nombres_lugares.xml#C006">cielo</placeName> es lo proprio que 
+contraher aquel achaque, se me ofrece para creer el que anda la mano de <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> en 
+ello lo del <cit type="textual" source="catalogo_nombres_libros.xml#B004"><bibl><title>PSalmo 67. vers. 10. </title></bibl><quote>Pluviam voluntariam segregabis <persName ref="catalogo_nombres_personas.xml#D010">Deus</persName> hereditati tue Y 
+en esto que se sigue ? et infirmata est.</quote></cit>Pero confiemos todos en que de aqui adelante</p></div>
+<div><p>Folio 234verso</p>
+
+ <p>como benigno <persName ref="catalogo_nombres_personas.xml#D010">Padre</persName> nos concedera lo que prosigue <cit type="textual" source="catalogo_nombres_libros.xml#B004"><bibl><title>el mismo PSalmo:</title></bibl> <quote>Tu vero perfecisticam 
+Animalia tua habitabunt in ea parasti in dulcedine tua pauperi <persName ref="catalogo_nombres_personas.xml#D010">Deus</persName></quote></cit>.</p>
+    <p>Por lo que toca á la salud siendo este año muy semeJante al antecedente (por
+ser los que lo gouiernan los mismos supuesto que las qualidades de <placeName ref="catalogo_nombres_lugares.xml#V003">Venus</placeName> son las de <placeName ref="catalogo_nombres_lugares.xml#J002">Ju
+piter)</placeName> creo que se continuara en el discurso de el lo que se esta actualmente experimen
+tando en este particular, que es no solo no malo pero algo bueno por la razon que dá
+     <cit type="parafrasis" source="catalogo_nombres_libros.xml#L002"><bibl><author><persName ref="catalogo_nombres_personas.xml#G015">Juntino:</persName></author></bibl> <quote>Quando <placeName ref="catalogo_nombres_lugares.xml#S010">Saturnus</placeName> anno prefuerit minuctur calor aeris, et fiet aer temperabu
+et confortabuntur individua animalium et sementum et temperatur eorum complexis</quote></cit><!--Es una cita de Albumasar atribuida a Juntino--> 567
+con que las enfermedades mas ordinarias seran los que preuine el año antecedente que 
+son las que causa la conmocion no natural de la melancolia y flema cruda y indigesta
+y las frialdades flatulentas que son dañosissimas a todo uiuiente y especialmente á
+los que por su natural y complexion o por sus años no se hallan con suficiente calor 
+para discutirlas.</p> 
+    <p>entre estos achaques preualeceran los flatos, cosa ya vulgar especialmente
+en personas que se regalan bien y estan ociosas, á quienes les aconsejo la diversion del
+ trabajo y estaran buenas. Lo mismo seran las destilaciones y catarros y mas quando 
+se mudare el tiempo que sera a menudo. La asistencia de <placeName ref="catalogo_nombres_lugares.xml#M011">Marte</placeName> en <placeName ref="catalogo_nombres_lugares.xml#L006">Leon</placeName>, y en la 
+quarta cassa  corrobora lo que tengo dicho de los flatos, y añade vehementes dolo
+res de <term type="body" ref="catalogo_terminos.xml#E002">estomago</term> y mas en gente mosa y tambien lo que llaman colera morbus, cuyo 
+remedio ha de ser agua de nieue o cosa semeJante y finalmente se pasara mas aco
+modadamente en tierras calientes que en las frias.</p> 
+
+<p>___<persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> sobre todo___</p>
+
+<p>(rúbrica)</p></div>
+
+<div><p>Folio 235recto</p>
+
+<p><date when="1696-01-31">Henero 31</date></p>
+
+<p><date when="1696-01-01">Domingo  1</date> La circuncisión del <persName ref="catalogo_nombres_personas.xml#D010">señor</persName>  dia electo para todo.</p>
+<p><date when="1696-01-02">Lunes        2</date> prohibido</p>
+<p><date when="1696-01-03">Martes      3</date>como antes de ayer.</p> 
+<p><date when="1696-01-04">Miercoles  4</date> (tachado) es la conJuncion a las 12 horas 37minutos del medio dia en 14 grados de <placeName ref="catalogo_nombres_lugares.xml#C008">Capricorno</placeName>. Mucha neblina y generalmente uientos y nubes</p>
+<p><date when="1696-01-05">Jueves       5</date>
+                                                                     son electos para dar píldoras y confortar la uirtud retenticia</p> 
+<p><date when="1696-01-06">Viernes     6</date> ** La epifania del <persName ref="catalogo_nombres_personas.xml#D010">señor</persName></p>         
+<p><date when="1696-01-07">Sabado     7</date> bueno para todo</p>
+<p><date when="1696-01-08">Domingo  8</date> prohibido</p>
+<p><date when="1696-01-09">Lunes        9</date> electo sin sangrar del <term type="body" ref="catalogo_terminos.xml#T001">tobillo</term>.</p> 
+<p><date when="1696-01-10">Martes     10</date> prohibido</p>
+<p><date when="1696-01-11">Miercoles 11</date> (tachado) Cuarto creciente á las  4 horas 7. minutos de la mañana (tachado) en 21 grados de <placeName ref="catalogo_nombres_lugares.xml#A019">Aries</placeName>. Vientos destemplados condensos y alguna vez violentos</p>
+<p><date when="1696-01-12"> Jueves    12</date> 
+                                      buenos para dar uomitorios y sangrar del <term type="body" ref="catalogo_terminos.xml#T001">tobillo</term></p> 
+<p><date when="1696-01-13">Viernes  13</date></p>             
+<p><date when="1696-01-14">Sabado  14</date> prohibido </p>
+<p><date when="1696-01-15">Domingo 15</date>
+                                            buenos para medicinarse y bañarse: malos para fuentes y sangrias en los <term type="body" ref="catalogo_terminos.xml#B002">brazos</term>.</p> 
+<p><date when="1696-01-16">Lunes    16</date></p>                       
+<p><date when="1696-01-17">Martes  17</date> prohibido</p> 
+<p><date when="1696-01-18">Miercoles 18</date> LLeno de <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> a las 12 horas 7 minutos de la noche que sigue a este dia en 29 grados de <placeName ref="catalogo_nombres_lugares.xml#C009">Cancer</placeName>. Como en el quarto antecedente, con alguna remision.</p>
+<p><date when="1696-01-19">Jueves    19</date> medianamente es dia electo</p>
+<p><date when="1696-01-20">Viernes   20</date>
+                                       escusense sangrías y solo se den baños y sudores.</p>
+<p><date when="1696-01-21">Sabado   21</date></p>             
+<p><date when="1696-01-22">Domingo  22</date> prohibido</p>
+<p><date when="1696-01-23">Lunes       23</date>
+                                        purguese la colera, dense baños y sangrense</p>
+<p><date when="1696-01-24">Martes    24</date></p>        
+<p><date when="1696-01-25">Miercoles 25</date> prohibido</p>
+<p><date when="1696-01-26">Jueves    26</date> electo hasta medio dia</p>
+<p><date when="1696-01-27">Viernes  27</date> Cuarto menguante á las 3 horas 22 minutos de la madrugada en 7 grados de <placeName ref="catalogo_nombres_lugares.xml#E006">Escorpion</placeName> alguna templanza con nubes hasta  cerca dela conJuncion</p>
+<p><date when="1696-01-28">Sabado   28</date> muy bueno para euacuar la colera y sangrarse</p>
+<p><date when="1696-01-29">Domingo 29</date></p>
+<p><date when="1696-01-30">Lunes 30</date>                                 electos para baños y sudores y purgar la flemas</p>
+<p><date when="1696-01-31">Martes 31</date>prohibido</p></div>
+
+<div><p>Folio 235verso</p> 
+<p><date when="1696-02-29">Febrero . 29.</date></p>
+
+<p><date when="1696-02-01">Miercoles  1</date> prohibido y mas para purgar</p>
+<p><date when="1696-02-02">Jueves       2 *</date> La purificación de <persName ref="catalogo_nombres_personas.xml#M018">nuestra señora</persName> conJuncion a las 10 horas 57 minutos dela noche en 14 grados de <placeName ref="catalogo_nombres_lugares.xml#A015">Aquario</placeName>. con tiempo uario y sin alteracion notable.</p>
+<p><date when="1696-02-03">Viernes     3</date> electo para todo.</p>
+<p><date when="1696-02-04">Sabado     4</date> prohibido</p>
+<p><date when="1696-02-05">Domingo  5</date> como antes de ayer sin sangria del <term type="body" ref="catalogo_terminos.xml#T001">touillo</term></p> 
+<p><date when="1696-02-06">Lunes        6</date> electo menos para labarse la <term type="body" ref="catalogo_terminos.xml#C001">cabeza</term></p>
+<p><date when="1696-02-07">Martes     7</date> prohibido</p>
+<p><date when="1696-02-08">Miercoles 8</date> como antes de ayer y no se sajen uentosas</p> 
+<p><date when="1696-02-09">Jueves      9</date> cuarto creciente a las 5 horas 13 minutos de la tarde en 21 grados de <placeName ref="catalogo_nombres_lugares.xml#T007">Tauro</placeName>. Neblinas gruesas con humedad en partes mortuosas.</p>
+<p><date when="1696-02-10">Viernes    10</date> prohibido</p>
+<p><date when="1696-02-11">Sabado     11</date>
+                                           electos y a proposito para baños y euacuaciones menos sangría y fuertes en los <term type="body" ref="catalogo_terminos.xml#B002">brazos</term></p> 
+<p><date when="1696-02-12">Domingo  12</date></p>                   
+<p><date when="1696-02-13">Lunes        13</date> dia electo</p>
+<p><date when="1696-02-14">Martes      14</date> prohibido</p>
+<p><date when="1696-02-15">Miercoles  15</date> no ay impedimento para medicinarse</p> 
+<p><date when="1696-02-16">Jueves       16</date> solo baños por limpieza y de ningun modo sangrias</p>
+<p><date when="1696-02-17">Viernes     17</date> LLeno de <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> ala 7 horas 12 minutos de la noche en 29 grados de <placeName ref="catalogo_nombres_lugares.xml#L006">Leo</placeName>. Vientos recios y tempestuosos principios de calor.</p>
+<p><date when="1696-02-18">Sabado    18</date> prohibido</p>
+<p><date when="1696-02-19">Domingo 19</date> Septuagessima  malo para purgar bueno para todo lo restante.</p>
+<p><date when="1696-02-20">Lunes       20</date>
+                                          dense baños refrigerantes. purguese la colera y sangrense</p> 
+<p><date when="1696-02-21">Martes     21</date></p>                      
+<p><date when="1696-02-22">Miercoles 22</date> prohibido</p>
+<p><date when="1696-02-23">Jueves     23</date>
+                                                 Son muy buenos días para todo.</p>
+<p><date when="1696-02-24">Viernes   24</date> Vigilia</p>                 
+<p><date when="1696-02-25">Sabado    25</date> * <persName ref="catalogo_nombres_personas.xml#M014">San Mathias Apostol</persName>. (tachado) Cuarto menguante a las 4 horas 28 minutos de la tarde en 7 grados de <placeName ref="catalogo_nombres_lugares.xml#S013">Sagitario</placeName> tiempo uario preualeciendo el uiento que no sera muy sano.</p>   
+<p><date when="1696-02-26">Domingo 26</date> Sexagessima
+                                                                       purguese la flema y melancolia, dense baños y sangrense.</p>
+<p><date when="1696-02-27">Lunes       27</date> </p>                                                   
+<p><date when="1696-02-28">Martes    28</date> prohibido</p>
+<p><date when="1696-02-29">Miercoles 29</date> bueno para dar uomitorios y baños refrigerantes___</p></div>
+
+<div><p>Folio 236recto</p>
+
+<p><date when="1696-03-31">Marzo . 31.</date></p>
+
+<p><date when="1696-03-01">Jueves      1</date> como ayer sin sangria del <term type="body" ref="catalogo_terminos.xml#T001">tobillo</term>.</p>
+<p><date when="1696-03-02">Viernes    2</date> prohibido</p>
+<p><date when="1696-03-03">Sabado    3</date> ConJuncion a las 8 horas 32 minutos de la mañana en 14 grados de <placeName ref="catalogo_nombres_lugares.xml#P025">Pisces</placeName>. no ay señal de alteracion considerable en el temperamento. </p>
+<p><date when="1696-03-04">Domingo 4</date> Cuinquagessima sean las sangrias en los <term type="body" ref="catalogo_terminos.xml#B002">brazos</term> y dese cualesquiera purgas  ____  </p>  
+<p><date when="1696-03-05">Lunes       5</date> prohibido </p>
+<p><date when="1696-03-06">Martes    6</date> 
+                                                      purguense con pildoras no se laben la <term type="body" ref="catalogo_terminos.xml#C001">cabeza</term> ni se sajen uentosas ____  </p>  
+<p><date when="1696-03-07">Miercoles 7</date> de ceniza  </p>             
+<p><date when="1696-03-08">Jueves      8</date> prohibido </p>
+<p><date when="1696-03-09">Viernes    9</date> electo para todo sin incission o cauterio en los <term type="body" ref="catalogo_terminos.xml#B002">brazos</term>. </p>
+<p><date when="1696-03-10">Sabado   10</date> Cuarto creciente a las 8 horas 32 minutos de la mañana en 21 grados de <placeName ref="catalogo_nombres_lugares.xml#G003">Gemini</placeName>. Muchos vientos con interpolacion de nubes y algun calor.</p>
+<p><date when="1696-03-11">Domingo 11</date>1° de cuaresma, es dia bueno y saludable</p>
+<p><date when="1696-03-12">Lunes      12</date> prohibido</p>
+<p><date when="1696-03-13">Martes    13</date> 
+                                                        escucense purgas y sangrias y solo se use  de baños calefacientes.</p>
+<p><date when="1696-03-14">Miercoles 14</date> Temporas </p>         
+<p><date when="1696-03-15">Jueves       15</date> Prohibido </p>
+<p><date when="1696-03-16">Viernes     16</date> Temporas
+                                                           dense purgas fuertes buenos para sangria y baños y para sembrar mayz </p>
+<p><date when="1696-03-17">Sabado     17</date> Temporas            </p>      
+<p><date when="1696-03-18">Domingo  18</date> 2° de cuaresma LLeno de <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> a la 1 hora 7 minutos del dia en 29 grados de <placeName ref="catalogo_nombres_lugares.xml#V005">Virgo</placeName>. Alguna alteracion en el ayre  aunque no general ni desiable ____ </p>
+<p><date when="1696-03-19">Lunes     19</date> * <persName ref="catalogo_nombres_personas.xml#J013">el Patriarca San Joseph</persName>  equinoccio del Verano entrando el <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName> en <placeName ref="catalogo_nombres_lugares.xml#A019">Aries</placeName> a las 7 horas 50 minutos de la mañana, dia electo.</p>
+<p><date when="1696-03-20">Martes   20</date> prohibido</p>
+<p><date when="1696-03-21">Miercoles 21</date> electo para todo</p>
+<p><date when="1696-03-22">Jueves      22</date> prohibido</p>
+
+<p><date when="1696-03-23">Viernes     23</date> 
+                                            buenos  para purgar la melancolia y flema bañarse y sangrarse</p>
+<p><date when="1696-03-24">Sabado     24</date></p>                     
+<p><date when="1696-03-25">Domingo  25</date> 3°de cuaresma La encarnacion del <persName ref="catalogo_nombres_personas.xml#D010">Verbo eterno</persName></p>
+<p><date when="1696-03-26">Lunes       26</date> Cuarto menguante a las 2 horas 32 minutos de la madrugada en 6 grados de <placeName ref="catalogo_nombres_lugares.xml#C008">Capricornio</placeName>. Como en la llena y en con mas uientos y mas calor.</p>
+<p><date when="1696-03-27">Martes     27</date> prohibido</p>
+<p><date when="1696-03-28">Miercoles 28</date> bueno para purgarse malo para abrir fuentes en las <term type="body" ref="catalogo_terminos.xml#P007">piernas</term>.</p>
+<p><date when="1696-03-29">Jueves      29</date> prohibido</p>
+<p><date when="1696-03-30">Viernes    30</date> 
+                                            muy electos para todo siendo las sangrias de los <term type="body" ref="catalogo_terminos.xml#B002">brazos</term>.</p>
+<p><date when="1696-03-31">Sabado    31</date></p></div>
+
+<div><p>Folio 236verso</p>
+
+<p><date when="1696-04-30">Abril. 30.</date></p>
+
+<p><date when="1696-04-01">Domingo    1</date>  4° de Cuaresma conJuncion a las 6 horas 12 minutos de la tarde en 13 grados de <placeName ref="catalogo_nombres_lugares.xml#A019">Aries</placeName>. Vientos muy repetidos y             pero no faltaran nubes gruesas.</p>
+<p><date when="1696-04-02">Lunes         2</date> prohibido</p>
+<p><date when="1696-04-03">Martes      3</date> dense uomitorios y no se laben la <term type="body" ref="catalogo_terminos.xml#C001">cabeza</term></p>
+<p><date when="1696-04-04">Miercoles  4</date> prohibido</p>
+<p><date when="1696-04-05">Jueves        5</date></p>
+<p><date when="1696-04-06">Viernes      6</date>                 dense baños generales y purguense; las sangrias no sean en los <term type="body" ref="catalogo_terminos.xml#B002">brazos</term> ni abran fuentes.</p>
+<p><date when="1696-04-07">Sabado      7</date></p>
+<p><date when="1696-04-08">Domingo   8</date> de Passion . electo para todo____</p>
+<p><date when="1696-04-09">Lunes         9</date> (tachado) Cuarto creciente a la 1 hora 37. minutos de la madrugada en 20 grados de <placeName ref="catalogo_nombres_lugares.xml#C009">Cancer</placeName>. tiempo fresco revuelto y algo tempestuoso : señales ay de alguna humedad</p>
+<p><date when="1696-04-10">Martes     10</date> bueno para baños y no otra cosa</p>
+<p><date when="1696-04-11">Miercoles 11</date> prohibido</p>
+<p><date when="1696-04-12">Jueves       12</date> como antes de ayer.</p>
+<p><date when="1696-04-13">Viernes     13</date> 
+                                     dense baños refrigenrantes y purguese la colera.</p>
+<p><date when="1696-04-14">Sabado    14</date></p>        
+<p><date when="1696-04-15">Domingo 15</date> de Ramos es dia electo para usar de qualesquiera medicinas.</p>
+<p><date when="1696-04-16">Lunes       16</date> Santo prohibido</p>
+<p><date when="1696-04-17">Martes     17</date> Santo LLeno de <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> a las 4 horas 33 minutos de la mañana en 28 grados de <placeName ref="catalogo_nombres_lugares.xml#L009">Libra</placeName>. Como el quarto antecedente con poca diferencia.</p>
+<p><date when="1696-04-18">Miercoles    18</date> Santo . muy bueno para euacuaciones y sangrias.</p>
+<p><date when="1696-04-19">Jueves          19</date> Santo prohibido</p>
+<p><date when="1696-04-20">Viernes        20</date> Santo
+                                                      son días para medicinarse y baños que conforten</p>
+<p><date when="1696-04-21">Sabado        21</date> Santo</p> 
+<p><date when="1696-04-22">Domingo    22</date> Pasqua de Resurreccion  generalmente es dia electo.</p>
+<p><date when="1696-04-23">Lunes          23</date> *2° de Pascua. prohibido</p>
+<p><date when="1696-04-24">Martes        24</date> *3° de Pasqua. Cuarto menguante á las 9 horas 32 minutos de la mañana en 6 grados de<placeName ref="catalogo_nombres_lugares.xml#A015">Aquario</placeName>. Mucho calor algunos uientos y menos nubes.</p>
+<p><date when="1696-04-25">Miercoles   25</date> Letanias. Prohibido</p>
+<p><date when="1696-04-26">Jueves         26</date></p>
+<p><date when="1696-04-27">Viernes       27</date>               Todos estos tres días son á proposito para aplicar medicinas, sangrarse, y bañarse.</p>
+<p><date when="1696-04-28">Sabado       28</date></p>
+<p><date when="1696-04-29">Domingo    29</date> prohibido</p>
+<p><date when="1696-04-30">Lunes      30</date> dense uomitorios, a pildoras y no se laben la <term type="body" ref="catalogo_terminos.xml#C001">cabeza</term>.</p></div>
+
+<div><p>Folio 237recto</p> 
+
+<p><date when="1696-05-31">Mayo . 31</date>.</p>
+
+<p><date when="1696-05-01">Martes        1</date> * <persName ref="catalogo_nombres_personas.xml#F019">San Felipe</persName> y <persName ref="catalogo_nombres_personas.xml#S014">Santiago</persName> Apostoles conJuncion a las 4 horas 4 minutos dela mañana en 11 grados de <placeName ref="catalogo_nombres_lugares.xml#T007">Tauro</placeName></p>
+<p><date when="1696-05-02">Miercoles   2</date> prohibido</p>
+<p><date when="1696-05-03">Jueves         3</date> * La invencion de la Santa Cruz 
+                                                                                          dense purgas sangranse del <term type="body" ref="catalogo_terminos.xml#T001">tobillo</term> y no de los <term type="body" ref="catalogo_terminos.xml#B002">brazos</term> ni se abran fuentes en ellos.</p>
+<p><date when="1696-05-04">Viernes       4</date></p>
+<p><date when="1696-05-05">Sabado       5</date> electo para todo</p>
+<p><date when="1696-05-06">Domingo    6</date> prohibido</p>
+<p><date when="1696-05-07">Lunes          7</date> Como antes de ayer hasta medio dia</p>
+<p><date when="1696-05-08">Martes       8</date> Cuarto creciente a las 7 horas 59. minutos de la noche en 19 grados de <placeName ref="catalogo_nombres_lugares.xml#L006">Leon</placeName>. Todos los aspectos que ay en el tiempo de este quarto denotan sequedad y muchos uientos.</p>
+<p><date when="1696-05-09">Miercoles   9</date> prohibido</p>
+<p><date when="1696-05-10">Jueves        10</date>
+                                       purguese la colera sangrense y bañens e.</p>
+<p><date when="1696-05-11">Viernes      11</date></p>             
+<p><date when="1696-05-12">Sabado      12</date>
+                                         no ay aspecto que impida la elecciones de medicina y fletotomia</p>
+<p><date when="1696-05-13">Domingo   13</date></p>         
+<p><date when="1696-05-14">Lunes         14</date> prohibido</p>
+<p><date when="1696-05-15">Martes      15</date> medianamente es dia electo ____</p>
+<p><date when="1696-05-16">Miercoles  16</date> LLeno de <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> a las 4 horas 48 minutos de la tarde en 27 grados de <placeName ref="catalogo_nombres_lugares.xml#E006">Escorpion</placeName> : No hallo indicio de agua sino muy poco pero puede esperarse.  Tiempo alborotado y en algunas partes tempestuoso con aguaceros.</p>
+<p><date when="1696-05-17">Jueves      17</date> prohibido</p>
+<p><date when="1696-05-18">Viernes    18</date> 
+                                      buenos para empezar a curar enfermedades antiguas sangrense y bañense</p>
+<p><date when="1696-05-19">Sabado    19</date></p>       
+<p><date when="1696-05-20">Domingo 20</date> prohibido</p>
+<p><date when="1696-05-21">Lunes       21</date> 
+                                 dense purgas uomitiuas y baños que enfrien</p>
+<p><date when="1696-05-22">Martes    22</date></p>    
+<p><date when="1696-05-23">Miercoles 23</date> (tachado) Cuarto menguante a las 2 horas 46 minutos de la tarde en 4 grados de <placeName ref="catalogo_nombres_lugares.xml#P025">Pisces</placeName>. Muchos uientos y calor grande con algunas nubes</p>
+<p><date when="1696-05-24">Jueves     24</date></p>
+<p><date when="1696-05-25">Viernes   25</date>      Muy buenos para todas euacuaciones baños de humedecer y sangrias en los <term type="body" ref="catalogo_terminos.xml#B002">brazos</term>.</p>
+<p><date when="1696-05-26">Sabado   26</date></p>
+<p><date when="1696-05-27">Domingo 27</date> prohibido</p>
+<p><date when="1696-05-28">Lunes      28</date> Rogaciones
+                                                 dense uomitorios y no se laben la <term type="body" ref="catalogo_terminos.xml#C001">cabeza</term> ni se saJen uentosas</p>
+<p><date when="1696-05-29">Martes    29</date> Rogaciones</p>  
+<p><date when="1696-05-30">Miercoles 30</date> Rogaciones (tachado) conJuncion uerdadera a las 3 horas 7 minutos de la tarde en 10 grados de <placeName ref="catalogo_nombres_lugares.xml#G003">Gemini</placeName>. Pareceme que lloverá y sera sin uiolencia</p>
+<p><date when="1696-05-31">Jueves     31</date> **. La Ascension del <persName ref="catalogo_nombres_personas.xml#D010">señor</persName>. dia electo menos para sangrar los <term type="body" ref="catalogo_terminos.xml#B002">brazos</term>____</p></div>
+
+<div><p>Folio 237verso</p>
+ 
+<p><date when="1696-06-30">Junio . 30.</date></p>
+
+<p><date when="1696-06-01">Viernes     1</date> 
+                                 tomense purgas, bañense y sangrense</p>
+<p><date when="1696-06-02">Sabado     2</date></p>             
+<p><date when="1696-06-03">Domingo  3</date> prohibido</p>
+<p><date when="1696-06-04">Lunes        4</date> 
+                                escucense las purgas y sangrias y solo se usen baños y sudores.</p>
+<p><date when="1696-06-05">Martes     5</date></p>                    
+<p><date when="1696-06-06">Miercoles 6</date> prohibido</p>
+<p><date when="1696-06-07">Jueves       7</date> Cuarto creciente a la 1hora 19 minutos del dia en 18 grados de <placeName ref="catalogo_nombres_lugares.xml#V005">Virgo</placeName> bastantes nubes y con agua si los uientos lo permiten.</p>
+<p><date when="1696-06-08">Viernes     8</date> 
+                                           muy electos para euacuar malos humores, bañarse y sangrarse</p>
+<p><date when="1696-06-09">Sabado     9</date> Vigilia</p>    
+<p><date when="1696-06-10">Domingo    10</date> Pascua del <persName ref="catalogo_nombres_personas.xml#D010">Espiritu Santo</persName>  prohibido</p>
+<p><date when="1696-06-11">Lunes          11</date> *.2°. de Pascua</p>
+<p><date when="1696-06-12">Martes       12</date> *.3°. de Pascua    Dense baños que humedescan purguese la colera y sangrense de <term type="body" ref="catalogo_terminos.xml#B002">brazos</term> y <term type="body" ref="catalogo_terminos.xml#T001">tovillos</term>.</p>
+<p><date when="1696-06-13">Miercoles   13</date> Temporas</p>
+<p><date when="1696-06-14">Jueves         14</date> prohibido</p>
+<p><date when="1696-06-15">Viernes       15</date> Temporas   LLeno de <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> a las 3 horas 3 minutos de la mañana en 25 grados de <placeName ref="catalogo_nombres_lugares.xml#S013">Sagitario</placeName>. Tiempo uario y con humedad aunque no mucha.</p>
+<p><date when="1696-06-16">Sabado       16</date> Temporas    dense purgas uomitiuas y no se cauterizen los <term type="body" ref="catalogo_terminos.xml#M007">muslos</term>.</p>
+<p><date when="1696-06-17">Domingo    17</date> de la <persName ref="catalogo_nombres_personas.xml#D010">Santísima Trinidad</persName>. prohibido</p>
+<p><date when="1696-06-18">Lunes          18</date>
+                                   dense baños para confortar, purguese  y sangrense los <term type="body" ref="catalogo_terminos.xml#B002">brazos</term>.</p>
+<p><date when="1696-06-19">Martes       19</date></p>        
+<p><date when="1696-06-20">Miercoles  20</date> prohibido solsticio del Estio entrando el <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName> en <placeName ref="catalogo_nombres_lugares.xml#C009">cancer</placeName> a las 8 horas 8 minutos de la mañana buenos aguaceros y continuos, con uientos recios.</p>
+<p><date when="1696-06-21">Jueves       21</date> ** Corpus christi Cuarto menguante a las 8 horas 21. de la noche en 1 grado de <placeName ref="catalogo_nombres_lugares.xml#A019">Aries</placeName></p>
+<p><date when="1696-06-22">Viernes     22</date>  (tachado) y malo para labarse la <term type="body" ref="catalogo_terminos.xml#C001">cabeza</term> ____</p>
+<p><date when="1696-06-23">Sabado     23</date>  Vigilia prohibido</p>
+<p><date when="1696-06-24">Domingo  24</date> el nacimiento de <persName ref="catalogo_nombres_personas.xml#J012">San Juan Bautista</persName> 
+        20"                                                                                  purguense con pildoras nose laben la <term type="body" ref="catalogo_terminos.xml#C001">cabeza</term> ni se sajen uentosas</p>
+<p><date when="1696-06-25">Lunes       25</date></p>
+<p><date when="1696-06-26">Martes    26</date> electo menos para sangrar los <term type="body" ref="catalogo_terminos.xml#B002">brazos</term>.</p>
+<p><date when="1696-06-27">Miercoles 27</date> prohibido</p>
+<p><date when="1696-06-28">Jueves     28</date> Vigilia como antes de ayer hasta medio dia____</p>
+<p><date when="1696-06-29">Viernes   29</date> ** <persName ref="catalogo_nombres_personas.xml#P005">San Pedro</persName> y <persName ref="catalogo_nombres_personas.xml#P001">San Pab  lo</persName> Apostoles . ConJuncion a las 3 horas 25 minutos de la mañana en 8 grados de <placeName ref="catalogo_nombres_lugares.xml#C009">Cancer</placeName>. Tiempo teempestuoso y revuelto con granizo y agua.</p>
+<p><date when="1696-06-30">Sabado  30</date> prohibido (oy se vera la <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName>)</p></div>
+
+<div><p>Folio 238recto</p>
+ 
+<p><date when="1696-07-31">Julio 31.</date></p>
+<p><date when="1696-07-01">Domingo     1</date>                
+                                    no tendran buen efecto las purgas, dense baños para calentar</p>
+<p><date when="1696-07-02">Lunes          2</date></p>
+<p><date when="1696-07-03">Martes       3</date>     
+                                   No hay impedimento para las elecciones ordinarias.</p>
+<p><date when="1696-07-04">Miercoles   4</date></p>
+<p><date when="1696-07-05">Jueves        5</date> prohibido</p>
+<p><date when="1696-07-06">Viernes      6</date> tomense purgas, bañense y no se hagan sangrias</p>
+<p><date when="1696-07-07">Sabado      7</date> (tachado) Cuarto creciente a las 6 horas 22 minutos de la mañana en 17 grados de <placeName ref="catalogo_nombres_lugares.xml#L009">Libra</placeName> . nubes con agua no tan violenta como el quarto pasado</p>
+<p><date when="1696-07-08">Domingo  8</date> como el <date when="1696-07-06">viernes</date> pasado.</p>
+
+<p><date when="1696-07-09">Lunes       9</date>      
+                                    dense baños que humedescan, y purguense</p>
+<p><date when="1696-07-10">Martes     10</date></p>
+<p><date when="1696-07-11">Miercoles 11</date> electo para euacuar la melancolia y flemas</p>
+<p><date when="1696-07-12">Jueves      12</date> prohibido</p>
+<p><date when="1696-07-13">Viernes    13</date> es dia bueno para todas elecciones siendo las purgas uomitivas</p>
+<p><date when="1696-07-14">Sabado    14</date> (tachado) LLeno de <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> a las 11 horas 26 minutos del dia en 23 grados de <placeName ref="catalogo_nombres_lugares.xml#C008">Capricorno</placeName>. muestras ay de alguna templanza en el calor tiempo uentoso.</p>
+<p><date when="1696-07-15">Domingo 15</date>    
+                             generalmente seran prouechosas las purgas labense la <term type="body" ref="catalogo_terminos.xml#C001">cabeza</term> y no se abran fuentes en las <term type="body" ref="catalogo_terminos.xml#P007">piernas</term></p>
+<p><date when="1696-07-16">Lunes      16</date></p>  
+<p><date when="1696-07-17">Martes    17</date>  
+                               tambien son electos especialmente para purgar la cólera . las sangrias sean de los <term type="body" ref="catalogo_terminos.xml#B002">brazos</term></p>
+<p><date when="1696-07-18">Miercoles 18</date></p>
+<p><date when="1696-07-19">Jueves      19</date> prohibido</p>
+<p><date when="1696-07-20">Viernes    20</date> prohibido</p>
+<p><date when="1696-07-21">Sabado    21</date> Cuarto menguante a las 2 horas 25 minutos de la mañana en 29 grados de <placeName ref="catalogo_nombres_lugares.xml#A019">Aries</placeName> . Aguas menudas  interpoladas con uientos suaues y gratos.</p>
+<p><date when="1696-07-22">Domingo 22</date>         
+                              purguense con pildoras, no se den baños en la <term type="body" ref="catalogo_terminos.xml#C001">cabeza</term> ni se hechen uentosas</p>
+<p><date when="1696-07-23">Lunes      23</date></p>  
+<p><date when="1696-07-24">Martes    24</date> Vigilia                               
+                                                              son días electos para todo menos sangrar los <term type="body" ref="catalogo_terminos.xml#B002">brazos</term>  o cauterizarlos.</p>
+<p><date when="1696-07-25">Miercoles 25</date> *<persName ref="catalogo_nombres_personas.xml#S014">Santiago Apostol</persName></p>
+<p><date when="1696-07-26">Jueves     26</date>  *<persName ref="catalogo_nombres_personas.xml#S037">Santa Ana</persName> prohibido.</p>
+<p><date when="1696-07-27">Viernes   27</date>  prohibido</p>
+<p><date when="1696-07-28">Sabado   28</date> ConJuncion a las 5 horas 22 minutos de la tarde en 7 grados de <placeName ref="catalogo_nombres_lugares.xml#L006">Leon</placeName> . algunas turbonadas, y agua poco durable</p>
+<p><date when="1696-07-29">Domingo 29</date>           
+                                Solo se use de medicinas que siruan para calentar y confortar.</p>
+<p><date when="1696-07-30">Lunes     30</date></p>
+<p><date when="1696-07-31">Martes  31</date>   electo para todo</p></div>
+
+<div><p>Folio 238 verso</p> 
+ 
+<p><date when="1696-08-31">Agosto 31</date>.</p>
+
+<p><date when="1696-08-01">Miercoles 1</date>           
+                             sino ay causa muy urgente escusense las purgas y usese de qualquier otro medicamento</p>
+<p><date when="1696-08-02">Jueves      2</date></p>
+<p><date when="1696-08-03">Viernes     3</date>   prohibido</p>
+<p><date when="1696-08-04">Sabado     4</date>   prohibido</p>
+<p><date when="1696-08-05">Domingo  5</date> Cuarto creciente á las 8 horas 51 minutos de la noche en 14 grados de <placeName ref="catalogo_nombres_lugares.xml#E006">Escorpion</placeName> mas señales ay de uientos que de agua pero no faltara esta absolutamente</p>
+<p><date when="1696-08-06">Lunes       6</date> dense baños humectantes, (tachado) purguese la flema y sangrense</p>
+<p><date when="1696-08-07">Martes     7</date>               
+                                 dias electos para todo sin excepcion</p>
+<p><date when="1696-08-08">Miercoles 8</date></p>
+<p><date when="1696-08-09">Jueves      9</date>   Vigilia dense baños y purguense con pildoras, o uomitorios</p>
+<p><date when="1696-08-10">Viernes   10</date>  *<persName ref="catalogo_nombres_personas.xml#L012">San Lorenzo Martyr</persName>  dia prohibido</p>
+<p><date when="1696-08-11">Sabado    11</date>  como <date when="1696-08-09">antes de ayer</date> sin sangria</p>
+<p><date when="1696-08-12">Domingo 12</date> LLena a las 7 horas 10 minutos de la noche en 21 grados de <placeName ref="catalogo_nombres_lugares.xml#A015">Aquario</placeName>. Algunas tempestades de agua granizo y truenos : tiempo dañoso a las salud.</p>
+<p><date when="1696-08-13">Lunes       13</date>  *<persName ref="catalogo_nombres_personas.xml#H007">San Hipolito Martyr</persName></p> 
+<p><date when="1696-08-14">Martes     14</date>   Vigilia                                                         dias electos generalmente menos para sangrar del <term type="body" ref="catalogo_terminos.xml#T001">touillo</term></p>           
+<p><date when="1696-08-15">Miercoles 15</date> ** La Asuncion de <persName ref="catalogo_nombres_personas.xml#M018">nuestra Señora</persName></p>         
+<p><date when="1696-08-16">Jueves      16</date>  prohibido</p>
+<p><date when="1696-08-17">Viernes    17</date>            
+                              tomense uomitorios y no se laven la <term type="body" ref="catalogo_terminos.xml#C001">cabeza</term> ni se saJen uentosas, ni se sangren <term type="body" ref="catalogo_terminos.xml#V002">uenas</term> altas</p>
+<p><date when="1696-08-18">Sabado    18</date></p>  
+<p><date when="1696-08-19">Domingo 19</date> Cuarto menguante a las 10 horas 52 minutos del dia en 28 grados de <placeName ref="catalogo_nombres_lugares.xml#T007">Tauro</placeName> Tiempo sosegado con muchas nubes y algunos uientos.</p>
+<p><date when="1696-08-20">Lunes      20</date>               
+                              electos para todo sin incision o cauterio en los <term type="body" ref="catalogo_terminos.xml#B002">brazos</term>.</p>
+<p><date when="1696-08-21">Martes   21</date></p>
+<p><date when="1696-08-22">Miercoles 22</date>  tambien es electo sin excepción.</p>
+<p><date when="1696-08-23">Jueves     23</date>  Vigilia prohibido</p>
+<p><date when="1696-08-24">Viernes   24</date> *<persName ref="catalogo_nombres_personas.xml#B020">San Bartólome Apostol</persName>  prohibido</p>
+<p><date when="1696-08-25">Sabado   25</date>         
+                              Solo baños y sudores y no otra cosa</p>
+<p><date when="1696-08-26">Domingo 26</date></p>
+<p><date when="1696-08-27">Lunes     27</date>  ConJuncion a las 8 horas 54 minutos de la mañana en 5 grados de <placeName ref="catalogo_nombres_lugares.xml#V005">Virgo</placeName>. Templanza en el calor algun aguacero y uientos sosegados.</p>
+<p><date when="1696-08-28">Martes   28</date>  *<persName ref="catalogo_nombres_personas.xml#A007">San Agustin</persName></p>
+<p><date when="1696-08-29">Miercoles 29</date>                                  No ay cosa que impida las operaciones de medicina.</p>
+<p><date when="1696-08-30">Jueves  30</date> *<persName ref="catalogo_nombres_personas.xml#R011">Santa Rosa</persName></p>
+<p><date when="1696-08-31">Viernes  31</date>  prohibido</p></div>
+
+<div><p>Folio 239recto</p>
+
+<p><date when="1696-09-30">Septiembre 30</date></p>
+
+<p><date when="1696-09-01">Sabado     1</date>   prohibido</p>
+<p><date when="1696-09-02">Domingo  2</date>            
+                        buenos para todas euacuaciones y sangrias.</p>
+<p><date when="1696-09-03">Lunes        3</date></p> 
+<p><date when="1696-09-04">Martes   4</date>  Cuarto creciente a las 9 horas 37 minutos de la mañana en 13 grados de <placeName ref="catalogo_nombres_lugares.xml#S013">Sagitario</placeName>. LLuuias menudas con alguna continuacion.</p>
+<p><date when="1696-09-05">Miercoles  5</date>          
+                                purguese la melancolia y flema dense baños de confortar y sangrense</p>
+<p><date when="1696-09-06">Jueves       6</date></p>
+<p><date when="1696-09-07">Viernes    7</date>  prohibido</p>
+<p><date when="1696-09-08">Sabado    8</date>  *La Natiuidad de <persName ref="catalogo_nombres_personas.xml#M018">nuestra Señora</persName>.  prohibido</p>
+<p><date when="1696-09-09">Domingo 9</date>         
+                             son días electos sin fuentes en las <term type="body" ref="catalogo_terminos.xml#P007">piernas</term>.</p>
+<p><date when="1696-09-10">Lunes     10</date></p>
+<p><date when="1696-09-11">Martes  11</date> LLena á las 2 horas 53 minutos de la madrugada en 20 grados de <placeName ref="catalogo_nombres_lugares.xml#P025">Pisces</placeName> . parece que faltaran las lluuias y si assi fuera soplaran muchos uientos y muy frescos.</p>
+<p><date when="1696-09-12">Miercoles 12</date> malo para labarse la <term type="body" ref="catalogo_terminos.xml#C001">cabeza</term> y sangrar de la <term type="body" ref="catalogo_terminos.xml#C001">cefalica</term> dense pildoras</p>
+<p><date when="1696-09-13">Jueves    13</date>   prohibido</p>
+<p><date when="1696-09-14">Viernes  14</date>   prohibido</p>
+<p><date when="1696-09-15">Sabado   15</date>           
+                                purga y sangria como no sea de los <term type="body" ref="catalogo_terminos.xml#B002">brazos</term> ni abrirles fuentes.</p>
+<p><date when="1696-09-16">Domingo 16</date></p>
+<p><date when="1696-09-17">Lunes   17</date>  Cuarto menguante a las 10 horas 26 minutos de la noche en 26 grados de <placeName ref="catalogo_nombres_lugares.xml#G003">Gemini</placeName>: Continuaranse los uientos con muchas nubes y humedad</p>
+<p><date when="1696-09-18">Martes  18</date>  como <date when="1696-09-16">antes de ayer</date></p>
+<p><date when="1696-09-19">Miercoles 19</date> Temporas  prohibido</p>
+<p><date when="1696-09-20">Jueves    20</date>   Vigilia electo para todo sin excepcion</p>
+<p><date when="1696-09-21">Viernes   21</date> Temporas *<persName ref="catalogo_nombres_personas.xml#M013">San Matheo Apostol</persName>  dia prohibido equinoccio del otoño entrando el <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName> en <placeName ref="catalogo_nombres_lugares.xml#L009">Libra</placeName> a las 8 horas  (54 minutos de la noche.)</p>
+<p><date when="1696-09-22">Sabado  22</date> Temporas</p>
+<p><date when="1696-09-23">Domingo  23</date></p>
+<p><date when="1696-09-24">Lunes       24</date>                   dense baños refrigerantes sangrense y ponganse en cura enfermedades antiguas-____</p>
+<p><date when="1696-09-25">Martes    25</date></p>
+<p><date when="1696-09-26">Miercoles 26</date>  ConJuncion a la 1 hora 30 minutos de la madrugada de este dia en 4 grados de <placeName ref="catalogo_nombres_lugares.xml#L009">Libra</placeName> Prosiguen los uientos, y tal uez tempestuosos y dañosos.
+<date when="1696-09-27">Jueves     27</date>  prohibido (hoy se verá la <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName>)</p>
+<p><date when="1696-09-28">Viernes   28</date>  es dia electo y saludable.</p>
+<p><date when="1696-09-29">Sabado    29</date>  *<persName ref="catalogo_nombres_personas.xml#S038">San Miguel Archangel</persName>  dia prohibido.</p>
+<p><date when="1696-09-30">Domingo 30</date> no ay impedimento para qualesquiera elecciones____</p></div>
+
+<div><p>Folio 239verso</p>
+
+<p><date when="1696-10-31">Octubre 31.</date></p>
+
+<p><date when="1696-10-01">Lunes         1</date>             
+                                baños para confortar purgas y sangrias</p> 
+<p><date when="1696-10-02">Martes      2</date></p>
+<p><date when="1696-10-03">Miercoles  3</date>  Cuarto creciente a las 7 horas 44 minutos de la noche en 12 grados de <placeName ref="catalogo_nombres_lugares.xml#C008">Capricorno</placeName>. Mudanza en el tiempo preualeciendo los uientos y puede ser que alguna humedad.</p>
+<p><date when="1696-10-04">Jueves      4</date> prohibido</p>
+<p><date when="1696-10-05">Viernes    5</date>  dense purgas uomitiuas y baños en la <term type="body" ref="catalogo_terminos.xml#C001">cabeza</term></p>
+<p><date when="1696-10-06">Sabado    6</date> prohibido</p>
+<p><date when="1696-10-07">Domingo   7</date> como <date when="1696-10-05">antes de ayer</date> ____</p>
+<p><date when="1696-10-08">Lunes       8</date>                
+                            purguese qualquiera malo humor sangrense los <term type="body" ref="catalogo_terminos.xml#B002">brazos</term> y tomense baños que humedescan</p>
+<p><date when="1696-10-09">Martes    9</date></p>
+<p><date when="1696-10-10">Miercoles 10</date> prohibido LLena a las 11 horas 27 minutos del dia en 19 grados de <placeName ref="catalogo_nombres_lugares.xml#A019">Aries</placeName> : el quadrado del <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName> y <placeName ref="catalogo_nombres_lugares.xml#S010">Saturno</placeName> que (tachado) es el sabado, ordinariamente (como sucedio el <date when="1695">año pasado</date>) causa yelos. <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> sobre todo</p>
+<p><date when="1696-10-11">Jueves    11</date>          
+                                purguense por <term type="body" ref="catalogo_terminos.xml#V005">uomito</term> baños en el <term type="body" ref="catalogo_terminos.xml#C002">cuerpo</term> y sangria del <term type="body" ref="catalogo_terminos.xml#T001">touillo</term></p>
+<p><date when="1696-10-12">Viernes   12</date></p>
+<p><date when="1696-10-13">Sabado   13</date>   prohibido</p>
+<p><date when="1696-10-14">Domingo   14</date></p>
+<p><date when="1696-10-15">Lunes        15</date>                    Todos tres dias son a proposito para todas elecciones menos sangrar los <term type="body" ref="catalogo_terminos.xml#B002">brazos</term></p>
+<p><date when="1696-10-16">Martes     16</date></p>
+<p><date when="1696-10-17">Miercoles  17</date> prohibido Cuarto menguante a la 1 hora 57 minutos del dia en 26 grados de <placeName ref="catalogo_nombres_lugares.xml#C009">Cancer</placeName>. No hallo alteracion notable en el temperamento</p>
+<p><date when="1696-10-18">Jueves     18</date>            
+                                     baños calefacientes y sudores y no otra cosa</p>
+<p><date when="1696-10-19">Viernes   19</date></p>
+<p><date when="1696-10-20">Sabado   20</date>   prohibido</p>
+<p><date when="1696-10-21">Domingo 21</date></p>
+<p><date when="1696-10-22">Lunes      22</date>               tendran buen suceso las euacuaciones y sangrias : bañense</p>
+<p><date when="1696-10-23">Martes    23</date></p>
+<p><date when="1696-10-24">Miercoles 24</date>  prohibido</p>
+<p><date when="1696-10-25">Jueves    25</date> ConJuncion a las 6. horas 35 minutos de la tarde en 4 grados de <placeName ref="catalogo_nombres_lugares.xml#E006">Escorpion</placeName>. Vientos poco sanos y que ocasionaran resfrios.</p>
+<p><date when="1696-10-26">Viernes    26</date>                         
+                                               electos generalmente para todo</p>
+<p><date when="1696-10-27">Sabado   27</date>  Vigilia</p>
+<p><date when="1696-10-28">Domingo    28</date> <persName ref="catalogo_nombres_personas.xml#S019">San Simon</persName> y <persName ref="catalogo_nombres_personas.xml#J027">San Judas Tadeo</persName> Apostoles . dia prohibido</p>
+<p><date when="1696-10-29">Lunes          29</date>                
+                                       las purgas sean uomitiuas y los baños para corroborar____</p>
+<p><date when="1696-10-30">Martes       30</date></p>
+<p><date when="1696-10-31">Miercoles  31</date>  Vigilia . prohibido</p></div>
+
+<div><p>Folio 240recto</p>
+
+<p><date when="1696-11-30">Nouiembre 30.</date></p>
+
+<p><date when="1696-11-01">Jueves       1</date>  **Fiesta de todos los Santos. <date when="1696-10-30">Como antes de ayer</date>____</p>
+<p><date when="1696-11-02">Viernes    2</date> Conmemoracion de los fieles Difuntos Cuarto creciente á las 5 horas 19 minutos de la mañana en 11 grados de <placeName ref="catalogo_nombres_lugares.xml#A015">Aquario</placeName> algunas escarchas muchos uientos y pocas nubes</p>
+<p><date when="1696-11-03">Sabado     3</date>   electo para todo</p>
+<p><date when="1696-11-04">Domingo  4</date>  prohibido</p>
+<p><date when="1696-11-05">Lunes       5</date>   Tambien es electo sin sangria del <term type="body" ref="catalogo_terminos.xml#T001">touillo</term></p>
+<p><date when="1696-11-06">Martes    6</date>   prohibido</p>
+<p><date when="1696-11-07">Miercoles 7</date>  escucense baños de <term type="body" ref="catalogo_terminos.xml#C001">cabeza</term> y dense purgas uomitiuas.</p>
+<p><date when="1696-11-08">Jueves    8</date> LLena (entre renglones: y el medio del eclipse de que se dixo arriba) a las 9 horas 52 minutos de la noche en 18 grados de <placeName ref="catalogo_nombres_lugares.xml#T007">Tauro</placeName> : no faltaran uientos tiempo nubloso</p>
+<p><date when="1696-11-09">Viernes     9</date>               
+                                   no se saJen uentosas (tachado), ni se laben las <term type="body" ref="catalogo_terminos.xml#C001">cabezas</term></p>
+<p><date when="1696-11-10">Sabado     10</date></p>
+<p><date when="1696-11-11">Domingo  11</date>   prohibido</p>
+<p><date when="1696-11-12">Lunes        12</date>   es aproposito para medicinarse</p>
+<p><date when="1696-11-13">Martes     13</date>   prohibido</p>
+<p><date when="1696-11-14">Miercoles 14</date>  purguense sangrense y bañense</p>
+<p><date when="1696-11-15">Jueves      15</date>   Solo sudores y baños</p>
+<p><date when="1696-11-16">Viernes   16</date>   Cuarto menguante a las 9 horas 12 minutos del dia en 26 grados de <placeName ref="catalogo_nombres_lugares.xml#L006">Leon</placeName> (tachado) apretara el frio acompañadoo de uientos nortes____</p>
+<p><date when="1696-11-17">Sabado    17</date>   purguese la flema y minorese la <term type="body" ref="catalogo_terminos.xml#S001">sangre</term></p>
+<p><date when="1696-11-18">Domingo 18</date> prohibido</p>
+<p><date when="1696-11-18">Lunes       19</date>           
+                                electo para todo ministerio de medicinas</p>
+<p><date when="1696-11-20">Martes     20</date></p>
+<p><date when="1696-11-21">Miercoles 21</date> prohibido</p>
+<p><date when="1696-11-22">Jueves     22</date> 
+                                  no ay aspecto que impida purgarse sangrarse y bañarse</p>
+<p><date when="1696-11-23">Viernes    23</date></p>
+<p><date when="1696-11-24">Sabado  24</date>  ConJuncion a las 10 horas 36 minutos del dia en 4 grados de <placeName ref="catalogo_nombres_lugares.xml#S013">Sagitario</placeName> . Neblinas humedas especialmente en partes mortuosas</p>
+<p><date when="1696-11-25">Domingo     25</date>   bueno para sangrarse y para baños</p>
+<p><date when="1696-11-26">Lunes           26</date>   prohibido</p>
+<p><date when="1696-11-27">Martes        27</date>   como <date when="1696-11-25">antes de ayer</date> y las purgas sean uomitiuas</p>
+<p><date when="1696-11-28">Miercoles   28</date>   prohibido</p>
+<p><date when="1696-11-29">Jueves         29</date>   Vigilia                                        son buenos dias para medicinarse y lo restante____</p>
+<p><date when="1696-11-30">Viernes       30</date>  *<persName ref="catalogo_nombres_personas.xml#A048">San Andres Apostol</persName></p></div>
+
+<div><p>Folio 240verso</p>
+
+<p><date when="1696-12-31">Diciembre 31.</date></p>
+
+<p><date when="1696-12-01">Sabado    1</date>   Cuarto creciente á la 1 hora 30 minutos del dia en 11 grados de <placeName ref="catalogo_nombres_lugares.xml#P025">Pisces</placeName> : no ay cosa que altere el ayre notablemente</p>
+<p><date when="1696-12-02">Domingo   2</date>   1° de Aduiento        
+                                                            Elijanse purgas sangrias y baños menos en la <term type="body" ref="catalogo_terminos.xml#C001">cabeza</term></p>
+<p><date when="1696-12-03">Lunes       3</date></p>
+<p><date when="1696-12-04">Martes    4</date>    prohibido</p>
+<p><date when="1696-12-05">Miercoles  5</date>        
+                                  dense purgas uomitiuas y no se saJen uentosas</p>
+<p><date when="1696-12-06">Jueves      6</date></p>
+<p><date when="1696-12-07">Viernes    7</date>    electo menos para incision o cauterio en los <term type="body" ref="catalogo_terminos.xml#B002">brazos</term>.</p>
+<p><date when="1696-12-08">Sabado   8  </date> *La inmaculada Concepcion de <persName ref="catalogo_nombres_personas.xml#M018">nuestra Señora</persName> . LLena a las 11 horas 2 minutos del dia en 18 grados de <placeName ref="catalogo_nombres_lugares.xml#G003">Gemini</placeName> . Vientos recios y algo tempestuosos con neblinas muy humedas</p>
+<p><date when="1696-12-09">Domingo   9</date>   como <date when="1696-12-07">antes de ayer</date></p>
+<p><date when="1696-12-10">Lunes       10</date>   prohibido</p>
+<p><date when="1696-12-11">Martes     11</date>   prohibido</p>
+<p><date when="1696-12-12">Miercoles 12</date>           
+                                   malos para sangrarse, buenos para baños que calienten y conforten</p>
+<p><date when="1696-12-13">Jueves      13</date></p>
+<p><date when="1696-12-14">Viernes    14</date>        
+                                 tomense purgas, baños de <term type="body" ref="catalogo_terminos.xml#C001">cabeza</term> y sangrense</p>
+<p><date when="1696-12-15">Sabado    15</date></p>
+<p><date when="1696-12-16">Domingo 16</date>   Cuarto menguante a las 6. horas 44. minutos de la mañana en 26 grados de <placeName ref="catalogo_nombres_lugares.xml#V005">Virgo</placeName> : grandes yelos y mucho frio con uientos nortes</p>
+<p><date when="1696-12-17">Lunes       17</date>    electo para todo sin sangria</p>
+<p><date when="1696-12-18">Martes    18</date>     prohibido</p>
+<p><date when="1696-12-19">Miercoles 19</date>  Temporas____                                                                                                         son dias electos para todo</p>
+<p><date when="1696-12-20">Jueves      20</date> Vigilia  Solsticio del inuierno entrando el <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName> en <placeName ref="catalogo_nombres_lugares.xml#C008">Capricornio</placeName> a las 11 horas
+15 minutos del dia</p>
+<p><date when="1696-12-21">Viernes     21</date>   Temporas    *<persName ref="catalogo_nombres_personas.xml#T012">Santo Tomas Apostol</persName></p>
+<p><date when="1696-12-22">Sabado      22</date> Temporas             
+                                                         buenos para labarse la <term type="body" ref="catalogo_terminos.xml#C001">cabeza</term> y euacuar la flema</p>
+<p><date when="1696-12-23">Domingo   23</date></p>
+<p><date when="1696-12-24">Lunes    24</date>   Vigilia   ConJuncion a la 1 hora 22 minutos de la madrugada en 3 grados de <placeName ref="catalogo_nombres_lugares.xml#C008">Capricorno</placeName>: tiempo destemplado y enfermizo . con nubes y neblinas</p>
+<p><date when="1696-12-25">Martes   25</date>    *el Nacimiento de <persName ref="catalogo_nombres_personas.xml#J006">nuestro Señor Jesuchristo</persName> dia prohibido (hoy se verá la <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName>)</p>
+<p><date when="1696-12-26">Miercoles 26</date>  *<persName ref="catalogo_nombres_personas.xml#E027">San Esteuan Protomartyr</persName>               
+                                                                                              no se abran fuentes en las <term type="body" ref="catalogo_terminos.xml#P007">piernas</term></p>
+<p><date when="1696-12-27">Jueves    27</date>   *<persName ref="catalogo_nombres_personas.xml#J015">San Juan Apostol y Euangelista</persName></p>
+<p><date when="1696-12-28">Viernes 28</date> *Los Santos Inocentes            
+                                                                       buenos para todas euacuaciones baños y sangrias no siendo del <term type="body" ref="catalogo_terminos.xml#T001">touillo</term></p>                            
+<p><date when="1696-12-29">Sabado 29</date></p>                                                  
+<p><date when="1696-12-30">Domingo 30</date> Cuarto creciente a las 9 horas 36 minutos de la noche en 10 grados de <placeName ref="catalogo_nombres_lugares.xml#A019">Aries</placeName> . no sera muy rigido el temperamento del ayre</p>
+<p><date when="1696-12-31">Lunes   31</date>   prohibido</p>
+
+<p>L. D. G. y M.</p></div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,1076 @@
+<TEI
+  xmlns="http://www.tei-c.org/ns/1.0"
+  xmlns:rng="http://relaxng.org/ns/structure/1.0" 
+  xml:lang="es"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="validation/document.xsd">
+
+<teiHeader>
+ <fileDesc>
+  <titleStmt>
+       <title type="main">Tratado General De Relojes de Sol</title>
+       <title type="short">Tratado General De Relojes de Sol</title> 
+       <author>Diego Rodríguez</author>
+  </titleStmt>
+  <editionStmt>
+   <edition n="2">
+     Edición digital de la obra Tratado General De Relojes de Sol 
+   </edition>
+   <respStmt>
+        <name>Paulina Michelle Mendoza Serrano</name> 
+     <resp>Marcado original XML/TEI</resp>
+    </respStmt>
+    <respStmt>
+     <name>José Manuel López Villanueva</name>
+     <resp>Revisión TEI</resp>
+    </respStmt>
+    <respStmt>
+     <name>Paulina Michelle Mendoza Serrano</name>
+     <resp>Curaduría digital</resp> 
+   </respStmt>
+  </editionStmt>
+  <publicationStmt>
+    <publisher>
+      Universidad Nacional Autónoma de México
+    </publisher>
+    <publisher>
+      Facultad de Filosofía y Letras
+    </publisher>  
+    <distributor>
+      Biblioteca Digital del Pensamiento Novohispano
+    </distributor>
+  </publicationStmt>
+  <sourceDesc>
+    <bibl>
+      <author>Diego Rodriguez</author>
+      <title>Tratado General De Relojes de Sol</title>
+      <date>0000</date> 
+    </bibl>
+  </sourceDesc>
+ </fileDesc>
+</teiHeader>
+
+
+<text>
+<body>
+<div>
+<head>Tratado General De Reloxes de Sol</head>
+<p>Folio 1 recto</p>
+<p>
+La Materia De Reloxes de <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName> no es otra cosa que una Artificiosa Perspectiva con
+que los circulos Horarios del <placeName ref="catalogo_nombres_lugares.xml#C006">cielo</placeName>; y demas circulos del. Así Maximos, como los
+menores se demuestran en los Planos, o Paredes. Así perpendiculares Al <placeName ref="catalogo_nombres_lugares.xml#H003">Horizon-
+te</placeName>, como inclinadas, con la bariedad de inclinaciones al <placeName ref="catalogo_nombres_lugares.xml#M013">Meridiano</placeName>. y a otros cir-
+culos, de tal suerte que de Muestren perfectamente lo mismo que en el <placeName ref="catalogo_nombres_lugares.xml#C006">cielo</placeName> se considera
+de que nasen la variedad de Reloxes solares que se pretenden delinear. como son los
+Horizontales en el <placeName ref="catalogo_nombres_lugares.xml#P007">Plano del Horizonte</placeName>; Los verticales en el <placeName ref="catalogo_nombres_lugares.xml#P008">Plano del vertical prim
+ario</placeName>, considerandolo como Plano, o Pared, cuios dos rostros, uno mira hacia el <placeName ref="catalogo_nombres_lugares.xml#S011">sur</placeName>; y el otro
+hacia el <placeName ref="catalogo_nombres_lugares.xml#N004">Norte</placeName>, que son las partes que apuntan los Gnomones Rectos que en ellas se
+fixan. y desde aqui empiesan a declinar ambos rostros, o hacia el <placeName ref="catalogo-
+nombres_lugares.xml#O006">orto</placeName>, o hasia
+el <placeName ref="catalogo_nombres_lugares.xml#O007">occaso</placeName>, de que nasen las quatro diferencias de Reloxes declinantes del <placeName ref="catalogo_nombres_lugares.xml#P008">vertical
+primario</placeName> rectos al <placeName ref="catalogo_nombres_lugares.xml#H003">Horizonte</placeName>; luego los Reloxes meridionales en el <placeName ref="catalogo_nombres_lugares.xml#P009">plano del Me-
+ridiano</placeName> conciderandolo como pared, cuios dos rostros uno mira al <placeName ref="catalogo-
+nombres_lugares.xml#O006">orto</placeName> verdade-
+ro de la <abbr source="catalogo_abreviaturas.xml#A001">Aeqt</abbr> y el otro a su <placeName ref="catalogo-
+nombres_lugares.xml#O007">ocaso</placeName>, que son las partes que apuntan los Gnomones rec-
+tos en ellas, llamanse por otro Nombre orientales y occidentales. estos todos aunque
+en varias posiciones, y declinaciones son rectos, y perpendiculares al <placeName ref="catalogo_nombres_lugares.xml#H003">Horizonte</placeName>. <!--tilde de cierre-->
+</p>
+
+<p>
+Entran luego Despues destos Los Reloxes de Los planos inclinados <abbr source="catalogo_abreviaturas.xml#S003">Solam.te</abbr> que son
+dos Especies, o diferencias la Primera de los que se inclinan hazia el <placeName ref="catalogo_nombres_lugares.xml#S011">sur</placeName>, y hasia el <placeName ref="catalogo_nombres_lugares.xml#N004">Nor-
+te</placeName>, estos son Rectos al <placeName ref="catalogo_nombres_lugares.xml#M013">Meridiano</placeName>, e inclinados al <placeName ref="catalogo_nombres_lugaresxml#P008">vertical primario</placeName> hacia el <placeName ref="catalogo_nombres_lugares.xml#H003">Horizon-
+te</placeName>. Como si el <placeName ref="catalogo_nombres_lugaresxml#P008">vertical primario</placeName> fuese Plano, o Pared, y lo inclinasen a una y otra parte 
+o hacia el <placeName ref="catalogo_nombres_lgares.xml#S011">mediodia</placeName>, o hacia el <placeName ref="catalogo_nombres_lugares.xml#N004">norte</placeName>, con que los Gnomones rectos en estas paredes 
+asi inclinadas, apuntan siempre en varias <abbr source="catalogo_abreviaturas.xml#P003">p.tes</abbr>  del <placeName ref="catalogo_nombres_lugares.xml#M013">Meridiano</placeName> y no declinan a una
+ni otra <abbr source="catalogo_abreviaturas.xml#P003">p.te</abbr> del. Aquestas inclinaciones se juntan o desde el <placeName ref="catalogo_nombres_lugares.xml#Z003">zenit</placeName> por el <placeName ref="catalogo_nombres_lugares.xml#M013">Meridiano</placeName>
+hacia el <placeName ref="catalogo_nombres_lugares.xml#H003">Horizonte</placeName> y se llama inclinacion respecto del <placeName ref="catalogo_nombres_lugaresxml#P008">vertical primario</placeName>; o alcontra-
+rio desde el <placeName ref="catalogo_nombres_lugares.xml#H003">Horizonte</placeName> por el <placeName ref="catalogo_nombres_lugares.xml#M013">Meridiano</placeName> hacia el <placeName ref="catalogo_nombres_lugares.xml#Z003">zenit</placeName>, y se llama inclinacion res-
+pecto del <placeName ref="catalogo_nombres_lugares.xml#H003">Horizonte</placeName> y en estos entran. He incluien a los Reloxes Polares, y los <abbr source="catalogo_abreviaturas.xml#A002">AEqtes</abbr>. 
+Los <placeName ref="catalogo_nombres_lugares.xml#P010">polares</placeName> son los planos que se inclinan hacia el <placeName ref="catalogo_nombres_lugares.xml#N004">Norte</placeName> desde el <placeName ref="catalogo_nombres_lugares.xml#Z003">zenit</placeName> el <abbr source="catalogo_abreviaturas.xml#C003">complem.to</abbr> de
+la <abbr source="catalogo_abreviaturas.xml#A003">Alt.a</abbr>. de <placeName ref="catalogo_nombres_lugares.xml#P011">Polo</placeName> de la region. que los <abbr source="catalogo_abreviaturas.xml#A002">AEqtes</abbr>. los que se inclinan desde el <placeName ref="catalogo_nombres_lugares.xml#Z003">zenit</placeName>
+hacia el <placeName ref="catalogo_nombres_lgares.xml#S011">Medio dia</placeName> La <abbr source="catalogo_abreviaturas.xml#A003">Alt.a</abbr> de <placeName ref="catalogo_nombres_lugares.xml#P011">polo</placeName> de la Region. que alcontrario si se forman en
+la <placeName ref="catalogo_nombres-lugares.xml#A010">parte Austral</placeName> donde aquel <placeName ref="catalogo_nombres_lugares.xml#P013">polo</placeName> se eleva, y se deprime debaxo de <placeName ref="catalogo_nombres_lugares.xml#T003">tierra</placeName> el del
+<placeName ref="catalogo_nombres_lugares.xml#N004">Norte</placeName>. todos aquestos Reloxes tienen dos rostros, uno superior hacia el <placeName ref="catalogo_nombres_lugares.xml#C006">cielo</placeName>, y otro 
+inferior hacia la <placeName ref="catalogo_nombres_lugares.xml#T003">tierra</placeName> por que son inclinados al <placeName ref="catalogo_nombres_lugares.xml#P008">vertical Primario</placeName>, y al <placeName ref="catalogo_nombres_lugares.xml#H003">Horizonte</placeName>. <!--tilde de cierre-->
+</p> 
+
+<p>
+Despues destos entran los inclinados Al <placeName ref="catalogo_nombres_lugares.xml#M013">Meridiano</placeName>, y Al <placeName ref="catalogo_nombres_lugares.xml#H003">Horizonte</placeName>, pero rectos
+Al <placeName ref="catalogo_nombres_lugares.xml#P008">vertical primario</placeName>, como si el <placeName ref="catalogo_nombres_lugares.xml#M013">Meridiano</placeName> fuese una Pared, o Plano, y la incli-
+nacen Asi hacia el este verdadero dela <abbr source="catalogo_abreviaturas.xml#A001">AEqt</abbr>. en el <placeName ref="catalogo_nombres_lugares.xml#H003">Horizonte</placeName>, como hacia el occa-
+so verdadero della. Y en la misma forma de Aquestos planos, o paredes que la de los
+circulos de posicion rectos al <placeName ref="catalogo_nombres_lugares.xml#P008">vertical primario</placeName>, e inclinados al <placeName ref="catalogo_nombres_lugares.xml#M013">Meridiano</placeName>, Y 
+Al <placeName ref="catalogo_nombres_lugares.xml#H003">horizonte</placeName>, que asi mismo tienen dos Rostros, uno superior hacia el <placeName ref="catalogo_nombres_lugares.xml#C006">cielo</placeName>; Y otro infe-
+rior hacia la <placeName ref="catalogo_nombres_lugares.xml#T004">tierra</placeName>, Y los gnomones rectos que se fixan en aquestos Planos mi-
+ran siempre a la circunferencia del <placeName ref="catalogo_nombres_lugares.xml#P008">vertical Primario</placeName> <abbr source="catalogo_abreviaturas.xml#E007">Ett.a</abbr> <!--tilde de cierre--> 
+</p>
+
+<p>
+Y <abbr source="catalogo_abreviaturas.xml#U001">Ultimam.te</abbr> Despues destos Entran los de todo punto irregulares, Son los que pade-
+sen los dos Accidentes referidos que no solo tienen declinación del <placeName ref="catalogo_nombres_lugares.xml#M013">Meridiano</placeName>, pero
+<abbr source="catalogo_abreviaturas.xml#J001">juntam.te</abbr> son inclinados. Y la bariedad de aquestos se reduse a cinco diferencias en que
+se incuien to dos, Y tienen asi mismo dos rostros uno superior, y otro inferior. Y aques-
+tos son todas las Especies de Reloxes que ay en que se descriuen <!--antes "desunen". La u y la v se usan de manera indiferenciada--> no solo las Hora, Medias
+</p>
+</div>
+
+<div>
+<p>Folio 1 verso</p>
+
+<p>
+Horas; sino los signos y sus <!--antes 'los'--> parallelos; los <placeName ref="catalogo_nombres_lugares.xml#A013">Arcos semidiurnos</placeName> y <placeName ref="catalogo_nombres_lugares.xml#A014">seminocturnos</placeName> que
+forman; los verticales to dos; las Alturas sobre el Horizonte de la Region y sobre
+los Planos que llaman <placeName ref="catalogo_nombres_lugares.xml#A012">Almicantaradas</placeName>, como a los <placeName ref="catalogo_nombres_lugares.xml#A011">verticales Azimutrales</placeName>, las lon-
+gitudes de las Ciudades, Horas Planetarias, y las <emph>abortu(ilegible)abaccasu</emph><!--agregar emph y quitar subrayado. Probablemente un abaco de babilonia-->. de los Babiloni-
+cos, e italianos, y otros mas circulos que en el <placeName ref="catalogo_nombres_lugares.xml#C006">cielo</placeName> se pueden conciderar. Y esto fuera
+de particulares inventivas de reloxes Generales, Y particulares que todos por la maior
+parte se incluien en las diferencias puestas con Algunos Addivos[sic]. <abbr source="catalogo_abreviaturas.xml#E008">Etc.a</abbr>. <!--tilde de cierre-->
+</p>
+
+<p>
+Para tratar pues aquesta Materia con claridad, y Generalidad, de suerte
+que quede entendida, y con inteligencia de Algunos circulos del cielo<!--antes "siglo"-->, que
+son los que se representan<!--antes "representaron"--> en lineas Rectas en los Planos, o Paredes, con otras
+figuras que llaman <placeName ref="cataloog_nombres_lugares.xml#E004">Elipses</placeName>; <placeName ref="catalogo_nombres_lugares.xml#P012">Parabolas</placeName>; y <placeName ref="catalogo_nombres_lugares.xml#H005">Hyperbolas</placeName> que dimanan de las figu-
+ras Conicas en sus secciones, emos de ponerlos en demostracion en el mismo
+<placeName ref="catalogo_nombres_lugares.xml#C006">cielo</placeName> para de ducir de alli los Angulos y lineas <abbr source="catalogo_abreviaturas.xml#E007">Ett.a</abbr>, en los planos. Y  esto<!--antes no estaba "esto"--> con al-
+guna Generalidad que comprenda todos los Accidentes referidos, Y Prime-
+ro de los Mas regulares, y faciles, para despues pasar, a los mas Irregulares
+Y no tan faciles, que en el orden que siempre se deve guardar, valiendonos en 
+todo de la Trigonometria que es el alma de las Mathematicas; y el unico refugio
+de los Mathematicos, y para mayor facilidad, por bia<!--antes "via"--> de Logarithmos aunque no es-
+cusare los senos; tangentes y secantes donde combiniere, para que los mas entendidos
+en estas materias los (ilegible), y Manejen. Obrando asi mismo por Geometria la
+mayor parte dellos y aun formarlos por diversos modos, para que cada uno elija
+el que mas le Agradare, y el que mas combiniere fuera de que sera Necesario asi para
+verificarlos y no cometer herros, que en las lineas, y diviciones de circulos se co-
+meten muy facilmente, en que suele auer mucha confusion por las muchas lineas,
+la pequeñes del papel en que se obra, y otros accidentes en las reglas, y compases que
+es Necessario mucha maña y curso<!--antes "querro"--> para obrarlos con perfeccion; por todo lo qual
+siempre aconsejaria yo se baliesen<!--antes "valieren"--> de la Trigonometria y sus <abbr source="catalogo_abreviaturas.xml#D003">dhos</abbr> <!--Antes habia una laguna--> formando ta-
+blitas en que ay mas certidumbre, y menos embaraso de lineas, que es lo principal que
+executaremos despues de los modos Geometricos  para la inteligencia que se preten-
+de, Y aunque esta Materia es larga, y muy dilatada escusaremos demostraciones <abbr source="catalogo_abreviaturas.xml#E007">Ett.a</abbr> <!--tilde de cierre-->
+</p>
+
+<p>
+<title>De La Demostracion General De Los Circulos Horarios</title>
+</p>
+
+<p>
+La siguiente Demostracion, es en la misma forma que en la Fabrica del
+Astrolabio, para demostrar con su perpestiba<!--antes "perspectiva"--> la propiedad de los circulos
+de la Esfera,  no solo las porciones dellos que caen encima de <placeName ref="catalogo_nombres_lugares.xml#T004">tierra</placeName> sino
+las que caen debaxo, de mons trando<!--antes "onltrando"--> ambos polos del <placeName ref="catalogo_nombres_lugares.xml#M007">mundo</placeName>, el que se
+eleba, y el que se deprime. Es pues en la <abbr source="catalogo_abreviaturas.xml#S005">sig.te</abbr> figura el <placeName ref="catalogo_nombres_lugares.xml#P007">Plano del Horizonte</placeName>
+el circulo entero. A.E.B.D. con que todos los circulos y lineas inclusos en el ca-
+en sobre <placeName ref="catalogo_nombres_lugares.xml#T004">tierra</placeName>; y los que salen fuera del hasta el punto. S caen debaxo de <placeName ref="catalogo_nombres_lugares.xml#T004">tierra</placeName>
+con que el circulo entero A.S.B.P. que es el de la hora sexta su mitad A.P.B. cae so-
+bre <placeName ref="catalogo_nombres_lugares.xml#T004">tierra</placeName>; y su otra mitad A.S.B. debaxo. por quanto el punto. P. represen-
+ta el <placeName ref="catalogo_nombres_lugares.xml#P011">polo</placeName> del <placeName ref="catalogo_nombres_lugares.xml#M007">Mundo</placeName> que se eleba sobre el <placeName ref="catalogo_nombres_lugares.xml#H003">Horizonte</placeName>, que es la <abbr source="catalogo_abreviaturas.xml#A003">Alt.a</abbr> de <placeName ref="catalogo_nombres_lugares.xml#P011">polo</placeName> dela re-
+gion, que es P.D. Y el punto opuesto S. representa el <placeName ref="catalogo_nombres_lugares.xml#P011">Polo</placeName> del <placeName ref="catalogo_nombres_lugares.xml#M007">Mundo</placeName> que se de-
+prime debaxo del <placeName ref="catalogo_nombres_lugares.xml#H003">Horizonte</placeName> la cantidad. E.S. que es ygual de la. P.D. Y la linea recta
+</p>
+</div>
+
+<div>
+<p>Folio 2 recto</p>
+<p>
+[Imagen: Circunferencia con los polos norte, sur, este, occaso y orto]
+</p>
+<p>
+rect D.P.L.E.S. es el <placeName ref="catalogo_nombres_lugares.xml#M013">Meridiano</placeName> de la Region, y de las. 12 <!--antes "L12"-->. y la que se crusa
+con esta en Angulos Rectos en L. que es la A.L.B. es el <placeName ref="catalogo_nombres_lugares.xml#P008">vertical Primario</placeName>
+y el punto L. es el <placeName ref="catalogo_nombres_lugares.xml#Z003">zenit</placeName> de la Region, La AEquinoccial representa la
+porcion de circulo. A.O.B. con que su <placeName ref="catalogo_nombres_lugares.xml#O006">orto</placeName> verdadero es el punto. A donde se cru-
+sa en Angulos rectos con el circulo de las 6. de la Mañana. Y el punto opuesto 
+B. su <placeName ref="catalogo_nombres_lugares.xml#O007">occaso</placeName> verdadero, y alli se crusa en Angulos rectos con los. 6. de la tarde.
+Los dos Parallelos F.G.H. a la parte del <placeName ref="catalogo_
+nombres_lugares.xml#P011">Polo</placeName> S. depreso es el <placeName ref="catalogo_nombres_lugares.xml#T005">Tropico de Ca-
+pricornio</placeName>, y el otro. I.C.K. <placeName ref="catalogo_nombres_lugares.xml#T006">el de cancro</placeName> a la parte del <placeName ref="catalogo_
+nombres_lugares.xml#P011">Polo</placeName>. P. que se eleba <!--antes "elebos"-->
+Y si el <placeName ref="catalogo_
+nombres_lugares.xml#P011">Polo</placeName> P. elebado sobre el <placeName ref="catalogo_nombres_lugares.xml#H003">Horizonte</placeName> fuese el <placeName ref="catalogo_nombres_lugares.xml#P013">Polo Austral</placeName> (como el <placeName ref="catalogo_nombres_lugares.xml#P002">Pe-
+ru</placeName>) seria el opuesto. S. el del <placeName ref="catalogo_nombres_lugares.xml#N004">Norte</placeName> depreso; el <abbr source="catalogo_abreviaturas.xml#O006">orto</abbr> de la <abbr source="catalogo_abreviaturas.xml#A001">AEqt.</abbr> seria. B. Y su <placeName ref="catalogo_nombres_lugares.xml#O007">oc-
+caso</placeName>. A. el parallelo F.Cr.H. el <placeName ref="catalogo_nombres_lugares.xml#T006">tropico de  cancro</placeName>; Y el I.C.R.<!--antes "T.C.R"--> <placeName ref="catalogo_nombres_lugares.xml#T005">el de capricor-
+nio</placeName>, todo al contrario, Y asi mismo Las Horas desde. B. hacia A. al contrario
+de como estan Asentados en la figura puesta, pero la doctrina lamisma. <!--tilde de cierre-->
+</p>
+</div>
+
+<div>
+<p>Folio 2 verso</p>
+<p>
+Digo pues que todos Los circulos que salen del <placeName ref="catalogo_
+nombres_lugares.xml#P011">Polo</placeName>. P. al <placeName ref="catalogo_
+nombres_lugares.xml#P011">Polo</placeName> S. o al
+contrario, siendo el Principal dellos el <placeName ref="catalogo_nombres_lugares.xml#P009">Meridiano</placeName>, son <placeName ref="catalogo_nombres_lugares.xml#C007">circulos Hora-
+rios</placeName> (y <abbr source="catalogo_abreviaturas.xml#J001">juntam.te</abbr> Circulos de Las Declinaciones.) Los que atras estan expresos son
+de las Horas enteras, cortando<!--antes "contando"--> <abbr source="catalogo_abreviaturas.xml#A001">AEqt</abbr> A.D.B. en Angulos rectos de 15 en
+15 g.r. desde las 6. de la Mañana a las 6. de la tarde, Y por debaxo de <placeName ref="catalogo_nombres_lugares.xml#T004">tierra</placeName> des
+de las 6. de la tarde, a las 6. de la Mañana, aun que estos no estan tirados atras
+por no confundir con lineas la demostracion, y bastan los semicirculos de
+encima de <placeName ref="catalogo_nombres_lugares.xml#T004">tierra</placeName> que sus opuestos son las horas de debaxo<!--antes sin "de"--> de <placeName ref="catalogo_nombres_lugares.xml#T004">tierra</placeName>. y como está<!--tilde supresora de "n". Significa una abreviatura de "están"-->
+demonstradas<!--antes "demostradas"--> Las horas enteras de <placeName ref="catalogo_
+nombres_lugares.xml#P011">Polo</placeName> a <placeName ref="catalogo_
+nombres_lugares.xml#P011">Polo</placeName> se pueden demonstrar<!--antes "demostrar"--> no solo
+Las Medias horas; los quartos sino los minutos de hora; por que si se tira<!--antes "gira"--> en circu
+los de <placeName ref="catalogo_
+nombres_lugares.xml#P011">Polo</placeName> a <placeName ref="catalogo_
+nombres_lugares.xml#P011">Polo</placeName> por cada grado de la <abbr source="catalogo_abreviaturas.xml#A001">AEqt</abbr>. serian <placeName ref="catalogo_nombres_lugares.xml#C007">circulos horarios</placeName> de a 4 <abbr source="catalogo_abreviaturas.xml#M003">mt</abbr>.
+de tiempo, por 15 <abbr source="catalogo_abreviaturas.xml#G001">g.</abbr> de <abbr source="catalogo_abreviaturas.xml#A001">AEqt</abbr>. son una hora, o 60<!--antes "6.o"--> <abbr source="catalogo_abreviaturas.xml#M003">mt.</abbr> de tiempo. y asia .4. beses<!--antes "veses"--> 15
+son 60<!--antes "6.o"-->.  las medias horas son de a 7.<abbr source="catalogo_abreviaturas.xml#G001">g.</abbr>30.<abbr source="catalogo_abreviaturas.xml#M003">mt.</abbr> de <abbr source="catalogo_abreviaturas.xml#A001">AEqt</abbr>. un quarto de hora son 3.<abbr source="catalogo_abreviaturas.xml#G001">g</abbr>.4s. 
+<abbr source="catalogo_abreviaturas.xml#M003">mt</abbr> de <abbr source="catalogo_abreviaturas.xml#A001">AEqt</abbr>. <abbr source="catalogo_abreviaturas.xml#E007">Ett.a</abbr> pero hasta estar representadas las horas enteras por
+evitar confusion advirtiendo que desde cualquier de los dos Polos P.N.S. A qualquiera
+parte de la <abbr source="catalogo_abreviaturas.xml#A001">Aeqt</abbr>. A.O.B. Asi encima, como debaxo de <placeName ref="catalogo_nombres_lugares.xml#T004">tierra</placeName>
+hay 90. <abbr source="catalogo_abreviaturas.xml#G001">gr.</abbr> que es una quarta de circulo con que los Angulos todos de las horas en-
+teras, en los <placeName ref="catalogo_nombres_lugares.xml#P011">Polos</placeName> son de a 15.<abbr source="catalogo_abreviaturas.xml#G001">g.</abbr> y los Angulos de las medias horas en los polos
+son de a 7.<abbr source="catalogo_abreviaturas.xml#G001">g.</abbr>30.<abbr source="catalogo_abreviaturas.xml#M003">mt.</abbr> <abbr source="catalogo_abreviaturas.xml#E007">Ett.a</abbr><!--Antes "lla"--> por que lo que en la <abbr source="catalogo_abreviaturas.xml#A001">Aeqt.</abbr> es porcion de circulo, o Arco, eso
+mismo mide y es Angulo en los Polos por distar 90. <abbr source="catalogo_abreviaturas.xml#G001">gr.</abbr> cada <placeName ref="catalogo_nombres_lugares.xml#P011">polo</placeName> de la <abbr source="catalogo_abreviaturas.xml#A001">AEqt.</abbr> <!--tilde de cierre-->
+</p>
+
+<p>
+Supuesto pues todo lo dicho digo ya que todos los <placeName ref="catalogo_nombres_lugares.xml#C007">circulos Horarios</placeName> atras ex-
+presos, y los demas que se puedan expresar de Las Medias horas <abbr source="catalogo_abreviaturas.xml#E007">Ett.a</abbr> cortan al <placeName ref="catalogo_nombres_lugares.xml#H003">Ho-
+rizonte</placeName> A.E.B.D. en las secciones A.e.d.c.b.a.E. Asi en las quartas orientales
+como en las occidentales, yguales las de cada quarta <foreign xml:lang="lat">adinuicem</foreign>. por que son opues-
+tas, y cortan yguales partes de la <abbr source="catalogo_abreviaturas.xml#A001">AEqt.</abbr> y son. 24. secciones en toda la circunfe-
+rencia del circulo Horizontal, de las 24. horas del dia Natural. y destas sec-
+ciones se forma el Relox Horizontal. y basta conocer Las seis de una quarta
+con que estan conocidas todas por<!--antes "po"--> ser yguales entre si en cada quarta como es dicho.
+estas secciones pues, o se conocen por Numeros de <abbr source="catalogo_abreviaturas.xml#G001">gr.</abbr> y <abbr source="catalogo_abreviaturas.xml#M003">mt.</abbr> <abbr source="catalogo_abreviaturas.xml#E007">Ett.a</abbr> o por Geometria en
+la forma que adelante se ira biendo<!--antes "viendo"--> y explicando. <!--tilde de cierre-->
+</p>
+
+<p>
+Lo 2°<!--a pesar de que es una abreviatura, no la registro en el catalogo por que es un digito, i.e., no es parte del alfabeto--> todos los <placeName ref="catalogo_nombres_lugares.xml#C007">circulos Horarios</placeName> referidos cortan Al <placeName ref="catalogo_nombres_lugares.xml#P008">vertical Primario</placeName> A.L.B.
+en las secciones A.f.g.h.i.l.L.<!--antes "l" era "s"--> Asi en la parte oriental como en la occidental
+yguales <foreign xml:lang="lat">adinuicem</foreign>. las de cada quarta <abbr source="catalogo_abreviaturas.xml#C004">correlativam.te</abbr> y lo mismo debaxo de <placeName ref="catalogo_nombres_lugares.xml#T004">tierra</placeName>
+con los <placeName ref="catalogo_nombres_lugares.xml#S012">semicirculos Horarios</placeName> opuestos a los de encima y destas secciones que son seis 
+en
+cada quarta, y veintyquatro en todo el <placeName ref="catalogo_nombres_lugares.xml#P008">vertical primario</placeName>, se forman los Reloxes
+verticales regulares que <abbr source="catalogo_abreviaturas.xml#D004">derecham.te</abbr> los rostros de los Planos, o Paredes miran
+Al Norte<!--antes "Noete"-->, y Al <placeName ref="catalogo_nombres_lugares.xml#S011">Sur</placeName>. como si en la Linea A.L.B. del <placeName ref="catalogo_nombres_lugares.xml#P008">bertical Primario</placeName> se lebantase
+un plano un rostro del miraria <abbr source="catalogo_abreviaturas.xml#D004">derecham.te</abbr> al <placeName ref="catalogo_nombres_lugares.xml#P011">Polo</placeName>. P. del <placeName ref="catalogo_nombres_lugares.xml#N004">Norte</placeName>, y el otro opuesto
+miraria <abbr source="catalogo_abreviaturas.xml#D004">derecham.te</abbr> al <placeName ref="catalogo_nombres_lugares.xml#P011">Polo</placeName>. S. del <placeName ref="catalogo_nombres_lugares.xml#S011">sur, o Medio dia</placeName>. y seria cortado este Plano,
+o Pared en las secciones referidas expresas en la linea, o <placeName ref="catalogo_nombres_lugares.xml#P008">bertical Primario</placeName>, que
+son diferentes que las referidas en el circulo, o <placeName ref="catalogo_nombres_lugares.xml#P007">Plano Horizontal</placeName>. y conoseranse
+Asi mismo Aritmetica, y Geometricamente como las Horizontales. <!--tilde de cierre-->
+</p>
+
+<p>Lo 3°<!--mismo caso que 2°--> Digo que si sobre la linea Meridiana D.P.L.E. se lebantase un plano
+recto al <placeName ref="catalogo_nombres_lugares.xml#H003">Horizonte</placeName> en el los <placeName ref="catalogo_nombres_lugares.xml#C007">circulos Horarios</placeName> todos no se cortarian, ni concurriri-
+an, sino que en el estos circulos se representarian por lineas parallelas, todas como exes
+del <placeName ref="catalogo_nombres_lugares.xml#M007">mundo</placeName>, mirando derechamente a los Polos P.N.S. donde la linea de las
+6. seria el perfecto exe del <placeName ref="catalogo_nombres_lugares.xml#M007">mundo</placeName>. Y las demas horas Parallelas de las seis. y entre finisimas porque<!--repeticion de la ultima palabra del folio como la primera del siguiente folio-->
+</p>
+</div>
+
+<div>
+<p>Folio 3 recto</p>
+<p>
+porque las Horas en el <placeName ref="catalogo_nombres_lugares.xml#C006">cielo</placeName> son circulos. y en los planos se representan en lineas
+rectas, Y como en el que se lebantare sobre la linea Meridiana la hora de las
+6. es el Exe del <placeName ref="catalogo_nombres_lugares.xml#M007">mundo</placeName>, ella a de ser el Gnomon, y asi sobre toda ella se Le-
+vanta el Gnomon que es otra Linea parallela A las seis La qual siendo linea
+recta todas las horas que señalare seran lineas rectas parallelas del Gnomon
+que es linea y parallelas de las seis exe del mundo. con ygual distancia en el <placeName ref="catalogo_nombres_lugares.xml#C006">cielo</placeName>
+que son los 15 <abbr source="catalogo_abreviaturas.xml#G001">gr.</abbr> de <abbr source="catalogo_abreviaturas.xml#A001">AEqt.</abbr> que en el Plano seran tangentes como en su fabrica se 
+vera, y aquestos, y los explicados son los Regulares,  a que luego se siguen<!--antes "sigun"--> los 
+irregulares que son los accidentados con declinación; luego los inclinados della[sic]
+<placeName ref="catalogo_nombres_lugares.xml#O005">oriente</placeName>; y despues Los de Anibos[sic] accidentes declinantes, e inclinados. <!--tilde de cierre--> 
+</p>
+
+<p>
+Lo 4° si sobre el <placeName ref="catalogo_nombres_lugares.xml#P008">vertical Primario</placeName> A.L.B. se lebantase un plano, no ya recto
+al <placeName ref="catalogo_nombres_lugares.xml#H003">Horizonte</placeName> como Antes sino inclinado, o hacia el <placeName ref="catalogo_nombres_lugares.xml#N004">Norte</placeName> y polo P. o hasia<!--antes "havia"--> el 
+<placeName ref="catalogo_nombres_lugares.xml#S011">Sur</placeName> y Polo S. seria de La Especie<!--antes "especia"--> delos inclinados sin declinación alguna que al prin-
+cipio diximos,  cuios nomones rectos mirarian siempre en la linea Meri-
+diana, destos dos solos se representan en la figura de atras; el uno es la <abbr source="catalogo_abreviaturas.xml#A001">AEqt.</abbr>
+A.D.B.<!--antes "A.O.B"--> inclinada al <placeName ref="catalogo_nombres_lugares.xml#H003">Horizonte</placeName> a la <abbr source="catalogo_abreviaturas.xml#P004">p.te</abbr> de <placeName ref="catalogo_nombres_lugares.xml#S011">sur</placeName>. la cantidad. O. E. apartada 
+del <placeName ref="catalogo_nombres_lugares.xml#Z003">Zenit</placeName> L. la cantidad. L.O. que seria el Relox <abbr source="catalogo_abreviaturas.xml#A001">AEqt.</abbr> de dos rostros, y de
+horas yguales en sus secciones de a. 15 <abbr source="catalogo_abreviaturas.xml#G001">gr.</abbr> el otro plano seria a la parte del
+<placeName ref="catalogo_nombres_lugares.xml#N004">Norte</placeName>. o Polo P. sobre el circulo de la hora sexta. A.P.B. inclinado hazia<!--antes "hacia"-->
+el <placeName ref="catalogo_nombres_lugares.xml#N004">Horizonte</placeName> la cantidad D.P. tanto como la <abbr source="catalogo_abreviaturas.xml#A003">Alt.a</abbr> de polo, Y apartado del <placeName ref="catalogo_nombres_lugares.xml#Z003">Zenit</placeName>
+L. La cantidad. L.P. asi mismo de dos rostros superior hacia el <placeName ref="catalogo_nombres_lugares.xml#C006">cielo</placeName>, e inferior
+hacia la <placeName ref="catalogo_nombres_lugares.xml#T004">tierra</placeName>, Y al modo destos otros muchos sobre el <placeName ref="catalogo_nombres_lugares.xml#P008">vertical primario</placeName> A.L.B.
+inclinados <abbr source="catalogo_abreviaturas.xml#V003">variam.te</abbr><!--Antes "variante"--> a una y otra <abbr source="catalogo_abreviaturas.xml#P004">p.te</abbr> como los dos referidos. <!--tilde de cierre-->
+</p>
+
+<p>
+Lo 5° Si sobre la Linea Meridiana D.L.E. se lebantase un plano, no ya recto al 
+<placeName ref="catalogo_nombres_lugares.xml#H003">Horizonte</placeName> como antes, sino inclinado y hacia, la <abbr source="catalogo_abreviaturas.xml#P004">p.te</abbr> del <placeName ref="catalogo_nombres_lugares.xml#O005">oriente</placeName> que mirase al pun
+to A<!--antes "[pr] orto-->. y su Gnomon recto al <placeName ref="catalogo_nombres_lugares.xml#P008">vertical Primario</placeName>; y ya hacia la parte B del <placeName ref="catalogo_nombres_lugares.xml#O003">occiden
+te</placeName>, como los circulos de Posicion seria la Especie de los Reloxes Meridionales in-
+clinados y sin declinacion Alguna, el<!--antes "ll"--> de 90 <abbr source="catalogo_abreviaturas.xml#G001">gr.</abbr> de declinacion respecto del <placeName ref="catalogo_nombres_lugares.xml#M013">Meri-
+diano</placeName>, y ninguno respecto del <placeName ref="catalogo_nombres_lugares.xml#P008">vertical primario</placeName> estos no estan demostrados en
+</p>
+<p>
+[Imagen: Circunferencia con los polos sur, norte, occaso y orto, con los puntos E,L,F,T,P,T trazados en ella]
+</p>
+<p>
+La 1a figura de Atras por no confundirla con los
+circulos demaciadamente , y asi los
+demuestro aqui en esta figura 2a con solo
+dos Planos sobre la Meridiana D.L.S. in-
+clinados el uno hacia el orto. A. y el otro ha-
+cia el <placeName ref="catalogo_nombres_lugares.xml#O003">occiden.</placeName>. B. el primero es el S.E.D. in-
+clinado hacia el <placeName ref="catalogo_nombres_lugares.xml#H003">Horizonte</placeName> La cantidad 
+A.E. apartado del <placeName ref="catalogo_nombres_lugares.xml#Z003">Zenit</placeName> L. La cantidad
+L.E. el otro inclinado hacia el occaso
+La cantidad. B.P apartado del <placeName ref="catalogo_nombres_lugares.xml#Z003">zenit</placeName> L. <!--omitido en transcripcion original--> La cantidad L.F.<!--omitido en transcrip. original--> que es el Plano S.F.D.
+Ambos rectos al <placeName ref="catalogo_nombres_lugares.xml#P008">vertical primario</placeName> <abbr source="catalogo_abreviaturas.xml#P005">porq</abbr>
+Lo cortan <abbr source="catalogo_abreviaturas.xml#R002">rectam.te</abbr> y miran a el sus Gno-
+mones rectos, pero inclinados respecto
+del <placeName ref="catalogo_nombres_lugares.xml#M013">Meridiano</placeName>, y <placeName ref="catalogo_nombres_lugares.xml#H003">Horizonte</placeName>. A.S.B.D. ca-
+da uno de dos rostros, uno superior Al <placeName ref="catalogo_nombres_lugares.xml#C006">cielo</placeName>
+Y otro inferior hacia la <placeName ref="catalogo_nombres_lugares.xml#T004">tierra</placeName>, <abbr source="catalogo_abreviaturas.xml#E007">Ett.a</abbr><!--Antes "lla"--> <!--tilde de cierre--> 
+</p>
+
+<p>
+A estos Planos <abbr source="catalogo_abreviaturas.xml#V003">variam.te</abbr> los cortaran los <placeName ref="catalogo_nombres_lugares.xml#C007">circulos Horarios</placeName> que salieren del <placeName ref="catalogo_nombres_lugares.xml#P011">Polo</placeName> 
+del <placeName ref="catalogo_nombres_lugares.xml#M007">mundo</placeName>. P. que es el elevado, osea <placeName ref="catalogo_nombres_lugares.xml#P014">Polo septt.</placeName> osea el <placeName ref="catalogo_nombres_lugares.xml#P013">Austral</placeName>. aqui solo tira el semi-
+circulo de la Hora sexta que es el A.P.B. que los corta ambos en los puntos T.y.T<!--antes "T.N.T"-->Y a este
+</p>
+</div>
+
+<div>
+<p>Folio 3 verso</p>
+
+<p>
+modo los demas <placeName ref="catalogo_nombres_lugares.xml#C007">circulos Horarios</placeName>, conforme la inclinacion de cada Plano. 
+La <abbr source="catalogo_abreviaturas.xml#A001">AEqt.</abbr> A.O.B. los corta en los puntos. X.y.X.<!--antes "x.N.x"--> Asi mismo con variedad conforme
+sus inclinaciones. con que Pasaremos ya a los que se siguen. <!--tilde de cierre-->
+</p>
+
+<p>
+En la primera figura las dos lineas. M. N. y Q.R. que pasan por el <placeName ref="catalogo_nombres_lugares.xml#Z003">Zenit</placeName> 
+se representan dos Planos declinantes, con ellos quedaran<!--antes "quedarán"--> demostrados todas las demas.
+declinan pues del <placeName ref="catalogo_nombres_lugares.xml#M013">Meridiano</placeName> el Primero Q.R. La cantidad Horizontal Q.E. a la <abbr source="catalogo_abreviaturas.xml#P004">p.te</abbr>
+del <placeName ref="catalogo_nombres_lugares.xml#S011">sur</placeName>, Y a la del <placeName ref="catalogo_nombres_lugares.xml#N004">Norte</placeName> la cantidad D.R. Pero del <placeName ref="catalogo_nombres_lugares.xml#P008">vertical primario</placeName> a la parte del
+orto la cantidad A.Q. Y al del <placeName ref="catalogo_nombres_lugares.xml#O003">occidente</placeName> la cantidad B.R. Recto al <placeName ref="catalogo_nombres_lugares.xml#H003">Horisonte</placeName> pues 
+pasa por el <placeName ref="catalogo_nombres_lugares.xml#Z003">Zenit</placeName> L. el otro plano M.N. para asi mismo por el <placeName ref="catalogo_nombres_lugares.xml#Z003">Zenit</placeName> L, y es recto al <placeName ref="catalogo_nombres_lugares.xml#H003">Ho-
+risonte</placeName> su declinacion del <placeName ref="catalogo_nombres_lugares.xml#M013">Meridiano</placeName> a la parte del <placeName ref="catalogo_nombres_lugares.xml#S011">sur</placeName> es. E.N. y a la del <placeName ref="catalogo_nombres_lugares.xml#N004">Norte</placeName> la
+cantidad M.D. Pero del <placeName ref="catalogo_nombres_lugares.xml#P008">vertical Primario</placeName> la cantidad A.M. a la parte del <placeName ref="catalogo_nombres_lugares.xml#O006">orto</placeName>, Y a
+La del <placeName ref="catalogo_nombres_lugares.xml#O007">occaso</placeName> la B.N.cada uno de dos rostros considerando lebantados dos Planos so-
+bre aquestas dos lineas, Y por crusarse en Angulos rectos si se considera el Plano Q.R.
+sera la linea M.N. su vertical primario particular, (que cada plano deve tener su <placeName ref="catalogo_nombres_lugares.xml#P008">verti-
+cal primario</placeName> disticnto<!--antes "distinto"--> de la Region A.L.B.). pero si se concidera el Plano lebantado
+sobre la linea. M.N. sera su <placeName ref="catalogo_nombres_lugares.xml#P008">vertical primario</placeName> la linea Q.L.R. respecto de las quales
+verticales son rectos sus Planos, y obliquos, o declinantes respecto de la Region = en
+estos planos pues las secciones delos Arcos Horarios, no son uniformes, ni yguales 
+los de cada seis horas,  como en los Regulares de atras ya referidos, Y solo son uniformes
+e yguales los dose<!--antes "dos"--> arcos, o secciones de encima de <placeName ref="catalogo_nombres_lugares.xml#T004">tierra</placeName> a las dose<!--antes "dos"--> de debaxo como se 
+ve en la demonstracion<!--antes "demostracion"--> y conocidas estas secciones se forman con ellas los reloxes
+declinantes variamente cortados, o <abbr source="catalogo_abreviaturas.xml#A004">Aritmeticam.te</abbr> o <abbr source="catalogo_abreviaturas.xml#G002">geometricam.te</abbr> aquestas sec-
+ciones no estan citadas alli con Letras, sino con solos puntos negros. <!--tilde de cierre-->
+</p>
+
+<p>
+Lo 7° que en el diagrama 1° se a de notar es que las secciones de las horas
+son siempre encontradas por quanto las sombras de los gnomones son 
+siempre a la parte contraria del <placeName ref="catalogo_nombres_lugares.xml#S007">sol</placeName>. Y asi las secciones que caieren al <placeName ref="catalogo_nombres_lugares.xml#O007">occaso</placeName>
+son las de las Horas de la Mañana, Y las que caieren a mano isquierda
+de la parte, o mediedad oriental son de por la tarde. Y si las fabricas fueren
+para los reloxes en Alturas de <placeName ref="catalogo_nombres_lugares.xml#P013">polo Austral</placeName>. seran asi mismo al contra-
+rio las de la mano derecha de la <abbr source="catalogo_abreviaturas.xml#P004">p.te</abbr> o mediedad occidental seran las de las Ho-
+ras por la tarde, Y al contrario las de la Mediedad oriental para las de por
+la mañana en este presente diagrama. <abbr source="catalogo_abreviaturas.xml#P005">porq</abbr> fuera notable yerro <!--antes "erxo"-->uno con[sic]
+las secciones, pero para esto todo servira de guia la raya del gnomon.
+conforme donde caiere, esto se entiende en los reloxes q declina[n], del
+<placeName ref="catalogo_nombres_lugares.xml#M013">Meridiano</placeName>, y <placeName ref="catalogo_nombres_lugares.xml#P008">vertical primario</placeName>, y asi mismo si estos tienen incinacion,
+q los que fueren rectos al <placeName ref="catalogo_nombres_lugares.xml#M013">Meridiano</placeName>, Y al <placeName ref="catalogo_nombres_lugares.xml#P008">vertical primario</placeName>, <abbr source="catalogo_abreviaturas.xml#A005">aunq</abbr> esten incli-
+nados, todos estos tienen yguales las secciones Horarias, las de por la maña-
+na, y por la tarde. Y lo dicho solo se entiende en los irregulares q declinan. <!--tilde de cierre-->
+</p>
+
+<p>
+Lo 8vo q se deue aduertir mucho es, q toda la fulleria, y arte de fabricar
+reloxes por numeros, no esta en otra cosa q en conoser la distancia Al <placeName ref="catalogo_nombres_lugares.xml#M013">Me-
+ridiano</placeName> por la AEquinoccial del <placeName ref="catalogo_nombres_lugares.xml#S007">sol</placeName>. o punto de la <placeName ref="catalogo_nombres_lugares.xml#E005">Ecliptica</placeName>; o del <placeName ref="catalogo_nombres_lugares.xml#C007">circulo
+Horario</placeName> este el punto donde estuviese, en la <placeName ref="catalogo_nombres_lugares.xml#E005">Ecliptica</placeName> en algun signo, o (ilegible)
+del, en los <placeName ref="catalogo_nombres_lugares.xml#T008">tropicos</placeName>, o en otra qualquiera <abbr source="catalogo_abreviaturas.xml#P004">p.te.</abbr> Y conosida esta distancia esta todo
+facil, q es el Angulo en el mismo <placeName ref="catalogo_nombres_lugares.xml#P011">Polo</placeName> de un circulo de declinacion, con el <placeName ref="catalogo_nombres_lugares.xml#M013">Me-
+ridiano</placeName>. Y se sierra aqueste un triangulo<!--antes "angulo"--> obliquangulo con cualquier vertical que
+</p>
+</div>
+
+<div>
+<p>Folio 4 recto</p>
+
+<p>
+Muestra la <abbr source="catalogo_abreviaturas.xml#A003">Alt.a</abbr> del <placeName ref="catalogo_nombres_lugares.xml#S007">sol</placeName> sobre el <placeName ref="catalogo_nombres_lugares.xml#H003">horizonte</placeName>. Y si es dado dicho
+angulo de la <abbr source="catalogo_abreviaturas.xml#D005">dist.a</abbr> al Medio <placeName ref="catalogo_nombres_lugares.xml#C006">cielo</placeName>, que es lo q se supone de las horas
+Y medias horas, por el en el mismo triangulo<!-- antes" uniangulo"--> obliquangulo se co-
+noce la <abbr source="catalogo_abreviaturas.xml#A003">Alt.a</abbr> del <placeName ref="catalogo_nombres_lugares.xml#S007">sol</placeName> sobre el <placeName ref="catalogo_nombres_lugares.xml#H003">Horizonte</placeName>, <abbr source="catalogo_abreviaturas.xml#C005">conq</abbr> este punto es el que emos
+de decidir primero, con la claridad posible, por cosa necessarissima
+para muchas<!--antes "nuestras"--> cosas; como Eclipces; reloxes; y otras innumerables ma-
+terias; Y esto en un solo triangulo<!--antes "uni angulo"--> obliquangulo spheral,  y a su res
+pecto de todos quantos se pueden ofreser, por dos modos porthaphere-
+ticos, q procurare explicar con toda claridad. <!--tilde de cierre-->
+</p>
+
+<p>
+Otros muchos puntos avia q advertir pero se iran notando como se fue-
+re ofreciendo. agora poes e de explicar el primer modo de Porthaphe-
+resis del referido triangulo obliquangulo para el efecto de las altu-
+ras 
+</p>
+<p>
+[Imagen: Circunferencia con puntos trazados en ella]
+</p>
+<p>
+ del <placeName ref="catalogo_nombres_lugares.xml#S007">sol</placeName> sobre el <placeName ref="catalogo_nombres_lugares.xml#H003">Horizonte</placeName>
+sea pues en el diagrama pre-
+sente. el <placeName ref="catalogo_nombres_lugares.xml#M013">Meridiano</placeName>. A.B.L.C.
+el <placeName ref="catalogo_nombres_lugares.xml#H004">Horizonte oriental</placeName>, o el <placeName ref="catalogo_nombres_lugares.xml#H006">oc-
+cidental</placeName>. B.G.H.C. la equi-
+noccial K.I.L.<!--antes K.T.L--> con los dos tro-
+picos<!--antes "propios"--> de 69. y (ilegible) u otros dos qua-
+lesquiere parallelas de signos,
+o puntos, uno Austral en E.
+Y otro <abbr source="catalogo_abreviaturas.xml#S006">Septt.</abbr> en F. si la altura
+de <placeName ref="catalogo_nombres_lugares.xml#P011">polo</placeName> C.P. fuese <abbr source="catalogo_abreviaturas.xml#S006">septt.</abbr> y si fue-
+re Austral el punto F. sera
+Austral; Y el de E. septentrio-
+nal. sean dos verticales q pa-
+sen por estos dos puntos E. y F.
+el uno A.E.G. y el otro A.F.H.
+Y un semicirculo de declinacion q pase<!--antes "rase"--> por ellos, o <placeName ref="catalogo_nombres_lugares.xml#C007">circulo Horario</placeName> q to-
+do es uno. de <placeName ref="catalogo_nombres_lugares.xml#P011">polo</placeName> á <placeName ref="catalogo_nombres_lugares.xml#P011">polo</placeName> P.F.E.D: como todo esta expreso en la figura <!--tilde de cierre-->
+</p>
+
+<p>
+quedan pues formados dos triangulos obliquangulos q en el menor,
+o de menor Basis A.F.P. donde A.P. es complemento de la altura de 
+<placeName ref="catalogo_nombres_lugares.xml#P011">Polo</placeName> C.P. el lado, o Basis. F.P. complemento de la declinacion T.F. el
+tercer lado A.F. complemento dela <abbr source="catalogo_abreviaturas.xml#A003">Alt.a</abbr> del <placeName ref="catalogo_nombres_lugares.xml#S007">sol</placeName> F.H. sobre el <placeName ref="catalogo_nombres_lugares.xml#H003">Horizonte</placeName>
+o es A.F. la distancia al <placeName ref="catalogo_nombres_lugares.xml#Z003">Zenit</placeName>. A. El 2° triangulo obliquangulo ma-
+yor, o de mayor Basis, es A.E.P. donde. P.E se compone de 90.<abbr source="catalogo_abreviaturas.xml#G001">g.</abbr> de P.I.
+Y de la declinacion. I.E. el lado A.P. complemento al <placeName ref="catalogo_nombres_lugares.xml#P011">Polo</placeName> C.P. co-
+mun lado a ambos triangulos, como el Angulo A.P.F. y el A.P.E. q es el
+mismo, el tercer lado es A.E del vertical, complemento de. G.E. <abbr source="catalogo_abreviaturas.xml#A003">alt.a</abbr>
+del <placeName ref="catalogo_nombres_lugares.xml#S007">sol</placeName> sobre el <placeName ref="catalogo_nombres_lugares.xml#H003">Horizonte</placeName> <abbr source="catalogo_abreviaturas.xml#C005">conq</abbr> queda explicado el diagrama bastan-
+temente. donde aquestas dos porciones de los verticales, o alturas del <placeName ref="catalogo_nombres_lugares.xml#S007">sol</placeName>
+sobre el <placeName ref="catalogo_nombres_lugares.xml#H003">horizonte</placeName> G.E. y H.F. de una ves an de quedar conosidas. <!--tilde de cierre-->
+</p>
+</div>
+
+<div>
+<p>Folio 4 verso</p>
+
+<p>
+Aqueste primero modo pues es Expedito, Y solo tiene de leve trabaxo
+el ser por senos versos, esto es, un seno verso q sirve de multiplica-
+dor, pero con tener a mano una tabla de senos versos, de 30. en 30. minu-
+tos, para las Horas, y medias horas, estara suplido aqueste trabaxo. y asi
+la de adelante expresa, para q aqui no falte nada de donde se tomara
+el q fuere<!--antes "fuese"--> necessario, Y del se hara [exposicion] por nueve para perpetuo
+multiplicador de aquella hora, o media hora en q se obra por todos los pun-
+tos del Zodiaco; <placeName ref="catalogo_nombres_lugares.xml#E005">Ecliptica</placeName> <abbr source="catalogo_abreviaturas.xml#E008">Etc.a</abbr> Seno verso no es otra cosa q lo q re-
+sulta de restar un Seno de complento del senoto, como si fuese dado
+el Arco de. 23.g.30. Y se quiciese conoser su seno verso. Su seno recto
+seria <emph>398749°7</emph>. Y el de su complemento. <emph>91706007.</emph> este es el q se resta
+del seno todo, y quedan <emph>829393.</emph> q es el tabulado, en la <abbr source="catalogo_abreviaturas.xml#S005">sig.te</abbr> tabla <abbr source="catalogo_abreviaturas.xml#C005">conq</abbr>
+escusamos de sacar senos de complementos, Y de la resta q se hace. <!--tilde de cierre-->
+</p>
+
+<p>
+Para los senos versos mayores del seno todo, delos Arcos mayores q 90.
+<abbr source="catalogo_abreviaturas.xml#G001">Gr.</abbr> se tomara del arco dado, el complemento a 180<abbr source="catalogo_abreviaturas.xml#G001">g.</abbr> Y el arco de la recta
+dara en esta tabla un seno verso q añidiendole el seno todo, sea el seno
+verso q se busca, como si el Arco fuese de 105. su complemento a 180<abbr source="catalogo_abreviaturas.xml#G001">gr.</abbr> sera
+75.<abbr source="catalogo_abreviaturas.xml#G001">g.</abbr> q en esta tabla dara el seno verso. <emph>74118095</emph> Y añidiendole<!--antes "añadiendole"--> el seno
+todo sera. <emph>174118095.</emph> seno verso de 105<abbr source="catalogo_abreviaturas.xml#G001">gr.</abbr> Y asi de los demas. <!--tilde de cierre-->
+</p>
+
+<p>
+Esto supuesto Boi[sic] al punto, en el traingulo obliquangulo menor de 
+atras. q es el A.P.F. es con el q siempre se a de obrar, que del se deduse, y 
+saca la operacion del mayor siempre, sin necesidad de nueva otra <!--antes habia una laguna-->
+operacion. es pues conosido en el el lado A.P. del complemento dela
+<abbr source="catalogo_abreviaturas.xml#A003">alt.a</abbr> del <placeName ref="catalogo_nombres_lugares.xml#P011">polo</placeName>. Asi mismo La Basis, o lado. F.P. complemento de la decli-
+nacion. T.F. con cuio<!--antes "unio"--> Arco <!--antes "Ara"--> se obra, Y con el del complemento de la <abbr source="catalogo_abreviaturas.xml#A003">Alt.a</abbr> de 
+<placeName ref="catalogo_nombres_lugares.xml#P011">Polo</placeName>. sera asi mismo conosido el Angulo incluso, o intercepto destos dos 
+lados, q es A.P.F. de la <abbr source="catalogo_abreviaturas.xml#D005">dist.a</abbr> al <placeName ref="catalogo_nombres_lugares.xml#M013">meridiano</placeName> por la <abbr source="catalogo_abreviaturas.xml#A001">[AEqt.]</abbr> q es T.K. <abbr source="catalogo_abreviaturas.xml#C005">conq</abbr> para
+conocer la <abbr source="catalogo_abreviaturas.xml#A003">Alt.a</abbr> del <placeName ref="catalogo_nombres_lugares.xml#S007">sol</placeName> sobre el <placeName ref="catalogo_nombres_lugares.xml#H003">Horizonte</placeName> se obrara en la siguiente forma. <!--tilde de cierre-->
+</p>
+
+<p>
+Sumese el arco del complemento del <placeName ref="catalogo_nombres_lugares.xml#P011">polo</placeName>, con el Arco de la declinacion
+Y tomese el seno recto de la suma, Y sera primero invento;  tomese asimismo
+la diferencia destos dos Arcos, Y saquese su seno recto, y sera 2° invento = su-
+mense aquestos dos senos de 1° y 2° ynventos, y tomese la mitad justa<!--antes "hasta"--> de la
+suma. y sera esta mitad 3° invento (hasta aqui este primero modo, es lo mis-
+mo q obraremos en el 2° modo). tomese luego de la <abbr source="catalogo_abreviaturas.xml#S005">sig.te</abbr> tabla el seno ver-
+so del Angulo comprehendido de la <abbr source="catalogo_abreviaturas.xml#D005">dist.a</abbr> al <placeName ref="catalogo_nombres_lugares.xml#M013">meridiano</placeName> por la <abbr source="catalogo_abreviaturas.xml#A001">AEqt.</abbr> y llama-
+remosle 4° invento. deste se hase expancion por nueves paea q sirva de mul-
+tiplicador perpetuo de las <abbr source="catalogo_abreviaturas.xml#A006">Alt.as</abbr> sobre el <placeName ref="catalogo_nombres_lugares.xml#H003">horizonte</placeName> de todas las horas, o puntos
+de tiempo q se dieren de alguna declinacion, q sera con la q se empeso a obrar.
+Al (ilegible) directo, partido por el seno todo llamaremos 5° invento aviendo mul-
+tiplicdo el 3° invento por este 4°  o seno verso con q abra salido el 5°. aqueste
+en los signos <abbr source="catalogo_abreviaturas.xml#S007">septes</abbr>, o polo <abbr source="catalogo_abreviaturas.xml#S006">septt.</abbr> se restara siempre del 1° invento sobre
+tierra, Y <abbr source="catalogo_abreviaturas.xml#P006">pa</abbr> los signos Australes sobre tierra se restara del 2° invento.
+Y para las depreciones del sol debaxo de tierra se restara al contrario, Y q-
+dara el 6° invento de la <abbr source="catalogo_abreviaturas.xml#A003">Alt.a</abbr> del sol sobre el Horizonte, o debaxo <abbr source="catalogo_abreviaturas.xml#E008">Etc.a</abbr> <!--tilde de cierre-->
+</p>
+</div>
+
+<div>
+<p>Folio 5 recto </p>
+<p>
+[Tabla de los Senos Versos siendo el Seno todo de 100000000.]
+</p>
+</div>
+
+<div>
+<p>Folio 5 verso</p> 
+<p>
+Los Exemplos Haran clara aquesta doctrina a decir tiempo q para estas
+operaciones bastan de a seis cifras los senos, Y aunde a cinco por ser. por. <abbr source="catalogo_abreviaturas.xml#G001">gr.</abbr>
+Y <abbr source="catalogo_abreviaturas.xml#M003">mt.</abbr> solos. supongo pues el seno todo. de. 1000000. de a seis cifras; qui-
+tando las dos (ilegible) en los senos versos desta tabla. sea pues 1° Exemplo
+en todas las Horas, y sus medias siendo la declinacion del <placeName ref="catalogo_nombres_lugares.xml#S007">sol</placeName> de <emph>14.g.52.mt.</emph>
+<abbr source="catalogo_abreviaturas.xml#S006">septt.</abbr> en <abbr source="catalogo_abreviaturas.xml#A003">alt.a</abbr> de <placeName ref="catalogo_nombres_lugares.xml#P014">polo septt.</placeName> de. 19.<abbr source="catalogo_abreviaturas.xml#G001">g.</abbr> 15. Y en la misma declinacion Austral. 
+</p>
+<p>
+[Tabla con cálculos]
+</p>
+<p>
+q la primera es en los 10.<abbr source="catalogo_abreviaturas.xml#G001">g.</abbr> de
+<placeName ref="catalogo_nombres_lugares.xml#T007">Tauro</placeName>. y en los 20 de <placeName ref="catalogo_nombres_lugares.xml#L006">Leo</placeName> y la Aus-
+tral en los 20.<abbr source="catalogo_abreviaturas.xml#G001">g.</abbr> de <placeName ref="catalogo_nombres_lugares.xml#A015">Aquario</placeName> y en
+los 10 de <placeName ref="catalogo_nombres_lugares.xml#E006">Escorpio</placeName>. Y esta asi en  
+<placeName ref="catalogo_nombres_lugares.xml#P014">polo septt.</placeName>. como en <placeName ref="catalogo_nombres_lugares.xml#P013">Polo
+Austral</placeName> q con una sola ope-
+racion se sacan las Altu-
+ras de quatro puntos de 
+La <placeName ref="catalogo_nombres_lugares.xml#E005">Ecliptica</placeName>. Y no solo son
+Alturas, sino depresiones
+debaxo del <placeName ref="catalogo_nombres_lugares.xml#H003">Horizonte</placeName>. con 
+una solacilissima operacion
+o multiplicasion. sea pu-
+es el Exemplo en las 6. y. 30.
+Y las 5. y. 30. de la mañana,
+Y de la tarde, q las Alturas 
+del sol sobre el <placeName ref="catalogo_nombres_lugares.xml#H003">Horizonte</placeName>
+de por la mañana, son ygua-
+les a las de sobre tarde co-
+mo se corresponden en las
+distancias al <placeName ref="catalogo_nombres_lugares.xml#M013">Meridiano</placeName>
+como esta de las 6. H.30.
+de la tarde, o mañana.
+q dista de <placeName ref="catalogo_nombres_lugares.xml#M013">Meridiano</placeName> 82g. 30.
+Y lo mismo las 5.H.30. e tomado aqueste Exemplo <abbr source="catalogo_abreviaturas.xml#P005">porq</abbr> aigan depre-
+siones del <placeName ref="catalogo_nombres_lugares.xml#S007">sol</placeName> debaxo del <placeName ref="catalogo_nombres_lugares.xml#H003">Horizonte</placeName> q <abbr source="catalogo_abreviaturas.xml#A005">aunq</abbr> siempre las ay las cercanas
+al <placeName ref="catalogo_nombres_lugares.xml#H003">Horizonte</placeName> son necessarias para los Eclipses del <placeName ref="catalogo_nombres_lugares.xml#S007">sol</placeName> en el <placeName ref="catalogo_nombres_lugares.xml#O005">Oriente</placeName>. <abbr source="catalogo_abreviaturas.xml#E008">Etc.a</abbr> <!--tilde de cierre-->
+</p>
+
+<p>
+Sumando pues. 70.<abbr source="catalogo_abreviaturas.xml#G001">g</abbr>45. del complemento del <placeName ref="catalogo_nombres_lugares.xml#P014">polo septt.</placeName> de 19<abbr source="catalogo_abreviaturas.xml#G001">g.</abbr>15. con 14.<abbr source="catalogo_abreviaturas.xml#G001">g.</abbr>52.
+de la declinacion <abbr source="catalogo_abreviaturas.xml#S006">septt.</abbr> (o en <placeName ref="catalogo_nombres_lugares.xml#P013">polo Austral</placeName> en declinacion Austral) Y era 
+la suma <emph>85.P[sic].37.</emph> su seno recto <emph>es 997075.</emph> Primero invento, la diferen-
+cia de los dos arcos es <emph>55.g.53.</emph> y su seno recto es. <emph>827897.</emph> segundo invento.
+La suma destos dos senos es. <emph>1824972.</emph> y su mitad. <emph>92486.</emph> 3° invento
+q es el q sea de multiplicar por el seno verso desta tabla de 82.g.30. q
+es <emph>869473.</emph> hecha expancion del por nueve, para la facilidad de las 
+multiplicaciones, como la q se ve hecha por este 4° invento; Y sale el 
+Producto <emph>793382.</emph> quinto invento. con este se hacen las restas. Una
+del primero invento. 997075. Y otra del 2° 827897. Y sale en la primera
+el seno <!--no hay tilde de cierre-->
+</p>
+</div>
+
+<div>
+<p>Folio 6 recto</p>
+<p>
+el seno. <emph>203693.</emph> cuyo Arco es. 11.g.45. y en la 2° es seno <emph>34515.</emph> cuio
+Arco es de <emph>1.g.59.</emph> y ambos senos por 6° invento. aquestos dos arcos
+son alturas sobre el <placeName ref="catalogo_nombres_lugares.xml#H004">Horizonte, oriental</placeName>, y <placeName ref="catalogo_nombres_lugares.xml#H006">occidental</placeName>. Y depresiones
+en quatro puntos de la <placeName ref="catalogo_nombres_lugares.xml#E005">Ecliptica</placeName> en <abbr source="catalogo_abreviaturas.xml#A003">alt.a</abbr> de <placeName ref="catalogo_nombres_lugares.xml#P014">polo septt.</placeName> y en otros quatro
+<abbr source="catalogo_abreviaturas.xml#P007">permutadam.te</abbr> en <abbr source="catalogo_abreviaturas.xml#A003">Alt.a</abbr> austral, como estan atras expresos en la de-
+clinacion 14.<abbr source="catalogo_abreviaturas.xml#G001">g.</abbr>52 en los 10.<abbr source="catalogo_abreviaturas.xml#G001">g.</abbr> de <placeName ref="catalogo_nombres_lugares.xml#T007">tauro</placeName>, y los 20 de <placeName ref="catalogo_nombres_lugares.xml#L006">Leon</placeName> de la mediedad 
+<abbr source="catalogo_abreviaturas.xml#S006">septt.</abbr> y en los 10.<abbr source="catalogo_abreviaturas.xml#G001">g.</abbr> de <placeName ref="catalogo_nombres_lugares.xml#E006">escorpion</placeName> y los. 20, de <placeName ref="catalogo_nombres_lugares.xml#A015">Aquario</placeName> de la mediedad Austral
+esto es asi para todas las partes, y puntos de la <abbr source="catalogo_abreviaturas.xml#E009">+Eclipt.a</abbr> <!--El autor aqui pone una nota marginal en donde corrige la palabra testada. Aqui respeto la literalidad del manuscrito y la incorporo--> con esta sola expansion
+por nueve del seno verso puesto de 82.<abbr source="catalogo_abreviaturas.xml#G001">g</abbr>.30' excepto para las 12.H en punto
+Y para las seis de la mañana, o tarde. q se sacan en la forma <abbr source="catalogo_abreviaturas.xml#S005">sig.te</abbr> <!--tilde de cierre--> 
+</p>
+
+<p>
+para las 12 horas en punto sirven la suma y resta del principio de los
+dos Arcos complemento del polo, y declinacion. q son. 85.<abbr source="catalogo_abreviaturas.xml#G001">g.</abbr>37. y 55.<abbr source="catalogo_abreviaturas.xml#G001">g.</abbr>53. que
+quando el uno es <abbr source="catalogo_abreviaturas.xml#A003">Alt.a</abbr> sobre el <placeName ref="catalogo_nombres_lugares.xml#H003">Horizonte</placeName> (ilegible)depresion. y al contra-
+rio, y asi sean <abbr source="catalogo_abreviaturas.xml#P007">permutadam.te</abbr> en los dichos puntos, conforme es la declinacion
+<abbr source="catalogo_abreviaturas.xml#S006">septt.</abbr> o Austral; y conforme en los <placeName ref="catalogo_nombres_lugares.xml#P014">polos septt.</placeName> <placeName ref="catalogo_nombres_lugares.xml#P013">o Austral</placeName>. esto es facil conocer
+Y asi mismo quando la <abbr source="catalogo_abreviaturas.xml#A003">Alt.a</abbr> sobre el <placeName ref="catalogo_nombres_lugares.xml#H003">Horizonte</placeName> es a la <abbr source="catalogo_abreviaturas.xml#P004">p.te</abbr> del norte, respecto
+del <placeName ref="catalogo_nombres_lugares.xml#P008">vertical primario</placeName>, o a la parte del sur, <abbr source="catalogo_abreviaturas.xml#P008">porq.to</abbr> en las alturas de <placeName ref="catalogo_nombres_lugares.xml#P011">polo</placeName> meno-
+res q 23.<abbr source="catalogo_abreviaturas.xml#G001">g.</abbr>31. pasa el <placeName ref="catalogo_nombres_lugares.xml#S007">sol</placeName> del <placeName ref="catalogo_nombres_lugares.xml#Z003">Zenit</placeName> a la <abbr source="catalogo_abreviaturas.xml#P004">p.te</abbr> contraria al <placeName ref="catalogo_nombres_lugares.xml#S011">mediodia</placeName>, y antes
+conforme fuere el <placeName ref="catalogo_nombres_lugares.xml#P014">polo septt.</placeName> <placeName ref="catalogo_nombres_lugares.xml#P013">o austral</placeName>. esto ira todo en la tabla q adelante 
+dare muy expreso con una escala negra q hase divicion. <abbr source="catalogo_abreviaturas.xml#E008">Etc.a</abbr> <!--tilde de cierre-->
+</p>
+
+<p>
+Para hora de las seis de la tarde, o mañana, lo q se hase es restar los sex-
+tos inventos el menor del mayor. Y la mitad de la resta es el seno de la <abbr source="catalogo_abreviaturas.xml#A003">Alt.a</abbr>>
+</p>
+<p>
+[Tabla con una resta]
+</p>
+<p>
+sobre el <placeName ref="catalogo_nombres_lugares.xml#H003">Horizonte</placeName>, como en el exemplo presente q res-
+tando. <emph>34515.</emph> de. <emph>203693.</emph>> sextos inventos queda
+el seno. <emph>84589.</emph> cuio arco es. 4.<abbr source="catalogo_abreviaturas.xml#G001">g.</abbr>51. altura A las 6.H.
+en punto sobre <placeName ref="catalogo_nombres_lugares.xml#T004">tierra</placeName> en los 10.<abbr source="catalogo_abreviaturas.xml#G001">g.</abbr> de <placeName ref="catalogo_nombres_lugares.xml#T007">Tauro</placeName> y los 20. de <placeName ref="catalogo_nombres_lugares.xml#L006">Leo</placeName>
+Y es la misma depresion en los 10.<abbr source="catalogo_abreviaturas.xml#G001">g.</abbr> de <placeName ref="catalogo_nombres_lugares.xml#E006">Escorpion</placeName>. y los 20. de <placeName ref="catalogo_nombres_lugares.xml#A015">Aquario</placeName> en <placeName ref="catalogo_nombres_lugares.xml#P014">polo septt.</placeName> y en
+<placeName ref="catalogo_nombres_lugares.xml#P013">Austral</placeName> al contrario de lo dicho solo nos resta el accidente <abbr source="catalogo_abreviaturas.xml#S005">sig.te</abbr> <!--tilde de cierre-->
+</p>
+
+<p>
+Suele pues suceder q la suma de los dos lados, declinacion y complemento
+del <placeName ref="catalogo_nombres_lugares.xml#P011">Polo</placeName> exeden al quadrante de 90.<abbr source="catalogo_abreviaturas.xml#G001">g.</abbr> como siendo la declinacion
+</p>
+<p>
+[Tabla con cálculos]
+</p>
+<p>
+23.<abbr source="catalogo_abreviaturas.xml#G001">g.</abbr>8.48. q la suma es 93.<abbr source="catalogo_abreviaturas.xml#G001">g.</abbr>53.48. co-
+mo aqui aparece. Y en estos casos se toma
+el seno recto del <abbr source="catalogo_abreviaturas.xml#C003">complemt.o</abbr> a 180.<abbr source="catalogo_abreviaturas.xml#G001">g.</abbr> Y se-
+ra el primero invento, Y en lo demas como
+atras multiplicando el 3° invento por 
+la misma expancion de atras del seno ver-
+so q sirve a todos los puntos dela <abbr source="catalogo_abreviaturas.xml#E009">Eclipt.a</abbr> 
+A las 6.H.30. y a las 5.H.30. asi encima co-
+mo debaxo de <placeName ref="catalogo_nombres_lugares.xml#T004">tierra</placeName> en los quatro puntos
+<emph>10.g. de <placeName ref="catalogo_nombres_lugares.xml#C008">Capricornio</placeName> = con los 20. de <placeName ref="catalogo_nombres_lugares.xml#S013">Sagitario</placeName></emph>  ytem[sic] en los
+10.<abbr source="catalogo_abreviaturas.xml#G001">g.</abbr> de <placeName ref="catalogo_nombres_lugares.xml#C009">cancer</placeName>. q aqui son sobre <placeName ref="catalogo_nombres_lugares.xml#T004">tierra</placeName>, como en 
+los 20.<abbr source="catalogo_abreviaturas.xml#G001">g.</abbr> de <placeName ref="catalogo_nombres_lugares.xml#G003">Geminis</placeName>. q en los otros son depreciones
+Y al contrario todo =.
+</p>
+</div>
+
+<div>
+<p>Folio 6 verso</p>
+<p>
+[Tabla de Las Alturas del sol sobre el Horizonte (Y algunas depresiones) en Alt.a]
+</p>
+</div>
+
+<div>
+<p>Folio 7 recto</p>
+<p>
+Calculo del eclipse de <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName> que ade auer el Año de <date when="1641-05-09">1641</date> A los nueve dias
+del Mes de mayo en La Ciudad de Lima del <placeName ref="catalogo_nombres_lugares.xml#P002">Piru</placeName> para aueriguar
+La cantidad que del Cuerpo del <placeName ref="catalogo_nombres_lugares.xml#S007">sol</placeName> Se eclipsara y el tiempo a que
+sera en dicha ciudad. y antes que dello pasemos es lo mas <abbr source="catalogo_abreviaturas.xml#N002">necess.o</abbr>
+aueriguar La <abbr source="catalogo_abreviaturas.xml#D006">diffrá</abbr> de <placeName ref="catalogo_nombres_lugares.xml#M015">Meridianos</placeName> que ay de <placeName ref="catalogo_nombres_lugares.xml#M001">Mexico</placeName> a <placeName ref="catalogo_nombres_lugares.xml#F001">Francofort</placeName> a 
+<placeName ref="catalogo_nombres_lugares.xml#V004">Venecia</placeName> y a <placeName ref="catalogo_nombres_lugares.xml#H007">Hafnia</placeName> en dania para donde calculo, <persName ref="catalogo_nombres_personas.xml#L004">Cristiano Seuerino Lon
+gomontano</persName> el mas correcto movimiento de sol y luna y de mas plane-
+tas q hasta oy a sabido el mas moderno despues aun de Magino 
+y <persName ref="catalogo_nombres_personas.xml#K001">Ju.o Kepler</persName>. Lo qual haremos por un eclipse de <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> q obserue el año
+<emph>de <date when="1638">1638</date> a los</emph> <emph>2° de diciembre</emph>. <emph>La qual fue como aqui se sigue</emph><!--tilde de cierre-->
+</p>
+
+<p>
+el principio del eclipse no se pudo obseruar, ni ver en Su principio
+por mas gruesos vapores q estaban en el <placeName ref="catalogo_nombres_lugares.xml#H003">horisonte</placeName> y no dexaron ver
+Si La <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> Salia defalcada o no, pero a lo q pudo pareser y Se vio <abbr source="catalogo_abreviaturas.xml#Q001">q.to</abbr>
+tenia alguna altura o fue su principio al mismo punto de (ilegible)
+el <emph><placeName ref="catalogo_nombres_lugares.xml#H003">horisonte</placeName>, o muy poco antes, de lo qual nos certificaremos despues</emph> <!--tilde de cierre-->
+</p>
+
+<p>
+<persName ref="catalogo_nombres_personas.xml#O007">David Origano</persName> trae en el calculo de Tychon deste eclipse q es el <abbr source="catalogo_abreviaturas.xml#T001">tpo.</abbr>
+Verdadero sin el qual Alas. 15.H.12. Justos. P.M. del dia 20. de di-
+ciembre q es el en <placeName ref="catalogo_nombres_lugares.xml#M013">Meridiano</placeName> de <placeName ref="catalogo_nombres_lugares.xml#F001">Francofort</placeName>, o la longitud <abbr source="catalogo_abreviaturas.xml#P006">pa</abbr> <abbr source="catalogo_abreviaturas.xml#D007">dóde</abbr> calculo 
+trae al <placeName ref="catalogo_nombres_lugares.xml#S007">sol</placeName> [testado] en los 29.<abbr source="catalogo_abreviaturas.xml#G001">gr.</abbr>24.17. = de <placeName ref="catalogo_nombres_lugares.xml#S013">Sagitario</placeName> a los Luminares y por
+equacion del tiempo <abbr source="catalogo_abreviaturas.xml#P006">pa</abbr> el apparente q sean de añadir 3.M.56 con que
+<emph>el tiempo apparente dela Verdadera conJunsion[testado] fue. 15.H.15.m. <abbr source="catalogo_abreviaturas.xml#E007">Ett.a</abbr></emph>
+Al principio de su total obscuracion la estrella llamada Aldeuaran Corta
+va del Lado verso del quadrante 918. partes de Suerte q era Su altura sobre
+el <placeName ref="catalogo_nombres_lugares.xml#H004">horisonte oriental</placeName> 37.<abbr source="catalogo_abreviaturas.xml#G001">gr.</abbr>25. y ya aqui no tienen Las estrellas refraccion.
+Su Longitud correjida es. 4.<abbr source="catalogo_abreviaturas.xml#G001">gr.</abbr>44. de <placeName ref="catalogo_nombres_lugares.xml#G003">geminis</placeName> y su Latitud. 5.<abbr source="catalogo_abreviaturas.xml#G001">gr.</abbr>31.m Segun
+esto es Su declinacion 15.<abbr source="catalogo_abreviaturas.xml#G001">gr.</abbr>44. bor[sic] Segun <persName ref="catalogo_nombres_personas.xml#B013">Tychon</persName>, por q La Rays de <abbr source="catalogo_abreviaturas.xml#A007">Asc.</abbr>
+es 21.<abbr source="catalogo_abreviaturas.xml#G001">g.</abbr>29.17.Bor[sic]. el argumento de declinacion vor. 15.<abbr source="catalogo_abreviaturas.xml#G001">g.</abbr>58.17. el ang.to<!--abrev no indentificada-->
+80.11.27. con q La Rays de su Ascencion es. 66.<abbr source="catalogo_abreviaturas.xml#G001">gr.</abbr>35.56. y con La equacion
+q Sea de restar 2.<abbr source="catalogo_abreviaturas.xml#G001">gr.</abbr>47.9 <abbr source="catalogo_abreviaturas.xml#C005">conq</abbr> queda su <abbr source="catalogo_abreviaturas.xml#A007">Asc.</abbr> Recta de 63.<abbr source="catalogo_abreviaturas.xml#G001">gr.</abbr>48.47 sej.
+<abbr source="catalogo_abreviaturas.xml#C005">conq</abbr> Se hiso La Siguiente operacion por via de Logarithmos.</p> <!--tilde de cierre-->
+<p>
+[Tabla operaciones varias]
+</p>
+<p>
+Semi fig. 
+intervallos equinoctiales inter-
+sectan <abbr source="catalogo_abreviaturas.xml#E008">Etc.a</abbr> <foreign xml:lang="latin">meridianum.</foreign> <!--tilde de cierre-->
+Luego Segun esta operacion el principio de la total obscuracion fue Alas 
+6.<abbr source="catalogo_abreviaturas.xml#H001">hor.</abbr>37.m de la tarde del tiempo apparente, que[testado] concuerda con la
+hora q en tonses adverti en todos Los reloxes de <placeName ref="catalogo_nombres_lugares.xml#M001">mexico</placeName> q andaban buenos.
+[operaciones matemáticas al margen] 
+</p>
+</div>
+
+<div>
+<p>Folio 7 verso</p>
+<p>
+<abbr source="catalogo_abreviaturas.xml#I001">inmediatam.te</abbr> tome La altura dela <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> Sobre el <placeName ref="catalogo_nombres_lugares.xml#H004">horisonte oriental</placeName> 
+y cortan del Lado verso del quadrante 237 partes que son 11.<abbr source="catalogo_abreviaturas.xml#G001">gr.</abbr>10.21.
+Su refraccion de Rayos (ilegible). 10.4 que añadidos ala altura Seran
+11.<abbr source="catalogo_abreviaturas.xml#G001">g.</abbr>20.25. distancia La <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> al centro de la <placeName ref="catalogo_nombres_lugares.xml#T004">tierra</placeName> 56. diametros 43. Segun
+<persName ref="catalogo_nombres_personas.xml#L004">christiano Seuerino</persName> y su  parallaxi[sic] en el vertical 59.23. que restada de 
+La altura apparente 11.<abbr source="catalogo_abreviaturas.xml#G001">g.</abbr>20.25. quedan de <abbr source="catalogo_abreviaturas.xml#A003">alt.a</abbr> verdadera. 10.<abbr source="catalogo_abreviaturas.xml#G001">gr.</abbr>21.m. 
+Sobre el <placeName ref="catalogo_nombres_lugares.xml#H003">horisonte</placeName> y a este <abbr source="catalogo_abreviaturas.xml#T001">tpo.</abbr> tenia la <placeName ref="catalogo_nombres_lugares.xml#L004">luna</placeName> 7.m. de Latitud Meridional
+<abbr source="catalogo_abreviaturas.xml#C005">conq</abbr> se podra ver si corresponde <abbr source="catalogo_abreviaturas.xml#P009">perfectam.te</abbr> el tiempo con el hallado
+pero <abbr source="catalogo_abreviaturas.xml#P006">pa</abbr> <abbr source="catalogo_abreviaturas.xml#N003">nra.</abbr> operacion el de la estrella basta como mas segura <emph>obscu-
+racion por careser de los accidente q la <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName>. <abbr source="catalogo_abreviaturas.xml#E007">Etta.</abbr> 6.<abbr source="catalogo_abreviaturas.xml#H001">hor.</abbr>37.</emph>
+Al tiempo q la <placeName ref="catalogo_nombres_lugares.xml#L004">luna</placeName> empeso a recuperar su luz tenia la dicha 
+estrella aldeuaran de altura sobre el <placeName ref="catalogo_nombres_lugares.xml#H004">horisonte oriental</placeName> 60.<abbr source="catalogo_abreviaturas.xml#G001">gr.</abbr>6.m. 
+<abbr source="catalogo_abreviaturas.xml#P005">porq</abbr> cortava del lado recto del quadrante 690.partes. y la <placeName ref="catalogo_nombres_lugares.xml#L004">luna</placeName> del lado
+verso 895 partes q son 36.43.2. todo sobre el <placeName ref="catalogo_nombres_lugares.xml#H004">horisonte oriental</placeName> y q-
+brando por la estrella sola es Su operacion la siguiente segun su de-
+clinacion y Ascencion Recta ya dicha y Suponiendo <abbr source="catalogo_abreviaturas.xml#P004">p.te</abbr> dela 1a operacion
+</p>
+<p>
+[Tabla con operaciones matemáticas]
+</p>
+<p>
+Segun esto siendo las 8.16.13 dela noche el principio dela recuperacion
+(ilegible) toda ella de 1.11.36. y Su mitad 48 que añadidos al los 6.16.37
+del principio de la obscuracion fue Su mitad alas 7.<abbr source="catalogo_abreviaturas.xml#H001">hor.</abbr>24.tiempo
+apparente de la conjuncion verdadera q buscamos que restado del
+tiempo apparente del calculo que es de 15.<abbr source="catalogo_abreviaturas.xml#H001">hor.</abbr>15 quedan por <abbr source="catalogo_abreviaturas.xml#D006">di-
+ffrá</abbr> de <placeName ref="catalogo_nombres_lugares.xml#M015">Meridianos</placeName> 7.<abbr source="catalogo_abreviaturas.xml#H001">hor.</abbr>59.<abbr source="catalogo_abreviaturas.xml#M003">mt.</abbr> de <placeName ref="catalogo_nombres_lugares.xml#M001">Mexico</placeName> a <placeName ref="catalogo_nombres_lugares.xml#F001">francofort</placeName> que es la
+q buscamos, y esta tan concordante que <persName ref="catalogo_nombres_personas.xml#O007">origano</persName> pone por dimidia me-
+ra de la obscuracion 46.23 y por la obscuracion hallamos 48. que (ilegible)
+son dos de <abbr source="catalogo_abreviaturas.xml#D006">diffrá</abbr> con q quedara Asentado ser esta la <abbr source="catalogo_abreviaturas.xml#D006">diffrá</abbr> de <placeName ref="catalogo_nombres_lugares.xml#M013">meridia- 
+nos</placeName> de <placeName ref="catalogo_nombres_lugares.xml#M001">Mexico</placeName> a <placeName ref="catalogo_nombres_lugares.xml#F001">francofort</placeName> y quitando 11 solos quedan 7.16.40 por
+<abbr source="catalogo_abreviaturas.xml#D006">diffrá</abbr> de <placeName ref="catalogo_nombres_lugares.xml#M001">Mexico</placeName> a <placeName ref="catalogo_nombres_lugares.xml#H007">Hafnia</placeName> en <placeName ref="catalogo_nombres_lugares.xml#D001">dania</placeName> y añidiendo 6 a este tiempo
+seran 7.16.46 <abbr source="catalogo_abreviaturas.xml#D006">diffrá</abbr> entre <placeName ref="catalogo_nombres_lugares.xml#M001">Mexico</placeName> y <placeName ref="catalogo_nombres_lugares.xml#V004">Venecia</placeName> q son los tres q busca-
+mos hasta q por otro eclipse se perficcione esto mas. no obstante q
+yo e viajado siempre de 7.16.55 a <placeName ref="catalogo_nombres_lugares.xml#F001">francofort</placeName>, antes dela obscuracion 
+deste eclipse con q ya La depondremos y (ilegible)aremos de la hallada q solo
+difieren en 4. y siendo la <abbr source="catalogo_abreviaturas.xml#D006">diffrá</abbr> de <placeName ref="catalogo_nombres_lugares.xml#M001">Mexico</placeName> a la ciudad de <placeName ref="catalogo_nombres_lugares.xml#L007">Lima</placeName> 1.16.21.
+sera la de <placeName ref="catalogo_nombres_lugares.xml#L007">Lima</placeName> a <placeName ref="catalogo_nombres_lugares.xml#V004">Venecia</placeName> de 6.<abbr source="catalogo_abreviaturas.xml#H001">hor.</abbr>25.m q aqui tambien buscamos <!--tilde de cierre-->
+</p>
+<p>
+cespedes en Su regimiento de <placeName ref="catalogo_nombres_lugares.xml#M001">Mexico</placeName> a <placeName ref="catalogo_nombres_lugares.xml#L007">Lima</placeName> 1.16.34. <!--tilde de cierre-->
+</p> 
+</div>
+
+<div>
+<p>Folio 8 recto</p>
+<p>
+Y para poner toda la observacion del eclipse, observe el fin de todo el y
+por estar ya muy alta la estrella aldeueran, La dexe y observe por la 
+del hombro derecho de <placeName ref="catalogo_nombres_lugares.xml#O008">orion</placeName>. La qual cortaua del lado recto del qua-
+drante 912.<abbr source="catalogo_abreviaturas.xml#P003">p.tes</abbr> y era su altura. 52.<abbr source="catalogo_abreviaturas.xml#G001">g.</abbr>46. sobre el <placeName ref="catalogo_nombres_lugares.xml#H004">horisonte oriental</placeName>
+y la <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> cortaua entre 1012. y 1010. partes que predixe q haria 
+no sosegaba el (ilegible) y sumando en la mitad. 1014. era su altura
+47.<abbr source="catalogo_abreviaturas.xml#G001">gr.</abbr>8. pero voluiendo ala estrella dexter (ilegible) oriones
+Rabescens era su longitud correjida. 23.<abbr source="catalogo_abreviaturas.xml#G001">g.</abbr>>44. de <placeName ref="catalogo_nombres_lugares.xml#G003">geminis</placeName> con Latitud
+Austral de 16.<abbr source="catalogo_abreviaturas.xml#G001">gr.</abbr> luego su declinacion 7.<abbr source="catalogo_abreviaturas.xml#G001">g.</abbr>16.Bor La Rays dela
+declinacion 23.<abbr source="catalogo_abreviaturas.xml#G001">g.</abbr>22.32.Bor. el argt.<!--abrev no identificada--> de delcinacion 7.<abbr source="catalogo_abreviaturas.xml#G001">gr.</abbr>16.32. el
+angulo 87.<abbr source="catalogo_abreviaturas.xml#G001">gr.</abbr>30.10. La Rays de Ascencion 84.<abbr source="catalogo_abreviaturas.xml#G001">gr.</abbr>15 <abbr source="catalogo_abreviaturas.xml#C005">conq</abbr> sale la
+equcacion 19.7. q sea de quitar. sera pues su <abbr source="catalogo_abreviaturas.xml#A007">Asc.</abbr> Recta 83.<abbr source="catalogo_abreviaturas.xml#G001">g.</abbr>55.53. 
+<emph>con la qual se sigue la operacion de la hora que seria</emph> <!--tilde de cierre-->
+</p>
+
+<p>
+[4 tablas con operaciones matemáticas]
+</p>
+
+<p>
+desta operacion Se ve claro que desde q empeso a recuperar solas
+hasta el fin del eclipse vbo.<!--abrev no identificada-->1.hora. Justa luego quitando una hora
+de Las 6.<abbr source="catalogo_abreviaturas.xml#H001">hor.</abbr>37. a q empeso La total obscuracion quedaran 5.<abbr source="catalogo_abreviaturas.xml#H001">hor.</abbr>37.
+q fue el principio del eclipse. este dia se puso el <placeName ref="catalogo_nombres_lugares.xml#S007">sol</placeName> alas 5.<abbr source="catalogo_abreviaturas.xml#H001">hor.</abbr>23
+Luego 14. antes de ponerse el <placeName ref="catalogo_nombres_lugares.xml#S007">sol</placeName> empeso y salio La <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> defal-
+cada por el <placeName ref="catalogo_nombres_lugares.xml#H003">horisonte</placeName>. no digo bien, despues depuesto el <placeName ref="catalogo_nombres_lugares.xml#S007">sol</placeName>  los 14. Se
+empeso; Luego La <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> no salio eclipsada sino despues de salida a la 14 em-
+<emph>peso a defalcarse. conq sea. puesto toda La observacion <abbr source="catalogo_abreviaturas.xml#E007">Ett.a</abbr>.</emph> <!--tilde de cierre-->
+</p>
+
+<p>
+el calculo de aqueste eclipse Segun <persName ref="catalogo_nombres_personas.xml#M003">Ju.o Ant. Magino</persName>, y Segun 
+<persName ref="catalogo_nombres_personas.xml#M003">Christiano Seuerino Lontomontano</persName> pondremos al fin <abbr source="catalogo_abreviaturas.xml#P006">pa</abbr> conoser 
+q autor concuerda mas con La observacion q el calculo de <persName ref="catalogo_nombres_personas.xml#O007">origano</persName>
+bien poco discrepa de la verdad y conoseremos conq calculo nos 
+<emph>[aiudaremos] mejor en los venideros eclipses de <placeName ref="catalogo_nombres_lugares.xml#S007">sol</placeName> y <placeName ref="catalogo_nombres_lugares.xml#L004">luna</placeName> <abbr source="catalogo_abreviaturas.xml#E007">Ett.a</abbr>.</emph> <!--tilde de cierre-->
+</p>
+
+<p>
+Siguese ya el calculo del eclipse Solar en La ciudad de <placeName ref="catalogo_nombres_lugares.xml#L007">Lima</placeName>
+Segun los movimientos del Suplemento de <persName ref="catalogo_nombres_personas.xml#M003">Ju.o Antonio Magino</persName>
+calculados al <placeName ref="catalogo_nombres_lugares.xml#M013">Meridiano</placeName> de <placeName ref="catalogo_nombres_lugares.xml#V004">Venecia</placeName> supuesta la <abbr source="catalogo_abreviaturas.xml#D006">diffrá.</abbr> dicha 
+de 6.16.25. entre <placeName ref="catalogo_nombres_lugares.xml#L007">Lima</placeName> y <placeName ref="catalogo_nombres_lugares.xml#V004">Venecia</placeName>, q es lo principal q aqui pretende-
+mos averiguar. q respecto de <placeName ref="catalogo_nombres_lugares.xml#M001">mexico</placeName> Luego veremos si lo abra o no <!--tilde de cierre-->
+</p> 
+</div>
+
+<div>
+<p>Folio 8 verso</p>
+<p>
+ES pues el tiempo dela (ilegible) verdadera de <placeName ref="catalogo_nombres_lugares.xml#S007">sol</placeName> y <placeName ref="catalogo_nombres_lugares.xml#L004">luna</placeName>, Año. <date when="1641-05-09">1641</date>. Alos 
+9. dias del mes de mayo Alas 10.<abbr source="catalogo_abreviaturas.xml#H001">hor.</abbr>0.y.17 P.M en el <placeName ref="catalogo_nombres_lugares.xml#M013">Meridiano</placeName>
+de la ciudad de <placeName ref="catalogo_nombres_lugares.xml#V004">Venecia</placeName> q tiene al de <placeName ref="catalogo_nombres_lugares.xml#M001">mexico</placeName> como dicho tengo. 7.<abbr source="catalogo_abreviaturas.xml#H001">hor.</abbr>46.m.
+y al de la ciudad de <placeName ref="catalogo_nombres_lugares.xml#L007">Lima</placeName> 6.<abbr source="catalogo_abreviaturas.xml#H001">hor.</abbr>25. son los movimientos <abbr source="catalogo_abreviaturas.xml#C005">conq</abbr> se siguen
+</p>
+<p>
+[Tabla con texto]
+</p>
+<p>
+este movimiento pues es segun <persName ref="catalogo_nombres_personas.xml#M003">Magino</persName> en su suplemento, pero el q 
+se sigue es segun <persName ref="catalogo_nombres_personas.xml#L004">Christiano Seuerino Longomontano</persName> en <placeName ref="catalogo_nombres_lugares.xml#H007">Hafnia</placeName> de <placeName ref="catalogo_nombres_lugares.xml#D001">Dania</placeName>
+es pues segun su calculo la conjuncion verdadera alas 9.<abbr source="catalogo_abreviaturas.xml#H001">hor.</abbr>49.m.18
+P.M. del dia <date when="1641-05-09">9. de Mayo del dicho año</date>. y es la diffrá. de tiempo del uno
+al otro 11 Justos, y no se porqu pues entre Hafnia y Venecia no ai tanta 
+<emph> <abbr source="catalogo_abreviaturas.xml#D006">diffrá.</abbr> sino solos 6. siguese pues el calculo de la dicha conjuncion</emph> <!--tilde de cierre-->
+</p> 
+<p>
+[Tabla con calculos y texto]
+</p>
+<p>
+el tiempo de la conjuncion vicible segun este segundo calculo de <persName ref="catalogo_nombres_personas.xml#L004">Lon-
+gomontano</persName>, suppongo q sea en la ciudad de <placeName ref="catalogo_nombres_lugares.xml#L007">Lima</placeName> Alas 5.<abbr source="catalogo_abreviaturas.xml#H001">hor.</abbr>10. de la 
+tarde porq siendo de <placeName ref="catalogo_nombres_lugares.xml#M001">Mexico</placeName> a <placeName ref="catalogo_nombres_lugares.xml#H007">Hafnia</placeName> 7.16.40. quitando 1.<abbr source="catalogo_abreviaturas.xml#H001">hor.</abbr>21 de 
+<placeName ref="catalogo_nombres_lugares.xml#M001">mexico</placeName> a <placeName ref="catalogo_nombres_lugares.xml#L007">lima</placeName>, queden 6.<abbr source="catalogo_abreviaturas.xml#H001">hor.</abbr>19. de <placeName ref="catalogo_nombres_lugares.xml#L007">Lima</placeName> a Hafnia. segun lo qual 
+<emph>sera en <placeName ref="catalogo_nombres_lugares.xml#H007">Hafnia</placeName> el calculo Alos <date when="1641-05-09">9 dias de Mayo</date>. 11.<abbr source="catalogo_abreviaturas.xml#H001">hor.</abbr>30.P.M.</emph>  
+</p>
+</div>
+
+<div>
+<p>Folio 9 recto</p>
+<p>
+[Tabla con horarios
+<date when="1641-05-09">1641.9.May</date>.11.16.30.P.M.]
+</p>
+<p>
+tiene La ciudad de <placeName ref="catalogo_nombres_lugares.xml#L007">Lima</placeName> 12.<abbr source="catalogo_abreviaturas.xml#G001">gr.</abbr> de altura de
+<placeName ref="catalogo_nombres_lugares.xml#P013">polo Austral</placeName>. pueden Servir Las <abbr source="catalogo_abreviaturas.xml#A007">Asc.</abbr> <abbr source="catalogo_abreviaturas.xml#O002">obliq.</abbr>
+y <abbr source="catalogo_abreviaturas.xml#D008">desc.</abbr> <abbr source="catalogo_abreviaturas.xml#O002">obliq.</abbr> <abbr source="catalogo_abreviaturas.xml#S006">sept.</abbr>
+(ilegible) Las <abbr source="catalogo_abreviaturas.xml#A007">Asc.</abbr> en <abbr source="catalogo_abreviaturas.xml#D008">desc.</abbr> <abbr source="catalogo_abreviaturas.xml#E007">ett.a</abbr>
+</p>
+<p>
+[Tabla con horarios y signos zodiacales]
+</p>
+<p>
+[Imagen de circunferencia con trazos de puntos y ángulos]
+</p>
+</div>
+
+<div>
+<p>Folio 9 verso</p>
+<p>
+vese <abbr source="catalogo_abreviaturas.xml#C007">claram.te</abbr> ser por este calculo el punto Dela ó visible en <placeName ref="catalogo_nombres_lugares.xml#L007">Lima</placeName>
+alas 5.<abbr source="catalogo_abreviaturas.xml#H001">hor.</abbr>11. de la tarde y el interualo entre la Media verdadera
+y visible 1.<abbr source="catalogo_abreviaturas.xml#H001">hor.</abbr>40.42. y añidiendose la equacion del tiempo q segun
+<persName ref="catalogo_nombres_personas.xml#L004">Longomontano</persName> deuen ser 9.52 quedaran 5.16.20.52 tiempo ap-
+parente de la ó visible en la ciudad de <placeName ref="catalogo_nombres_lugares.xml#L007">Lima</placeName>, vamos ala Latitud <!--tilde de cierre-->
+</p>
+<p>
+[Tabla con horarios]
+</p>
+<p>
+Hasta aqui Vaste por el calculo de <persName ref="catalogo_nombres_personas.xml#L004">Severino Longomontano</persName> y pa-
+so a calcular todo el eclipse por <persName ref="catalogo_nombres_personas.xml#M003">Ju.o Antonio Magino</persName> para ver La
+concordancia o disonancia y primera examen dela conjuncion visible.
+q supongo sea en <placeName ref="catalogo_nombres_lugares.xml#H007">Hafnia</placeName> Alas 11.<abbr source="catalogo_abreviaturas.xml#H001">hor.</abbr>46.30 P.M. del dia <date when="1641-05-09">9. de 
+Mayo</date>, sera pues el calculo de los movimientos y lo demas q este 
+</p>
+<p>
+[Tabla con horarios]
+</p>
+</div>
+
+<div>
+<p>Folio 10 recto</p>
+<p>
+[Tabla con horarios]
+</p>
+<p>
+del tiempo q supuse de la ó visible 11.16.46.30 aun parese mucho
+<abbr source="catalogo_abreviaturas.xml#P005">porq</abbr> alas 11.16.48 P.M. (quitando 6.16.25) tenia de parallaxi
+en Longitud 48.35. <abbr source="catalogo_abreviaturas.xml#C005">conq</abbr> emos menester que La distancia de Los Lu-
+minares sea 48.30 nomas. y asi quitaremos 25 del dicho tiempo
+a que corresponden de la <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> 13.44 y del <placeName ref="catalogo_nombres_lugares.xml#S007">sol</placeName> 1.2. y restando esto de
+lo de la <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> quedan 12.42 y esto de la <abbr source="catalogo_abreviaturas.xml#D006">diffrá</abbr> de los luminares que
+arriba salio quedan 48.31 <abbr source="catalogo_abreviaturas.xml#C005">conq</abbr> el tiempo sera 11.16.45.5 y el ver-
+dadero lugar de los Luminares sin alterar sus equaciones <abbr source="catalogo_abreviaturas.xml#E007">ett.a</abbr> seran
+</p>
+<p>
+[2 Tablas con horarios]
+</p>
+<p>
+[Imagen de circunferencia con trazos de puntos y ángulos]
+</p>
+</div>
+
+<div>
+<p>Folio 10 verso</p>
+<p>
+De la operacion de atras Se conose y se ve que ay solos 3. de <abbr source="catalogo_abreviaturas.xml#D006">diffrá</abbr> entre
+La parallaxi en Longitud y las <abbr source="catalogo_abreviaturas.xml#D005">dist.a</abbr> de los luminares y asi de Las 
+5.16.21.5 quitaremos Los 5 segundos y quedaran 5.16.21 P.M.
+y de la <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> se quitaran 2.45 y del <placeName ref="catalogo_nombres_lugares.xml#S007">sol</placeName> 12 <abbr source="catalogo_abreviaturas.xml#C005">conq</abbr> quedara la para-
+llaxi en 48.28 y lo mismo la distancia de los luminares <abbr source="catalogo_abreviaturas.xml#E007">ett.a</abbr>
+</p>
+<p>
+[Tabla con horarios]
+</p>
+<p>
+siguese a este tiempo de la ó vicible el movimiento verdadero de la ♫ <!--como marcar este simbolo?-->
+</p>
+<p>
+[Tabla con horarios]
+</p>
+<p>
+Agora resta conoser el movimiento horario apparente dela <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> 
+en una hora antes para conoser a que hora empiesa el eclipse, y no es
+necessario una hora despues dela ó visual <abbr source="catalogo_abreviaturas.xml#P005">porq</abbr> este dia se pone al <placeName ref="catalogo_nombres_lugares.xml#S007">sol</placeName>
+en <placeName ref="catalogo_nombres_lugares.xml#L007">Lima</placeName> alas 5.<abbr source="catalogo_abreviaturas.xml#H001">hor.</abbr>44.24 y ai de distancia a la ó visible solos
+23.24 <abbr source="catalogo_abreviaturas.xml#C005">conq</abbr> al ponerse ira todavia algo eclipsado aunq en mui 
+pequeña cantidad todo lo qual despues examineremos <abbr source="catalogo_abreviaturas.xml#E007">ett.a</abbr>
+</p>
+<p>
+[Tabla con horarios]
+</p>
+</div>
+
+<div>
+<p>Folio 11 recto</p>
+<p>
+[Tabla con horarios]
+</p>
+</div>
+
+<div>
+<p>Folio 11 verso</p>
+<p>
+Trazo de circunferencia con espacios sombreados que representan un eclipse]
+</p>
+<p>
+Siguese el calculo de la ó verdadera del eclipse de <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> q al princi-
+pio pase observado en <placeName ref="catalogo_nombres_lugares.xml#M001">mexico</placeName> <abbr source="catalogo_abreviaturas.xml#P006">pa</abbr> segun el conoser la <abbr source="catalogo_abreviaturas.xml#D006">diffrá</abbr> de tiempo
+al <placeName ref="catalogo_nombres_lugares.xml#M013">meridiano</placeName> de <placeName ref="catalogo_nombres_lugares.xml#V004">Venecia</placeName>, o por mejor decir <abbr source="catalogo_abreviaturas.xml#P006">pa</abbr> donde <persName ref="catalogo_nombres_personas.xml#M003">Magino</persName> calculo
+calculo[sic] los movimientos de <placeName ref="catalogo_nombres_lugares.xml#S007">sol</placeName> y <placeName ref="catalogo_nombres_lugares.xml#L004">luna</placeName> que traen en su suplemento <abbr source="catalogo_abreviaturas.xml#E007">ett.a</abbr>
+sera pues el <abbr source="catalogo_abreviaturas.xml#T001">tpo.</abbr> de la ó verdadera A <date when="1638-12-20">20 de dib de 1638</date>. 15.16.14.27.33
+</p>
+<p>
+[Tabla con horarios]
+</p>
+</div>
+
+<div>
+<p>Folio 12 recto</p>
+<p>
+el tiempo apparente desta ó es quitarle 8.20 y quedaran 15.16.
+5.47 P.M. de aqui restando 7.16.27 que eran dela noche
+del <abbr source="catalogo_abreviaturas.xml#T001">tpo.</abbr> apparente del medio eclipse quedan 7.16.39 de <abbr source="catalogo_abreviaturas.xml#D006">diffrá</abbr>
+de <placeName ref="catalogo_nombres_lugares.xml#M015">Meridianos</placeName> entre <placeName ref="catalogo_nombres_lugares.xml#M001">Mexico</placeName> y <placeName ref="catalogo_nombres_lugares.xml#V004">Venecia</placeName> por este calculo de <persName ref="catalogo_nombres_personas.xml#M003">magino</persName>
+de q emos de (ilegilbe) siempre que por el calcularemos eclipse <abbr source="catalogo_abreviaturas.xml#E007">ett.a</abbr> <!--tilde de cierre-->
+</p>
+
+<p>
+Calculo del Eclipse de <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> del principio por las tablas de <persName ref="catalogo_nombres_personas.xml#L025">felipe
+Lanbergio</persName> Al <placeName ref="catalogo_nombres_lugares.xml#M013">Meridiano</placeName> Goezano por el mas ajustado y mo-
+derno, y en todo lo demas segun su doctrina pa la averiguasion de la
+<abbr source="catalogo_abreviaturas.xml#D006">difrrá</abbr> de <placeName ref="catalogo_nombres_lugares.xml#M015">Meridianos</placeName> entre <placeName ref="catalogo_nombres_lugares.xml#M001">mexico</placeName> y Goeza<!--ciudad no identificada--> en <placeName ref="catalogo_nombres_lugares.xml#D001">Dania</placeName> de <placeName ref="catalogo_nombres_lugares.xml#S015">Celan-
+dia</placeName> cuia Longitud es segun dicho autor 25.g.30. <abbr source="catalogo_abreviaturas.xml#E008">etc.a</abbr> <!--tilde de cierre-->
+</p>
+<p>
+La opposicion Media es en su <placeName ref="catalogo_nombres_lugares.xml#M013">Meridiano</placeName> reducida a sexagenal del <abbr source="catalogo_abreviaturas.xml#T001">tpo.</abbr>
+2.46.10 57 dias. 15.42.34 La opposicion verdadera reducida 
+es tambien es de 2.46.10 57 dias 35.37.35 que en tiempo es el
+año de 1638  comun Alos. 20 de diciembre completos 14.<abbr source="catalogo_abreviaturas.xml#H001">hor.</abbr>1546 P.M.
+es el calculo de la ó verdadera el <abbr source="catalogo_abreviaturas.xml#S006">sig.te</abbr> a este <abbr source="catalogo_abreviaturas.xml#T001">tpo.</abbr> en su <placeName ref="catalogo_nombres_lugares.xml#M013">Meridiano</placeName> <!--tilde de cierre-->
+</p>
+<p>
+[Tabla con cálculos referentes al sol]
+</p>
+<p>
+ Segun esto <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName> y <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> estan ppuestos <abbr source="catalogo_abreviaturas.xml#P009">perfectam.te</abbr> el <placeName ref="catalogo_nombres_lugares.xml#S007">sol</placeName> en los 29.<abbr source="catalogo_abreviaturas.xml#G001">g.</abbr>19.
+ 24 de <placeName ref="catalogo_nombres_lugares.xml#S013">sagitario</placeName> y La <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> en <placeName ref="catalogo_nombres_lugares.xml#G003">geminis</placeName> parte oppuesta en 29.<abbr source="catalogo_abreviaturas.xml#G001">g.</abbr>17.24 aviendo 
+ pues sucedido este Eclipse alas. 7.H.25 de la noche en la mitad de 
+ su  total obscuracion. como se dixo al principio llano es q restando 7.16.
+ 27. de 14.16.15 de la opposicion verdadera quedaran 6.16.48 de <abbr source="catalogo_abreviaturas.xml#D006">difrá.</abbr>
+ de <placeName ref="catalogo_nombres_lugares.xml#M015">Meridianos</placeName> de <placeName ref="catalogo_nombres_lugares.xml#M001">Mexico</placeName> a Goeza. [comienza testado]y yo añado 4 dis.mas[termina testado] q seran
+ [comienza testado]6.H.54 por concordar[termina testado] la <abbr source="catalogo_abreviaturas.xml#D006">difrá</abbr> <placeName ref="catalogo_nombres_lugares.xml#M001">Mexico</placeName> a <placeName ref="catalogo_nombres_lugares.xml#V004">Venecia</placeName> de 7.H.23 y de 
+ <placeName ref="catalogo_nombres_lugares.xml#M001">Mexico</placeName> a <placeName ref="catalogo_nombres_lugares.xml#H007">Haphnia</placeName> en <placeName ref="catalogo_nombres_lugares.xml#D001">Dania</placeName> donde escriuio <persName ref="catalogo_nombres_personas.xml#L004">Cristiano severino longo-
+ montano</persName> 7.H.39 y de <abbr source="catalogo_abreviaturas.xml#M004">Mex.co</abbr> a <placeName ref="catalogo_nombres_lugares.xml#F001">francofort</placeName> <foreign xml:lang="lat">ad oberam</foreign> 7.16.40 todo se-
+ gun las <abbr source="catalogo_abreviaturas.xml#D009">difrás</abbr> q pone <persName ref="catalogo_nombres_personas.xml#L025">Felippe Lanbergio</persName> y estas <abbr source="catalogo_abreviaturas.xml#D009">difrás</abbr> son unas
+ conformes a Las puestas al principio. <abbr source="catalogo_abreviaturas.xml#E008">Etc.a</abbr> <!--tilde de cierre-->
+</p>
+</div>
+<div>
+<p>Folio 12 verso</p>
+<p>
+La 1.a observacion de la estrella Aldebaran segun el <placeName ref="catalogo_nombres_lugares.xml#S007">sol</placeName> sacado, y La 
+<abbr source="catalogo_abreviaturas.xml#A003">Alt.a</abbr> de <placeName ref="catalogo_nombres_lugares.xml#P011">polo</placeName> 19.<abbr source="catalogo_abreviaturas.xml#G001">g.</abbr>20 mas cierta supuesta su <abbr source="catalogo_abreviaturas.xml#A007">Asc.</abbr> (ilegible) <emph>63.<abbr source="catalogo_abreviaturas.xml#G001">g</abbr>>48.47</emph>
+y lo demas de la estrella que es mui poca la <abbr source="catalogo_abreviaturas.xml#D006">difrá</abbr> q en ella puede Auer.</p>
+<p>
+[tablas con cálculos]
+</p>
+<p>
+La 2.a observacion del principio de recuperacion de Lo supuesto todo
+lo dicho, Segun La misma estrella Aldeuaran y el <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName>, <abbr source="catalogo_abreviaturas.xml#A003">Alt.a</abbr> de <placeName ref="catalogo_nombres_lugares.xml#P011">polo</placeName>. <abbr source="catalogo_abreviaturas.xml#E008">Etc.a</abbr>
+</p>
+<p>
+[tablas con cálculos]
+</p>
+<p>
+Segun esto mas seguro sera obrar con <abbr source="catalogo_abreviaturas.xml#D006">difrá</abbr> de <placeName ref="catalogo_nombres_lugares.xml#M015">Meridianos</placeName>
+de <placeName ref="catalogo_nombres_lugares.xml#M001">Mexico</placeName> a Goeza ajustandose ala observacion con 6.H.50 y
+en lo demas todo como <persName ref="catalogo_nombres_personas.xml#L025">Felippe Lanbergio</persName> de cuyo calculo se tiene toda
+sertidumbre por mas moderno y correjido. y asi la longitud  de <placeName ref="catalogo_nombres_lugares.xml#M001">Mexico</placeName>
+283.<abbr source="catalogo_abreviaturas.xml#G001">gr.</abbr> y de <abbr source="catalogo_abreviaturas.xml#D006">difrá</abbr> a <placeName ref="catalogo_nombres_lugares.xml#V004">venesia</placeName> 7.H.27 de <placeName ref="catalogo_nombres_lugares.xml#M001">Mexico</placeName> a <placeName ref="catalogo_nombres_lugares.xml#H007">Haphnia</placeName> en <placeName ref="catalogo_nombres_lugares.xml#D001">dania</placeName>
+7.H.35 de <placeName ref="catalogo_nombres_lugares.xml#M001">Mexico</placeName> a <placeName ref="catalogo_nombres_lugares.xml#F001">francofort</placeName> 7.H.46 a <placeName ref="catalogo_nombres_lugares.xml#R003">Roma</placeName> 7.H.33 <abbr source="catalogo_abreviaturas.xml#E008">Etc.a</abbr> <!--tilde de cierre-->
+</p>
+
+<p>
+Para La certidumbre del calculo deste Autor y dela observacion 
+hecha pondre todo el calculo deste eclipse y es como se sigue</p> <!--tilde de cierre-->
+<p>
+[Tablas con cálculos]
+</p>
+</div>
+
+<div>
+<p>Folio 13 recto</p>
+<p>
+[Tablas con cálculos]
+</p>
+<p>
+Este Autor advierte en el precepto 8. infire[sic] <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName> 37. q en los eclipses
+es oculta la equacion del tiempo. y q aun no se conose la rason
+vease allo todo. y dise q en <placeName ref="catalogo_nombres_lugares.xml#S013">Sagitario</placeName> y <placeName ref="catalogo_nombres_lugares.xml#G003">Geminis</placeName>. <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName> y D La <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName>
+no es <abbr source="catalogo_abreviaturas.xml#N004">necess.a</abbr> la equacion <abbr source="catalogo_abreviaturas.xml#P005">porq</abbr> es ninguna y asi la mitad del <abbr source="catalogo_abreviaturas.xml#T001">tpo.</abbr>
+hallado por la observacion fue Alas 7.H.25 de la noche de q restan-
+do 47 de la dimidia mera entinieblas quedan las 6.H.38
+q es el tiempo q se observo al principio y añidiendolos salen 8.H
+y 12. y hallamos por la observacion 8.H.13 que mas precision
+se puede pedir ni desear = El fin del eclipse por el calculo de luser[sic] Alas 9.<abbr source="catalogo_abreviaturas.xml#H001">Hor</abbr> y 17 por q añidiendo 1.H.52 a las 7.H y 25
+sale dicho <abbr source="catalogo_abreviaturas.xml#T001">tpo</abbr>, y por la estrella del hombro de <placeName ref="catalogo_nombres_lugares.xml#O008">orion</placeName> hallamos 9.H y 13
+q son 4 de <abbr source="catalogo_abreviaturas.xml#D006">difrá</abbr> ya por la dificultad de determinar el fin o ya <abbr source="catalogo_abreviaturas.xml#P005">porq</abbr>
+mudamos otra estrella, o por el instrumento <abbr source="catalogo_abreviaturas.xml#E008">Etc.a</abbr> pero como quiera q sea
+es muy poca la <abbr source="catalogo_abreviaturas.xml#D006">difrá.</abbr> Luego el <abbr source="catalogo_abreviaturas.xml#P010">pr.o</abbr><!--abrev no identificada. Probablemente "principio"--> fue Alas 5.H y 33 q son 10.<abbr source="catalogo_abreviaturas.xml#M003">mt</abbr>
+ya puesto el <placeName ref="catalogo_nombres_lugares.xml#S007">sol</placeName> y  La <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> sobre el <placeName ref="catalogo_nombres_lugares.xml#H003">Horizonte</placeName>. <abbr source="catalogo_abreviaturas.xml#E008">Etc.a</abbr> <!--tilde de cierre-->
+</p>
+</div>
+</body>
+</text> 
+</TEI>
+
+<!--
+¿Qué deberíamos rescatar del manuscrito para su representación y preservación digital?
+
+1) Notas tironianas 
+2) Calderón gramatical: indica el inicio del párrafo. Aveces se encuentran al margen. Sugiero revisar TEI, Manuscript Descrption, 10.7.2.4 Additions and Marginalia, para una etiqueta que codifique elementos al margen. O bien 10.7.2.3 Musical notation cuando no se encuentran al margen. ¿Cómo hacerle saber al lector que la representación digital de cierta información corresponde al margen del manuscrito original?
+3)Notas marginales. Buscar una etiqueta adecuada para recuperar información al margen. De lo contrario surge de nuevo la pregunta de si la transcripción el literal o moderna.
+4) Márgenes
+5) tildes de cierre: se usaban por motivos de seguridad. El autor rellenaba el espacio sobrante de la ultima palabra hasta el margen con una linea, rayadura o signatura para que nadie fuera a agregar/alterar el párrafo añadiendo anotaciones.
+
+¿Cuál es el tipo de transcripcion que necesitamos: literal o modernizada? 
+La literal se dirige a un público  especializado en paleografía, por lo que se sugiere rescatar TODOS los elementos contenidos en los folios (calderones, tildes de cierre, rubricas, abreviaturas no desatadas, añadidos marginales, etc), mientras que la transcripción modernizada se dirige a un público no especializado, supone una lectura fluida. 
+-->
