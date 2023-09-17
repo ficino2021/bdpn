@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+   xmlns:rng="http://relaxng.org/ns/structure/1.0"
+   xml:lang="es"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:noNamespaceSchemaLocation="validation/document.xsd">
+   <teiHeader>
+      <fileDesc>
+      <titleStmt>
+         <title type="main">
+            Carta a su majestad
+         </title>
+         <title type="short">
+            Carta a su majestad
+         </title>
+
+         <author>Juana de San Miguel</author>
+      </titleStmt>
+      <editionStmt>
+         <edition n="2">
+            Edición digital de la obra Carta a su majestad
+         </edition>
+         <respStmt>
+            <name>Héctor Rafael Aparicio Sedano</name>
+            <resp>Transcripción</resp>
+         </respStmt>
+         <respStmt>
+            <name>Ramiro Cotarelo Lira</name>
+            <resp>Marcado original XML/TEI</resp>
+         </respStmt>
+         <respStmt>
+            <name>Paulina Mendoza</name>
+            <resp>Curaduría digital</resp>
+         </respStmt>
+         </editionStmt>
+         <publicationStmt>
+         <publisher>
+            Universidad Nacional Autónoma de México
+            </publisher>
+         <publisher>
+            Facultad de Filosofía y Letras
+         </publisher>
+      <distributor>
+         Biblioteca Digital del Pensamiento Novohispano
+      </distributor>
+      </publicationStmt>
+      <sourceDesc>
+         <bibl>
+            <author>Juana de San Miguel</author>,
+                     <author>ana de san buran</author>, <author>Isabel de los
+                     Angeles</author>, <author>ana de San Geronimo </author>,
+                     <author>Juana de Santa Clara</author>
+            <title>Carta a su majestad.</title>
+            Por la Viuda de Bernardo Calderon, <date>1681.</date>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+
+      <head>A Su Magestad. La abadesa y convento de México, <date when="1552-02-15">15 de febrero
+               de 1552</date></head>
+         <p>
+	   Su Cesárea Católica Majestad </p>
+
+         <p>
+	   <l>Después que <name type="divPer" ref="catalogo_nombres_personas.xml#D010">Dios</name> nuestro señor, tubo por bien y
+	     permitiósse fundar esta pobre casa y <orgName ref="catalogo_nombres_organizaciones.xml#M003"> <ref target="#MMD">monasterio</ref> de la Madre de Dios</orgName>, en esta <placeName ref="catalogo_nombres_lugares.xml#M012">cibdad de México</placeName>. Y vuestra</l>
+	 <l>Majestad fue servido de aprobarla y faborescernos con sus letras,</l>
+	 <l>a nascido a todas los desta t ie rra un nuevo ánimo, que nin</l>
+            <l>guno de buen cristiano se presscia teniendo hijas, sino ofresce una y alguno</l>
+	    <l>s más a <name type="divPer" ref="catalogo_nombres_personas.xml#J006">Jesucristo</name>. En tanta ma/nera que ay gran número y c</l>
+            <l>antidad de rreligiosas don cellas y pobres en esta</l>
+	    <l>casa, procuramos con el ayude del <name type="divPer" ref="catalogo_nombres_personas.xml#J006">salvador</name>, aunque miserables y pecadoras,</l>
+            <l>con todo buen exemplo por servirle pa ra  que los naturales destos reynos,</l>
+            <l>sean edificados en su nueva conversión. Tenemos confiança en la bon</l>
+            <l>dad divina q u e s i empre irá en aumento, ansy en darnos esfuerço y fuer</l>
+	    <l>ças pa ra  loarle, como en mover a V uestr a Magestad  como siempre mueve para
+               servirle</l>
+	     <l>en hazernos toda m erce d y limosna. Estamos al presente en la casa, q u e al</l>
+            <l>principio de prestado tomamos, y a causa de ser pobre y estrecha y con po</l>
+            <l>ca sustentación, no podemos <unclear>ilegible</unclear>, aunque importunadas, rescibir
+               a muchas don/cellas que con entera voluntad suya y de sus padres, quieren seguir
+	       religión.</l>
+         </p>
+
+         <p>
+            <l>Por lo qual, según la humana fragilidad nos da a entender, se inpide</l>
+	    <l> un comun bien y gra n  servi ci o de <name type="divPer" ref="catalogo_nombres_personas.xml#D010">Dios</name>. A Vuestra  Sacra  Magestad suplicamos humil[de]mente,</l>
+            <l>se sirva ma n darnos edificar una yglesia donde el culto divino se celebre,</l>
+            <l>y una pobre casa en q u e nosotros co n  las q u e vinieren nos metamos. Y sea</l>
+            <l> servido mandarnos proveer de una moderada substentación, porque lo spiritual</l>
+            <l> y obra tan buena, no se impida co n  falta de lo temporal y cese. Será muy gran</l>
+	    <l>servicio a <name type="divPer" ref="catalogo_nombres_personas.xml#D010">Dios</name>, el que Vuestra  Majestad hará. Y muy crecida limosna y merced a nosotras,</l>
+	    <l>que no sólo terna nombre de <name type="inst" ref="catalogo_nombres_organizaciones.xml#M004">monasteerio</name> y casa de religiosas mujeres, más <name type="inst" ref="catalogo_nombres_organizaciones.xml#C014">colegio</name> y
+	      <name type="inst" ref="catalogo_nombres_organizaciones.xml#H001">ospital</name> de virgines pobres, que clamen a <name type="divPer" ref="catalogo_nombres_personas.xml#J006">Nuestro Señor</name> cada</l>
+	     <l>día sin cesar como siempre suplicamos el sublime estado de Vuestr a Magestad. Con
+	       aumento de muchos reinos prospere y su sancta <term type="body" ref="catalogo_terminos.xml#A004">ánima</term>, dote de mucha gracia para que
+	       co n siga lo que con tantos trabajos tan cristianíssimamente, Vuestra  Majestad  desea y
+               procura. </l>
+            <l>De <placeName ref="catalogo_nombres_personas.xml#M001">México</placeName> y de <date when="1552-02-15">hebrero 15 1552 años</date>.</l>
+         </p>
+	 <signed>De Vuestra Sacra  Cesárea  Católica  Majestad humildes servidoras que sus
+	   rreales <term type="body" ref="catalogo_terminos.xml#P002">pies</term> besan
+      <affiliation role="Monjas Concepcionistas">
+                   <persName ref="catalogo_nombres_personas.xml#S032">Juana de San Miguel</persName>,
+                     <persName ref="catalogo_nombres_personas.xml#S033">ana de san buran</persName>, <persName ref="catalogo_nombres_personas.xml#A064">Isabel de los
+                     Angeles</persName>, <persName ref="catalogo_nombres_personas.xml#S034">ana de San Geronimo </persName>,
+                     <persName ref="catalogo_nombres_personas.xml#S034">Juana de Santa Clara</persName>
+                  </affiliation>
+   </signed>
+</div>
+      </body>
+   </text>
+</TEI>
