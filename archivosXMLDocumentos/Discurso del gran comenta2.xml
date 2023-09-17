@@ -1,0 +1,885 @@
+<TEI
+  xmlns="http://www.tei-c.org/ns/1.0"
+  xmlns:rng="http://relaxng.org/ns/structure/1.0"
+  xml:lang="es"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="validation/document.xsd">
+
+<teiHeader>
+ <fileDesc>
+  <titleStmt>
+       <title type="main">Discurso del Gran Cometa</title>
+       <title type="short">Discurso del Gran Cometa</title>
+       <author>Gabriel López Bonilla</author>
+  </titleStmt>
+  <editionStmt>
+   <edition n="1">
+     Edición digital de la obra Discurso del Gran Cometa
+   </edition>
+   <respStmt>
+        <name>Paulina Michelle Mendoza Serrano</name>
+     <resp>Marcado original XML/TEI</resp>
+    </respStmt>
+    <respStmt>
+     <name>Paulina Michelle Mendoza Serrano</name>
+     <resp>Transcripción</resp>
+    </respStmt>
+  </editionStmt>
+  <publicationStmt>
+    <publisher>
+      Universidad Nacional Autónoma de México
+    </publisher>
+    <publisher>
+      Facultad de Filosofía y Letras
+    </publisher>
+    <distributor>
+      Biblioteca Digital del Pensamiento Novohispano
+    </distributor>
+  </publicationStmt>
+  <sourceDesc>
+    <bibl>
+      <author>Gabriel López Bonilla</author>
+      <title>Discurso del Gran Cometa</title>
+      <date>1665</date>
+    </bibl>
+  </sourceDesc>
+ </fileDesc>
+</teiHeader>
+<text>
+<body>
+  <div>
+    <head>Dominus mihi adjuctor</head>
+    <p>Folio 3 recto</p>
+<!--aparece en el manuscrito un invocatio (crismón). Fórmula de devoción con la que el autor encomienda su obra a Dios-->
+    <p>
+    Discurso de La Gran Cometa y demas
+    prodijios que aparescieron desde
+    <date when="1664-03-19">19 de Marzo de 1664</date> hasta <date when="1664-10-14">14 de <abbr source="catalogo_abreviaturas.xml#O003">octu.e</abbr></date>
+    Es tan Grande La omnipotencia de <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName>
+    y su divinos saber, que demas de aver
+    Criado los <placeName ref="catalogo_nombres_lugares.xml#C006">cielos</placeName> y la <placeName ref="catalogo_nombres_lugares.xml#T004">Tierra</placeName> para El Hom
+    bre que formo a su imagen y semejanza,
+    y para todos sus descendientes, crio Las
+    estrellas para que con su Virtud influ
+    yeran en este mundo Lo que necesario fue
+    ra para su governacion, pues [ilegible]
+    que dellas depende La procreacion,
+    Aumento, o diminucion de todo lo que
+    se sustentan quantas Criaturas raciona
+    les, e inracionales ocupan Este <placeName ref="catalogo_nombres_lugares.xml#M007">Mundo</placeName>
+    terreste, Dando señales Las Estrellas no
+    solo de la salud y Dolencias, sino dela
+    Abundancia de fructos Esterilidad dellos,
+    sino tambien del de la Paz, Guerras y de
+    mas accidentes que pueden sobrevenir
+    y por El mucho amor que nos tiene pre
+  </p>
+  </div>
+  <div>
+    <p>Folio 3 verso</p>
+    <p>
+    vido desde luego nuestra inconstacia in
+    gratidu y desobediencia a sus sanctos
+    preceptos, y que por Ello aviamos de in
+    currir En aborrescimiento suio, y por
+    que no tuvieramos de que nos quexar
+    de su sancta misericordia propuso
+    darnos otras señales distinctas delas
+    que las Estrellas nos dan, para algunos
+    graves accidentes que por nuestras
+    Culpas y demeritos hemos demeres
+    er que Es el Arte que El <persName ref="catalogo_nombres_personas.xml#D010">Padre Eter
+    no</persName> nos demuestra, para que acordan
+    donos dellas y temiendo El Castigo re
+    curramos a su divina misericordia
+    pues no la niega al que con corazon,
+    con rito se la Pide <!--tilde de cierre-->
+    </p>
+    <p>
+    Estas segundas señales son las <placeName ref="catalogo_nombres_lugares.xml#C014">Co
+    metas</placeName> que a diversos tiempos y quan
+    do a <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> le parece, senos demuestran
+    En estas <placeName ref="catalogo_nombres_lugares.xml#R001">Regiones del Ayre</placeName>, como Es la
+    que depresente muchos dias la hemos
+    </p>
+  </div>
+  <div>
+    <p>Folio 4 recto</p>
+    <p>
+    Visto sobre nuestro <placeName ref="catalogo_nombres_lugares.xml#H008">hemisferio</placeName> que a Na
+    sido general [ilegible por mancha] todo El <placeName ref="catalogo_nombres_lugares.xml#M007">Mundo</placeName>, y no poca
+    materia a muchos discurridos para Conge
+    turar Cassos funestos y travajossos pues siem
+    pre semejantes señales Lo Vienen deno
+    tando y ansi Los fieles Christianos deve
+    mos levantar El corazon a <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> y pedirle
+    ampare y faborezca Nuestra Sancta fe
+    Catholica de Paz y Union Entre Reyes
+    y Principes Christianos, Victoria Contra
+    Enemigos, y que los trayga y recusga[sic]
+    a Nuestra Sancta fe <!--tilde de cierre-->
+    </p>
+    <p>
+    Nueve generos de Cometas por sus nombres
+    que ni an los Maestros desta ciencia Las qua
+    les reducen a tres formas. Crinita, Barvata, y Caudata, y desta Ultima Es la pre
+    sente que Vemos, diga cada qual lo que
+    le paresciere: y de ser Esta Cometa hija del
+    Ecclipse de <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> que sucedio a <date when="1664-08-06">6 de <abbr source="catalogo_abreviaturas.xml#A009">Agto.</abbr>
+    del Año pasado de 64</date> tco[sic] ay que poner duda
+    pues fue La Constellacion precedente que la
+    pudo Causar, y los otros dos prodigios
+    </p>
+  </div>
+  <div>
+    <p>Folio 4 verso</p>
+    <p>
+    que se vieron dentro de 15 dias de <date when="1664-03-19">19 de Mar
+    zo</date>, por la mesma razon fueron causados por El Ec
+    lipse que sucedio a <date when="1664-02-11">11 de febrero</date> <abbr source="catalogo_abreviaturas.xml#A010">anteced.e</abbr>
+    aun que no se pudo Ver En Nuestro <placeName ref="catalogo_nombres_lugares.xml#H003">Horizonte</placeName>
+    por ser ya salido El <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName>: y como no ay
+    noticia cierta dela primera aparicion
+    que nos hizo Esta Cometa por decir
+    se vido a <date when="1664-10-15">15 de octubre</date>, Otros antes, y otros
+    despues, por La incertidumbre y discor
+    dancia que ay En ello Valiendome de lo que
+    algunos Maestros desta ciencia dizen En
+    razon de lo que tardan En aparescer des
+    pues del Ecclipse que la Engendro,
+    por los preceptos que ponen que lo Expe
+    rimente En la que se vido por <date when="1652-12-15"> 15 de diziembre
+    de 1652</date> digo, que segun dicha doc
+    trina halle Vendria a aparecersenos
+    a <date when="1662-10-21">21 de Octubre</date> Estando El <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName> En Los 291°
+    de <placeName ref="catalogo_nombres_lugares.xml#L009">libra</placeName> apartandose La <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> dela Conjuncion
+    de <placeName ref="catalogo_nombres_lugares.xml#M010">Mercurio</placeName>, y por ser necessario que si la Co
+    meta aparesciere En el <placeName ref="catalogo_nombres_lugares.xml#O005">Oriente</placeName> ha de distar del
+    <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName> por lo menos 30 Grados, la cometa
+   </p>
+  </div>
+  <div>
+    <p>Folio 5 recto</p>
+    <p>
+    avia de hallarse En Los 29 <abbr source="catalogo_abreviaturas.xml#G003">G.</abbr> de <placeName ref="catalogo_nombres_lugares.xml#V005">Virgo</placeName> y Siendo
+    assi El primer aparescimiento suio seria
+    a las 4<abbr source="catalogo_abreviaturas.xml#H003">H.</abbr> y un quarto de la madrugada
+    del <abbr source="catalogo_abreviaturas.xml#D003">dho</abbr> dia <date when="1664-10-21">21 de octubre</date>, que se veria muy
+    poco En este <placeName ref="catalogo_nombres_lugares.xml#H003">Horizonte</placeName> por ir la Claridad
+    del <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName> En cubriendola: y segun Esta
+    Consideracion para Conocer puntual
+    mente El Signo En que andava y su mo
+    vimiento que Consto por observacion
+    fue muy Espaciosso por muchos dias, Co
+    mo lo ha demostrado Ambas en los de su fin <!--tilde de cierre-->
+  </p>
+  <p>
+    La Primera observacion con <abbr source="catalogo_abreviaturas.xml#I002">instrum.tos</abbr>
+    muy capaces, la hize <date when="1664-12-20">Sabado 20 de <abbr source="catalogo_abreviaturas.xml#D010">diziemb.e</abbr></date>
+    alas 5<abbr source="catalogo_abreviaturas.xml#H003">H.</abbr> y un quarto de la mañana, Es
+    tando La Cometa puntualmente En la linea
+    Meridional con 45<abbr source="catalogo_abreviaturas.xml#G003">G.</abbr> Justos de Altura
+    y Estando a este tiempo El <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName> En Los 22<abbr source="catalogo_abreviaturas.xml#G003">G.</abbr>
+    50 <abbr source="catalogo_abreviaturas.xml#M002">mi.</abbr> de <placeName ref="catalogo_nombres_lugares.xml#S013">Sagitario</placeName>, salieron por Grados
+    de la decima Cassa  a los 16. y 23 <abbr source="catalogo_abreviaturas.xml#M002">mi.</abbr> de <placeName ref="catalogo_nombres_lugares.xml#V005">Virgo</placeName>
+    que Conforme a su declinacion Caio En
+    La imagen de la serpiente Con Estrellas de
+    Naturaleza de <placeName ref="catalogo_nombres_lugares.xml#S010">Saturno</placeName> y <placeName ref="catalogo_nombres_lugares.xml#V003">Venus</placeName> <!--tilde de cierre-->
+  </p>
+</div>
+<div>
+    <p>Folio 5 verso</p>
+    <p>
+    La segunda observacion que hize fue <date when="1664-12-27">sabado
+    27 del <abbr source="catalogo_abreviaturas.xml#D003">dho</abbr> mes</date> que halle La Cometa En
+    Los 4<abbr source="catalogo_abreviaturas.xml#G003">G.</abbr>45 <abbr source="catalogo_abreviaturas.xml#M002">mi.</abbr> de <placeName ref="catalogo_nombres_lugares.xml#L006">Leon</placeName>, observacion que
+    me saco de la duda que la primera me
+    avia Causado En que La Cometa dimana
+    va de Estrella del <placeName ref="catalogo_nombres_lugares.xml#F002">firmamento</placeName> porq
+    En la primera observacion como fue
+    despues de las 5<abbr source="catalogo_abreviaturas.xml#H003">H.</abbr> de la mañana y La
+    Cola y <term type="body" ref="catalogo_terminos.xml#C002">Cuerpo</term> se ocultase con la Claridad
+    [manchado] quedo una Estrella luciente, lim
+    pia y relumbrante como de 3.a magni
+    tud Entre las del <placeName ref="catalogo_nombres_lugares.xml#F002">firmamento</placeName>, segun
+    parescia; de forma que en estos 7 dias
+    demostro tener La Cometa de <abbr source="catalogo_abreviaturas.xml#M007">movim.to</abbr>
+    En longitud 38<abbr source="catalogo_abreviaturas.xml#G003">G.</abbr> 52 <abbr source="catalogo_abreviaturas.xml#M002">mi</abbr>: por retrograda
+    cion, y de latitud 14<abbr source="catalogo_abreviaturas.xml#G003">G.</abbr>15 <abbr source="catalogo_abreviaturas.xml#M002">mi.</abbr> segun su
+    <placeName ref="catalogo_nombres_lugares.xml#A018">Altura meridiana</placeName> que fue casi 60<abbr source="catalogo_abreviaturas.xml#G003">G</abbr>:
+    A <date when="1665-01-03">3 de Henero</date> bolvi a observarla,
+    y la halle Con las <placeName ref="catalogo_nombres_lugares.xml#P016">Pleyadas</placeName> En Los
+    25<abbr source="catalogo_abreviaturas.xml#G003">G</abbr> de <placeName ref="catalogo_nombres_lugares.xml#T007">Tauro</placeName>, y de <placeName ref="catalogo_nombres_lugares.xml#A018">Altura meridiana</placeName>
+    73<abbr source="catalogo_abreviaturas.xml#G003">G.</abbr>30 <abbr source="catalogo_abreviaturas.xml#M002">mi.</abbr> poco mas baja que las <placeName ref="catalogo_nombres_lugares.xml#P016">Pleyadas</placeName> <!--tilde de cierre-->
+    </p>
+  </div>
+  <div>
+  <p>Folio 6 recto</p>
+  <p>
+    finalmente La quarta observacion que hize
+    fue a lo del <abbr source="catalogo_abreviaturas.xml#D003">dho</abbr> mes de henero y halle la Co
+    meta En los 6<abbr source="catalogo_abreviaturas.xml#G003">G.</abbr> 52 <abbr source="catalogo_abreviaturas.xml#M002">mi</abbr> de <placeName ref="catalogo_nombres_lugares.xml#T007">Tauro</placeName>, y en 79<abbr source="catalogo_abreviaturas.xml#G003">G.</abbr>
+    15 <abbr source="catalogo_abreviaturas.xml#M002">mi.</abbr> de <placeName ref="catalogo_nombres_lugares.xml#A018">altura meridiana</placeName>: de forma que
+    segun Estos movimientos halle que Esta
+    Cometa anduvo cada dia En los que la
+    observe 6<abbr source="catalogo_abreviaturas.xml#G003">G.</abbr> de movimiento natural de
+    <placeName ref="catalogo_nombres_lugares.xml#O005">oriente</placeName> En <placeName ref="catalogo_nombres_lugares.xml#P015">poniente</placeName> que Es retrogrado,
+    y de <placeName ref="catalogo_nombres_lugares.xml#S011">Sur</placeName> a <placeName ref="catalogo_nombres_lugares.xml#N004">Norte</placeName> cassi 2<abbr source="catalogo_abreviaturas.xml#G003">G.</abbr> Cossa tan po
+    cas Vezes vista que se puede Contar Entre
+    Las mas prodigiossas que Se han Visto
+    muchos años ha, pues de una que se Vido
+    a <date when="1472-01-13">13 de henero de 1472</date> años en el Signo
+    de <placeName ref="catalogo_nombres_lugares.xml#L009">libra</placeName> Con Estrellas dela <placeName ref="catalogo_nombres_lugares.xml#V005">Constellacion
+    de la Virgen</placeName>, aunque En su principio fue
+    de muy trado movimiento, Enllegando
+    que llego a la <placeName ref="catalogo_nombres_lugares.xml#E007">Spica virginis</placeName><!--latinismo que refiere a la estrella Espiga--> de naturaleza
+    de <placeName ref="catalogo_nombres_lugares.xml#V003">Venus</placeName> y <placeName ref="catalogo_nombres_lugares.xml#M010">Mercurio</placeName> se comenzo a ines
+    tar tanto en su movimiento que En Un
+    dia natural anduvo de movimiento
+    Retrogrado 40 Grados del <placeName ref="catalogo_nombres_lugares.xml#Z004">Zodiaco</placeName> y de
+    <placeName ref="catalogo_nombres_lugares.xml#A018">altura meridiana</placeName> 77. de que fue
+  </p>
+</div>
+<div>
+  <p>Folio 6 verso</p>
+  <p>
+    Tenida por muy prodigiossa y Calamitossa porq
+    su movimiento retrogrado no denotaba a menos
+    La qual fue Caminando Con aquella Veloci
+    dad hasta <placeName ref="catalogo_nombres_lugares.xml#A019">Aries</placeName> Signo opouesto a su gene
+    racion, observandose que assi alos pri
+    meros dias de su aparicion Como alos Ul
+    timos en que fenecio se movia muy
+    poco, Como desta quede presente vemos
+    y ansimesmo la Cauda de aquella prodi
+    giossa fue teniendo los mesmos movi
+    mientos todo el <placeName ref="catalogo_nombres_lugares.xml#O04">orbe</placeName> que Esta ha
+    tenido. Las quales Conforme opinion
+    de Grandes autores se pueden tener[testado] temer que
+    fueron mas[testado] casi tan celestes que[testado] como Elementares.
+    por lo qual y por la Estrella que Siempre
+    tuvo esta de presente En su <term type="body" ref="catalogo_terminos.xml#C001">Cabeza</term> <cit type="textual" source="catalogo_nombres_libros.xml#D001"><bibl><author><persName ref="catalogo_nombres_personas.xml#B008">El
+    Venerable Beda</persName></author> En su <title><abbr source="catalogo_abreviaturas.xml#L001">Lib.</abbr> de nat.rez</title>:<!--obra: 'De Natura Rerum' que originalmente acompañaba a la obra 'De Temporibus'--> dize <!--ABRE CITA EN LATIN-->
+      </bibl>
+      <quote>
+        <foreign xml:lang="Lat">
+    <emph>Cometa sunt Stella flammis Crinita re
+    pente nascentes, regnorum mutatio
+    nes, aut pesti sentiam, aut Gella, aut
+    ventos, altus ve portendentes:</emph>
+        </foreign>
+      </quote>
+    </cit>
+    y <persName ref="catalogo_nombres_personas.xml#H008">Hyparco</persName> decia que solia El cielo darnos
+  </p>
+</div>
+<div>
+  <p>Folio 7 recto</p>
+  <p>
+    Nuevas Estrellas y Vemos nos las da En las
+    Cometas que se aparescen Consumiendose
+    Como se Consume El <term type="body" ref="catalogo_terminos.xml#C002">Cuerpo</term> En que se aparece
+    y atengo dicho que la primera observacion
+    que hize a <date when="1664-12-20">20 de diziembre</date> halle la <term type="body" ref="catalogo_terminos.xml#C001">Cabeza</term>
+    Desta Cometa En los 16<abbr source="catalogo_abreviaturas.xml#G003">G.</abbr> 23 <abbr source="catalogo_abreviaturas.xml#M002">mi.</abbr> del Signo de
+    <placeName ref="catalogo_nombres_lugares.xml#V005">Virgo</placeName>, que segun me demostro En la Se
+    gunda observacion su movimiento
+    fue retrogrado, y Como muchos dias an
+    tes de la primera observacion anduvo
+    En platica de algunos que Entienden
+    algo desta ciencia que Salia por El <abbr source="catalogo_abreviaturas.xml#H002">horiz.e</abbr>
+    En el Signo de <placeName ref="catalogo_nombres_lugares.xml#V005">Virgo</placeName>, segun preceptos de
+    esta ciencia supuesto que la Cometa q
+    Causo El Eclipse de <placeName ref="catalogo_nombres_lugares.xml#L004">luna</placeName> de <date when="1665-08-06">6 de Agosto</date> <!--Checar fecha -->
+    antecedente En que fue <placeName ref="catalogo_nombres_lugares.xml#S010">Saturno</placeName> Señor
+    del se avia de Excitar En <placeName ref="catalogo_nombres_lugares.xml#L009">libra</placeName> don
+    de tiene su Exaltacion y Triplicidad
+    que seria segun mi parescer En la Se
+    gunda faz del <abbr source="catalogo_abreviaturas.xml#D003">dho</abbr> signo, donde se ha
+    llo <placeName ref="catalogo_nombres_lugares .xml#M011">Marte</placeName> al tiempo del Ecclipse y Cae
+  </p>
+</div>
+<div>
+  <p>Folio 7 verso</p>
+  <p>
+    Una Estrella fixa que Es la ultima de las tres q
+    la <placeName ref="catalogo_nombres_lugares.xml#V005">Virgen</placeName> tiene En el Ala siniestra de Na
+    turaleza de <placeName ref="catalogo_nombres_lugares.xml#M010">Mercurio</placeName> y poco de <placeName ref="catalogo_nombres_lugares.xml#M011">Marte</placeName> que
+    La desplegaria sus Alas ala Cometa y la ha
+    ria bolar con ligereza luego que El <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName> lle
+    gara a los <abbr source="catalogo_abreviaturas.xml#D011">dhos</abbr> 13<abbr source="catalogo_abreviaturas.xml#G003">G.</abbr> 37 <abbr source="catalogo_abreviaturas.xml#M002">mi.</abbr> de <placeName ref="catalogo_nombres_lugares.xml#L009">libra</placeName>, que seria
+    por de <date when="1664-10-06">6 de octubre</date> y aun que la Encende <!-- checar fecha-->
+    ria no pudo ser Vista hasta que se des
+    viara del <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName> Los 30<abbr source="catalogo_abreviaturas.xml#G003">G.</abbr> Como tengo <abbr source="catalogo_abreviaturas.xml#D003">dho.</abbr>
+    que segun Su movimiento <abbr source="catalogo_abreviaturas.xml#R003">retrog.o</abbr>
+    los pudo andar en cinco dias y passa
+    dos demostrarse de once a doze de
+    Octubre, no obstante que se veria muy
+    poco por irla El <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName> siguiendo Con el
+    movimiento rapto, y Con su Claridad En
+    cubrirla  a nuestra vista: y estas Son las
+    Consideraciones que han sido menester
+    quando la Verdad del primer dia desu
+    apparescimiento no se ha podido verificar <!--tilde de cierre-->
+  </p>
+  <p>
+    Cossa Es muy Conoscida En el mundo, que
+    Las Cometas y de mas prodigios que nos
+    apparescen son +[como] señales y Avissos
+  </p>
+</div>
+<div>
+  <p>Folio 8 recto</p>
+  <p>
+    que <abbr source="catalogo_abreviaturas.xml#A011">+[alg.as</abbr> beces] nos imbia <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> de Algunos accidentes
+    que han de sobrevenir En Este <placeName ref="catalogo_nombres_lugares.xml#M007">Mundo</placeName> terrestre
+    Como al principio deste Discurso dixe y que
+    para Ello segun ordeno la Divina Sabiduria
+    tuviese +[por contemplar] hombres inteligentes En esta ciencia
+    que los declarasen  por el bien que dello segun
+    dia resulta[manchado] aunque Es tan dificultossa
+    que dizen los mas Doctos que desta ma
+    teria han Escripto, <foreign xml:lang="Lat">Stella Crinita inter
+    onmia difficilem habent contemplano
+    nem</foreign> y lo he experimentado tanto En
+    Este portento tan Exquisito que me ha
+    dado mucho Cuidado y Estudio un mes ha
+    y el que Escriviere sin los <abbr source="catalogo_abreviaturas.xml#F001">fundam.tos</abbr>y observaciones que se requieren todo
+    sera hablar sin ciencia ni fundamento <!--tilde de cierrre-->
+  </p>
+  <p>
+    El dicho Ecclipse que Causo Esta <placeName ref="catalogo_nombres_lugares.xml#C014">Come
+    ta</placeName> fue señor del <placeName ref="catalogo_nombres_lugares.xml#S010">Saturno</placeName>, que se hallo en
+    los 21<abbr source="catalogo_abreviaturas.xml#G003">G.</abbr> 53 <abbr source="catalogo_abreviaturas.xml#M002">mi.</abbr> de <placeName ref="catalogo_nombres_lugares.xml#S013">Sagitario</placeName> con <abbr source="catalogo_abreviaturas.xml#M007">movim.to</abbr>
+    Retrogrado, occidental y septentrional
+    y asimesmo lo Estuvo quando Esta <abbr source="catalogo_abreviaturas.xml#C007">Com.a</abbr>
+    tuvo su Generacion En el Signo de <placeName ref="catalogo_nombres_lugares.xml#L009">libra</placeName>
+  </p>
+</div>
+<div>
+  <p>Folio 8 verso</p>
+  <p>
+    que Juzgo fue En el Segundo decano del don
+    de se le atribuien las mas de sus dignida
+    des particularmente por la Exaltacion
+    que por ambas Causas fue señor del Ecclipse
+    y <placeName ref="catalogo_nombres_lugares.xml#M010">Mercurio</placeName> su participante, que por los que
+    por su parte significa Como padre desta
+    Cometa En todo El <placeName ref="catalogo_nombres_lugares.xml#O002">Orbe</placeName> que se ha visto son
+    Grandes frios y Eladas, muerte de Animales
+    Domesticos, Enfermedades melancolicas
+    quartanas, Gota, sarna, lepra, bubas,
+    Cancros, hydroplegias, Pasmos, sorderas,
+    Extrangurrias, Dolores de muchas[sic] de
+    <term type="body" ref="catalogo_terminos.xml#C001">cabeza</term>, de <term type="body" ref="catalogo_terminos.xml#E002">Estomago</term>, de hyjada, Almo
+    rranas, tyfica<!--tifus-->, Perlegia, tyricia nigra<!--tiña-->,
+    catharros, y otras destemplanzas del Ayre
+    que Causen muertes repentinas princi
+    palmente En personas delicadas y
+    que se traten con demasiado regalo <!--tilde de cierre-->
+  </p>
+  <p>
+    Ansimesmo por la Elevacion que tuvo
+    <placeName ref="catalogo_nombres_lugares.xml#S010">Saturno</placeName> En estos tiempos Del Ecclipse
+    y Cometa sobre <placeName ref="catalogo_nombres_lugares.xml#J002">Jupiter</placeName>, Significa En
+    general En muchas y diversas partes
+  </p>
+</div>
+<div>
+  <p>Folio 9 recto</p>
+  <p>
+    del <placeName ref="catalogo_nombres_lugares.xml#O002">Orbe</placeName>, y aun puedo dezir En todo El Gran
+    desinfortunios de Pestes, Terremotos, Ca
+    ristias, Guerras, y Particularmente En
+    <placeName ref="catalogo_nombres_lugares.xml#T009">Turquia</placeName>, <placeName ref="catalogo_nombres_lugares.xml#B001">Babilonia</placeName>, y demas sus confines
+    Donde Amenazaron muchos los Ecclipses
+    del Año de 64. y los que sucederan en este
+    presente de 65 fuera de lo que les aura a
+    temorizado Este Cometa como se lo pronos
+    tique, Causa indicativa de muerte de sus
+    Reyes y Potentados, con rumores muy
+    terribles en razon de mudanzas Segun[testado]
+    Leyes y Costumbres[testado] <foreign xml:lang="Lat">morebuntur maona
+    guerra super Reges orientis, et malia
+    angustia Super eos</foreign>
+  </p>
+  <p>
+    y porque Esta Cometa como dicho tengo fue
+    su primer movimiento En el Signo de <placeName ref="catalogo_nombres_lugares.xml#V005">Virgo</placeName>
+    entre las Estrellas que tiene la <placeName ref="catalogo_nombres_lugares.xml#V005">Constella
+    cion de la Virgen</placeName> En la Ala Siniestra que caen
+    desde los 21<abbr source="catalogo_abreviaturas.xml#G003">G.</abbr>27<abbr source="catalogo_abreviaturas.xml#M002">mi.</abbr> de <placeName ref="catalogo_nombres_lugares.xml#V005">Virgo</placeName> hasta los 13<abbr source="catalogo_abreviaturas.xml#G003">G.</abbr>
+    27<abbr source="catalogo_abreviaturas.xml#M002">mi.</abbr> de <placeName ref="catalogo_nombres_lugares.xml#L009">libra</placeName> que son de Naturaleza de
+    <placeName ref="catalogo_nombres_lugares.xml#M010">Mercurio</placeName> y algo de <placeName ref="catalogo_nombres_lugares.xml#M011">Marte</placeName>, no se puede dexar
+    de dezir algunas de sus influencias, que
+  </p>
+</div>
+<div>
+  <p>Folio 9 verso</p>
+  <p>
+    muy bien lo demostro En ser la <term type="body" ref="catalogo_terminos.xml#C001">cabeza</term> pequeña
+    Su cola larga y algo Esparcida, y colorce
+    ruleo[sic] y otras Varias Colores aplomadas
+    que los Maestros desta ciencia la nombran
+    <foreign xml:lang="Lat">Dominus ascana</foreign>: que de mas de significar
+    por la Naturaleza de <placeName ref="catalogo_nombres_lugares.xml#M010">Mercurio</placeName> enferme
+    dades freneticas, Epilepsia, En Mugeres
+    les denota sufocaciones de <term type="body" ref="catalogo_terminos.xml#M006">Madre</term>, Do
+    lores de <term type="body" ref="catalogo_terminos.xml#E002">Estomago</term>, y algunos partos a
+    riesgos: ansimesmo Esterilidad de fruc
+    tos, imperiossos Vientos, Grandes Terre
+    motos, daño En Mercaderes, Guerras,
+    desasosiegos, y Calamidades En todos
+    Estados, con Muerte de algunos Reyes de
+    los Reynos y Provinicas que Caieren En
+    el Dominio del dicho Signo de <placeName ref="catalogo_nombres_lugares.xml#V005">Virgo</placeName>, como
+    son <placeName ref="catalogo_nombres_lugares.xml#M017">Mesopotania</placeName>, <placeName ref="catalogo_nombres_lugares.xml#B001">Babilonia</placeName>, <placeName ref="catalogo_nombres_lugares.xml#G004">Grecia</placeName>, y otras
+    partes del <placeName ref="catalogo_nombres_lugares.xml#O005">Oriente</placeName>: y no solamente com
+    prehendera esta Cometa Reynos y Pro
+    vincias dichas, sino otras muchas mas
+    de todo el <placeName ref="catalogo_nombres_lugares.xml#O002">Orbe</placeName> pues ha pasado con su
+  </p>
+</div>
+<div>
+  <p>Folio 10 recto</p>
+  <p>
+    movimiento retrogrado la mitad del <placeName ref="catalogo_nombres_lugares.xml#Z004">zodiaco</placeName>
+    hasta el signo opuesto a su generacion En
+    que Va fallesciendo que Es <placeName ref="catalogo_nombres_lugares.xml#A019">Aries</placeName> que Juzgo
+    segun su Corto movimiento y flaqueza de
+    su <term type="body" ref="catalogo_terminos.xml#C002">cuerpo</term> que acabara de a todo de 24 a
+    25 deste mes de Henero, <cit type="textual" source="catalogo_nombres_libros.xml#M001"> <bibl><author><persName ref="catalogo_nombres_personas.xml#A011">Alberto Magno</persName></author>
+    dize, </bibl>
+    <quote>
+      <foreign xml:lang="Lat">
+    Constituventar muctohes Cometa
+    signa quidem significantia mortes regum:
+    quinon sunterhis astris que a principio
+    mundi creata sunt, set divina provinden
+    tia secundum istud tempus destinada, et
+    mox disolvena:
+    </foreign>
+  </quote>
+</cit>
+  </p>
+  <p>
+    En Todos Estos Signos En que ha hecho su
+    derota ha Visitado, ya con su <term type="body" ref="catalogo_terminos.xml#C001">cabeza</term>, y ya
+    con su Cola las mas notables imagines del
+    <placeName ref="catalogo_nombres_lugares.xml#F002">firmamento</placeName> que ay para denotar mu
+    chas Calamidades, Alteraciones de arma
+    das navales, Guerras, muerte de Reyes
+    y Potentados +[con perdida de sus Reynos] y
+    Ciudades les incumbe tener aqui en fue
+    ren Conquistados pues Ellos seran los
+    que padezcan segun se infiere por El
+  </p>
+</div>
+<div>
+  <p>Folio 10 verso</p>
+  <p>
+    movimiento retrogrado que ha tenido El Co
+    meta: No porque Estos accidentes sean
+    malos y travajossos para todo el Mundo,
+    ni para todos los Reyes, que lo que Viera por
+    advero para Unos, tal vez se Convierte
+    En utilidad para otros, y aun redundar
+    En muy Gran bien para los conquista
+    dos, como se puede Esperar de la omni
+    potencia de <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> En las provincias del
+    <placeName ref="catalogo_nombres_lugares.xml#O005">Oriente</placeName> que tanto lo manifesto[testado] +[yndico] La Conjun
+    cion maxima de <date when="1663-10-22">22 de Octubre de 63</date> <!--tilde de cierre-->
+  </p>
+  <p>
+    De los Principales puntos que se observan, y
+    Consideran En las Cometas Es Uno En que
+    Reyno y Ciudad se haze vertical, porque
+    alli se sentiran mas Eficazmente Sus
+    accidentes: Esta Cometa fue Ganando
+    altura de  Un Tropico al otro hasta
+    hacersenos Vertical pasando por nues
+    tras <term type="body" ref="catalogo_terminos.xml#C001">cabezas</term>, y lo ha Estado cassi un mes
+    hasta que fenescio en el Año mismo
+    de la Vallena que todas las mas de sus
+    Estrellas son de Naturaleza de <placeName ref="catalogo_nombres_lugares.xml#S010">Saturno</placeName>
+  </p>
+</div>
+<div>
+  <p>Folio 11 recto</p>
+  <p>
+    infortuna mayor, aunque ay Causas En que se de
+    muestran muy Grandes accidentes En esta <placeName ref="catalogo_nombres_lugares.xml#C015"> <abbr source="catalogo_abreviaturas.xml#C008">ciu.d</abbr>
+    de Mexico</placeName> y En todo su horizonte, Como En
+    El Discurso de la Rebolucion deste Año de 65
+    tengo apuntado, aunque no con tanta par
+    ticularidad Como Se podia decir, Consideran
+    do que Esta Cometa, Como tengo <abbr source="catalogo_abreviaturas.xml#D003">dho</abbr>, se En
+    gendro en Libre Exaltacion de <placeName ref="catalogo_nombres_lugares.xml#S010">Saturno</placeName>
+    Señor del Ecclipse que la denoto y que
+    Este Signo fue decima cossa En este Meridia
+    no de <placeName ref="catalogo_nombres_lugares.xml#M001">Mexico</placeName> al tiempo de su Conquista
+    y que lo ha sido al tiempo de otros par
+    ticulares accidentes, siendo <placeName ref="catalogo_nombres_lugares.xml#S010">Saturno</placeName>
+    señor particular de su ascendente
+    Conformando las Causas Superiores Con
+    las inferiores, y que Vulgarmente Entre
+    algunos se platican, El <abbr source="catalogo_abreviaturas.xml#D012">Dor.</abbr> <persName ref="catalogo_nombres_personas.xml#F013"> Fran. Fernan
+    dez Raxo</persName> En su libro de Cometas<!--De cometis et prodigiosis eorum portentis-->  tratando
+    de la que comenzare a aparescer En
+    El <placeName ref="catalogo_nombres_lugares.xml#V005">Signo de Virgo</placeName>, y en El Asterismo<!--conjunto de estrellas, que a diferencia de una constelación, no comprenden un límite determinado y no se reconocen como una área del firmamento. En consecuencia no es un lugar-->
+    de <placeName ref="catalogo_nombres_lugares.xml#L009">libra</placeName> como en esta ha sucedido, paresce
+    que el <abbr source="catalogo_abreviaturas.xml#D003">dho</abbr> Auctor habla <abbr source="catalogo_abreviaturas.xml#P011">particularm.te</abbr>
+  </p>
+</div>
+<div>
+  <p>Folio 11 verso</p>
+  <p>
+    Con Este Reyno y ciudad pues dize, <cit type="textual" source="catalogo_nombres_libros.xml#D002">
+     <bibl>
+      <author>
+        <persName ref="catalogo_nombres_personas.xml#F013">Francisco Fernandez Rajo y Gomez</persName>
+      </author>
+      <title>
+        <foreign xml:lang="Lat">
+    De cometis et prodigiosis eorum portentis
+        </foreign>
+      </title>
+      </bibl>
+      <quote>
+   <foreign xml:lang="Lat">qui guberna
+    tioni presunt, capiant statim Vulpes parvas:
+    quia exigua excintista ingens accenditur
+    ignis: presertim qui india gubernationi
+    presunt:
+  </foreign>
+      </quote>
+   </cit>
+    que aunque ay muchas regiones
+    con nombre de indias, esta no esta muy
+    segura de dicha advertencia, y de algu
+    nos graves y repentinos accidentes por
+    Gente prava y de mala Naturaleza como
+    lo demuestra la de <placeName ref="catalogo_nombres_lugares.xml#S010">Saturno</placeName>, Zorras[sic] daño
+    por de que esta todo este Reyno lleno,
+    fin que aya trampas, lazos ni artificios pa
+    cogerlas, y si a Esto no atienden los Go
+    vernadores y alcaldes mayores cada Uno
+    En su districto podremos Estar mas segu
+    ros del Volcan que nos esta tanto tiempo
+    ha amenazando Con humo y llamas, que
+    no de las zorras que dize el relexido Auctor
+    que En ello haran mucho servicio a <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName>,
+    al Rey nuestro señor. En conservar Esta
+    Republica y administraran la Justicia
+    que deven
+    muchos ay en esta ciudad y aura en otras,
+  </p>
+</div>
+<div>
+  <p>Folio 12 recto</p>
+  <p>
+    tan temerossos de la Justa ira de <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> que oculta
+    mente y en sus rincones le Esten rogando
+    No execute En nosotros Su Justo Castigo,
+    y tambien aura otros muchos mas tan
+    olvidados y obstinados En sus malos
+    Vicios y Costumbres que no ay ora hecho
+    casso de la Cometa ni de los que puede resul
+    tar En nuestro Daño pues avran dicho mu
+    chos se holgavan de verla deviendo
+    Como Christianos y temiendo el Castigo
+    de <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> salir por essas Calles de la ciudad
+    en abito de penitencia diziendo Con
+    jeremias <foreign xml:lang="Lat">Quis dabit capitimes aquam,
+    et occulis meis fontem lacrimarun
+    et plorebo die acnoste</foreign>: pues como
+    dixe En mi discurso deste Año de 65.
+    aunque Estas Señales nos denotaran
+    maiores travajos y Calamidades no avia
+    que temer que <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> Como Padre piadosso
+    Con su Sancta misericordia obrara
+    Con esta <placeName ref="catalogo_nombres_lugares.xml#C015">ciudad de <abbr source="catalogo_abreviaturas.xml#M004">Mex.co</abbr></placeName> lo que obro
+  </p>
+</div>
+<div>
+  <p>Folio 12 verso</p>
+  <p>
+  con la de <placeName ref="catalogo_nombres_lugares.xml#N005">Ninive</placeName>, y podriamos tener por cier
+  to que en flacamente obraran Estas señales
+  En sus amenazas si mejorando En las ma
+  las Costumbres con hazer penitencia de lo
+  passado propusieramos la Enmienda
+  para En lo de adelante, pues los malos
+  y obstinados en su mal Vivir, y por El
+  Consiguiente El trastive[sic] que de lo malo
+  En bien para los buenos que son hijos
+  de <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> por Gracia. <foreign xml:lang="Lat">Nam portenta hie iusmodi scalerum nostrorum plerum q sunt flagella: que et si sevum nescio qui minitantur: possunt nihi lominus planctu; ieijuniis; et supplicantione mi tigeari</foreign> <!--tilde de cierre-->
+ </p>
+ <p>
+  Opiniones de Maestros doctos En esta ciencia que no se pueden Engendran En Un Año
+  mas de cinco Cometas, y quando dos,
+  tres o mas fueren Vistos denotan Gran
+  des y diversos accidentes. Ello se dexa Entender assi, porque si Uno Significa
+</p>
+</div>
+<div>
+  <p>Folio 13 recto</p>
+  <p>
+    algun Grave Casso En La parte Constituida por
+    el Cometa, que denotaran cinco como se
+    han Visto En menos de tres meses?
+    Ya tengo dicho como desde El mes de <date when="1664-03">Marzo
+    de 64</date> hasta henero siguiente se Vido a
+    quel prodigio En La <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName>, y poco despues
+    El Globo como <term type="body" ref="catalogo_terminos.xml#C001">cabeza</term> destroncado del
+    <term ref="catalogo_terminos.xml#C002">Cuerpo</term> de algun Cometa, prodigios que de
+    notan algunos Cassos funebres particu
+    lares que tocan a este <placeName ref="catalogo_nombres_lugares.xml#M013">meridiano</placeName>, por suce
+    der que la <placeName ref="catalogo_nombres_lugares.xml#L004">luna</placeName> se hallo Con aquella mas
+    caza de Color de tristeza, y entre los dos
+    signos dominantes En este Reyno y
+    Ciudad, <placeName ref="catalogo_nombres_lugares.xml#E006">Escorpion</placeName> que fue El Radical
+    y <placeName ref="catalogo_nombres_lugares.xml#C008">Capricornio</placeName> El accidental hallandose
+    Ella En termino del violento <placeName ref="catalogo_nombres_lugares.xml#M011">Marte</placeName>
+    aunque presagio que denoto suceder En
+    Esta ciudad no me passa por la Considera
+    cion decir tal, porque no digan algunos
+    imputandome de tal Vaticinio, lo que
+    Con los ojos veo con el dedo lo señalo, Juz
+    gando que pues Este Prodigio tan particu
+    lar y pocas Veces Visto duro dos dias, pudo
+  </p>
+</div>
+<div>
+  <p>Folio 13 verso</p>
+  <p>
+    Verse En todo El <placeName ref="catalogo_nombres_lugares.xml#M008">Mundo</placeName>, y particularmente
+    En la <placeName ref="catalogo_nombres_lugares.xml#A006">Africa</placeName> por ciertas Consideraciones
+    racionales que Es donde mas me lasti
+    ma El zapato Subiendome El <abbr source="catalogo_abreviaturas.xml#S008">sentim.to</abbr>
+    <foreign xml:lang="Lat">A planta pedis usque ad verticem</foreign>: y dese
+    ando El buen sucesso del proposito
+    que hizieron Dos años ha los poten
+    tados de <placeName ref="catalogo_nombres_lugares.xml#H009">Ungria</placeName> y <placeName ref="catalogo_nombres_lugares.xml#A016">alemania</placeName> de hazer
+    Guerra al Turco hasta Echarle de <placeName ref="catalogo_nombres_lugares.xml#C010">Constan
+    tinopla</placeName>, digo que demas de algunas pro
+    nostificaciones que yo tengo hechas En
+    razon de su Cayda hasta que Este Pro
+    digio que no pudo dexar deverse alla
+    por las Causas dichas de aver durado
+    Dos dias le Causaria Gran tristeza +[y
+    certidumbre de su total fin y de su
+    imperio] que pues la <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> Es la in
+    signia de sus Vanderas y Corona impe
+    rial y Verle El y los suyos con aquella
+    Señal tan triste +[que amenazaba Su
+    muerte Es casso que sin Exceso se le
+    puede pronosticar], y que ha de ser<persName ref="catalogo_nombres_personas.xml#D010">Dios</persName>
+    </p>
+</div>
+<div>
+  <p>Folio 14 recto</p>
+  <p>
+  Servido tengamos presto algunas buenas nuevas
+  deste Casso +[su tristeza] tan por los suyos deseado que aun
+  que dize <cit type="parafrasis" source="catalogo_nombres_libros.xml#N001"><bibl><author><persName ref="catalogo_nombres_personas.xml#A035">El Philosofo</persName></author></bibl>
+    <quote>
+      <foreign xml:lang="Lat">
+  amor: aut odium faciunt
+  re judicatum vere proveriat.
+  </foreign>
+  </quote>
+</cit>
+  yo he hablado
+  segun ciencia[testado] +[conjeturas, <abbr source="catalogo_abreviaturas.xml#D013">dialog.os]</abbr>, y lo que mi poca Capacidad
+  En esto me ha indicado <!--tilde de cierre-->
+ </p>
+ <p>
+  Pues que Se podra dezir de la <term type="body" ref="catalogo_terminos.xml#C001">Cabeza</term> como de
+  Cometa ya referida, que aun que huvo
+  poco movimiento fue Visible y Como ana
+  deando, sino que fue [testado-El Final presagio-]
+  de lo que significo la <placeName ref="catalogo_nombres_lugares.xml$L004">Luna</placeName> <!--tilde de cierre-->
+</p>
+<p>
+  No obstante lo dicho se ha Visto En el
+  tiempo que duro la Cometa Grande otras
+  dos Cometillas que como aborsivos[sic] de la
+  principal seran Vivoreznos y aiudaran
+  a las significaciones dichas <!--tilde de cierre-->
+</p>
+  <p>
+    Ansimesmo entre los prodigios de que
+    algunos Auctores hazen menciones, Son
+    tambien los Bolcanes pues dize que
+    antes de algunos Graves accidentes se han
+    Visto humear, Echar llamas, centellar,
+    y otras immundicias de sus <term type="body" ref="catalogo_terminos.xml#V001">Vientres</term>
+    Como En este que Esta Entre <abbr source="catalogo_abreviaturas.xml#C008">Esta Ciu.d</abbr>
+  </p>
+</div>
+<div>
+  <p>Folio 14 verso</p>
+  <p>
+    y la de la <placeName ref="catalogo_nombres_lugares.xml#P018">Puebla</placeName> se ha Visto y Vemos de <abbr source="catalogo_abreviaturas.xml#P012">press.do</abbr>
+    y particularmente lo que alla sucedio
+    a <date when="1665-01-21">21 deste mes de henero</date> y los dos dias
+    siguienes procurando aplazar la ira
+    De <persName ref="catalogo_nombres_personas.xml#D010">dios</persName> con oraciones, mortificaciones
+    y penitencias. y es tanta la Contuma
+    cia del Bolcan que ha mas de seis
+    meses que Esta haziedo su oficio, lo
+    que no se ha Visto desde antes de la Con
+    quista desta tierra: que aunque Es Cossa
+    que se puede tener por natural por
+    El moneral que Es si Encierra de pie
+    dra azufre, sino tocara En prodigio, +[tal o tal vez por quererlo asi dios <abbr source="catalogo_abreviaturas.xml#N001">n.</abbr> señor]
+    los Auctores que dellos tratan no avian
+    de hazer Casso porque siempre lo pudie
+    ran Estar haziendo por no les faltar
+    mineral que Es la Causa radical dello +[aunque
+    esto no en todo tiempo no esta igualmente dispuesto] <!--tilde de cierre-->
+  </p>
+  <p>
+    Benevolo y Amigo lector, aunque te pa
+    rezca que Suficientemente he tratado
+    de la Cometa, y Signos por donde su <term type="body" ref="catalogo_terminos.xml#C001">Cabeza</term>
+    ha ido discurriendo, Con todo Esso nos fal
+    ta la Cola por desollar, que Es El indice
+  </p>
+</div>
+<div>
+  <p>Folio 15 recto</p>
+  <p>
+    que ha ido demostrando las partes del <placeName ref="catalogo_nombres_lugares.xml#M007">Mundo</placeName>
+    En que Se sentiran mas sensiblemente
+    sus significaciones, pues a no aver salido
+    del signo En que se Engendro, y Su Cauda
+    no aver mudado Rumbo del que demos
+    tro En su aparicion, no hera menester
+    tanto travajo, sino discurrir por sus signi
+    ficaciones llanamanete segun El dominio
+    del tal Signo, y parte que su indice seña
+    lava, mas como tengo dicho a hecho su
+    Viage por toda La mitad del <placeName ref="catalogo_nombres_lugares.xml#Z004">zodiaco</placeName> has
+    morir En el signo opuesto al de su genera
+    cion, y su cola como mano de Relox
+    por todo El <placeName ref="catalogo_nombres_lugares.xml#O002">Orbe</placeName> +[como] imitando a la Campana
+    de bililla quando La Conspiracion que
+    querian hazer los Moriscos que En <placeName ref="catalogo_nombres_lugares.xml#E001">España</placeName>
+    avia, que como Estavan repartidos En toda
+    Ella fue señalando la lengua de <abbr source="catalogo_abreviaturas.xml#D014">dha</abbr> Campa
+    na todo El <placeName ref="catalogo_nombres_lugares.xml#O002">Orbe</placeName>, que no lograron su
+    mal intento, porque avisados nuestros
+    supremos Reyes del Casso tan misteriosso
+  </p>
+</div>
+<div>
+  <p>Folio 15 verso</p>
+  <p>
+    luego se puso remedio pues salieron sin re
+    sistencia desterrados de los Reynos de su
+    <abbr source="catalogo_abreviaturas.xml#M008">Mag.d</abbr> novecientos mill Moriscos<!--i.e., arabes-->: y esta Cometa +[como si]
+    imitando a la Campana Se puede Considerar
+    algunas Conjuraciones de gente Contraria
+    a Nuestra nacion y Ley +[mas no asegurarlas]
+    El discurrir la <term type="body" ref="catalogo_terminos.xml#C001">Cabeza</term> del Cometa desdel signo
+    de <placeName ref="catalogo_nombres_lugares.xml#V005">Virgo</placeName> En que Cae la imagen de la Nave
+    y <abbr source="catalogo_abreviaturas.xml#P011">particularm.te</abbr> Entre las Estrellas de la
+    Carina de naturaleza de <placeName ref="catalogo_nombres_lugares.xml#S010">saturno</placeName> y <placeName ref="catalogo_nombres_lugares.xml#J002">Jupiter</placeName> E
+    ir a fenescer En el Signo de <placeName ref="catalogo_nombres_lugares.xml#A019">Aries</placeName>, y en Estrellas
+    de la boca de la Vallena donde la halle Este
+    Martes passado <date when="1665-01-21">21 de henero</date>, Es cossa Evidente
+    que toca con sus accidentes En los Reynos, y
+    Provincias que Caen En el dominio de <abbr source="catalogo_abreviaturas.xml#D011">dhos.</abbr> sig
+    nos con mas particularidad que En los
+    demas por donde hizo su Viage, Como son parte de <placeName ref="catalogo_nombres_lugares.xml#E001">España</placeName>, <placeName ref="catalogo_nombres_lugares.xml#F003">francia</placeName>, <placeName ref="catalogo_nombres_lugares.xml#I004">italia</placeName>, la <placeName ref="catalogo_nombres_lugares.xml#A016">Ger
+    mania</placeName>, <placeName ref="catalogo_nombres_lugares.xml#S016">sicilia</placeName>, <placeName ref="catalogo_nombres_lugares.xml#N006">Napoles</placeName>, <placeName ref="catalogo_nombres_lugares.xml#P019">Polonia</placeName>, fue
+    via, <placeName ref="catalogo_nombres_lugares.xml#C010">Constantinopla</placeName>, <placeName ref="catalogo_nombres_lugares.xml#A020">Arabia</placeName>, <placeName ref="catalogo_nombres_lugares.xml#C016">Chipre</placeName>, <placeName ref="catalogo_nombres_lugares.xml#E003">Exip
+    to</placeName>, <placeName ref="catalogo_nombres_lugares.xml#P020">Palestina</placeName>, <placeName ref="catalogo_nombres_lugares.xml#G004">Grecia</placeName>, <placeName ref="catalogo_nombres_lugares.xml#B001">Babilonia</placeName>, <placeName ref="catalogo_nombres_lugares.xml#P021">Per
+    sia</placeName>, <placeName ref="catalogo_nombres_lugares.xml#M018">Mar Arabico</placeName>, <placeName ref="catalogo_nombres_lugares.xml#R005">Rodes</placeName>, E islas del
+  </p>
+</div>
+<div>
+  <p>Folio 16 recto</p>
+  <p>
+    Mar occeano, no dexando de incluirse Entre
+    Estos Reynos y Provincias otros muchos
+    por razon de los quadrangulos y trian
+    gulos de <abbr source="catalogo_abreviaturas.xml#D011">dhos</abbr> Signos, En Unas partes
+    por mal y en otras por bien, porque
+    Como Esta dicho la cola Señalo las par
+    tes mas principales del <placeName ref="catalogo_nombres_lugares.xml#M007">Mundo</placeName> como son
+    <placeName ref="catalogo_nombres_lugares.xml#E002">Europa</placeName>, <placeName ref="catalogo_nombres_lugares.xml#A006">Africa</placeName> y <placeName ref="catalogo_nombres_lugares.xml#A005">Assia</placeName>, No olvidando
+    Esta Segun tengo dicho por aversenos
+    hecho Vertical hasta que fenescio,
+    y muchos dias antes, denotando par
+    ticularmente En ella muchas Enferme
+    dades Contagiossas por vientos corrup
+    tos, quiebra de mercaderes, latroci
+    nios, salteamientos, +[sospechossas
+    Caristias de bastimentos, moripu
+    dios[sic], y tratos muy ilicitos, que Es
+    la total destruicion deste Reyno <!--tilde de cierre-->
+  </p>
+  <p>
+    Estando ya para Dar fin a este discursos
+    se me ofrescieron tres Cassos muy dignos
+    de Advertirte <placeName ref="catalogo_nombres_lugares.xml#C015">Ciudad de Mexico</placeName>, que
+    prometo no son fingidos sino reales, y]
+  </p>
+</div>
+<div>
+  <p>Folio 16 verso</p>
+  <p>
+    Naturales Segun <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> los disposo En el Casso
+    presente observado por mi con toda a
+    quella sinceridad que requieren semejan
+    tes operaciones astronomicas <!--tilde de cierre-->
+  </p>
+  <p>
+    El Primero fue la Cometa tan prodigiossa
+    como tengo dicho, Considerandose Como
+    ministro de <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> para su sancta Voluntad:
+    El Segundo La <placeName ref="catalogo_nombres_lugares.xml#A021">Constellacion de la Na
+    ve</placeName> En que huvo principio y se Embarco
+    para hazer su derrota como le ordenado:
+    El Tercero la <placeName ref="catalogo_nombres_lugares.xml#C017">Constellacion de la boca de la
+    Vallena</placeName> que la trajo Como ya Esta dicho
+    fenecio en ella, y para tu satisfacion
+    los tres meses que anduvo Entre presencia
+    Considerado bien E interpretalo pues
+    no es muy dificultosso que <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> no quie
+    re del pecador mas de que se Convierta
+    dexa opoderosso[sic] las Codicias dañossas
+    que son las que no solo destruieren tu Al
+    ma sino el Reyno, pues Como dize
+    El Doctor de las Gentes la Rayz de todos
+    Los males Es la Cobdicia insaciable
+  </p>
+</div>
+<div>
+  <p>Folio 17 recto</p>
+  <p>
+    y advierte por Ultima resolucion que
+    En este portento ay Significaciones de des
+    truicion de Cajas de Thesoros, y el por quien
+    lo dexo a tu Consideracion <abbr source="catalogo_abreviaturas.xml#E008">Etca.</abbr> <foreign xml:lang="Lat">
+    Deus noster optimus Salutis humand,
+    et omnipotens auctor, nihil sine miro
+    ordine disposuit, at que digessit: Vidit
+    nanque cuncta que fecerat et erat val
+    de Bona</foreign>
+  </p>
+  <p>
+    <foreign xml:lang="Lat">Explicita fuerunt he preditiones me pridis
+    kal <date when="1663-02">february 1663</date> ad laudem D.G</foreign>
+  </p>
+  <p>
+    Gabriel Lopez
+    De bongez <!--rubricado--> <!--la firma del autor aparece en el manuscrito entre rasgueos (o tildes de seguridad) para proteger la firma de modificaciones-->
+  </p>
+</div>
+</body>
+</text>
+</TEI>

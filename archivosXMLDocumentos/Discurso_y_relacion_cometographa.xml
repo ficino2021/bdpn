@@ -1,0 +1,1222 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+	xmlns:rng="http://relaxng.org/ns/structure/1.0" 
+	xml:lang="es"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="validation/document.xsd">
+	
+<teiHeader> 
+ <fileDesc>
+  	<titleStmt>
+  		<title type="main">Discvrso, y relacion cometographia. Del repentino aborto de los Astros, que sucediò del Cometa que apareció por Diziembre de 1653</title>
+  		<title type="short"> Discvrso, y relacion cometographia </title>	
+   		<author>Gabriel López de Bonilla</author>
+ 	 </titleStmt>
+  <editionStmt>
+  	<edition n="2"> Edición digital de la obra Discvrso, y relacion cometographia. Del repentino aborto de los Astros, que sucediò del Cometa que apareció por Diziembre de 1653. </edition>
+  <respStmt>
+    <name>Julio César Gómez Camacho</name>
+   	<resp>Transcripción</resp>
+  </respStmt>
+  <respStmt>
+ 	 	<name>Ilse Anahí Martínez González</name>
+   	<resp>Marcado XML/TEI</resp>
+  </respStmt>
+  <respStmt>
+  	<name>Isabel Rocío Rentería Galicia</name>
+  	<resp>Curaduría digital</resp>
+  </respStmt>
+  </editionStmt>
+  <publicationStmt>
+		<publisher>Universidad Nacional Autónoma de México </publisher>
+		<publisher>Facultad de Filosofía y Letras</publisher>   
+	<distributor>Biblioteca Digital del Pensamiento Novohispano</distributor>
+  </publicationStmt>
+  <sourceDesc> <!--Revisar-->
+   <bibl>
+   	<author> Gabriel Lopez de Bonilla </author>
+   	<title>
+Discurso, y relación cometografia del repentino aborto de los astros, que sucedió del Cometa
+que apareció por Diciembre de 1653. </title>
+<publisher>Con Licencia, En México, Por la Viuda de Bernardo Calderón<!--Paula Benavides-->,</publisher>
+<date when="1652">1652.</date>
+   </bibl>
+  </sourceDesc>
+ </fileDesc>
+</teiHeader> <!--Cierra encabezado-->
+
+<text> <!--Inicio del texto-->
+<front> <!--Materia preliminar-->
+	
+	<titlePage><!--Título de la portada-->
+
+		<docTitle>
+			<titlePart type="main">DISCVRSO, 
+Y RELACION COMETOGRAPHIA DEL 
+repentino aborto de los Astros, que sucediò del Cometa
+que apareció por Diziembre de 1653.
+       </titlePart>
+</docTitle><!--Título de la anteportada-->
+<byline>
+	<docAuthor>Hecho por <persName ref="catalogo_nombres_personas.xml#L019">Gabriel Lopez de Bonilla</persName>, Astronomo, i Mathematico</docAuthor> 
+en esta <placeName ref="catalogo_nombres_lugares.xml#M012">Ciudad de Mexico.</placeName>
+</byline>
+<titlePart type="dedicatoria">
+	DEDICADO, 
+A DON <persName ref="catalogo_nombres_personas.xml#B004">DIEGO BARRIENTOS DE RIBERA LOMELIN</persName>,
+Alcalde ordinario por su Magestad en esta dicha
+<placeName ref="catalogo_nombres_lugares.xml#M012">Ciudad</placeName>.
+</titlePart>
+<docImprint>	
+Con LICENCIA, En <placeName ref="catalogo_nombres_lugares.xml#M001">Mexico</placeName>, Por la<persName ref="catalogo_nombres_personas.xml#B036">Biuda de Bernardo Calderon</persName>.
+</docImprint>
+
+	</titlePage>
+</front> 
+
+
+<body> <!--Cuerpo del texto-->
+
+<div> 
+	<p>Folio 1 recto s/n</p>
+<p>A
+Don <persName ref="catalogo_nombres_personas.xml#B004">Diego Barrientos de Ribera
+Lomelin</persName>, Alcalde Ordinario por
+su Magestad en esta <placeName ref="catalogo_nombres_lugares.xml#M012">Ciudad
+de Mexico</placeName>.
+</p>
+</div>
+
+<div type="epistle">
+	<p>Folio 1 verso s/n</p>
+
+<p>	DEDICATORIA </p><!--Preguntar si así se marca esta dedicatoria-->
+<p>ESTOS discursos ocasionados del Cometa trabajò
+mi desvelo, que tantos causò en las repetidas no-
+ches de su apparicion. Dudara la fuerza del afecto
+que a <abbr source="catalogo_nombres_abreviaturas.xml#V004">Vmd.</abbr> tengo, sino se los consagrara, y echara
+menos el credito con que estimo su conocida Nobleza, y genero-
+sa <term type="body" ref="catalogo_terminos.xml#S001">sangre</term>; sino se los diera por patrocinio. Y assi reconocien-
+dole por grande, le solicito por amparo.</p>
+<p>El acierto de la direccion devo a los recuerdos del Doctis-
+simo Maestro <persName ref="catalogo_nombres_personas.xml#B005">Battolome de Barrientos</persName> Cathedratico que fue 
+de las Artes liberales en la <orgName ref="catalogo_nombres_organizaciones.xml#R003">Real Universidad de Salamanca</orgName>; 
+que no tanto me acogi a su doctrina, quanto me inclinè a su
+Nombre, siguiendo a esta <!--pendiente--><placeName ref="catalogo_nombres_lugares.xml#M012">Novilissima Ciudad</placeName>, que manifestò
+sus atenciones ajustandolas a la voz publica que aclama sus
+muchos meritos de <abbr ref="catalogo_nombres_abreviaturas.xml#V004">Vmd.</abbr> ocupandole en el primero honor que
+pudo darle y eligiendole por su primero Alcalde Ordinario, con
+tan general aplauso, con que asegurè el logro deste trabajo, y
+el acierto de la obra, en aquel que fue Eco de <abbr ref="catalogo_nombres_abreviaturas.xml#V004">Vmd.</abbr> Cuya
+Vida guarde <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> felicissimos Años como dessea.</p>
+<p>
+<abbr source="catalogo_nombres_abreviaturas.xml#A007">ad.</abbr>     <abbr source="catalogo_nombres_abreviaturas.xml#Q002">Q. S. M. B.</abbr>
+</p>
+</div><!--Termina folio-->
+
+<div>
+<p>Folio 2 recto s/n</p>
+
+<p><head>Del <abbr source="catalogo_nombres_abreviaturas.xml#D002">Doct.</abbr> <abbr ref="catalogo_nombres_abreviaturas.xml#D001">D.</abbr> <persName ref="catalogo_nombres_personas.xml#L002">Juan Laporta Cortès</persName>		
+Racionero de la <orgName ref="catalogo_nombres_organizaciones.xml#I002"><abbr ref="catalogo_nombres_abreviaturas.xml#S003">S.</abbr> Iglesia</orgName> de <placeName ref="catalogo_nombres_lugares.xml#M001">Mexico</placeName>,
+y Protonotario Apostolico</head>.</p> <!--Preguntar a qué refieren los heads y si se pueden usar para otras cosas-->
+
+ <p><title type ="subtitle1">DEZIMAS</title>.</p>	
+<p>EXhala la <placeName ref="catalogo_nombres_lugares.xml#T004">tierra</placeName> errante			SIgue al <placeName ref="catalogo_nombres_lugares.xml#O008">Orion</placeName>, mudando
+vapor, y a la <!-- esfera es una alución a la tierra, ¿se marcaban alusiones?--> Esfera sube,		forma, y su ser va siguiendo,
+donde constellada Nube			porque como està influyendo
+se vee en su Region flamante:		va su rigor obstentando:
+Vapor sube, é inconstante		Apareciò al <placeName ref="catalogo_nombres_lugares.xml#M007">mundo</placeName> dando
+muda su yelo en calor,			señales de su violencia:
+porque en la region mayor		Vos Milessio<!--¿este es tales de mileto?-->, en la experiencia
+como es de luz mas perfecta,		medistis su elevacion
+lo que fue viento, es Cometa,		nuebo Atlante de <placeName ref="catalogo_nombres_lugares.xml#O008">Orion</placeName>
+lo que fue Yelo es ardor.			<persName ref="catalogo_nombres_personas.xml#H012">Hermes</persName> nuebo en vuestra ciencia.</p>
+
+		<p>Y Asi proseguid Hispano
+		<persName ref="catalogo_nombres_personas.xml#L019">Bonilla</persName>, que admiro en vos,
+		os està dictando <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName>
+		el ingenio, pluma y <term type="body" ref="catalogo_terminos.xml#M001">mano</term>:
+		No se jacte el Lusitano,
+		<persName ref="catalogo_nombres_personas.xml#S036">Soliman</persName> llore su muerte,
+		bien <placeName ref="catalogo_nombres_lugares.xml#O008">Orion</placeName> nos lo advierte
+		mirado su propio ser;
+		Triunphe <placeName ref="catalogo_nombres_lugares.xml#M001">España</placeName>, y su poder,
+		teman rebeldes su suerte.</p>
+<p>Del</p>
+</div>
+
+
+<div>
+<p>Folio 2 verso s/n</p> <!--¿Estas son citas textuales? Su folio no está en la versión digitalizada que me pasó Ernesto-->
+
+<p><head>Del <abbr ref="catalogo_nombres_abreviaturas.xml#L002">Lic.</abbr> <abbr ref="catalogo_nombres_abreviaturas.xml#D001">D.</abbr> <persName ref="catalogo_nombres_personas.xml#V006">Joseph de Vega, y Vic</persName>,
+Abogado de la <orgName ref="catalogo_nombres_organizaciones.xml#R002">Real Audiencia
+desta <placeName ref="catalogo_nombres_lugares.xml#N001">Nueva España.</placeName></orgName></head>
+</p>
+
+<p><subtitle>OCTAVAS</subtitle>.</p>
+
+<p>EN el opaco <term type="body" ref="catalogo_terminos.xml#C002">cuerpo</term> de la <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName>,
+Los Sabios otro <placeName ref="catalogo_nombres_lugares.xml#M007">mundo</placeName> imaginaron,
+Y entre celestes Poblaciones vna
+Ciudad, que <placeName ref="catalogo_nombres_lugares.xml#S014">Selenopolis</placeName> llamaron.
+<persName ref="catalogo_nombres_personas.xml#P019">Ptolomeo</persName> Español, sin duda alguna,
+Tus discursos allà te sublimaron,
+A que vieses de cerca, y tan patente,
+Del Caudato Cometa el gyro ardiente.
+</p>
+<p>Viendo tu rara erudicion, me obligo,
+A quitarte la gloria â que te expones,
+Pues hablas con certeza de testigo
+De vista, no con fee de observaciones.
+Sin ofenderte, mi opinion prosigo,
+Que estando superior a essas Regiones,
+Si desde <placeName ref="catalogo_nombres_lugares.xml#S014">Selenopolis</placeName> las viste,
+En <placeName ref="catalogo_nombres_lugares.xml#M001">Mexico</placeName> despues las descriviste.
+Del
+</p>
+</div><!--Termina folio-->
+
+<div>
+<p>Folio 3 recto s/n</p>
+<p><head>Del Bachiller <persName ref="catalogo_nombres_personas.xml#G013">Juan de Guevara</persName>,
+Presbytero</head>.</p>
+
+ <p><subtitle>SONETO</subtitle>.</p>
+<p>Esse Quaderno de Zafir luziente,
+que à conceptos de luzes desafia,
+linea, a linea su heroyca Monarchia,
+obstenta erudicion resplandeciente.
+En Cathedra de signos eloquente,
+  enseña singular Philosofia,
+  en cuya soberana Astrologia,
+  se aplaude serio, obsequio reverente.
+Pero mas perfeccion continenes Sabio,
+  quando linze de Antorchas en vn buelo,
+  celestial Cosmographo te induces,
+A tu <placeName ref="catalogo_nombres_lugares.xml#C006">cielo</placeName> dedica el Abstrolabio,
+  que si es tu luz de allà, con luz del <placeName ref="catalogo_nombres_lugares.xml#C006">cielo</placeName>,
+  puedes lucir sin riesgo a todas luces.
+Del
+</p>
+</div>
+
+<div>
+<p>Folio 3 verso s/n</p>
+<p><head>Del mismo Autor.</head></p> <!--¿estos son citas?Si-->
+	<p><subtitle>DEZIMAS</subtitle>:</p> 
+<p>SI es parto de entendimiento		Y Mas los que se acreditan,
+aqueste asumpto luzido,			y eternizan tu memoria,
+Vaticino esclarecido			quando por grados de gloria
+tendrà por su nacimiento:		tu heroyca fama repitan:
+de ti, como en firmamento		Supuesto que no limitan
+lograrà pronosticados			de tu ciencia luzes bellas
+Elogios bien ordenados,			las que esmaltas, quando en ellas
+pues la consequencia abona,		llego solo a ponderar.
+que llegue a ser de corona		el que llegues a estimar
+el que viene a ser de grados.		lo que te haze ver estrellas.
+		   
+ 		   Pero a tu credito sobra,
+		   y basta para renombre,
+		   llegar a dezir tu nombre,
+		   para encarecer la obra:
+		   pues claramente se cobra;
+		   de no ser obra censilla,
+		   sino grande maravilla,
+		   en quien, porque en nada tope;
+		   como quien dize de <persName ref="catalogo_nombres_personas.xml#L010">Lope</persName>,
+		   basta dezir de <persName ref="catalogo_nombres_personas.xml#L019">Bonilla</persName>.
+
+DA<!--¿Esta es una abreviatura-->
+</p>
+</div>
+
+<div>
+<p>Folio 1 recto</p> 
+<p>
+	<!--Esto parece ser un título, revisar--><cit type="textual"><quote><foreign xml:lang="Lat">Suspice coelum, et intuere, et con-
+templare aethera quod altior te sit.</foreign></quote> 
+	<bibl>Job. <abbr source="catalogo_nombres_abreviaturas.xml#C001">cap.</abbr> 35. <abbr source="catalogo_nombres_abreviaturas.xml#V004">vers.</abbr> 5.</bibl></cit>
+</p>
+
+<p><head>DA PRINCIPIO EL AUTOR A SU
+Discurso tratando de la composicion del hombre, y como
+le dotò <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> de muchas virtudes, dandole entendimien-
+to para poder con el discurrir por todo lo que se compre-
+hende, desde la <placeName ref="catalogo_nombres_lugares.xml#T004">tierra</placeName>, a los <placeName ref="catalogo_nombres_lugares.xml#C006">cielos</placeName>.</head>
+</p>
+
+ <p>COnstituyò el <persName ref="catalogo_nombres_personas.xml#D010">summo hazedor</persName> de todas
+las cosas al hombre, (obra verdadera-
+mente digna de perpetua admiracion)
+de <term type="body" ref="catalogo_terminos.xml#C002">cuerpo</term> humano, y <term type="body" ref="catalogo_terminos.xml#A004">anima</term> racional,
+criada milagrosamente y distinta de la
+materia del <term type="body" ref="catalogo_terminos.xml#C002">cuerpo</term>; y aunque con par-
+tes remotissimas a el, con natural vin-
+culo coalligadas, dotando <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> a esta
+parte humana, y material de muy gran-
+des bienes, pues en beneficio suyo crió
+todas las cosas, assi visibles,como invi-
+sibles comprehendidas en el concavo, y ambito de los <placeName ref="catalogo_nombres_lugares.xml#C006">cielos</placeName>. Esto-
+tra parte que es el <term type="body" ref="catalogo_terminos.xml#A004">anima</term> racional (aunque la fe no nos oviera con-
+cedido demas cierta noticia para su conocimiento) era muy ajusta-
+do a razon creer aver sido edificada por gracia del summo bien<!--Dios-->; con
+lo qual, ni ay mas que pedir, mas que dessear, mas bien, mas des-
+canso, ni mas pleno complemento de todo quanto se puede imagi-
+nar, pues por medio de esta perfecta composicion quiso el summo
+hazedor <!--Dios-->guiarnos assi, que es el mayor bien para el fin que hemos
+A   de
+</p>
+</div><!--Termina folio-->
+
+
+<div>
+<p>Folio 1 verso</p>
+
+<p>de pretender. Demas desto, esta admirable composicion la hizo
+con partes elementales, para que por medio dellas sintiesemos las
+passiones deste <placeName ref="catalogo_nombres_lugares.xml#M007">mundo</placeName>, y pasando assi por el deleyte como por el
+dolor, con la capacidad del libre alvedrio que infundió en el <term type="body" ref="catalogo_terminos.xml#A004">anima</term>,
+experimentasemos lo bueno, y lo malo, y que solo el <term type="body" ref="catalogo_terminos.xml#C002">cuerpo</term> como
+humano pudiese padecer, quanto le pareciese bastante para acabar
+el viage de su vida.
+</p>
+<p>Assimesmo estableció la divina Sabiduria<!--Dios-->, que por conocimien-
+to natural pudiese el hombre con el libre alvedrio, de que hizo ca-
+paz al <term type="body" ref="catalogo_terminos.xml#A004">anima</term>, huir de los daños, y males que pueden ofender al sen-
+tido, y abraçar las comodidades que le pueden ser utiles, y prove-
+chosas. Y de aqui con estas experiencias contemplar, y discurrir,
+no solo por todo lo que en las <term type="body" ref="catalogo_terminos.xml#E003">entrañas</term> de la <placeName ref="catalogo_nombres_lugares.xml#T004">tierra</placeName>, profundo del
+<placeName ref="catalogo_nombres_lugares.xml#M014">Mar</placeName>,<placeName ref="catalogo_nombres_lugares.xml#R001"> Ayre <!--Se refiere a la región del aire--></placeName>, y demas regiones se còntiene, sino tambien las que estàn
+sobre los <placeName ref="catalogo_nombres_lugares.xml#C006">Cielos</placeName>. Demas desto quiso, que todas estas cosas de que
+pudiese el hombre discurrir, y fantasear con su entendimiento, sea
+de modo que en toda la maquina universal del <placeName ref="catalogo_nombres_lugares.xml#M007">mundo</placeName> no se haga
+cosa sin causa, Estableciendo, y ordenando con cierta ley divina el
+orden que avian de guardar essos <placeName ref="catalogo_nombres_lugares.xml#O004">Orbes celestes</placeName>, en el proceder con
+sus movimientos, para que mientras que se moviessen a particula-
+res efectos de causa naturales, fuera el hombre antepuesto a los
+animales, en el conocimiento de ellas; las quales fueron nombra-
+das por los Philosofos, señales, y por ellas pudiese el hombre enten-
+der, y rastrear los cassos futuros, guardarse, y prevenirse antes de
+los efectos de su venida. Y pues permite, y tiene dispuesto, que para
+las lluvias, o tempestades venideras, y demas accidentes, nos pre-
+cedan señales exteriores <!--Esta es una paráfrasis. Pendiente catálogo de citas y el source--><cit type="parafrasis">(como <!--Virgilio. Geórgicas. Libro I"--><bibl><author><persName ref="catalogo_nombres_personas.xml#V013">Virgilio</persName></author> en el primer libro de sus
+<title>Georgicas</title></bibl> nos las declara)</cit><!--¿En dónde termina esta paráfrasis?--> se puede considerar quan explendida, y
+rica mesa el <persName ref="catalogo_nombres_personas.xml#D010">summo hazedor</persName> tiene puesta para todo genero de gen-
+tes, de todas aquellas cosas que a cada qual le conviene. Dando
+mas particular conocimiento a los professores desta ciencia, de las
+alteraciones del ayre, lluvias, tempestades, vientos, terremotos, y
+las demas que pueden sobrevenir, por el conocimiento de las estre-
+llas, conjunciones, quartos, y opposiciones del <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName>, <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName>, y demas
+<placeName ref="catalogo_nombres_lugares.xml#P023">Planetas</placeName>. A los menos entendidos, les dió señales para ello, en los
+</p>
+<p>cer-</p>
+</div><!--Termina folio-->
+
+<div>
+<p>Folio 2 recto</p>
+<p>cercos del <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName>, y <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName>, Arcos,Nubes, et <abbr source="catalogo_nombres_abreviaturas.xml#C002">c.</abbr> A los Pastores, en las ri-
+ñas furiosas del topearse los carneros mas de lo ordinario, sacudirse
+el vellon; y sonar en la noche serena mas claros los cencerros del
+ganado. A los Labradores, en el escarvar los Bueyes la tierra con
+los <term type="body" ref="catalogo_terminos.xml#P002">pies</term>, y levantar las <term type="body" ref="catalogo_terminos.xml#N003">narizes</term> al <placeName ref="catalogo_nombres_lugares.xml#C006">cielo</placeName> como oliendo al ayre, y dar
+algunos mugidos; y assismesmo en el sacudirse las <term type="body" ref="catalogo_terminos.xml#O005">orejas</term> los anima-
+les, principalmente los Asnos, a las quales ocurren los moxquitos,
+quando sienten el ayre humedo. Y no solo concediò esto a los hom-
+bres, sino que quiso tambien que las mugeres dentro de las dome-
+sticas paderes de sus casas, tuvieran señales, para conocer las veni-
+deras lluvias; en el refregarse el <term type="body" ref="catalogo_terminos.xml#R004">rostro</term> las Gallinas en las plumas
+muy a menudo, o rascarse con las <term type="body" ref="catalogo_terminos.xml#U002">uñas</term>. En el centillear la luz del
+candil, sin causa material, y en hazer uno como hongo en la parte
+superior de la mecha que arde. En el caer copos de hollin de las chi-
+meneas. Y finalemente si les picaren las pulgas mas de lo ordinario.
+Que todo esto ha sido necessario traer aqui, para algunos de aque-
+llos que se asimilan a los que se sacuden las <term type="body" ref="catalogo_terminos.xml#O005">orejas</term> cuando ha de ve-
+nir lluvia, que no se precian de mirar al <placeName ref="catalogo_nombres_lugares.xml#C006">cielo</placeName>, aviendonos hecho
+<persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> a todos de figura recta, con <term type="body" ref="catalogo_terminos.xml#006">ojos</term> en lo mas levantado del <term type="body" ref="catalogo_terminos.xml#C002">cuer-
+po</term>, para que con menos trabajo que los animales, pudiesemos mi-
+rar aquella immensa hermosura, y grandeza celeste, alabar a su cria- 
+dor, recreando nuestra <term type="body" ref="catalogo_terminos.xml#A004">anima</term> con su vista, y contemplacion; pues <cit type="textual"><bibl><author><persName ref="catalogo_nombres_personas.xml#A035">Aristoteles</persName></author></bibl> con ser gentil nos lo dize: <quote><foreign xml:lang="Lat">Recreationes <term type="body" ref="catalogo_terminos.xml#A004">animae</term> sunt, cog-
+noscere <!--Dios-->creatorem, et considerare opera caelorum, et sapientiam suam.</foreign></quote></cit>
+Para que viendo en ellos algunas señales extraordinarias, alabemos
+a <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> que nos las imbia, y consideremos por ellas algunos futu-
+ros accidentes; porque si fueren de las cosas pocas vezes vistas, se
+consideren las grandezas de sus efectos, y le supliquemos aparte el
+castigo de nosotros, y nos mire con <term type="body" ref="catalogo_terminos.xml#006">ojos</term> de piedad, emmendando
+para obligarle nuestras vidas. Y porque la presente que se nos apa-
+reciò fue Cometa de segunda magnitud, demas de otras exhalacio-
+nes encendidas, que poco despues se vieron, se irà dando la causa de
+sus generaciones, segun doctrina de <persName ref="catalogo_nombres_personas.xml#A035">Aristoteles</persName>; y que despues lo que 
+denotan, siguiendo para ello los mas aprobados Maestros de esta
+ciencia.</p>
+<p>A2   DE-
+</p>
+</div><!--Termina folio-->
+
+<div>
+<p>Folio 2 verso</p>
+
+<p>
+	<head>DECLARASE LA DISTANCIA
+que ay desta superficie de la <placeName ref="catalogo_nombres_lugares.xml#T004">tierra</placeName> al concavo
+de la <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName>, divisiones del ayre, y los Metheoros
+que en ellas se engendran</head>.
+</p>
+
+ <p>TOda la concavidad que ay desde la superficie de la <placeName ref="catalogo_nombres_lugares.xml#T004">tierra</placeName>
+hasta el concavo del cielo de la <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName>, que llaman los
+Philosofos <!--Región del ayre--><placeName ref="catalogo_nombres_lugares.xml#R001">region aèrea</placeName>, segun <persName ref="catalogo_nombres_personas.xml#M016">Francisco Maurolicio</persName>, a
+quien sigue el Padre <persName ref="catalogo_nombres_personas.xml#C018"> Christoval Clavio</persName>, ay de distancia
+de nuestras leguas Castellanas 32U774, <abbr source="catalogo_nombres_abreviaturas.xml#L003">leg.</abbr> y I. tercio y cada una
+de 6U665. varas, y 2. tercias. La qual concavidad se divide en quatro
+regiones muy desiguales. La primera, que es desde la tierra hasta
+donde se forman las Nubes<!--Esta es la región del Aire-->, cuya distancia, ni de las dos siguientes
+se puede dar determinada cantidad, por apartarse, o acercarse mas,
+o menos de la tierra haziendo sus grosicies, mayores, o menores,
+segun las causas principales, que son las alturas de <placeName ref="catalogo_nombres_lugares.xml#P011">Polo</placeName>, y calidad 
+de los cuatro tiempos del Año; y assi esta parte primera es de muy 
+varia complexion, porque aunque los vapores que de Mar, y tierra
+saca el <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName>, son frios, y humedos, y por ello lo avia de ser esta re- 
+gion; en tiempos se tiemplan con la reverberacion de sus rayos, y
+en otras no puede, por echarlos muy obliquos, o por estar la tierra
+demasiadamente fria, y humeda. La tercera, es caliente, y seca por
+la vecindad que tiene con la esfera del fuego<!--Esto refiere al Sol--> ; y assi viene a quedar
+la segunda fria, porque como los vapores huyen de la repercucion 
+que la tierra hace a los rayos del <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName>, suben estos vapores frios, y
+humedos, como huyendo a esta media region; y como de la terce-
+ra caliente, y seca se rechaça, quedanse sin subir mas arriba con-
+gregadas, retiranodose assi por baxo, como por alto de sus contrarios.
+En la qual (como dicho es, y se dirà) se forman las Nubes, y demas
+imprecisiones de su naturaleza.
+</p>
+<p>Deste globo de Mar, y tierras, con las virtudes que <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> puso en
+las estrellas, sacan, chupan, y levantan ciertos humos, y vapores
+(con mas impetu, y fortaleza que haze la piedra Iman con las lima-
+duras muy subtiles de azero) los quales immutan, y convierten
+en</p>
+</div><!--Termina folio-->
+
+<div>
+	<p>Folio 3 recto</p>
+<p>en varios mixtos de impresiones methorologicas, como son Nu-
+bes, Agua, Nieve, Granizo, Escarcha, Yelo, Rozio, Manà, Truenos,
+Rayos, fuegos bolantes y Cometas. Con tal distincion, que pene-
+trando los rayos del <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName> las <term type="body" ref="catalogo_terminos.xml#E003">entrañas</term> de la <placeName ref="catalogo_nombres_lugares.xml#T004">tierra</placeName>, la escalientan, y
+abren sus <term type="body" ref="catalogo_terminos.xml#P004">poros</term>, (que son como los de un <term type="body" ref="catalogo_terminos.xml#C002">cuerpo</term> humano) y si
+acaeciere estar humeda, exhala vapores, y si seca exhalaciones. Y si
+los vapores fueren muchos, luego como suben a la media region,
+se convierten en nubes,y agua. Y si lo fueren las exhalaciones, y las
+nubes no dieren lugar a pasar, a la suprema region<!--¿cuál es la suprema región?-->, sino que las re-
+chaçare con su frialdad, se convierten en fuegos bolantes, y si pasaren,
+en Cometas. Y porque estas Exhalaciones son de la misma calidad
+de las que causan los temblores, si los <term type="body" ref="catalogo_terminos.xml#P004">poros</term> de la <placeName ref="catalogo_nombres_lugares.xml#T004">tierra</placeName><!--Tierra como lugar-->no dieren
+lugar a que lalgan con tanta prestesa como conviene, por estar opri-
+midos por algunas aguas repentinas, que poco despues se le ayan
+seguido, aquellas Exhalaciones se enrarecen, y aumentan con los
+rayos del <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName>, y convirtiendose en viento, por la humedad que la
+tierra recibiò, procura de salir, y haze fuerça para ello, estreme-
+ciendo la tierra, y rompiendola por lo mas delgado, causa el ter-
+remoto.
+</p>
+<p>Y es cosa evidente, que si la tierra fuere material combustible, al
+tiempo que la rompe (assi como sucede en la Nube) causara Relam-
+pago, y a vezes Rayos, como cuando una Mina rebienta por ser en
+ambas cosas un mismo agente. Tambien de las <placeName ref="catalogo_nombres_lugares.xml#L008">Lagunas</placeName>, y <placeName ref="catalogo_nombres_lugares.xml#R002">Rios</placeName> sa-
+len algunos humos, por la misma virtud de los rayos del <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName>, que à
+vezes se dicen vapores, quando son de aguas limpias; y quando de
+aguas cenagosas, turbias, y terrestres, se dizen Exhalaciones mixtas.
+De todo lo cual se sacan dos conclusiones. La primera; que de
+todas las impressiones humedas, el vapor es la materia de donde se
+engendran las Nubes, Lluvia, Piedra, Nieve, Escarcha, Yelo, Rocio,
+y Maná, segun la disposicion que entonces tuviere la media <placeName ref="catalogo_nombres_lugares.xml#R001">region
+del Ayre<!--Corregí comparando con el facsimíl, el marcado original decía "region del Ayer"--></placeName>, de intensa, o remissa frialdad, cantidad poca, o mucha de
+vapores, y tiempo conveniente para la generacion de cada cosa de
+las dichas.
+</p>
+<p>La segunda conclusion, es que las otras impressiones de natura-
+leza de fuego, su materia es la Exhalacion, y es tambien causa de los
+ter-
+</p>
+</div><!--termina folio-->
+
+<div> 
+	<p>Folio 3 verso</p>
+<p>terremotos, como està dicho. Si fuere este Exhalacion acompaña-
+da con algun vapor frio, y humedo, encerrandose en la Nube, y 
+con la frialdad de la <placeName ref="catalogo_nombres_lugares.xml#M019">media region</placeName><!--Interpreto "media region" como lugar--> condensandose, es fuerza que 
+fortifique su calor, hasta que encendida buscando por donde salir,
+ande por la Nube haziendo ruydo, y como mas se le aumenta la in-
+tencion de los grados, no cabe en la bolsa en que està, y assi Rompe
+por lo mas delgado, (como se dixo del terremoto) y saliendo con
+grande impetu, causa no solo el Trueno, sino el Relampago, y con  su
+subtilidad, y partes sulfureas que tiene, se convierte en Rayo violento.
+Y si esta Exhalacion no fuera acompañada de algun vapor, sino
+mera Exhalacion, y la media <placeName ref="catalogo_nombres_lugares.xml#R001">region del Ayre</placeName> se hallare muy fria, la
+rebotará hazia abajo, y con el movimiento, y fuerça del ayre, se 
+encenderá, y causarà las apariencias de fuegos bolantes, assi como
+Globos, Dragones, Chasmas, y otras deste genero, que de noche se 
+suelen aparecer, discurriendo de una parte a otra, como se vieron
+algunas, desde la <date when="1652-12-25">Pasqua de Navidad passada</date>, hasta <date when="1653-02-02">dos de Febrero 
+deste año</date> en que estoy escriviendo esto.
+</p>
+<p>Mas si estas Exhalaciones fueren, sin que vapor alguno les acom-
+pañe, por fria que estè la media region, la traspasarán, y como son 
+de naturaleza ignea, llegan a la tercera, que es su Esfera, y suelen 
+passar de la del fuego, al concavo de la <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName>, y por su continua agi-
+tacion, y vecindad del fuego, se inflaman, y encienden, y segun la 
+disposicion, cantidad, y forma, con que la materia halituosa se aunò,
+nos demuestran varias especies de figuras inflamadas, que llamamos
+Cometas, qual fue este que de presente se vido.
+</p> 
+
+<p><head>DASE RAZON DE LAS CAUSAS
+que ubo para engendrase nuestro Cometa, parte
+del cielo en que se apareciò, y lo que de ellos dizen
+los Filosofos</head>.
+</p> 
+
+<p>EN este <date when="1652">Año passado de 1652</date>, predixe en mi <!--refTitle reg="Diario"-->DIARIO<!--Título de libro. Pendiente por marcar-->;
+(por causas muy eficaces que ubo a la entrado del <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName> en
+<placeName ref="catalogo_nombres_lugares.xml#C009">Cancer</placeName>) podrian exitarse algunas impresiones Metho-
+rolo-
+</p>
+</div><!--Termina folio-->
+
+<div>
+<p>Folio 4 recto</p>
+
+ <p>rologicas, Cometas è incendios en el ayre, con algunos terremo-
+tos, que esto sigue a lo primero, y todo a las causas celestas que para
+ello concurrieron, que los principales aspectos fueron la Conjun-
+cion reyterada de <placeName ref="catalogo_nombres_lugares.xml#M011">Marte</placeName> y <placeName ref="catalogo_nombres_lugares.xml#M010">Mercurio</placeName>, que la uitima sucediò a la en-
+trada del <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName> en el signo de <placeName ref="catalogo_nombres_lugares.xml#L006">Leon</placeName>, a quien mirava <placeName ref="catalogo_nombres_lugares.xml#J002">Jupiter</placeName> de oppo-
+sicion. Y porque la Conjuncion de los dos, fue hecha en los 18. <abbr source="catalogo_nombres_abreviaturas.xml#G001">gr.</abbr>
+53.<abbr source="catalogo_nombres_abreviaturas.xml#M005">min.</abbr> de <placeName ref="catalogo_nombres_lugares.xml#C009">Cancer</placeName>, alli depositaron estos <placeName ref="catalogo_nombres_lugares.xml#P023">Planetas</placeName>, con ayuda de
+<placeName ref="catalogo_nombres_lugares.xml#J002">Jupiter</placeName>, aquella calidad ignea hasta su tiempo, y oviera en el inte-
+rin quien la condensara con alguna tenacidad para su mas presta in-
+flamacion. A <date when="1652-09-17">17. de Septiembre</date> siguiente, sucedio Eclipse de <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName>, y a <date when="1652-10-21">21. de Octubre</date>, otro de <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName>, que aunque no se vieron en nue-
+stro <placeName ref="catalogo_nombres_lugares.xml#M013">Meridiano</placeName>, importò poco, pues el Cometa no se avia de en- 
+gendrar para solo el, sino para todo el mundo.
+</p>
+<p>Del primero eclipse, fue <placeName ref="catalogo_nombres_lugares.xml#M011">Marte</placeName> su señor; y del Segundo, <placeName ref="catalogo_nombres_lugares.xml#S010">Satur-
+no</placeName>, y <placeName ref="catalogo_nombres_lugares.xml#M010">Mercurio</placeName>, hallándose los dos mas superiores en signos igneos,
+causas tan bastantes, que solo estas bastavan a excitar Cometa; co-
+mo lo traen <persName ref="catalogo_nombres_personas.xml#P019">Ptolomeo</persName>, <persName ref="catalogo_nombres_personas.xml#L024">Leopoldo de Austria</persName> y muy Erudictamen-
+te el Maestro <persName ref="catalogo_nombres_personas.xml#B005">Bartolome de Barrientos</persName>,en su <!--refTitle-->tratado de Cometas<!--Pendiente-->. 
+Y como la materia quedò impressa en los 18. <abbr source="catalogo_nombres_abreviaturas.xml#G001">gr.</abbr> y 53. <abbr source="catalogo_nombres_abreviaturas.xml#M002">mi.</abbr> de <placeName ref="catalogo_nombres_lugares.xml#C009">Cancer</placeName>, fue necessario que despues de los Eclipses, <placeName ref="catalogo_nombres_lugares.xml#M011">Marte</placeName> con su calidad
+adusta, y <placeName ref="catalogo_nombres_lugares.xml#J002">Jupiter</placeName> con su oleoginosidad, mirasen de algun aspecto 
+fuerte al lugar còtaminado, y assi sucediò, que el <date when="1652-12-16">Lunes 16. de Di-
+ziembre</date><!--Año por el contexto-->, hizieron cuadrado partil, <placeName ref="catalogo_nombres_lugares.xml#M011">Marte</placeName> desde <placeName ref="catalogo_nombres_lugares.xml#L009">Libra</placeName>, y <placeName ref="catalogo_nombres_lugares.xml#J002">Jupiter</placeName>
+en <placeName ref="catalogo_nombres_lugares.xml#C008">Capricornio</placeName>, mirando ambos a dos al dicho grado, con que 
+acabaron de dar el complemento que faltava a la materia del Co-
+meta. Y como de necesidad a un pedaço de Cal viva, para que salga 
+calor del, es necessario rociarle con agua; de la misma forma a esta
+materia tan adusta, para que se inflamase, y cobrara forma fue ne-
+cessario que la <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> con su temperamento frio, y humedo passara 
+por el, como lo hizo el dicho dia <date when="1652-12-16">16. de Diziembre</date><!--Año por contexto-->, a las 4 <abbr source="catalogo_nombres_abreviaturas.xml#H001">hor.</abbr> y 
+un quarto de la tarde, que fue el tiempo que naturalmente se puede
+considerar se encenderia; y como va Cohete, desde aquella hora
+començara su movimiento. Y confirmè esto ser assi por averme di-
+cho un hombre del campo la vido el dicho dia <date when="1652-12-16">Lunes 16. de Di-
+ziembre</date>, a primera noche.</p>
+<p>Algu-
+</p>
+</div><!--Termina folio-->
+
+<div>
+<p>Folio 4 verso</p>
+<p>A algunos podràn dezir: como si esta Conjuncion de <placeName ref="catalogo_nombres_lugares.xml#M011">Marte</placeName>, y
+<placeName ref="catalogo_nombres_lugares.xml#M010">Mercurio</placeName> se causò dentro de los limites del <placeName ref="catalogo_nombres_lugares.xml#Z004">Zodiaco</placeName>, pudo hechar
+su materia sulphurea donde el Cometa apareciò, estando tan distan-
+te del? A lo qual respondo, que assi como quando dos candelas
+estan ardiendo, y la una se apaga, si el humo de esta le ponen defor-
+ma que passe por la llama de la encendida, por el mesmo humo vie-
+ne la llama de ella a encender a la apagada, aunque esté algo distan-
+te. Y assi a nuestro Cometavino el fuego a encendelle desde el <placeName ref="catalogo_nombres_lugares.xml#Z004">Zodiaco</placeName>, hasta el <placeName ref="catalogo_nombres_lugares.xml#C011">Can mayor</placeName>, por ser de naturaleza, y hallarse en el
+mismo grado en que sucediò la Conjuncion de <placeName ref="catalogo_nombres_lugares.xml#M011">Marte</placeName>, y <placeName ref="catalogo_nombres_lugares.xml#M010">Mercurio</placeName>.
+Y si esto no pudiera ser, cosa clara es, que cuantos Cometas se for-
+maran avia de ser en el <placeName ref="catalogo_nombres_lugares.xml#Z004">Zodiaco</placeName>, donde discurren los <placeName ref="catalogo_nombres_lugares.xml#P023">Planetas</placeName>, y
+no en otra parte. Lo qual no es assi, como de muchos se ha obser-
+vado, y principalmente de uno que <persName ref="catalogo_nombres_personas.xml#A011">Alberto Magno</persName> escribe averse
+aparecido Año de <date when="1240">1240</date>. juntito al <placeName ref="catalogo_nombres_lugares.xml#P014">Polo Septentrional</placeName><!--Polo norte-->, que dista
+del <placeName ref="catalogo_nombres_lugares.xml#Z004">Zodiaco</placeName> mas de 66. <abbr source="catalogo_nombres_abreviaturas.xml#G001">gr.</abbr> Y nuestro Cometa 48. que es menos.</p>
+<p><date when="1652-12-18">Miercoles 18. de Diziembre</date> fue el primer dia que tuve noticia
+de su aparicion, por averla visto la tal persona el <date when="1652-12-17">dia antes</date>. Y luego
+por la noche la observè, hallando la <term type="body" ref="catalogo_terminos.xml#C001">Cabeça</term> de ella por bajo de las
+<term type="body" ref="catalogo_terminos.xml#O005">orejas</term> de la imagen de la Liebre, y la Cola, derecha a la <term type="body" ref="catalogo_terminos.xml#R001">rodilla</term>, y
+<term type="body" ref="catalogo_terminos.xml#H004">ombro diestro</term><!--hombro derecho--> de <placeName ref="catalogo_nombres_lugares.xml#O008">Orion</placeName>. Y tomando de su altura con instrumento muy
+capaz, hallè tener la <term type="body" ref="catalogo_terminos.xml#C001">Cabeça</term> 11. <abbr source="catalogo_nombres_abreviaturas.xml#G001">gr.</abbr> 40 <abbr source="catalogo_nombres_abreviaturas.xml#M005">min.</abbr> de altura sobre el <placeName ref="catalogo_nombres_lugares.xml#H004">Hori-
+zonte Oriental</placeName>, y de grados Azimuthales 63. y 25. <abbr source="catalogo_nombres_abreviaturas.xml#M005">min.</abbr> Y sin dila-
+cion, la estrella que está en el <term type="body" ref="catalogo_terminos.xml#P005">siniestro pie</term><!--pie izquierdo--> del <placeName ref="catalogo_nombres_lugares.xml#O008">Orion</placeName> de primera mag-
+nitud, tenia de altura 23. <abbr source="catalogo_nombres_abreviaturas.xml#G001">gr.</abbr> 34. <abbr source="catalogo_nombres_abreviaturas.xml#M005">min.</abbr> Y de la <term type="body" ref="catalogo_terminos.xml#C001">Cabeça</term> del Cometa á
+esta estrella huvo de distancia tomada con el Radio Astronomico
+14. <abbr source="catalogo_nombres_abreviaturas.xml#G001">gr.</abbr> 8. <abbr sorce="catalogo_nombres_abreviaturas.xml#M005">min.</abbr> Y de largo el Cometa 7. <abbr source="catalogo_nombres_abreviaturas.xml#G001">gr.</abbr> 48. <abbr source="catalogo_nombres_abreviaturas.xml#M005">min.</abbr> Y por la misma que
+hize un hora despues, y las demas que fuy haziendo las noches si-
+guientes, segun el movimiento que traya de <placeName ref="catalogo_nombres_lugares.xml#O005">Oriente</placeName> a <placeName ref="catalogo_nombres_lugares.xml#P015">Poniente</placeName>; 
+(fuera del rapto) vine en conocimiento que el dicho dia <date when="1652-12-16">16. de Di-
+ziembre</date> se hallò en la imagen del <placeName ref="catalogo_nombres_lugares.xml#C011">Can mayor</placeName>, en la qual està una
+	estrella nombrada <foreign xml:lang="lat">Eductio faemoris <placeName ref="catalogo_nombres_lugares.xml#C011">Canis maioris</placeName></foreign>, que està en 18. <abbr source="catalogo_nombres_abreviaturas.xml#G001">gr.</abbr>
+39. <abbr source="catalogo_nombres_abreviaturas.xml#M005">min.</abbr> de <placeName ref="catalogo_nombres_lugares.xml#C009">Cancer</placeName>, que solo ay de diferencia al lograr de la Con-
+juncion 14. <abbr source="catalogo_nombres_abreviaturas.xml#M005">min.</abbr> Y esta estrella se halla con <placeName ref="catalogo_nombres_lugares.xml#D002">declinacion Meridional</placeName></p>
+<p>de
+</p>
+</div><!--Termina folio-->
+
+<div>
+<p>Folio 5 recto</p>
+<p>de 28. <abbr source="catalogo_nombres_abreviaturas.xml#G001">gr.</abbr> 30. <abbr source="catalogo_nombres_abreviaturas.xml#M005">min.</abbr> Y en esta disposicion se halló el Cometa quando
+le observé el <!--¿podemos saber la fecha-->primer dia que le vide, y en todos los demas fue cami-
+nando, dando buelta a la imagen del dicho <placeName ref="catalogo_nombres_lugares.xml#O008">Orion</placeName>, siempre asestand- 
+do la punteria a el, minuyendo de su <placeName ref="catalogo_nombres_lugares.xml#D002">declinacion Meridional</placeName>, y ga-
+nando la <placeName ref="catalogo_nombres_lugares.xml#D003">Septentrional</placeName><!--Hace referencia a la declinación-->, elevandose a gran priessa sobre el Adarga
+del <placeName ref="catalogo_nombres_lugares.xml#O008">Orion</placeName>, desde <date when="1652-12-21">Sabado 21</date>. hasta <date when="1652-12-22">Domingo 22</date><!--Fecha confirmada por calendario de méxico 1652-->. que llegó su <term type="body" ref="catalogo_terminos.xml#C001">cabeça</term>
+juntito a la <term type="body" ref="catalogo_terminos.xml#N002">Nariz</term> del <placeName ref="catalogo_nombres_lugares.xml#T007">Toro</placeName>, y el <date when="1652-12-24">Martes 24</date>. a las <placeName ref="catalogo_nombres_lugares.xml#P016">Pleyadas</placeName>, la cola
+derecha a la <term type="body" ref="catalogo_terminos.xml#C001">cabeça</term> de la dicha imagen. El <date when="1652-12-25">miercoles 25</date>. se hallò
+a los <term type="body" ref="catalogo_terminos.xml#P002">pies</term> del <placeName ref="catalogo_nombres_lugares.xml#P0017">Perseo</placeName>, y poco a poco se levantó hasta la <term type="body" ref="catalogo_terminos.xml#C001">cabeça</term> de <placeName ref="catalogo_nombres_lugares.xml#M016">Medusa</placeName>, que tiene el <placeName ref="catalogo_nombres_lugares.xml#P0017">Perseo</placeName> en la <term type="body" ref="catalogo_terminos.xml#M003">mano izquierda</term>, donde està una
+Estrella funebre<!--Estrella fúnebre se marca?--> de segunda Magnitud, en los 21. <abbr source="catalogo_nombres_abreviaturas.xml#G001">gr.</abbr> 21 <abbr source="catalogo_nombres_abreviaturas.xml#M006">minut.</abbr> de
+<placeName ref="catalogo_nombres_lugares.xml#T007">Tauro</placeName>, con <placeName ref="catalogo_nombres_lugares.xml#D003">declinacion Septentrional</placeName> de 39 <abbr source="catalogo_nombres_abreviaturas.xml#G001">gr.</abbr> 27. <abbr source="catalogo_nombres_abreviaturas.xml#M005">min.</abbr> y siempre
+la punta del Cometa a la <term type="body" ref="catalogo_terminos.xml#C001">cabeça</term> del  <placeName ref="catalogo_nombres_lugares.xml#O008">Orion</placeName>; y elevandose un poqui-
+to mas, hizo su punteria a la Estrella nebulossa<!--¿Estrella se marca?-->, que tiene en la <term type="body" ref="catalogo_terminos.xml#G001">gar-
+ganta</term>. Y como la materia de que fue engendrado el Cometa le fue
+faltando, tambien lo fue en su movimiento; y assi feneciò <date when="1653-01-07">Martes 
+7. de Enero</date><!--Fecha tomada por contexto. COnfirmada con calendario 1653 México-->: Aviendo durado 22. dias, y caminando segun longitud,
+y movimiento retrogrado, 57. <abbr source="catalogo_nombres_abreviaturas.xml#G001">gr.</abbr> y 39. <abbr source="catalogo_nombres_abreviaturas.xml#M005">min.</abbr> y de declinacion 67. <abbr source="catalogo_nombres_abreviaturas.xml#G001">gr.</abbr>
+y 57. <abbr source="catalogo_nombres_abreviaturas.xml#M005">min.</abbr> passando la linea, desde la parte <placeName ref="catalogo_nombres_lugares.xml#A010">Austral</placeName>, al <placeName ref="catalogo_nombres_lugares.xml#S009">Septentrio-
+nal</placeName>, a la mitad de su carrera.
+</p>
+<p>Esta es (Lector amigo) la decalaracion de este nuestro Cometa.
+Cosa digna de considerar, pues en toda su derrota no dexò de ase-
+star su tiro, y como <term type="body" ref="catalogo_terminos.xml#D001">dedo index</term> suyo, señalar siempre al dicho <placeName ref="catalogo_nombres_lugares.xml#O008">Orion</placeName>,
+dandole buelta, como buen Perro de muestra, que por averse en-
+gendrado en tal Costellacion, tomò su natural inclinacion, ò sim-
+patia, que parece esta imagen de <placeName ref="catalogo_nombres_lugares.xml#O008">Orion</placeName> era hecha de piedraiman, y
+la cola del Cometa de Azero, segun le tirava a si. Componese esta 
+imagen de 38. Estrellas, y todas violentas, y tempestuosas, de natu-
+raleza de <placeName ref="catalogo_nombres_lugares.xml#S010">Saturno</placeName>, y <placeName ref="catalogo_nombres_lugares.xml#J002">Jupiter</placeName>, y tiene a sus <term type="body" ref="catalogo_terminos.xml#P002">pies</term> el <placeName ref="catalogo_nombres_lugares.xml#E008">Rio Eridano</placeName>.</p>
+<p>Muchas opiniones ay, si los Cometas formados de junta de
+algunas Estrelluelas, o si son <term type="body" ref="catalogo_terminos.xml#C007">cuerpos</term> illuminados, o inflamados, de
+naturaleza celeste, o elementar. Y no obstante que està dicho con
+buen fundamento, de la materia, y forma que le hazen, en confir-
+macion de ello (fuera de ser doctrina de <persName ref="catalogo_nombres_personas.xml#A035">Aristoteles</persName> y de <persName ref="catalogo_nombres_personas.xml#L024">Leopoldo
+de Austria</persName>) <!--Francisco Titelmans. Naturalis philosophiae. Lib. 6. Cap. 4 De Generatione Comete. Pendiente--><cit type="textual"><bibl><author><persName ref="catalogo_nombres_personas.xml#T007">Titelman</persName></author> en el compendio de su <!-- Pendiente, Naturalis philosophiae, compendium sive de consideratione rerum naturalium--><title>Filosofia natural</title> <abbr source="catalogo_nombres_abreviaturas.xml#L001">lib.</abbr> 6.</bibl></cit></p>
+<p><cit><bibl>C   <abbr source="catalogo_nombres_abreviaturas.xml#C001">cap.</abbr></bibl></cit>
+</p>
+</div><!--Termina folio-->
+
+<div>
+<p>Folio 5 verso</p>
+	<p><cit type="textual"><bibl><abbr source="catalogo_nombres_abreviaturas.xml#C001">cap.</abbr> 4 de generatione Comete</bibl>. Dize: <quote><foreign xml:lang="lat">Apparent autem interdum in
+stellarum mundum Cometae. Est autem Cometa non congregatio multarun
+Stellarum, neque de natura caelesti, neque quo ad <term type="body" ref="catalogo_terminos.xml#C002">corpus</term>, neque quo ad cau-
+dam, sed tota est de natura elemantari.Si partus eius longius deorsum por- 
+tendantur dicitur Cometa caudatus.</foreign></quote></cit> Y esta fue la forma que tuvo para
+su generacion, y en la que se nos apareciò. Que aunque algunos Au-
+tores ponen nueve diferencias (aviendo muchas mas) todas se re-
+ducen a tres generos. <foreign xml:lang="lat">Crinitus</foreign>, por ser como <term type="body" ref="catalogo_terminos.xml#C006">cabellera</term> <foreign xml:lang="lat">Barbatus</foreign>, por
+ser como <term type="body" ref="catalogo_terminos.xml#R004">rostro</term> con <term type="body" ref="catalogo_terminos.xml#B001">barvas</term>, y <foreign xml:lang="lat">Caudatus</foreign>, por echar a una parte cola.
+</p>
+<p>Y pues està dicho como los Cometas se engendran en la <placeName ref="catalogo_nombres_lugares.xml#R006">Region
+aetherea</placeName>, que es desde el convexo de la <placeName ref="catalogo_nombres_lugares.xml#R001">Region del Ayre</placeName> hasta el
+concavo de la <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName>, se ha de entender que tambien hay lugar, no so-
+lo en la mitad superior de la <!---¿Cuál región es esta?-->tercera Region, que està contigua a la
+del fuego, sino tambien en el cielo. Como sucedió en la que apa-
+reció en el Sedil de la <placeName ref="catalogo_nombres_lugares.xml#C013">Casiopea</placeName> año de <date when="1572">1572</date>. como le observaron
+muy grandes Mathematicos. Mas este nuestro segun el movimien-
+to que tuvo, y doctrina Paralactica de triangulos Esphericos, consta
+averse engendrado en la <!--¿Otra forma de decir sol o alusión?-->Esfera del Fuego, pues tuvo de paralaxis
+de primera observacion en el circulo Vertical 14. <abbr source="catalogo_nombres_abreviaturas.xml#G001">gr.</abbr> 18. <abbr source="catalogo_nombres_abreviaturas.xml#M005">min.</abbr> y en
+la segunda 45. <abbr source="catalogo_nombres_abreviaturas.xml#M005">min.</abbr> menos. Que por la dicha Paralaxis se vino en co-
+nocimiento de que el Cometa distava de la superficie de la <placeName ref="catalogo_nombres_lugares.xml#T004">tierra</placeName>
+3U(ij)649.leguas. Y segun la proporcion de los Elementos, la <placeName ref="catalogo_nombres_lugares.xml#R004">Region
+del Fuego</placeName> tiene 29U496. leguas de gruesso, desde su parte concava 
+hasta el Orbe de la <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName>, y de distancia a la <placeName ref="catalogo_nombres_lugares.xml#T004">tierra</placeName> 3U278. leguas po-
+co menos, por donde consta se engendrô nuestro Cometa 371. le-
+guas dentro de la dicha Esfera del fuego. Porque es cosa assentada
+en buena Filosophia, que si estuviera mas alta, por la mucha raridad
+y substileza, que mientras mas arriba, mas tiene esta Region<!--pendiente-->, avia
+de tener mayor movimiento, segun otros, que por la misma razon 
+tuvieron mas de 40 <abbr source="catalogo_nombres_abreviaturas.xml#G001">gr.</abbr> en 24. <abbr source="catalogo_nombres_abreviaturas.xml#H001">hor.</abbr> Y el nuestro no tuvo mas de 12.
+<abbr source="catalogo_nombres_abreviaturas.xml#G001">gr.</abbr> y medio en su mayor fuerça. Y por la razon contratria mientras
+mas baja se hallara, menor movimiento avia de tener, por no aver
+en la <placeName ref="catalogo_nombres_lugares.xml#R001">Region del Ayre</placeName> tanta subtileza como en la del <placeName ref="catalogo_nombres_lugares.xml#R004">fuego</placeName><!--Pendiente-->. Cosas
+son muy dificiles de alcançar, que aunque ay doctrina para ello se-
+gun la que he seguido, puede aver en las observaciones algunas fal-</p>
+<p>tas,
+</p> 
+</div><!--Termina folio-->
+
+<div>
+<p>Folio 6 recto</p>
+ <p>tas, y asi mesmo en los instrumentos, a cuya causa las podran aver
+avido en estas. Y assi por no hablar tan afirmativamente dirè como
+cosa mas cierta. <foreign xml:lang="lat"><persName ref="catalogo_nombres_personas.xml#D010">Deus</persName> intelligit viam eius, et ipse novit locum illius</foreign>. No
+obstante que lo dicho es ciencia, y doctrina del Maestro <persName ref="catalogo_nombres_personas.xml#B005">Barrientos</persName>, 
+y del Doctor <persName ref="catalogo_nombres_personas.xml#F025">Raxo</persName>, y de otros doctos en esta Facultad. Y porque el
+diametro del Orbe de nuestro Cometa se saca de la distancia que tu-
+vo a la <placeName ref="catalogo_nombres_lugares.xml#T004">tierra</placeName>, y della su circunferencia se halla que le vienen a cada 
+grado en aquel circulo 81. leguas, y un quinto, y a los 7. <abbr source="catalogo_nombres_abreviaturas.xml#G001">gr.</abbr> 48. <abbr source="catalogo_nombres_abreviaturas.xml#M002">mi.</abbr> 
+que tuvo de longitud de <term type="body" ref="catalogo_terminos.xml#C001">cabeça</term> a cola 661. leguas poco mas. Cosa 
+que a qualquiera que le vido le causarà admiracion por no aver pa-
+recido a la vista luego que apareció, mas de como tres varas de largo.
+</p> 
+<p><cit type="parafrasis"><quote>Tampoco admirà ser cosa nueva, que los Cometas, como
+Nuncios, o Edictos de <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName></quote>, que assi los llama <bibl><name type="person">Josepho</name> <!--Pendiente refTitle Antiguedades judaícas--><abbr source="catalogo_nombres_abreviaturas.xml#L001">lib.</abbr> 7. <abbr source="catalogo_nombres_abreviaturas.xml#C001">cap.</abbr>
+12. de Bell <abbr source="catalogo_nombres_abreviaturas.xmlL004">lud.</abbr></bibl></cit> denuncien Vientos furiosos, Terremotos, Caristias,
+Pestilencias, Guerras, Muertes, y otros accidentes semejantes, co-
+mo lo dizen muchos Autores, y principalmente el venerable <cit type="textual"><!--Pendiente,"De Natura Rerum Liber. Cap XXIV"--><bibl><author><persName ref="catalogo_nombres_personas.xml#B008">Beda</persName></author> <title>lib de natura rerum</title></bibl>. <quote><foreign xml:lang="lat">Cometae sunt stellae flamis Crinitae repente nascen-
+tes regni mutationem aut pestilentiam; aut bella; aut ventos aestus ve por-
+tendentes</foreign></quote></cit>. Y la <cit type="textual"><bibl><author><persName ref="catalogo_nombres_personas.xml#S020">Sibyla Erithrea</persName></author> en estos sus versos.</bibl></cit>
+</p>
+	<p><cit type="textual"><!--Pendiente, Oráculos sibilinos. Libro III. 334-336--><quote><foreign xml:lang="lat"><placeName ref="catalogo_nombres_lugares.xml#S007">Sole</placeName> sub occiduo veré vocitata Cometes
+Stella refulgebit Galdij mortalibus index;
+Et Fames; et mortes, praeclarorumque virorum
+Adque Ducum interitus magnorum nobiliumque
+Maxima praeterea mortales signa monebunt.</foreign></quote></cit>
+</p>
+<p>Todo lo cual consta, y se confirma por Historias muy fidedignas;
+haver sucedido despues de aparecerse Cometas, de muchisimos
+años a esta parte. Y aunque es verdad que los Cometas por si, no
+causan estos effectos, pero señales de los que immediatamente 
+estàn para venir, como por muchos Autores muy señalados en le-
+tras se podrà ver, principalmente en <persName ref="catalogo_nombres_personas.xml#L014">Lucano</persName>, <persName ref="catalogo_nombres_personas.xml#A032">Arato</persName>, <persName ref="catalogo_nombres_personas.xml#P015">Pontano</persName>, <persName ref="catalogo_nombres_personas.xml#M005">Marco 
+	Manilio</persName>, <persName ref="catalogo_nombres_personas.xml#L024">Leopoldo de Austria</persName>; <persName ref="catalogo_nombres_personas.xml#J025">San Juan Damasceno</persName>, y otros, que
+por la brevedad dexo de referir sus vaticinios, aviendome conten-
+tado, con los dichos del Venerable <persName ref="catalogo_nombres_personas.xml#B008">Beda</persName>, y <persName ref="catalogo_nombres_personas.xml#S020">Sibyla Erithrea</persName>.</p>
+<p>C2     PRUE-
+</p>
+</div><!--Termina folio-->
+
+<div>
+<p>Folio 6 verso</p>
+ <p><head>PRUEBASE CON RAZONES
+Phisicas como el Ayre inficionado de la calidad
+del Cometa puede causar Enfermedades, Irás,
+Desasosiegos, Guerras, Muertes; y en personas
+regaladas, y delicadas mas presio que en
+robustos</head>.</p>
+ <p>Reduciendo pues todos estos accidentes a causas natura-
+les, dizen los Filosophos ser la corrupcion del Ayre, por
+estar entonces mas visscoso, y contaminado por razon de
+la materia de que se engendrò el Cometa, que fue caliente
+y seca; que daña no solo a los fructos, sino a todo Animal viviente,
+y principalmente a los hombres, en quien dominare el humor co-
+lerico. De forma, que por lo dicho consta, y por lo que dize <persName ref="catalogo_nombres_personas.xml#J025"><abbr source="catalogo_nombres_abreviaturas.xml#S001">S.</abbr> Juan
+Damasceno</persName>, que <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> con su divino saber permite se vean estas se-
+ñales en tiempos oportunos, que nos denoten Hambres, Pestes,
+Guerras, Muertes de Principes, y otras cosas semejantes, para ad-
+vertirnos de que vivamos recatados, y nos dispierta con las alda-
+vadas destas señales, Terremotos, y otros prodigios. <foreign xml:lang="lat">Viditque <persName ref="catalogo_nombres_personas.xml#D010">Deus</persName>
+cuncta que fecerat, et erant valde bona</foreign>. Y assi no tenemos que dezirle 
+<foreign xml:lang="lat">Curita facis?</foreign>
+</p><!-- Parece una cita pero no estoy segura-->
+<p>Y para acabar de satisfacer la causa, que los Filosophos dan, de
+los accidentes que se atribuyen a los Cometas dizen, que para averse
+de engendrar, es necessario (como esta dicho) preceda primero
+calor, y sequedad grande, porque el <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName> en aquellos tiempos, con 
+sus rayos, ayudado de los demas <placeName ref="catalogo_nombres_lugares.xml#P023">Planetas</placeName> de su calidad sacan de las
+partes limossas, y putridas de la <placeName ref="catalogo_nombres_lugares.xml#T004">tierra</placeName>, Exhalaciones viscossas, las
+quales, demas de ser la causa para la generacion dellas, corrompen
+el Ayre por calor, y sequedad, y del se escalienta la <term type="body" ref="catalogo_terminos.xml#S001">sangre</term>, y se au-
+menta la colera, y como vapor las <term type="body" ref="catalogo_terminos.xml#V004">venas</term> al <term type="body" ref="catalogo_terminos.xml#C003">coraçon</term> donde reside la
+irascible, suben <term type="body" ref="catalogo_terminos.xml#H005">humos biliosos</term> al <term type="body" ref="catalogo_terminos.xml#C004">cerebro</term>, por donde el espiritu vi-
+tal se altera, y causa en unos enfermedades mortales y en otros lo-
+curas, furiossos, y desatinados desasosiegos, de los cuales se siguen 
+dicensiones, guerras y batallas, con muchas muertes, y a veces al</p>
+<p>tera-
+</p>
+</div><!--Termina folio-->
+
+<div>
+<p>Folio 7 recto</p>
+ <p>teraciones de Reynos causas bastantes para sus perdidas; asolamien-
+tos de Ciudades, mundanças de leyes, y costumbres. Y en lo que
+dizen de muerte de Reyes, y Potentados, no se funda en otra razon 
+mas de que como son personas delicadas, se sustentan con diffe-
+rencias de manjares, regalos que crean <term type="body" ref="catalogo_terminos.xml#S001">sangre</term> sutil, y con el poco
+exercicio estàn mas propinquos a adolecer en semejantes tiempos,
+que anda el Ayre corrompido, porque como es fuerça respirar, y 
+atraerle a los espiritus vitales, descomponen el Armonia natural de
+los <term type="body" ref="catalogo_terminos.xml#H006">humores</term>, y descompuestos, le descompone la vida, lo que no   
+tiene tanto lugar en personas robustas, que le sustentan con manja-
+res recios, que crian <term type="body" ref="catalogo_terminos.xml#S001">sangre</term> gruesa, y trabajan corporalmente. Y
+estas son las casusas Fisicas, y naturales que dàn los Filosophos, para
+pronosticar por los Cometas semejantes accidentes, y quien con-
+tradigiere esta Fisica, negarà la potencia de los movimientos cele-
+stes, y contradirà, que no puede aver en el mundo generacion, ni
+corrupcion, y que teniendo virtud los cielos sobre los <term type="body" ref="catalogo_terminos.xml#C007">cuerpos</term> de
+los hombres, sobre su <term type="body" ref="catalogo_terminos.xml#S001">sangre</term>, sentido, inclinaciones, ingenios, y
+exercicios, no puedan tener algunos movimientos del nuestro ani-
+mo, dependencia de los movimientos celestes. <cit type="textual"><quote><foreign xml:lang="lat"> Qui negant potentiam,
+neganiomenes motus, generationem, et corruptionem</foreign></quote>.<bibl><author><persName ref="catalogo_nombres_personas.xml#A035">Aristotel</persName></author>. <abbr source="catalogo_nombres_abreviaturas.xml#L001">lib.</abbr> 9.
+<title>Methaph</title><!--Pendiente--></bibl></cit>.
+</p>
+<p><head>DECLARANSE LOS ACCIDEN-
+tes que este Cometa denota, y en que partes del
+mundo sucederàn mas particularmente</head>.</p>
+ <p>YA està dicho en la declarcion Fisica que se ha hecho, (aun-
+que con mi corto saber) que los <term type="body" ref="catalogo_terminos.xml#C007">cuerpos</term> celestes tienen
+virtud, y potencia para alterar el Ayre, y por su alteracion
+causan en este <placeName ref="catalogo_nombres_lugares.xml#M007">mundo</placeName> algunos movimientos, y alteracio-
+nes de las que están dichas. Mediante lo qual se iràn declarando 
+en lo restante deste discurso, las que nuestro cometa puede causar 
+en algunas partes del <!--Marqué como tierra--><placeName ref="catalogo_nombres_lugares.xml#T004">Orbe terrestre</placeName>, que se hallaren debaxo del do-
+minio de los signos en que apareciò, y hizo su decreto hasta que fe-
+neciò. Porque querer entender, que todo quanto se dixere del, se
+ha de sentir en todo el <placeName ref="catalogo_nombres_lugares.xml#M007">mundo</placeName>, ( aunque ubo causas para ello) y que</p>
+<p>los
+</p>
+</div><!--Termina folio-->
+
+<div>
+<p>Folio 7 verso</p>
+ <p>los accidentes sean tan generales, que no aya diferencia en unas
+partes mas que en otras no avrà razon para ello, porque muy de or-
+dinario se vee suceder en una Region peste, y en otra no. En unas
+guerras, y en otras paz, y concordia, y que las que a unos son prove-
+chosas a otros dañinas aunque despues surta en bien y provecho suyo.</p>
+<p>Y pues està dicho como <placeName ref="catalogo_nombres_lugares.xml#M011">Marte</placeName>, y <placeName ref="catalogo_nombres_lugares.xml#M010">Mercurio</placeName> en conjuncion (que
+sin ellos no fuera posible) dieron la primer causa para la generacion
+deste cCometa, les podremos atribuyr, aver sido sus Padres, y a la
+<placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> su Madre, lo uno por averse engendrado, y nacido en su casa
+(que basta para su legitimacion) y lo otro, por averla ella hecho,
+revivir con la humedad de su influencia; mas no por esso este tal hijo
+se ha de parecer a quien le engendrò (que sucede muy pocas veces)
+porque las cualidades de do referecen las costumbres, vienen del tem-
+peramento del <placeName ref="catalogo_nombres_lugares.xml#P023">Planeta</placeName> predominador al tiempo de su Nacimiento.
+Y pues este fue, segun queda declarado. <date when="1652-12-16"><!--Año deducido y revisado en calendario 1652-->Lunes 16. de Diziembre</date> a
+las 4. hor, y quarto de la tarde, segun nuestro <placeName ref="catalogo_nombres_lugares.xml#M013">Meridiano</placeName> ascendian
+por el <placeName ref="catalogo_nombres_lugares.xml#H003">Horizonte</placeName> del, los 7. <abbr source="catalogo_nombres_abreviaturas.xml#G001">gr.</abbr> 54. <abbr source="catalogo_nombres_abreviaturas.xml#M005">min.</abbr> de <placeName ref="catalogo_nombres_lugares.xml#G003">Geminis</placeName>. Y aunque los
+18. <abbr source="catalogo_nombres_abreviaturas.xml#G001">gr.</abbr> 39. <abbr source="catalogo_nombres_abreviaturas.xml#M005">min.</abbr> de <placeName ref="catalogo_nombres_lugares.xml#C009">Cancer</placeName>, en que se engendrò el Cometa, se halla-
+ron en la segunda casa, ubo de caer segun circulo de posicion, en la
+Cuspide de la tercera, donde se hallò la imagen del <placeName ref="catalogo_nombres_lugares.xml#C011">Can Mayor</placeName>, que
+por aver tenido tanta <placeName ref="catalogo_nombres_lugares.xml#D002">declinacion de Meridional</placeName>, a <placeName ref="catalogo_nombres_lugares.xml#D003">Septentrional</placeName>, 
+se veria en todo el mundo, aunque fuesse en la Noruega, è <placeName ref="catalogo_nombres_lugares.xml#T011">Isla de 
+Tile</placeName>, que està 63. <abbr source="catalogo_nombres_abreviaturas.xml#G001">gr.</abbr> debajo del <placeName ref="catalogo_nombres_lugares.xml#N004">Norte</placeName>. Y en esta disposicion de cic-
+lo fue <placeName ref="catalogo_nombres_lugares.xml#S010">Saturno</placeName> señor de ella.</p>
+<p><placeName ref="catalogo_nombres_lugares.xml#M010">Mercurio</placeName> lo fue del <placeName ref="catalogo_nombres_lugares.xml#A023">Ascendente</placeName>, y se hallò en la octava, en <placeName ref="catalogo_nombres_lugares.xml#C008">Capricornio</placeName>, en su termino, con aplicacion al sextil de la <name type="constelation">Venus</name>; que de-
+mas de estar determinada en la sexta, aplicava al quadrado de <placeName ref="catalogo_nombres_lugares.xml#S010">Saturno</placeName> determinado, y retrogrado, que todas son configuraciones
+harto trabajosas, por denotar a la pleve, y principalmente en gente
+moça, enfermedades peligrosas, de <term type="body" ref="catalogo_terminos.xml#S001">sangre</term> inflamada, y quien mas
+daña a los niños, es hallarse <placeName ref="catalogo_nombres_lugares.xml#M010">Mercurio</placeName> en el arco de <placeName ref="catalogo_nombres_lugares.xml#S013">Sagitario</placeName>, cola
+del Dragon en la quinta, y <placeName ref="catalogo_nombres_lugares.xml#M011">Marte</placeName> detrimentado en ella. <foreign xml:lang="lat">Quia mul-
+tos è vita tollent infantes.</foreign></p>
+<p><placeName ref="catalogo_nombres_lugares.xml#J002">Jupiter</placeName> desde la octava, en su cayda, de quadrado a <placeName ref="catalogo_nombres_lugares.xml#M011">Marte</placeName>, y am-
+bos infestados del Cometa, mirando a la <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> de malos aspectos,</p>
+<p>dañan 
+</p> 
+</div><!--Termina folio-->
+
+<div><p>Folio 8 recto</p>
+ <p>dañan mucho a la <term type="body" ref="catalogo_terminos.xml#S001">sangre</term>, resultando de ello varias, y diversas enfer-
+medades, assi como dolores de <term type="body" ref="catalogo_terminos.xml#C001">cabeça</term>, males de <term type="body" ref="catalogo_terminos.xml#006">ojos</term>, pulmonias,
+fistolus, dislocaciones, dolores interiores desde el <term type="body" ref="catalogo_terminos.xml#P006">pecho</term> abajo, con 
+<term type="body" ref="catalogo_terminos.xml#V005">vomitos</term>, y otras semejantes, que la corrupcion del Ayre, <cit type="textual">como dize
+<bibl><author><persName ref="catalogo_nombres_personas.xml#P003">Galeno</persName></author></bibl> primo Epidem.<quote> <foreign xml:lang="lat">Morborum populariter grasantium causam aè-
+rem esse</foreign></quote></cit>. En la <placeName ref="catalogo_nombres_lugares.xml#M014">Mar</placeName> se promete mucha muerte de pescados, por en-
+fermedad, adversas navegaciones, y batallas navales. En la <placeName ref="catalogo_nombres_lugares.xml#T004">tierra</placeName>, 
+daño en los frutos por yelos, y sequedades por donde se siga alguna
+caristia en ellos. Y porque se halla que algunos destos efectos, prin-
+cipalmente de enfermedades, començaràn a sentirse en nuestro <placeName ref="catalogo_nombres_lugares.xml#M013">Me-
+ridiano</placeName>, desde <date when="04">Abril</date><!--¿Se puede saber el año?--> en adelante, y con mas fuerça en los Canicula-
+res, que serà en llegando el <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName> a hazer transito por el lugar que el,
+ Cometa tuvo, al tiempo de su generacion, importarà mucho en esta
+Primavera evacuar el <term type="body" ref="catalogo_terminos.xml#H005">humor colerico</term>; dar de <term type="body" ref="catalogo_terminos.xml#M001">mano</term> a pesadumbres,
+iras, enojos, que estas causas han de dar mas presto ocacion, por
+hallarse <placeName ref="catalogo_nombres_lugares.xml#M011">Marte</placeName> en signo aereo. Y no obstánte que en el <title>Diario</title><!--Pendiente--> que
+tengo impresso para <date when="1653">este año</date> trato de algunas cosas favorables a este
+<placeName ref="catalogo_nombres_lugares.xml#M013">Meridiano</placeName>, por la benigna calidad de <placeName ref="catalogo_nombres_lugares.xml#J002">Jupiter</placeName>, que es el que le go-
+vierna, si fueren diferentes de las que ahora se congeturan, es por ra-
+zon de la materia corrupta de que fue engendrado, y su corrupcion 
+no dexará de dañar en algo a lo bueno, y de aumentar a lo malo; mas
+pues es <placeName ref="catalogo_nombres_lugares.xml#J002">Jupiter</placeName> el que le govierna, y es Fortuna mayor, y en <placeName ref="catalogo_nombres_lugares.xml#C008">Capricornio</placeName>, signo del dominio desta <!--Pendiente-->Ciudad, no dexarà de reprimir al-
+gun tanto los efectos del Cometa por ser cierto tener mayor virtud 
+y fuerça un <placeName ref="catalogo_nombres_lugares.xml#P023">Planeta</placeName><!--Pendiente plurales de lugares--> para obrar, por ser <!--Pendiente la def. de lugar para saber si poder marcar estrella, cometa, etc-->Estrella, que no un Cometa,
+que alfin es hecho de Exhalaciones, y hijo de Estrellas; si no es que
+al tiempo de su Aparicion le miren de mal aspecto algunos <placeName ref="catalogo_nombres_lugares.xml#P023"><placeName ref="catalogo_nombres_lugares.xml#P023">Planetas</placeName></placeName>
+de los superiores, y sean Infortunas, porque entonces, como es ayu-
+dado de causas mas poderosas, enseñan sus <term type="body" ref="catalogo_terminos.xml#U002">uñas</term> con mayor violen-
+cia. Y como esta dicho, <placeName ref="catalogo_nombres_lugares.xml#M011">Marte</placeName> le mirò de quadrado, y assi no ay que
+confiar mucho que dexe de obrar algunas cosas con fuerça.</p>
+<p>Y pues cualquiera Cometa (hablando generalmente) significa
+alteraciones de Reynos, y de otras cosas grandes, segun por los Au-
+tores citados queda dicho, y se nos apareciò en el signo de <placeName ref="catalogo_nombres_lugares.xml#C009">Cancer</placeName>,
+su temperamento, y calidad, le infundieron <placeName ref="catalogo_nombres_lugares.xml#S010">Saturno</placeName>, y la <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName>, al</p>
+<p>tiem-</p>
+</div><!--Termina folio-->
+
+<div> 
+	<p>Folio 8 verso</p>
+ <p>tiempo de su refulgencia, por aver sido señor del Eclipse preceden-
+te de <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName>, como claramente se echò de ver por la calor, que demo-
+strò aplomado, con un poco de resplandor cardeno, que assi por lo
+uno, y por lo otro, y por mirarle <placeName ref="catalogo_nombres_lugares.xml#M011">Marte</placeName> desde <placeName ref="catalogo_nombres_lugares.xml#L009">Libra</placeName> de quadrado, en
+las partes de su dominio, como son las <!--Pendiente, ¿marcamos lugares indeterminados?-->Provincias, Reynos, y Ciu-
+dades, que fueren en las divisiones de <placeName ref="catalogo_nombres_lugares.xml#C009">Cancer</placeName>, <placeName ref="catalogo_nombres_lugares.xml#G003">Geminis</placeName> y <placeName ref="catalogo_nombres_lugares.xml#T007">Tauro</placeName>,
+que el Cometa infectò con su presencia, y las de <placeName ref="catalogo_nombres_lugares.xml#L009">Libra</placeName>, por averse
+hallado alli <placeName ref="catalogo_nombres_lugares.xml#M011">Marte</placeName>. Y en todas aquellas que tuvieren de altura Me-
+ridional de 28. a 30. <abbr source="catalogo_nombres_abreviaturas.xml#G001">gr.</abbr> y de 39. a 41. <placeName ref="catalogo_nombres_lugares.xml#S009">Septentrional</placeName>, (como lo ad-
+vierten <name type="person">Leopoldo de Austria</name>, y el Maestro <persName ref="catalogo_nombres_personas.xml#B005">Barrientos</persName>) demostra-
+ràn alli con mas impetu sus influxos, y mas particularmente si de-
+mas de lo dicho fueré en el dominio de los signos del Cometa, por
+que en las tales partes promete Discordias, Guerras (no muy duras)
+submerciones de Navios, Salteamientos, Emboscadas, Traiciones,
+Muertes violentas, Caristias, Pestes, fuertes Vientos, Terremotos,
+llantos, Angustias, y temores. Assimesmo por el movimiento que
+tuvo de <placeName ref="catalogo_nombres_lugares.xml#O005">Oriente</placeName>, a <placeName ref="catalogo_nombres_lugares.xml#P015">Poniente</placeName>, y de <placeName ref="catalogo_nombres_lugares.xml#S011">Sur</placeName> a <placeName ref="catalogo_nombres_lugares.xml#N004">Norte</placeName>, cercando, y dando
+buelta a la imagen de <placeName ref="catalogo_nombres_lugares.xml#O008">Orion</placeName>, como esta dicho, nos declara muy par-
+ticular, y distinctamente cercos y obsidiones de Ciudades por Exer-
+citos que vengan de <placeName ref="catalogo_nombres_lugares.xml#O005">Oriente</placeName> a <placeName ref="catalogo_nombres_lugares.xml#P015">Poniente</placeName>, de que sus moradores se
+vean tan oprimidos, que entre ellos, unos procuren conjurarse pa-
+ra algunas ocultas facciones, y otros saliendo de sus naturales a tier-
+ras estrañas con perdidad de sus haziendas.
+</p>
+<p>En algunas partes del dominio de los signos del Cometa, se sen-
+tiràn horrendos Terremotos con asolamiento de algunos Pueblos, 
+como sucediò en <placeName ref="catalogo_nombres_lugares.xml#P005">Portugal</placeName> en otra semejante ocacion de averse apa-
+recido Cometa en este mismo Signo de <placeName ref="catalogo_nombres_lugares.xml#C009">Cancer</placeName>, año de <date when="1531">1531</date>. que
+fue tan horrible segun dizen las Historias, que apenas dexò casa en 
+pie en la <placeName ref="catalogo_nombres_lugares.xml#L010">Ciudad de Lisboa</placeName>. Y pues està sugeta a este signo, y a otros
+mas, segun observaciones antiguas, y assimesmo al de <placeName ref="catalogo_nombres_lugares.xml#L009">Libra</placeName>, don-
+de se hallò <placeName ref="catalogo_nombres_lugares.xml#M011">Marte</placeName>detrimentado con mal aspecto del Cometa, y ser
+muy perpendicular a la dicha Ciudad, y otras partes de aquel Reyno 
+la Estrella <term type="catalogo_nombres_lugares.xml#A024"><term type="body" ref="catalogo_terminos.xml#C001">Capud</term> Medusae</term>, en que feneciò el Cometa, aunque las cau-
+sas naturales, y tan evidentes del estado de aquel Reyno revelado, no
+lo estuvieran manifestando, bastavan las influencias celestes dichas,</p>
+<p>para
+</p> 
+</div><!--Termina folio-->
+
+<div> 
+<p>Folio 9 recto</p>
+ <p>para que segun ellas, y experiencias comprobadas, poder juzgar ha
+de padecer algunos muy señalados efectos del Cometa, con muerte
+a cuchillo de personas particulares como lo declara aver tenido sin
+el Cometa en la dicha Estrella <placeName ref="catalogo_nombres_lugares.xml#A024"><term type="body" ref="catalogo_terminos.xml#C001">Cabeça</term> de Medusa</placeName> que el <placeName ref="catalogo_nombres_lugares.xml#P017">Perseo</placeName> tiene
+en su <term type="body" ref="catalogo_terminos.xml#M003">mano izquierda</term> y en la otra el Alfanje desnudo, señalando el 
+Cometa desde alli con su punta a otra Nebulosa que esta en la <term type="body" ref="catalogo_terminos.xml#G001">gar-
+ganta</term> del <placeName ref="catalogo_nombres_lugares.xml#O008">Orion</placeName>, a quien fue conquistando y dando bateria, desde
+que naciò hasta que muriò. Que ambas a dos Estrellas son de hor-
+rible, y funebre Naturaleza, y significacion, como consta del <title>Cen-
+tiloquio 73</title>. de <persName ref="catalogo_nombres_personas.xml#P019">Ptolomeo</persName>, y de sus Expositores.
+</p>  
+<p>No dexaràn algunos apasionados de ponerme por objepcion, 
+que pues se está viendo el estado tan apretado en que ha estado, y
+està de presente el <placeName ref="catalogo_nombres_lugares.xml#P005">Reyno de Portugal</placeName>, me indica a hazer en su con-
+tra estas señaladas pronosticaciones. A los quales digo: que siem-
+pre el Astrologo deve de conformar las causas superiores, con las
+inferiores en todos quantos juicios Astrologicos hiziere, y esta es
+la razon que me ha dictado desde su principio, por ver las causas ce-
+lestes tan conformes a ello. Y para mas satisfaccion se atiende a esta
+poca de Historia Tropologica.
+</p>
+<p><persName ref="catalogo_nombres_personas.xml#U001">Ulises</persName> Capitan famoso fue hijo de <persName ref="catalogo_nombres_personas.xml#L001">Laèrtes</persName> Rey de una pequeña
+Isla, llamada <placeName ref="catalogo_nombres_lugares.xml#I006">Ithaca</placeName>, coadjacente al <placeName ref="catalogo_nombres_lugares.xml#E010">Reyno de Epiro</placeName> en la <placeName ref="catalogo_nombres_lugares.xml#G004">Grecia</placeName>,
+el cual en su mocedad se exercitó en la monteria con perros lebre-
+les, y despues de la guerra de <placeName ref="catalogo_nombres_lugares.xml#T012">Troya</placeName> en que se hallò, hizo embarca-
+cion, y con algunos amigos suyos soldados, navegò por el <placeName ref="catalogo_nombres_lugares.xml#M020">Mar
+Mediterraneo</placeName>, descubriendo nuevas tierras, padeciendo hartos tra-
+bajos en sus peregrinaciones. Paso por el <placeName ref="catalogo_nombres_lugares.xml#E011">Estrecho de Gibraltar</placeName>, y
+llegando donde el <placeName ref="catalogo_nombres_lugares.xml#T010">Rio Tajo</placeName> desdemboca en el <placeName ref="catalogo_nombres_lugares.xml#M014">Mar</placeName>, diò fondo, y en 
+sus orillas fundò la <placeName ref="catalogo_nombres_lugares.xml#L010">Ciudad de Lisboa</placeName>, que està en 39. <abbr source="catalogo_nombres_abreviaturas.xml#G001">gr.</abbr> 38. <abbr source="catalogo_nombres_abreviaturas.xml#M005">min.</abbr> de
+altura de <placeName ref="catalogo_nombres_lugares.xml#P014">Polo Sptentrional</placeName>, a la qual diò por nombre el suyo, lla-
+mandola <placeName ref="catalogo_nombres_lugares.xml#L010">Ulissippona</placeName><!--Olissipo-->.
+</p>   
+<p>Y como qualquiera que por su natural inclinacion se pone a ha-
+zer una obra, corresponde a la que tiene el mesmo fabricador della, 
+assi esta <placeName ref="catalogo_nombres_lugares.xml#L010">Ciudad de Lisboa</placeName> tan famossa correspondiò en sus hechos
+al <persName ref="catalogo_nombres_personas.xml#U001">Ulises</persName>; ya en ser los Naturales muy amigos de sulcar mares, y aun-
+que con trabajos en sus peregrinaciones descubrir nuevas tierras, y</p> 
+<p>D  en 
+</p>
+</div><!--Termina folio--> 
+
+<div>
+<p>Folio 9 verso</p>
+<p>en todos acaecimientos valerosos y valientes soldados, y muy afi-
+cionados al Astronomia. Y acomodando estas costumbres de <persName ref="catalogo_nombres_personas.xml#U001">Ulises</persName>, y su Ciudad a la imagen de <placeName ref="catalogo_nombres_lugares.xml#O008">Orion</placeName>, dizen los Poetas: que este
+fue Principe en <placeName ref="catalogo_nombres_lugares.xml#B005">Beocia</placeName> <placeName ref="catalogo_nombres_lugares.xml#A025">Region de Acaya</placeName> en la <placeName ref="catalogo_nombres_lugares.xml#G004">Grecia</placeName>, y discipulo 
+en la Astronomia de <persName ref="catalogo_nombres_personas.xml#A043">Atlante</persName>, y hijo de <persName ref="catalogo_nombres_personas.xml#J020">Jupiter</persName>, a quien llamaron en 
+aquellos tiempos Rey justo; assimesmo como la Fabula dize, fue
+tambien hijo de <persName ref="catalogo_nombres_personas.xml#N002">Neptuno</persName> presidente de las Navegaciones, el qual en
+su mocedad (assi como <persName ref="catalogo_nombres_personas.xml#U001">Ulises</persName>) se diò a la Monteria, en compañia de 
+<name type="person">Diana</name><!--Atenea,¿por qué diana? Pendiente-->, y creciendo fue tan valeroso soldado, que los Romanos le
+llamaron yugula, por estar armado con corazas, Espada ceñida,
+con Adarga arrodelado, y en la <term type="body" ref="catalogo_terminos.xml#M004">mano derecha</term> una grande Cymitha-
+ra de hierro enarbolada, el qual tiene a la orilla de su imagen, el
+<placeName ref="catalogo_nombres_lugares.xml#E008">Rio Eridano</placeName>, y no muy lexos de si la Nave, y assimismo los dos
+Canes, y la Liebre por el aficion que tuvo a estos exercicios. Todos
+de la inclinacion de <persName ref="catalogo_nombres_personas.xml#U001">Ulises</persName>, y de los Naturales de su Ciudad.
+</p> 
+<p>Pues si esta imagen del <placeName ref="catalogo_nombres_lugares.xml#O008">Orion</placeName>, tan correspondiente a la <placeName ref="catalogo_nombres_lugares.xml#L010">Ciudad de Lisboa</placeName>, se halla que se la cercò el Cometa, y la fue dando bateria
+con la punta de su Arma, y siendo de la Naturaleza del <placeName ref="catalogo_nombres_lugares.xml#P023">Planeta</placeName> que
+la diò su virtud, puesto en el signo de <placeName ref="catalogo_nombres_lugares.xml#L006">Leon</placeName>, que domina sobre la
+Imperial <placeName ref="catalogo_nombres_lugares.xml#M005">Villa de Madrid</placeName>. Que mucho si ello se vino todo enca-
+denado, se pronostique aver de caer sus influencias sobre la obstina-
+da <placeName ref="catalogo_nombres_lugares.xml#L010">Ciudad de Lisboa</placeName>? y sobre sus moradores por la Milicia de nue-
+	stro Gran Monarcha <persName ref="catalogo_nombres_personas.xml#F011">Felipo IIII</persName>. denotada por el Cometa?
+</p>
+ <p>Y para concluyr esto de <placeName ref="catalogo_nombres_lugares.xml#L010">Lisboa</placeName> con un Aphorismo del <persName ref="catalogo_nombres_personas.xml#T010">Gran Tris-
+megisto</persName>; para que se entienda, se ha de notar primero, por ser cosa
+muy sabida que aquel <placeName ref="catalogo_nombres_lugares.xml#P005">Reyno de Portugal</placeName> se reveló de la obediencia
+que tenian, y devian tener a su legitimo Rey, y Señor, dandosela a
+<persName ref="catalogo_nombres_personas.xml#J028">Don Iuan</persName>, Duque que fue de <placeName ref="catalogo_nombres_lugares.xml#B006">Verganço</placeName>, desde <date when="1640-12-01">primero de Diziem-
+bre de 1640</date>. hasta <date when="1640-12-15">15</date>. del, que le Coronaron. De forma que ya esto
+sucediò en los fines del <date when="1640">Año</date>. <cit type="textual">El Aphorismo, es el 73. y dize assi.
+ 	<!--gloss--><quote><foreign xml:lang="lat">Omnis rebellus incipiens rebellare in principio auni, obtincbit finedificulta-
+te dominium, et c contra</foreign></quote><!--/gloss-->, como se dexa entender por ser precepto muy
+advertido en la ciencia, que pues fue esta rebelacion en fin del Año:
+ 	<!--gloss--><quote><foreign xml:lang="lat">Obtinebit dominium cum dificultate, timore, et tristia</foreign></quote></cit><!--/gloss-->. Harto aurà te-
+nido desto, el que se dexò llevar de una ciega obstinacion, y princi-</p>
+<p>pal-
+</p>
+</div><!--Termina folio-->
+
+<div> 
+	<p>Folio 10 recto</p>
+<p>palmente, desde que vido la señal que le està tan parentemente ame-
+nazado, para cuyo funebre fin se ponen aqui estos verlos.</p>
+	<p><cit type="textual"><quote><foreign xml:lang="lat">Nunc fortuna fovet: nec superbiris eadem.
+Nam quos exaltat: minime perpectuo fovet.</foreign></quote></cit></p>
+ <p>En <placeName ref="catalogo_nombres_lugares.xml#C010">Constantinopla</placeName>, amenaza tambien con grandes, y diversos
+accidentes, por estar en el dominio de <placeName ref="catalogo_nombres_lugares.xml#C009">Cancer</placeName>, y con mas fortaleza
+por estar <placeName ref="catalogo_nombres_lugares.xml#M011">Marte</placeName> (que tiene particular dominio en aquella Nacion)
+detrimentado, y mirando al Cometa de quadrado, que es el que mu-
+da su Auge por Março desde <date when="1653">año de 53</date>. como lo tengo dicho en mi
+ <title>Diario</title>. Y con razon de ello <cit type="textual"><bibl><!--¿Esta información es también la de la cita pasada?--><author><persName ref="catalogo_nombres_personas">Ludovico de Regis</persName><!--Pendiente--></author> part. I Aphor. 9.</bibl>
+dize. <quote><foreign xml:lang="lat">Mutanturregna, et dominia fides, secteque, acopiniones hominum-
+dum mutantur Auges <placeName ref="catalogo_nombres_lugares.xml#P023">Planetarum</placeName> de signos in signus. Dico illarum gen-
+tium quarum significator crit <placeName ref="catalogo_nombres_lugares.xml#P023">Planeta</placeName> augis permutate</foreign></quote></cit>. Que puntual-
+mente hablò este Autor de la mudança de la secta de este Reyno,
+quando escribiò sus Aphorismos al Patriarcha de <placeName ref="catalogo_nombres_lugares.xml#C010">Constantinopla</placeName>.
+Y que serà a mejor estado, lo declara lo referente del Aphorismo, por 
+ser <placeName ref="catalogo_nombres_lugares.xml#J002">Jupiter</placeName> señor de la Magna Conjuncion, que sucediò Año de<date when="1603">1603</date>.
+que demas de significar la Fee Christiana, dize <persName ref="catalogo_nombres_personas.xml#A013">Albumazar</persName>, que fue
+de su Nacion. <cit type="textual"><quote><foreign xml:lang="lat"><placeName ref="catalogo_nombres_lugares.xml#J002">Jupiter</placeName> in <placeName ref="catalogo_nombres_lugares.xml#C008">Capricornio</placeName>, significar aumentum fider Chri-
+stiane</foreign></quote></cit><!--Pendiente, ¿es de albumazar?-->. Que aunque nuestra tanta fee Catolica no ha menester estos
+adminiculos para su sagrado aumento, pero suele dar estas señales
+exteriores para su testificacion; como sucedio en aquel prodigio lu-
+cido de la Estrella que guiò a los <persName ref="catalogo_nombres_personas.xml#R004">Reyes Magos</persName>, predicando a su mo-
+do los mysterios de <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> hecho hombre. <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> lo traiga a verdade-
+ro efecto para exaltacion de su santa Ley, que hartos prenuncios de
+ello nos señalan las Estrellas en estos tiempos. Este Cometa, por
+las causas dichas, denota muerte de su Emperador, ò Principe, como
+sucediò despues de la Aparicion de otro Cometa año de <date when="930">930</date>. que
+de la gran hambre que se padeciò murieron en <placeName ref="catalogo_nombres_lugares.xml#C010">Constantinopla</placeName> 300 <abbr source="catalogo_nombres_abreviaturas.xml#I003">ij.</abbr>
+ personas, por aver aparecido el Cometa en <placeName ref="catalogo_nombres_lugares.xml#C009">Cancro</placeName>, que domina en 
+ella, y en esta se confirma mas, por aver fenecido en <placeName ref="catalogo_nombres_lugares.xml#T007">Tauro</placeName>, signo
+tambien de su dominio.
+</p>  
+<p>Entre <placeName ref="catalogo_nombres_lugares.xml#H011">Holanda</placeName>, <placeName ref="catalogo_nombres_lugares.xml#Z005">Zelanda</placeName>, <placeName ref="catalogo_nombres_lugares.xml#I006">Inglaterra</placeName>, y sus confines sugetos al di-</p>
+<p>D2   cho
+</p>
+</div><!--Termina folio--> 
+
+<div>
+<pb>Folio 10 verso</pb> 
+<p>cho signo de <placeName ref="catalogo_nombres_lugares.xml#C009">Cancer</placeName>, se denotan algunas Alteraciones de guerras,
+venciendo las mas Orientales, padeciendo todos algunos de los in-
+fortunios significados por el Cometa, y de quien le inssimula, que
+es <placeName ref="catalogo_nombres_lugares.xml#M011">Marte</placeName>.
+</p>
+<p>En la parte mas Septentrional de <placeName ref="catalogo_nombres_lugares.xml#F003">Francia</placeName>, por las mismas causas
+se sentiràn parte de los efectos dichos, Desasosiegos en los mismos
+Naturales por algunas opresiones que reciban de sus mayores. No
+dexando de alcançar muy gran parte a la <placeName ref="catalogo_nombres_lugares.xml#I004">Italia</placeName>, de adversos Tem-
+porales, falta de sintos, hambres, y pestilencias que de ella se siguan,
+con muerte de ganados.
+</p>
+ <p>En el Reyno de la <placeName ref="catalogo_nombres_lugares.xml#C024">Gran China</placeName>, y principalmete en lo mas inte-
+ 	rior del, por averles sido perpendicular el Cometa, padeceràn  har-
+tos desasosiegos, muertes y opresiones, y otras adversidades.
+</p>
+ <p>En la region <!--¿Se marca aparte "sur de chile"?-->Austral del <placeName ref="catalogo_nombres_lugares#C005">Chile</placeName>, desde la boca del gran <placeName ref="catalogo_nombres_lugares.xml#R007">Rio de la
+Plata</placeName>, hasta la <placeName ref="catalogo_nombres_lugares.xml#C025">provincia de la Concepcion</placeName>, que cae a la parte del Sur
+ de la costa del <placeName ref="catalogo_nombres_lugares.xml#P002">Pirù</placeName>, por aver sido alli perpendicular el Cometa en
+su Nacimiento, basta para temerse de sus efectos, pues estas son las
+partes donde mas enseñan sus <term type="body" ref="catalogo_terminos.xml#U002">uñas</term>,<cit type="textual"> como dize el <bibl><author>Doctor <persName ref="catalogo_nombres_personas.xml#F025">Raxo</persName></author><title><abbr source="catalogo_nombres_abreviaturas.xml#C001">cap.</abbr>
+	23. de Cometis.</title></bibl><quote><foreign xml:lang="lat">Loca quibus Cometa mineturfame, Peste, et c. Sunt
+primumea, quibus verticalê exutisse. His enim infausti/simus erit: eisque
+cuarrata mala naturaliteren eniunt</foreign></quote></cit>. Y lo mismo dizen <persName ref="catalogo_nombres_personas.xml#L024">Leopoldo de
+Austria</persName>, y el Maestro <persName ref="catalogo_nombres_personas.xml#B005">Barrientos</persName>. <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> les mire con <term type="body" ref="catalogo_terminos.xml#006">ojos</term> de mise-
+ricordia, pues harto avisados quedaron, con el Terremoto tan hor-
+rible que sucedió a <date when="1647-05-13">13. de Mayo de 47</date><!--Terremoto de santigo de 1647-->. cuyos mensageros fueron
+una gran Exhalacion encendida que a primero del mespor la noche
+passo hazia el Sudoeste, echando centellas de si. Y el cerco tan gran-
+de que se vido en la <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> 24. <abbr source="catalogo_nombres_abreviaturas.xml#H001">hor.</abbr> antes del sucesso, muy gruesso, y
+ceniciento, de naturaleza de <placeName ref="catalogo_nombres_lugares.xml#S010">Saturno</placeName>, señales exteriores, y ciertas
+a semejenates efectos, y ruynas, como <cit type="textual"><bibl><author><persName ref="catalogo_nombres_personas.xml#M029">Marco Manilio</persName></author></bibl> lo dizen en sus
+versos.</cit>
+</p>
+<p><cit type="textual"><quote><foreign xml:lang="lat">Ne mirere graves rerum, bominunque ruinas.
+Sepae domi culpa esti nescimus credere caelo.
+Nunquam fatilabas ex canduit ignibus aér</foreign>.</quote></cit>
+</p>
+ <p>En razon del tiempo en que començaran a sentirse sus efectos,
+es manifiesto comiençan muy brevemente, principalmente en la</p>
+<p>tierra,</p>
+</div> <!--Termina folio 10-->
+
+<div> 
+<p>Folio 11 recto</p>
+<p>tierra, como se vido en este, que denotando, como denotò Terre-
+motos, sequedad, y grandes yelos, luego a los 20 dias de su apari-
+cion sucedieron los Terremotos, sequedades y yelos. Y para los
+demas que alteran los <term type="body" ref="catalogo_terminos.xml#H006">humores</term> de las personas, se estiende a mas
+tiempo, por que como ha de ser causa el Ayre con que respiramos,
+(y tengo ya probado) es necessario que primero se corrompa por
+virtud del Cometa, y despues vaya inficionando los <term type="body" ref="catalogo_terminos.xml#H006">humores</term> poco
+a poco, y de inficionados, se sigan enfermedades, y tras, y lo demas
+que de ello se puede seguir. Y para cosas de guerras, mas tiempo,
+por las prevenciones que antes son necessarias. <cit type="parafrasis"><bibl><author><persName ref="catalogo_nombres_personas.xml#P019">Ptolomeo</persName></author></bibl> en razon
+desto dize: <quote>que por aver aparecido al <placeName ref="catalogo_nombres_lugares.xml#O005">Oriente</placeName>, començaran dentro
+de quatro meses siguientes</quote></cit>. <cit type="textual">Y <bibl><author><persName ref="catalogo_nombres_personas.xml#L024">Leopoldo de Austria</persName></author></bibl>, por la misma
+razon dize. <quote><foreign xml:lang="lat">Tune cito eveniet quod significar</foreign></quote></cit>. Y lo que mas se ha de te-
+ner por cierto, en cuanto a sus mas notables effectos, es el tiempo
+que tardarà el <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName> en hallarse en el signo, y grados en que apareciò
+el cometa, que serà quando comiencen los Caniculares. Y lo que
+duraràn, por ser el Cometa de segunda Magnitud, y aver durado
+22. dias, se regulan por otros tantos meses De forma que vendràn a fe-
+necer (segun esta quenta) por <date when="1655-02">Febrero de 1655</date>. Si <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> como dueño
+de todo, no suspendiese, o dilatare por nuestras culpas mas su castigo.
+</p>
+ <p><head>TRAENSE ALGUNOS EXEMPLA-
+res, de efectos prodigiosos que se han visto, des-
+pues de las Apariciones de algunos Cometas, con
+que dá fin el Autor a su Discurso.</head>
+</p>
+ <p>Dicho està (a mi parecer) lo que basta, en razon de Co-
+meta, y que todos quantos se aparecen son Annuncios de
+grandes accidentes, pues no se causan sin muy justa, y de-
+terminada permision del <persName ref="catalogo_nombres_personas.xml#D010">summo Hazedor</persName>. Y assi, de mu-
+chos Exemplares que pudiera, solo tratarè dos, para remate, y sin
+deste Discurso, los mas Protentosos que se han visto, como los re-
+fieren Autores muy fidedignos, y principalmente el primero <cit type="parafrasis"><bibl><author><persName ref="catalogo_nombres_personas.xml#E021">Eu-
+febio</persName></author>, y <author><persName ref="catalogo_nombres_personas.xml#F026">Josepho</persName></author> <title><abbr source="catalogo_nombres_abreviaturas.xml#L001">lib.</abbr> 7. <abbr source="catalogo_nombres_abreviaturas.xml#C001">cap.</abbr> 21. de <abbr source="catalogo_nombres_abreviaturas.xml#B004">Bell.</abbr> <abbr source="catalogo_nombres_abreviaturas.xml#J002"> Jud.</abbr></title></bibl> el qual es como se sigue.
+Des-
+</cit></p>
+</div><!--Termina folio-->
+
+<div> 
+<pb>Folio 11 verso</pb> 
+	<p><cit type="parafrasis"><quote>Despues que en la <placeName ref="catalogo_nombres_lugares.xml#C026">Ciudad de Jerusalen</placeName> se apareciò un Cometa;
+en figura de Espada, Año de <date when="69">69</date>. del Nacimiento de <persName ref="catalogo_nombres_personas.xml#J006">Christo</persName>, que
+<date when="70">durò sobre ella tiempo de un Año</date>. Aviendose juntado para la fie-
+esta de los Azimos, mucha gente de diversas Naciones, <date when="70-04-18">18 de Abril
+del dicho Año</date>. siendo ya las 9 <abbr source="catalogo_nombres_abreviaturas.xml#H001">hor.</abbr> de la Noche, vieron los circun-
+stantes tan gran resplandor de luz, que alumbrava Ara del Templo;
+que les pareció a todos, ser de dia muy claro; la qual luz, de verdad, 
+durò por epacio de media hora. Y aviendo traydo para los sacrifi-
+cios de aquella Festividad, Bezerros, fueron puestos sobre el Ara, y
+sobre ellos los Sacerdotes puestas sus <term type="body" ref="catalogo_terminos.xml#M005">manos</term>, haziendo las ceremo-
+nias que se acostumbravan. Demas desto notaron, que una puerta,
+que estava en lo interior del templo, cerrada que mirava al <placeName ref="catalogo_nombres_lugares.xml#O005">Oriente</placeName>,
+y era tan pessada, que apenas veinte hombres con todas sus fuerças
+la podian mover, para abrirla o cerrarla, por ser toda aforrada de
+gruessas chapas de Bronze, y tener demas de esso, mucho hierro de
+clavazon, Cerrojos, y Aldabones; vieron a las 11. de la Noche (que
+ellos llamavan la hora de sexta) sin que nadie atocara a ella, que se
+abrió de improvisso, de que quedaron muy admirados. Despues
+desto el dia <date when="70-05-20">20. de Mayo</date>, a puestas de <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName>, vieron una grande Exha-
+lacion ignea en el cielo, a manera de un Carro, que quatro Cavallos
+le tiravan, y trayan por toda aquella Region. Fuera desto, en la fie-
+sta de Penthecostès, oyeron los Sacerdotes, por la Noche una vos
+que dezia: HUIGAMOS DE AQUI, que esta les fue mas espantossa,
+que los demas prodigiosque avian visto: La cual voz, era de un
+hombre llamado <persName ref="catalogo_nombres_personas.xml#J006">Jesus</persName>, pleveyo, y rustico, que de dia, y de noche,  y
+muy de continuo, se paseava por las calles, y plaças, de la Ciudad,
+dando vozes diziendo: VOZ DEL <placeName ref="catalogo_nombres_lugares.xml#O005">ORIENTE</placeName>, VOZ DEL OCCI-
+DENTE. VOZ A QUATRO VIENTOS. VOZ SOBRE <placeName ref="catalogo_nombres_lugares.xml#J004">JERUSA-
+LEN</placeName>, Y SU TEMPLO. VOZ SOBRE MARIDOS, Y MUGERES.
+VOZ SOBRE TODO EL PUEBLO. El qual de ninguna manera, en
+estas ocaciones, ni se açotava, ni llorava, ni hazia mas de dar estas
+vozes, añadiendo despues a su Thema: DESDICHADOS DE VOSO-
+TROS, DESDICHADOS DE VOSOTROS IEROSOI IMITANOS.
+Reynando esto, muchas vezes, y a lo ultimo quando acercavan
+los efectos de aquellos presagios, con mayores Exclamaciones
+bol-
+</quote></cit></p>
+</div><!--Termina folio-->
+
+<div> 
+<pb>Folio 12 recto</pb> 
+<p><cit type="parafrasis"><quote>bolvia a dezir:DESDICHADA DE TI, DESDICHADA DE TI
+CIUDAD Y PUEBLO. Y a las postreras que dio alçó la voz mucho
+mas, y dixo: DESDICHADO TAMBIEN DE MI, y cayò muerto
+en tierra. Y estas fueron las vozes que aquel hombre rustico diò,
+de la miserable destruycion, y ruyna, que a <placeName ref="catalogo_nombres_lugares.xml#J004">Jerusalen</placeName> amenazava
+aquel Cometa y los demas prodigios que se le siguieron, pues a un 
+Año despues dellos, vinieron los Romanos, y poniendo cerco a <placeName ref="catalogo_nombres_lugares.xml#J004">Je-
+rusalen</placeName> con grandes artificios de guerra, la arruynaron, y destruye-
+ron, muriendo en ella de hambre, y a cuchillo, un millon, y cienmil
+personas, de los Judios que la posseyan, en el primero Año del impe-
+rio de <persName ref="catalogo_nombres_personas.xmlV010">Vespasiano</persName>. Y aunque se vido el Cometa en otras muchas par-
+tes, y por muchos, que no pudieron ignorarlo, ninguno ubo de grande, 
+ni mediano entendimiento, que lo congeturasse, y assi vinieron todos
+a padecer, cada qual por su camino , grandes y crueles infortunios.
+</quote></cit></p>
+<p>Y no solo los Cometa, son anuncios, y presagios de Hambres,
+Pestes, y demas accidentes, sino que tambien son causas de que con la
+corrupcion del Ayre se engendren Monstruos, como Fisicamente lo
+traen muchos Doctores, que tambien son presagios de muy señalados
+accidentes en el mundo, como del casso presente constarà.
+</p> 
+<p>En <placeName ref="catalogo_nombres_lugares.xml#S018">Saxonia</placeName>, despues de averlo apreciado un Cometa el Año de
+<date when="1515">1515</date>. Nacio de una Muger un genero tan horrendo de Mounstruo,
+que causava admiracion el verle, el qual tenia <term type="body" ref="catalogo_terminos.xml#P002">pies</term> de Toro<!--Estas en realidad son pezuñas, pendiente--> , quatro
+<term type="body" ref="catalogo_terminos.xml#006">Ojos</term>, <term type="body" ref="catalogo_terminos.xml#B003">Boca</term>, y <term type="body" ref="catalogo_terminos.xml#N002">Nariz</term> de Bezerro, Capilla de Monge hecha de la mis-
+ma <term type="body" ref="catalogo_terminos.xml#C009">carne</term>, y en lo superior de la <term type="body" ref="catalogo_terminos.xml#C001">cabeça</term> un cerco, tambien de la mis-
+ma <term type="body" ref="catalogo_terminos.xml#C009">carne</term> a manera de Corona Sacerdotal: A lo qual poco despues
+se siguio la maldita secta de <persName ref="catalogo_nombres_personas.xml#L018">Luthero</persName>, que fue un accidente de los peo-
+res que han sucedido en el mundo. Y esto he referido, para dar a en-
+teneder, que los Cometa son anuncios de grandes males, y que a ellos
+se les siguen cossas prodigiosas, que nos denoten Hambres, Pestes,
+Guerras, y desventuras. Y lo malo que ay, es el poco caso que de se-
+mejantes cossas se haze, y no falte quien lo interprete a nuestro bien, y
+comodidad, como lo hazia el vulgo <!--persona de jersualen, ¿se marcan?-->Gerosolimitano, y aunque los 
+Varones experimentados lo declaravan, como lo hazia aquel Rustico,
+los demas no lo creyan, ni hazian casso de ello, antes lo tenian por 
+locuras, y mas ayna lo atribuyan a bonança, buenos sucessos, dichas,
+y feli-
+</p>
+</div><!--Termina folio-->
+
+<div> 
+<pb>Folio 12 verso</pb>
+ <p>y felicidades propias, que a los infortunios, trabajos, y calamida-
+des que despues se le seguian. Y pues Nosotros somos Christianos
+y lemos de aquellas palabras en semejantes ocasiones, <cit type="parafrasis"><bibl><title>que se hallan
+en el segundo libro de los Machebeos <abbr source="catalogo_nombres_abreviaturas.xml#C001">cap.</abbr> 5. <abbr source="catalogo_nombres_abreviaturas.xml#V004">vers.</abbr> 4</title></bibl>. <quote>Rogando a  
+nuestro Redemptor <persName ref="catalogo_nombres_personas.xml#J006">Jesus</persName>, convierta semejantes prodigios, y señales
+en bien nuestro; no imitemos a aquellos que falsamente interpre-
+tavan las influencias celestes, y quando querian remediar sus traba-
+jos; no podian, que pues tenemos dicha de que los Astros nos im-
+bien mensajeros de los trabajos, è infelicidades venideras; no sea-
+mos tan descuydados, que dexemos de levantar algunas veces los
+<term type="body" ref="catalogo_terminos.xml#006">ojos</term> al cielo,</quote></cit><!--Pendiente revisitar estas citas--> <cit><bibl><author>como el <persName ref="catalogo_nombres_personas.xml#J021">Santo Job</persName></author> nos lo amonesta en su libro <title><abbr source="catalogo_nombres_abreviaturas.xml#C001">cap.</abbr> 35. 
+<abbr source="catalogo_nombres_abreviaturas.xml#V004">vers.</abbr> 5.</title></bibl> <quote><foreign xml:lang="lat">Suspicaelum, et intuere, et contemplare aethera quoastalriôr 
+cesit</foreign></quote></cit>. Para que levantados lo <term type="body" ref="catalogo_terminos.xml#006">ojos</term> al cielo, miremos y contemple-
+mos esta Esfera del fuego que està sobre nosotros, para que viendo
+en esta algunas señales, llegemos antes de la venida de sus acciden-
+tes al universal remedio, de <persName ref="catalogo_nombres_personas.xml#M018">Maria</persName> Templo sagrado; para como
+tan buena Patrona alcance de su sacratisimo Hijo refrene los Astros,
+que desta forma, seguros podremos esperar, que el mal que
+nos amenazan, se convierta en utilidad 
+nuestra.</p>
+	<p><cit type="textual"><quote>			<foreign xml:lang="lat">Totum, et Completium est quod habet principium, mediam,
+	et finem</foreign></quote></cit></p> 
+
+<p>	EXperincias son ya comprobadas muy Antiguas, que quando un Co-
+	meta con su Movimiento Natural, passa la Linea de una parte a otra,
+	comprehenden sus Efectos en todo el Mundo; mas principalmete como
+	tengo dicho, en las partes que estuvieren en la division de los signos donde el
+	Cometa se engendrò, y hizo su viage hasta que feneciô. Y assimesmo, en las
+	en que se hallaron los <placeName ref="catalogo_nombres_lugares.xml#P023">Planetas</placeName> que la instimulavan, que en este fueron <placeName ref="catalogo_nombres_lugares.xml#C009">Cancer</placeName>, <placeName ref="catalogo_nombres_lugares.xml#G003">Geminis</placeName>, <placeName ref="catalogo_nombres_lugares.xml#T007">Tauro</placeName>, <placeName ref="catalogo_nombres_lugares.xml#L009">Libra</placeName>, y <placeName ref="catalogo_nombres_lugares.xml#L006">Leon</placeName>. Quien quisiere ver las partes que seran,
+	en los Reportorios de <persName ref="catalogo_nombres_personas.xml#Z002">Zamorano</persName>, el <persName ref="catalogo_nombres_personas.xml#V002">Valenciano</persName>, y otros, los hallarà.--</p>
+	<p>		<foreign xml:lang="lat">Omnia sub correctione</foreign></p>
+<p><abbr source="catalogo_nombres_abreviaturas.xml#N005">N.S.R.E.</abbr></p>
+</div><!--Termina folio-->
+
+</body>
+</text>
+</TEI>

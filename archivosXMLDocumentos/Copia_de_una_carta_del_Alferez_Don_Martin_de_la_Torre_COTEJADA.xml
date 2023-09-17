@@ -1,0 +1,748 @@
+﻿<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+  xmlns:rng="http://relaxng.org/ns/structure/1.0" 
+  xml:lang="es"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="validation/document.xsd">
+  <teiHeader>
+ <fileDesc>
+  <titleStmt>
+       <title type="main">
+        Copia de una carta del Alferez Don Martin dela Torre tocante a la
+aparicion de un Cometa de los años de <date when="1680">1680</date>, <date when="1681">1681</date>.
+        </title>
+
+			  <title type="short">
+        Carta de Don Martín dela Torre.
+        </title>	
+
+       <author>Don Martín dela Torre</author>
+  </titleStmt>	   
+	
+  <editionStmt>
+<edition n="1">
+     Edición digital de la obra Copia de una carta del Alferez Don Martin dela Torre tocante a la
+aparicion de un Cometa de los años de <date when="1680">1680</date>, <date when="1681">1681</date>.
+   </edition>
+   <respStmt>
+     <name>Ramiro Cotarelo Lira</name> 
+     <resp>Marcado XML/TEI</resp>
+   </respStmt>
+   <respStmt>
+     <name>Ramiro Cotarelo Lira</name>
+     <resp>Transcripción</resp>
+   </respStmt> 
+   <respStmt>
+    <name>Cristina Noemi Gonzalez Del Valle</name>
+     <resp>Curaduría digital</resp> 
+   </respStmt>
+  </editionStmt>
+
+  <publicationStmt>
+<publisher>Universidad Nacional Autónoma de México.</publisher> 
+<publisher>Facultad de Filosofía y Letras</publisher>   
+<distributor>Biblioteca Digital del Pensamiento Novohispano</distributor>
+  </publicationStmt>
+	   
+	   <sourceDesc>
+	     <bibl>
+          <author>Don Martín dela Torre</author>
+          <title>
+        Copia de una carta del Alferez Don Martin dela Torre tocante a la
+aparicion de un Cometa de los años de <date when="1680">1680</date>, <date when="1681">1681</date>.		
+          </title>
+          <date when="1681">1681</date>  
+		</bibl>
+	</sourceDesc>      
+ </fileDesc>
+</teiHeader>
+
+<text>
+  <body>
+  <div>
+    <p>folio 1 recto</p>
+    <p> 
+Copia de una carta del Alferez ['o' "Don"] <persName ref="catalogo_nombres_personas.xml#T008">Martin dela Torre</persName> tocante a la 
+aparicion de un Cometa de los años de <date when="1680">1680</date>, <date when="1681">1681</date>.
+    </p>
+    <p>
+Satisfago al deseo [de un, y entro] en el Teatro de la curiosidad hu-
+mana, en el [digo] de los cometas, Portentosos y prodigiosos celestes,
+arcanos, Rayos y amenazas de la venganza Divina; admira-
+    </p>
+</div>
+
+<div>
+<p>folio 1 verso</p>
+<p>
+dos de lo [meteonomos], contemplados de los Filósofos, temidos del vulgo
+[incapaz], como pregones de [futuras] calamidades, y interpretados de 
+las [Sibilas, santos padres, y Theologos, como anuncios de la [<abbr source="catalogo_nombres_abreviaturas.xml#N003"><!--"nuestra" o "señora"-->nra</abbr>]
+Divina.
+</p>
+<p>
+  Pero antes de alargarme [en mi] discurso, trataré con la breve-
+dad, a que dan lugar mis ocupaciones, de su lugar en el dilema
+del <placeName ref="catalogo_nombres_lugares.xml#M007">Mundo</placeName>, [su] forma, materia, termino de <!--abreviación no identificada, la transcripción estima que significa duración.-->[<abbr source="catalogo_nombres_abreviaturas.xml#D016">duran.</abbr>] y naturaleza.
+[que] hicieron mui [ventilada] <!--en el texto parece ser una hache, pero también s-->[sabido o habido], entre los observadores astrono-
+mos, si todos los cometas, son elementares, que es sublunares, ó infe-
+riores a la <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName>; o si son celestes; eso es superiores, y Independientes,
+de toda materia de los clementes: question digo de toda consequen-
+cia, porque de su decision depende el juicio de sus efectos naturales;
+si son elementares; ó sobrenaturales, si son celestes, y formados
+en aquel altisimo ethere, por sola la disposicion divina, sin
+intervencion de las Causas  elementares y aunque en ella se
+ha exercitado mucho la influencia humana, por las [exactisi-
+mas] observaciones de los mas insignes cometas [en los] tiempos,
+no se le ha podido dar definitiva sentencia, con exclusion del 
+sentir [contrario], por quanto consta por las [humilisimas] observa-
+ciones de los paralaxes, que algunos á havido, superiores a la
+</p>
+</div>
+
+<div>
+  <p>folio 2 recto</p>
+    <p>
+<placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName>, y otros inferiores, como el del <date when="-0396">año del [<abbr source="catalogo_nombres_abreviaturas.xml#S014">sr.</abbr>] 396</date> que [refiere]
+<persName ref="catalogo_nombres_personas.xml#A007"><abbr source="catalogo_nombres_abreviaturas.xml#S013">Sn.</abbr> Agustin</persName> Inficionava a <placeName ref="catalogo_nombres_lugares.xml#C010">Constantinopla</placeName> de hedor de Azufre, 
+y con mas evidencia el del año del <date when="1050">[1050]</date> que [discurren] las obser-
+vaciones haber eclipsado a la <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName>.
+  </p>
+<p>
+  Para cuya inteligencia es de notar, que los vapores y
+exalaciones de los elementos, tierra, agua, fuego y aire, no
+llegan, quanto menos paran al <placeName ref="catalogo_nombres_lugares.xml#C006">cielo</placeName> con cavo de la <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName>, y
+consecutivamente en los <placeName ref="catalogo_nombres_lugares.xml#C006">cielos</placeName> superiores, no ay causa, ni ma-
+teria, para producirlos naturalmente, sino solo ay se for-
+man, por la disposicion Divina como portentos sobre natura-
+les, pregones de su ira, y amenazas de su venganza; y asi
+solo de los Inferiores discurre el juicio Astrologico, en quan-
+to asus Influencias, y efectos naturales.
+</p>
+<p>
+  De su forma segun consta, por las [subcesivas] Historias,
+se han observado siempre, varias especies y diferencias, por <abbr source="catalogo_nombres_abreviaturas.xml#Q005">qe</abbr>
+unos aparecieron con rabos [exuserinos], otros Cavellentos, otros
+en forma de flecha, espada, hacha en undida, y lanza, que
+siempre han sido los mas fatales.
+</p>
+<p>
+  En cuanto a la materia, segun la distincion ya alegada,
+convengo, en que al cometa celeste, lo produce <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> sobre natural-
+</p>
+  </div>
+
+  <div>
+  <p> Folio 2 verso</p>
+<p>
+  -mente de substancia etherea y de la naturaleza de los <!--NO SE HABLA DE CIELO COMO REGION ASTRONOMICA-->cielos,
+como obra de sus maravillas, y prodigios de su omnipotencia; pe-
+ro del cometa sublunar, siempre huvo varias y [sutilisimas] opi-
+niones unas que se formava<!--decía tomada, se cambió--> de la ['fuerza' o 'forma' o 'junta'] de muchas estrellas,
+[concurriones] en conjuncion, otras de planetas altisimos, y invi-
+sibles, que haciendo sus giros, y estando en el perigeo [<placeName ref="catalogo_nombres_lugares.xml#V003">venus</placeName>]
+epiciclos, se hacian visibles enciertos tiempos, y otras de nubes
+sublimes ilustradas por los rayos del <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName>, pero [atodas] se les opone
+la evidencia de la experiencia, porque si fuera el cometa, una
+[junta] de Estrellas, todos los cometas habian de ser celestes, lo
+que repugna a las observaciones, y las estrellas fijas no mudan
+distancias entre si ni durara esta conjuncion tanto tiempo,
+como el de algunos que seis meses enteros aparecieron visibles;
+ni es planeta, por que haciendo sus giros, y entrando en su apogeo
+apareciera primero, como estrella de quinta y 6a. magnitud
+creciendo su forma en la proporcion de su movimiento, y cerca-
+nía al perigeo; ni nube alumbrada del <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName>, por que no du-
+rara tanto tiempo, ni se viere en una misma forma, en regio-
+nes remotas y diferentes y assi en mi sentir con <persName ref="catalogo_nombres_personas.xml#A035">Aristóteles</persName> y
+otros modernos la decesion mas probable, y versada es, que el
+</p>
+</div>
+
+<div>
+  <p>Folio 3 recto</p>
+    <p>
+      cometa en su cuerpo es diaphano y [Real], levantado y formado
+en la suprema <placeName ref="catalogo_nombres_lugares.xml#R001">Region del Aire</placeName>, de las exalaciones de la <placeName ref="catalogo_nombres_lugares.xml#T004">tierra</placeName>
+y en primer lugar de las de la <placeName ref="catalogo_nombres_lugares.xml#M014">mar</placeName>, ensendidas, ó alumbra-
+das por el fuego del <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName> por donde se forma su rabo que no es lla-
+ma, sino rayos del <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName>, hechados por la caveza diaphana del
+mismo cometa, porque no solo segun este <!--no menciona nombre, no marcamos alucion-->Philosopho, sino assi-
+mismo, consta por la experiencia, que el agua marina, tiene
+un genero [degontura], azeitosa y [salitrava] cuios vapores [guia-
+dos] continuadamente suben a la mas alta <placeName ref="catalogo_nombres_lugares.xml#R001">Region del ayre</placeName>, y la
+<placeName ref="catalogo_nombres_lugares.xml#T004">tierra</placeName> en innumerables partes, abunda de vapores azufrados,
+y minerales, de los quales siempre se exalan espiritus calidos
+y secos, otros [es] salitrados y azeitosos, que [juntados] en una 
+masa forman un <term type="body" ref="catalogo_terminos.xml#C002">cuerpo</term>, capaz de ser encendido, ó alumbra-
+do del <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName>, que es el mismo Cometa, y aunque no han faltado ar-
+gumentos en contra, convienen los mas, en que se forman de
+causas ocultas de la naturaleza.
+</p>
+<p>
+  El tiempo de su duracion es vario, y depende de la canti-
+dad de esas exhalaciones, que si es mucha, aparecerá mas ti-
+empo el Cometa, y si es poca menos. De manera que los que
+duran mas tiempo se fomentan con materia mas abundante
+</p>
+</div>
+
+<div>
+  <p>Folio 3 verso</p>
+<p>
+  y de las observaciones consta que el cometa que menos ha durado
+ha sido de seis y siete dias, y el que mas, de seis meses, y de la
+misma manera, como el tiempo de su aparicion depende de
+la cantidad de la materia, assi el de sus efectos naturales, del
+mismo tiempo de la aparicion.
+</p>
+<p>
+  Su naturaleza es varia, y la de los planetas, cuios colo-
+res y especies imitan, y de los signos en que aparecen y de ella
+nace el jucio de sus influencias, y efectos naturales. Y aunque
+este ha sido el blanco de la Curiosidad humana, fue siempre
+reputado por dificultosisima su comprehencion, como de ma-
+teria tan desproporcionada, con la Orden de la naturaleza
+enemiga de sus leyes, forma de tiempo, y sola regular, en las
+irregularidad de sus movimientos, atribuyendola con mas fun-
+damento a las maravillas del <persName ref="catalogo_nombres_personas.xml#D010"><abbr source="catalogo_nombres_abreviaturas.xml#S014">Sr.</abbr></persName> y su divina y incompre-
+hensible providencia, y a lo mas, que pudo llegar este juicio,
+es a una mera congetura, fundada en la experiencia de lo
+que en la succesion de los tiempos antiguos y modernos, en to-
+das apariciones de cometas, siempre por lo mas se ha visto
+succeder, cuya fuerza fuera mas valida, si huviere avido mu-
+chos cometas, en forma, duracion, naturaleza, y sus efectos
+</p>
+</div>
+
+<div>
+  <p>Folio 4 recto</p>
+<p>
+en todo semejantes. A lo que se reduce la <!--decía historia-->[sumaria] segun <persName ref="catalogo_nombres_personas.xml#P019">Ptolo-
+meo</persName>, <persName ref="catalogo_nombres_personas.xml#L024">Leopoldo de Austria</persName> y <persName ref="catalogo_nombres_personas.xml#G015"><abbr source="catalogo_nombres_abreviaturas.xml#F004">Franco.</abbr> Juventino</persName> Doctor Teologico
+es lo siguiente.
+</p>
+<p>
+Si el cometa es Saturnino, eso es de la naturaleza de
+<placeName ref="catalogo_nombres_lugares.xml#S010">Saturno</placeName>; que es planeta de luz aplomada, palida, triste, ne-
+bulosa; frio y seco, contrario al calor natural, enemigo del ge-
+nero humano, y Infortuna mayor en cuio oroscopo del na-
+cimiento apareciere, indica naturalmente segun <!--Ilegible. Se estima que es nombre propio.-->Juventino,
+enfermedades melancolicas, y largas, y en el oroscopo del Año
+que empieza, peniteras, ambre, langostas, y pobresas, y a los
+hombres predominados del Imperio de <placeName ref="catalogo_nombres_lugares.xml#S010">Saturno</placeName>, engendra
+Austeridades, embidias, disenciones, avaricias, tristezas, ene-
+mistades, ostinaciones, y maldades.
+</p>
+<p>
+Si es de la naturaleza de <placeName ref="catalogo_nombres_lugares.xml#J002">Jupiter</placeName>, plateada, y reluci-
+ente fertilidad, pero males de costado, colicas, y letargos. Si es
+marcial eso es en [undivo], y en forma de [ata] significa na-
+turalmente efectos de cosas calidas como vientos, Temblores
+de tierra, Tormentas, rayos, fluxos de <term type="body" ref="catalogo_terminos.xml#V001">vientre</term>, calenturas
+agudisimas, y colericas, sediciones y Guerras.
+</p>
+<p>
+Si es dorado, imitador del <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName>; Muerte de Principes
+</p>
+  </div>
+
+<div>
+  <p>Folio 4 verso</p>
+<p>
+levantamientos, mudanzas de Estados, calores y sequedades
+Si genero, azul y subrutilo amenaza a los <term type="body" ref="catalogo_terminos.xml#R002">riñones</term>, a la
+madre, al <term type="body" ref="catalogo_terminos.xml#E002">estomago</term>, hidropesia, apoplexias, mudanza de leyes.
+Si Mercurial, epilepsias, achaques freneticos, letargos ham-
+bre y peste. Si lunar amenaza al muxerío, con esterilida-
+des, enfermedades húmedas, y Guerras ligeras.
+</p>
+<p>
+  El cometa presente por ser de luz aplomada, palida, tris-
+te y nebulosa, sin rayos, y en forma de Alfange, participa
+sin duda de la naturaleza de <placeName ref="catalogo_nombres_lugares.xml#S010">Saturno</placeName>, y assi indica natural-
+mente, sus influencias, y efectos ya referidos en el princi-
+pio se la sumaria de la naturaleza de <placeName ref="catalogo_nombres_lugares.xml#S010">Saturno</placeName>.
+</p>
+<p>
+  Y porque en su principio fue oriental, segun <persName ref="catalogo_nombres_personas.xml#P019">Ptolomeo</persName>
+sus efectos sucederan en el apariente tiempo, o presto, y poco
+despues de su aparicion, aunque los puede dilatar en algo;
+el haverse hecho el cometa al presente occidental, por donde
+serian sus efectos sospechosos en la maior parte del año y
+mas por que su aparicion, no seria de las mas breves pues
+siempre fué creciendo su rabo hasta que se extendio a 58.
+grados y [50] minutos, aunque desde el dia <date when="1681-01-08">8 de Enero del 1681</date>.
+empezó adisminuirse, como se verá en mis siguientes
+</p>
+  </div>
+
+<div>
+  <p>Folio 5 recto</p>
+<p>
+  observaciones.
+</p>
+<p>
+  Y porque fué caminando con su movimiento propio para
+el <placeName ref="catalogo_nombres_lugares.xml#O005">Oriente</placeName>, y conjuncion con el <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName>, [distante de el] de manera
+que fué Visible por los meses de <date when="1680-11"><abbr source="catalogo_nombres_abreviaturas.xml#N009">Nob.re</abbr></date> y <date when="1680-12">Diciembre del año
+pasado del 1680</date>. Yndica segun <persName ref="catalogo_nombres_personas.xml#P019">Ptolomeo</persName> Muerte y [Ynterivo]
+de Principes y Cavezas Coronadas, y porque ese mismo <abbr source="catalogo_nombres_abreviaturas.xml#M007">movim.to</abbr>
+fue hacia el <placeName ref="catalogo_nombres_lugares.xml#O005">Oriente</placeName>, amenaza guerras estrangeras inva
+sion y asaltos repentinos, y mas en las regiones y parte <abbr source="catalogo_nombres_abreviaturas.xml#Q005">qe</abbr>
+ha sido perpendicular en el <placeName ref="catalogo_nombres_lugares.xml#Z003">Zenit</placeName>, o en cuyos Orizontes fué 
+mas larga su demora y aparicion, quales son todas las de
+poca altura de la una y otra [vanda] de la linea; porque en 
+el principio tuvo este cometa con poca diferencia la mis
+ma declinacion de la vanda del <placeName ref="catalogo_nombres_lugares.xml#S011">Sur</placeName> que la <placeName ref="catalogo_nombres_lugares.xml#E007">espiga de la
+Virgen</placeName> que es de [9] grados y [25] minutos aunque esta siempre
+fué amenos, hasta que el cometa pasó la linea, con [<abbr source="catalogo_nombres_abreviaturas.xml#D018">declinan.</abbr>]<!--podría interpretarse como declinación.-->
+Septeptrional, que va creciendo de día en día.
+</p>
+<p>
+  Esta es, segun <persName ref="catalogo_nombres_personas.xml#P019">Ptolomeo</persName> y <persName ref="catalogo_nombres_personas.xml#G015">Juventino</persName> la congetura y juicio,
+en quanto a las inclinaciones y efectos naturales del presente
+cometa. De la inclinacion [digo] de su naturaleza, no de ne-
+cesidad de su operacion. <foreign xml:lang="lat">[(Latín) <abbr source="catalogo_nombres_abreviaturas.xml#N010">Nam.</abbr> de no ipse et Voluntatis</foreign>
+</p>
+</div>
+
+<div>
+  <p>Folio 5 verso</p>
+<p> 
+ <foreign xml:lang="lat">nostre liberas, celevrium y oqium</foreign>] Inclinaciones. [<foreign xml:lang="lat">sepe nu-
+mero vanas et innitas facient. neque erum astris, arim
+voluntates Subtestua, res sapiens illis predominabitur:</foreign>] y
+es lo que alcansaron [consta] capacidades en materia tan subli-
+me y dudosa, y en que aunque salga verdadero el Juicio
+[siempre] es malo el Acierto, porque es acierto en mal. Lo cier-
+to es, que sean los cometas Celestes, ó sublunares siempre en 
+lo mas, [ansido] preambulos, y causas segundas aunque no
+fisicas de mudanzas notables en estas cosas sublunares, y
+que los forma la providencia de <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> milagrosamente,
+o consiente se formen de causas naturales, para valerse 
+de ellos aunque con efecto natural para encausamiento sa-
+ludable, y anuncios de su ira, y cercano Contigo <foreign xml:lang="lat">et. exunt
+signa in celo <!--nota en el costado izquierdo-->+[Utin evangelio...]</foreign>, no que sea cierta su execucion, sino para 
+que (como sucedió a la <placeName ref="catalogo_nombres_lugares.xml#N005">Ciudad de Ninive</placeName>, y aquel Rey
+del Pueblo de <placeName ref="catalogo_nombres_lugares.xml#I003">Isrrael</placeName>, cuya vida alargó <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> por quinze
+años, movido de supervivencia, no obstante su [decreto] <abbr source="catalogo_nombres_abreviaturas.xml#Q005">qe</abbr>
+le anuncio el Profeta de la brevedad de sus dias, y que
+dispusiere de su Causa) convirtiendonos a su <persName ref="catalogo_nombres_personas.xml#D010">divina Mage-
+stad</persName>, [<abbr source="catalogo_nombres_abreviaturas.xml#P006">pa.</abbr>] la contemplacion de tan fatales indicios, la convierta
+</p>
+</div>
+
+<div>
+  <p>Folio 6 recto</p>
+<p>
+  en Misericordia, y en esta [atencion llama a los Cometas]
+<persName ref="catalogo_nombres_personas.xml#A007"><abbr source="catalogo_nombres_abreviaturas.xml#S013">Sn.</abbr> Agustin</persName> misericordia de <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName>, y no riesgo, y <persName ref="catalogo_nombres_personas.xml#T004">Tertuliano</persName>
+Profetas, lenguas, y pregones Celestes, para <abbr source="catalogo_nombres_abreviaturas.xml#Q005">qe</abbr> nos reconcilié-
+mos con su <persName ref="catalogo_nombres_personas.xml#D010">Divina Magestad</persName>. [(Latín) <foreign xml:lang="lat"><abbr source="catalogo_nombres_abreviaturas.xml#N010">Nam</abbr> <persName ref="catalogo_nombres_personas.xml#D010">Deus</persName> et natura tus
+spectaculis nihil justra oporantius, quorum quideno pro-
+nosticatio probabilis in genere, desingulis vero Incerissi-
+ma est</foreign>] luego el querer particularizar estos pronosticos a
+personas singulares Reyes, o Principes de su muerte con
+denotacion de Persona ó de otros sus [suceros] particulares 
+es vano, ridiculo, afectado, y sin fundamento, amenos <abbr source="catalogo_nombres_abreviaturas.xml#Q005">qe</abbr>
+sea por la gracia del espiritu profetico porque la inte-
+ligencia de tan arcanos, y [es con divinisimos] prodigios los
+tiene <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> reservado en los secretos [Terrenos] de su infi-
+nita sabiduria. 
+</p>
+<p>
+  Tocante a lo de mis observaciones apareció primero
+este cometa en el <placeName ref="catalogo_nombres_lugares.xml#O005">Oriente</placeName> en el signo de virgo, con decli-
+nacion austral por la madrugada poco despues de las  
+dos del dia <date when="1680-11-24">24 de noviembre del año de 1680</date> y de aý en
+adelante siempre nació  mas tarde, por causa de su ve-
+los movimiento porio para el <placeName ref="catalogo_nombres_lugares.xml#O005">Oriente</placeName> y cercania al <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName>
+</p>
+</div>
+
+<div>
+  <p>Folio 6 verso</p>
+<p>
+  oprimiendo de sus raios hasta que con el se puso en conjuncion, y pasa-
+da esta se hizo mas Oriental, por donde forzosamente despues de su ocaso,
+fue visible en el <placeName ref="catalogo_nombres_lugares.xml#O003">Occidente</placeName>, y de matutino se hizo vespertino, de Oriental
+Occidental, igual a el que se vió en <placeName ref="catalogo_nombres_lugares.xml#A016">Alemania</placeName> <date when="1261-08">año de [1261] por el mes
+de Agosto</date>, pues era matutino en el <placeName ref="catalogo_nombres_lugares.xml#O005">oriente</placeName>, y de ai a poco estando en
+conjuncion con el <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName> el [exo] de parecer y pasada esta apareció otra ves
+en el <placeName ref="catalogo_nombres_lugares.xml#O003">occidente</placeName>, y aunque al vulgo parece este cometa era otro, no es 
+sino el mismo; ni mas ni menos como sucede en la <placeName ref="catalogo_nombres_lugares.xml#L004">luna</placeName> que quando se
+acerca para la conjuncion con el <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName>, se ve por la madrugada en el
+<placeName ref="catalogo_nombres_lugares.xml#O005">oriente</placeName>, y pasada esta, y puestose la <placeName ref="catalogo_nombres_lugares.xml#L004">luna</placeName> mas al [l]este que el mismo
+<placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName>, se nos aparece en su ocaso en el <placeName ref="catalogo_nombres_lugares.xml#O005">occidente</placeName>.
+</p>
+<p>
+  No fué observable por causa de los vapores del <placeName ref="catalogo_nombres_lugares.xml#H003">orizonte</placeName> hasta
+el dia <date when="1680-11-28">Jueves 28 de Nobiembre</date> quando empecé a observarlo en este
+puerto de [<abbr source="catalogo_nombres_abreviaturas.xml#N001">n</abbr> <abbr source="catalogo_nombres_abreviaturas.xml#S001">s</abbr>] <placeName ref="catalogo_nombres_lugares.xml#C012"><abbr source="catalogo_nombres_abreviaturas.xml#F004">Franco</abbr> de Campeche</placeName> cuia voreal elevacion del Polo es de
+grados 19. <abbr source="catalogo_nombres_abreviaturas.xml#H004">hr.</abbr> el mismo dia <date when="1680-11-28">Jueves 28 de Nobiembre por la madruga-
+da del año de 1680</date> pareció al antojo, aunque no es de los mas gran-
+des mayor que una estrella de primera magnitud, su color era
+aplomado, triste nebuloso y Saturnino mas occidental y elevada <abbr source="catalogo_nombres_abreviaturas.xml#Q005">qe</abbr>
+<placeName ref="catalogo_nombres_lugares.xml#E007">la espiga del [la virgen]</placeName>, su movimiento propio era veloz para el
+<placeName ref="catalogo_nombres_lugares.xml#O005">oriente</placeName>, y ese mismo día en elevacion de la <placeName ref="catalogo_nombres_lugares.xml#E007">Espiga</placeName> para el <placeName ref="catalogo_nombres_lugares.xml#O005">oriente</placeName>
+</p>
+</div>
+
+<div>
+  <p>Folio 7 recto</p>
+<p>de grados 33.8 distaba el <placeName ref="catalogo_nombres_lugares.xml#A017">Cometa de Arturo</placeName> grados 32.ih. y de
+la postrera de la cola de la <placeName ref="catalogo_nombres_lugares.xml#O009">[ursus] maior</placeName> grados 58.15 su elevacion era
+de grado 30.7. y entonces empezaba el crepusculo aunque con mas
+precision por el calculo trigonometrico y la elevacion de la <placeName ref="catalogo_nombres_lugares.xml#E007">espiga</placeName>
+se sabra el momento del tiempo era largo su [rabo] de grados 13.
+30. y se encendía hasta el corazon del Leon para la parte del <placeName ref="catalogo_nombres_lugares.xml#O003">occi-
+dente</placeName> y opuesta al <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName>.
+</p>
+<p>
+Por la madrugada del dia <date when="1680-11-29">Viernes 29 de <abbr source="catalogo_nombres_abreviaturas.xml#N009">Nob.re</abbr></date> en elevacion de
+la <placeName ref="catalogo_nombres_lugares.xml#E007">espiga</placeName> para el <placeName ref="catalogo_nombres_lugares.xml#O005">Oriente</placeName> de grados 19.52. distava el cometa de <placeName ref="catalogo_nombres_lugares.xml#A017">Arturo</placeName>,
+para el [lente] grados 32.26 de la postrera de la cola de la <placeName ref="catalogo_nombres_lugares.xml#O009">[ursa] mayor</placeName>
+grados [59.ho] estava casi en conjuncion, con la <placeName ref="catalogo_nombres_lugares.xml#E007">espiga de la virgen</placeName> y
+su rabo muy pequeño por la vezindad del <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName>. y algo mas voreal <abbr source="catalogo_nombres_abreviaturas.xml#Q005">qe</abbr>
+la otra <placeName ref="catalogo_nombres_lugares.xml#E007">espiga</placeName>.
+</p>
+<p>
+El dia <date when="1680-11-30">sabado 30 de Noviembre</date> por la madrugada elevada la
+<placeName ref="catalogo_nombres_lugares.xml#E007">espiga</placeName> al <placeName ref="catalogo_nombres_lugares.xl#O005">oriente</placeName> de grados 19.[h9] distava de <placeName ref="catalogo_nombres_lugares.xml#A017">Arturo</placeName> al <placeName ref="catalogo_nombres_lugares.xml#O005">oriente</placeName>
+grados 33.6 de la postrera de la cola de la <placeName ref="catalogo_nombres_lugares.xml#O009">ursa mayor</placeName> grados 62.[h2].
+hallavase en un vertical con la <placeName ref="catalogo_nombres_lugares.xml#E007">espiga</placeName> de la virgen y mas orien-
+tal y cercano al <placeName ref="catalogo_nombres_lugares.xml#H003">orizonte</placeName>.
+</p>
+<p>
+El <date when="1680-12-01">dia primero de Diciembre</date> Domingo por la madrugada
+elevada la <placeName ref="catalogo_nombres_lugares.xml#E007">espiga</placeName> al <placeName ref="catalogo_nombres_lugares.xml#O005"> oriente</placeName> de grados 27.[hh]. distava de <placeName ref="catalogo_nombres_lugares.xml#A017">Arturo</placeName>
+</p>
+</div>
+
+<div>
+  <p>Folio 7 verso</p>
+<p>
+grados 33.39 de la [ara] cola de la <placeName ref="catalogo_nombres_lugares.xml#O009">ursa mayor</placeName> grados 63.[13.] de
+la <placeName ref="catalogo_nombres_lugares.xml#E007">espiga</placeName> 9.29. mui disminuido su rabo por los rayos del <placeName ref="catalogo_nombres_lugares.xml#S007">sol</placeName>, y al
+parecer [distava] su caveza al <placeName ref="catalogo_nombres_lugares.xml#N004">norte</placeName> de la <placeName ref="catalogo_nombres_lugares.xml#E007">espiga</placeName> y algo mas orien-
+tal cosa de 9 alo minimo.
+</p>
+<p>
+El dia <date when="1680-12-02">lunes 2 de <abbr source="catalogo_nombres_abreviaturas.xml#D019">Diz.re</abbr></date> por la madrugada elevada la
+<placeName ref="catalogo_nombres_lugares.xml#E007">espiga</placeName> al <placeName ref="catalogo_nombres_lugares.xml#O005">oriente</placeName> grados 27.[44]. distava de <placeName ref="catalogo_nombres_lugares.xml#A017">Arturo</placeName> grados 35..
+32. de la postrera de la cola de la <placeName ref="catalogo_nombres_lugares.xml#O009">ursa mayor</placeName> grados 66.7.. de
+la <placeName ref="catalogo_nombres_lugares.xml#E007">espiga</placeName> 14.40. mas oriental que ella y menos elevada subia su
+rabo vertical para la <placeName ref="catalogo_nombres_lugares.xml#E007">espiga</placeName> llegando casi a ella con su extremo.
+</p>
+<p>
+<date when="1680-12-03">Martes 3 de Diciembre</date> elevada la <placeName ref="catalogo_nombres_lugares.xml#E007">espiga</placeName> al <placeName ref="catalogo_nombres_lugares.xml#O005">oriente</placeName> grados 33.18
+distaba de <placeName ref="catalogo_nombres_lugares.xml#A017">Arturo</placeName> al <placeName ref="catalogo_nombres_lugares,xml#O005">oriente</placeName> grados 37.38 de la postrera de la cola de la
+<placeName ref="catalogo_nombres_lugares.xml#O009">ursa mayor</placeName> grados 68.52. de la <placeName ref="catalogo_nombres_lugares.xml#E007">espiga</placeName> 20.6. tenuissima cada versus
+spicam <date when="1680-12-04">Miercoles 4 de <abbr source="catalogo_nombres_abreviaturas.xml#D019">Diz.re</abbr></date> [<foreign xml:lang="lat">mane alta <placeName ref="catalogo_nombres_lugares.xml#E007">spica</placeName> ad <placeName ref="catalogo_nombres_lugares.xml#A017">artum</placeName> gradibus 37.30.</foreign>]
+distava en el <placeName ref="catalogo_nombres_lugares.xml#O005">oriente</placeName> de <placeName ref="catalogo_nombres_lugares.xml#A017"> arturo</placeName> grados 36.20. de la postrera de la 
+cola de la <placeName ref="catalogo_nombres_lugares.xml#O009">ursa mayor</placeName> 67.16. de la <placeName ref="catalogo_nombres_lugares.xml#E007">espiga</placeName> 21.20 poco elevado del
+<placeName ref="catalogo_nombres_lugares.xml#H003">orizonte</placeName> ni parecia su rabo oprimido de los rayos del <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName>.
+</p>
+<p>
+<date when="1680-12-05">Jueves 5 de diciembre</date> elevada la <placeName ref="catalogo_nombres_lugares.xml#E007">espiga</placeName> al <placeName ref="catalogo_nombres_lugares.xml#O005">oriente</placeName> grados
+37.20. Distava de <placeName ref="catalogo_nombres_lugares.xml#A017">arturo</placeName> grados 36.36. de la postrera de la
+cola de la <placeName ref="catalogo_nombres_lugares.xml#O009">ursa maior</placeName> grados 67.[80]. de la <placeName ref="catalogo_nombres_lugares.xml#E007">espiga</placeName> 21.36 casi invi-
+sible los otros 3 a 4 dias aun se vió en el <placeName ref="catalogo_nombres_lugares.xml#O005">oriente</placeName>, pero no obser-
+</p>
+</div>
+
+<div>
+  <p>Folio 8 recto</p>
+<p>bable por la claridad de la <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> y cercanía al <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName> y los demas
+dias invisible hasta el dia <date when="1680-12-20">viernes 20 de <abbr source="catalogo_nombres_abreviaturas.xml#D019">Diz.re</abbr></date> a prima noche po-
+co despues de las 6 que se vió su rabo en el <placeName ref="catalogo_nombres_lugares.xml#O003">occidente</placeName> mui crecido
+su caveza invisible por los vapores del <placeName ref="catalogo_nombres_lugares.xml#H003">orizonte</placeName>, y lo mismo fué el dia
+<date when="1680-12-21">21 de <abbr source="catalogo_nombres_abreviaturas.xml#D019">Diz.re</abbr></date> 
+</p>
+<p>
+  El dia <date when="1680-12-22">22 de Diciembre</date> a la misma hora vespertina se vió su
+rabo sin la caveza estendiase desde el <placeName ref="catalogo_nombres_lugares.xml#H003">orizonte</placeName> hasta la cola del 
+[<placeName ref="catalogo_nombres_lugares.xml#C018">cigne</placeName>], y mas adelante 4 y 5. grados y lo mismo fué los dias sigui-
+entes hasta el dia <date when="1680-12-29">Domingo 29 de <abbr source="catalogo_nombres_abreviaturas.xml#D019">Diz.re</abbr></date> quando se vió su caveza
+en el <placeName ref="catalogo_nombres_lugares.xml#O003">occidente</placeName> in observable por la claridad de la <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> y vapo-
+res del <placeName ref="catalogo_nombres_lugares.xml#H003">orizonte</placeName> estendiase su rabo hasta la lucida de la Catedra
+De<placeName ref="catalogo_nombres_lugares.xml#C013">casiopea</placeName> y fué casi siempre nebuloso triste del color de la ca
+beza aunque cerca de ella algo mas escondido y claro y lo mis-
+mo los dias siguientes por las nuves hasta el dia <date when="1681-01-03">Viernes 3 de 
+Enero aprima noche 1681</date>. porque elevada la cola del <placeName ref="catalogo_nombres_lugares.xml#C018">cigne</placeName> al
+<placeName ref="catalogo_nombres_lugares.xml#O003">occidente</placeName> grados 23.31. distava de la misma cola del <placeName ref="catalogo_nombres_lugares.xml#C018">cigne</placeName> gra-
+dos 34.37. de la lucida de la catedra De<placeName ref="catalogo_nombres_lugares.xml#C013">casiopea</placeName> 57.49. esten-
+diase su rabo hasta grados 58.40. mas para el este, y elevado
+que la constelacion de <placeName ref="catalogo_nombres_lugares.xml#C013">Casiopea</placeName>.
+</p>
+<p>
+  El dia <date when="1681-01-04">Savado 4 de Enero</date>, aprima noche elevada la cola
+</p>
+</div>
+
+<div>
+  <p>Folio 8 verso</p>
+<p>del <placeName ref="catalogo_nombres_lugares.xml#C018">cigne</placeName> al <placeName ref="catalogo_nombres_lugares.xml#O003">occidente</placeName> grados 22.45. distava de la cola del <placeName ref="catalogo_nombres_lugares.xml#C018">cigne</placeName>
+grados 33.40. de la lucida de la Catedra de <placeName ref="catalogo_nombres_lugares.xml#C013">Casiopea</placeName> 55.20. el
+rabo largo grados 58.40. mas adelante y elevada que la <placeName ref="catalogo_nombres_lugares.xml#C013">cas-
+siopea</placeName>.
+</p>
+<p>
+  <date when="1681-01-05">Domingo 5 de Enero</date> a prima noche elevada de la cola del
+<placeName ref="catalogo_nombres_lugares.xml#C018">cigne</placeName> grados 17.16. al <placeName ref="catalogo_nombres_lugares.xml#O003"> Occidente</placeName> distava el cometa en el <placeName ref="catalogo_nombres_lugares.xml#O003">occiden-
+te</placeName> de la cola del <placeName ref="catalogo_nombres_lugares.xml#C018">cigne</placeName> grados 32.56. de la lucida de la Catedra
+de <placeName ref="catalogo_nombres_lugares.xml#C013">Cassiopea</placeName> 51.22. del pecho de <placeName ref="catalogo_nombres_lugares.xml#C013">Cassiopea</placeName> 53.18. y lo demas co-
+mo el <date when="1681-01-04">dia 4</date>.
+</p>
+<p>
+  El dia <date when="1681-01-06">Lunes 6 de Enero</date> a prima noche elevada la capela
+[hinco] al <placeName ref="catalogo_nombres_lugares.xml#O005">oriente</placeName> grados 47.50. distava el cometa al <placeName ref="catalogo_nombres_lugares.xml#O003">occidente</placeName>
+de la cola del <placeName ref="catalogo_nombres_lugares.xml#C018">cigne</placeName> grados 32.35. de la lucida de la catedra de
+<placeName ref="catalogo_nombres_lugares.xml#C013">Cassiopea</placeName> 48.28. del pecho de <placeName ref="catalogo_nombres_lugares.xml#C013">Cassiopea</placeName> 49.35. estendiase el ra-
+bo hasta rados 58.50. por el medio de entre <placeName ref="catalogo_nombres_lugares.xml#C013">Cassiopea</placeName> y el lu-
+cido lado de <placeName ref="catalogo_nombres_lugares.xml#P017">Perséo</placeName>, y la Caveza de Medusa.
+</p>
+<p>
+  El dia <date when="1681-01-07">Martes 7 de Enero</date>, a prima noche elevada la ca-
+pela [hinco] al <placeName ref="catalogo_nombres_lugares.xml#O005">oriente</placeName> grados 48.56. distava el cometa al
+<placeName ref="catalogo_nombres_lugares.xml#O003">occidente</placeName> de la cola del <placeName ref="catalogo_nombres_lugares.xml#C018">cigne</placeName> grados 32.30. de la lucida de la
+Catedra de <placeName ref="catalogo_nombres_lugares.xml#C013">Cassiopea</placeName> 45.16. del pecho de <placeName ref="catalogo_nombres_lugares.xml#C013">Cassiopea</placeName> 46.2. el rabo se
+estendia asta grados 58.50. mas adelante que <placeName ref="catalogo_nombres_lugares.xml#C013">Cassiopea</placeName> por el
+</p>
+</div>
+
+<div>
+  <p>Folio 9 recto</p>
+<p>medio de entre ella y el lucido lado de <placeName ref="catalogo_nombres_lugares.xml#P017">Perséo</placeName> y la caveza de 
+Medusa. [resto del párrafo ilegible]
+</p>
+<p>
+  <date when="1681-01-08">Miercoles 8 de Enero</date> dia en que empezó a disminuir su 
+rabo elevada la Capela [hinco] al <placeName ref="catalogo_nombres_lugares.xml#O005">oriente</placeName> grados 48. 48. distava 
+de la cola del <placeName ref="catalogo_nombres_lugares.xml#C018">cigne</placeName> grados 32.42. de la lucida de la catedra de 
+<placeName ref="catalogo_nombres_lugares.xml#C013">Cassiopea</placeName> 45.46. del pecho de <placeName ref="catalogo_nombres_lugares.xml#C013">Cassiopea</placeName> 42.40. de la cola se estendia
+solamente grados 53.[10]. y llegaba acia la caveza de Medusa.
+</p>
+<p>
+  <date when="1681-01-09">Jueves 9 de Enero</date> elevada la capela al <placeName ref="catalogo_nombres_lugares.xml#O005">oriente</placeName> grados 51.18.
+a prima noche distava el cometa de la cola del <placeName ref="catalogo_nombres_lugares.xml#C018">cigne</placeName> grados al <placeName ref="catalogo_nombres_lugares.xml#O003">occi-
+dente</placeName> 33.49. de la lucida de la Catedra de <placeName ref="catalogo_nombres_lugares.xml#C013">Cassiopea</placeName> 39.38. del pecho
+de <placeName ref="catalogo_nombres_lugares.xml#C013">Cassiopea</placeName> 39.26. su rabo siempre a menos y era de grado 51.20.
+casi en linea recta hacia el lucido lado de <placeName ref="catalogo_nombres_lugares.xml#P017">Perséo</placeName> la caveza mas
+subida triste y nebulosa, y el rabo en la misma proporcion.
+</p>
+<p> 
+  <date when="1681-01-10">Viernes 10 de Enero</date> elevada la capela al <placeName ref="catalogo_nombres_lugares.xml#O005">oriente</placeName> grados
+50.1. distava de la catedra de <placeName ref="catalogo_nombres_lugares.xml#C013">Cassiopea</placeName> grados 37.5. del pecho de
+<placeName ref="catalogo_nombres_lugares.xml#C013">Cassiopea</placeName> 36.46. de la cola del <placeName ref="catalogo_nombres_lugares.xml#C018">cigne</placeName> 35.4. el rabo menor y de
+grados 49. la caveza mui nebulosa se estendía hacia el lado de
+<placeName ref="catalogo_nombres_lugares.xml#P017">Perseo</placeName>.
+</p>
+<p>
+<date when="1681-01-11">Savado 11 de Enero</date> a prima noche elevada la capela al
+<placeName ref="catalogo_nombres_lugares.xml#O005">oriente</placeName> grados 53.46. distava de la Catedra de <placeName ref="catalogo_nombres_lugares.xml#C013">Cassiopea</placeName> 34.40. del
+</p>
+</div>
+
+<div>
+  <p>Folio 9 verso</p>
+<p>
+  del pecho de <placeName ref="catalogo_nombres_lugares.xml#C013">Cassiopea</placeName> 32.27. su rabo de grados 46.45.
+</p>
+<p>
+  <date when="1681-01-12">Domingo 12 de Enero</date> elevada la Capela al <placeName ref="catalogo_nombres_lugares.xml#O005">oriente</placeName> grados 55.20.
+distava de la catedra de <placeName ref="catalogo_nombres_lugares.xml#C013">Cassiopea</placeName> 33.5. del pecho de <placeName ref="catalogo_nombres_lugares.xml#C013">Cassiopea</placeName> 32.19.
+su rabo era de grados 43.46. siempre a menos y derecho hacia 
+el lucido lado de <placeName ref="catalogo_nombres_lugares.xml#P017">Perséo</placeName>.
+</p>
+<p>
+  Esas son mis observaciones hasta el dia de hoy y del presente
+cometa, y segun las cinco postreras su rabo fué en disminucion
+supuesto que habiendo sido el <date when="1681-01-07">martes 7 de Enero</date> de grados 58.50 a
+8 del [otro] no llegó a mas que 53.10. y a menos en adelante por don-
+de se puede Juzgar será de menos tiempo su aparicion y lo
+mismo proporcionadamente de sus influencias naturales las 
+de en adelante se haran con la misma exactitud para [su putam]
+a su tiempo por ellas y la doctrina de los Triangulos esfericos su
+declinacion ascension Ruta, latitud y longitud, y vario y veloz
+movimiento, para el <placeName ref="catalogo_nombres_lugares.xml#O005">oriente</placeName> que si dura algunas semanas
+como es apariente llegará el cometa a mucha declinacion de la
+vanda del <placeName ref="catalogo_nombres_lugares.xml#N004">Norte</placeName> y segun fuere en adelante su movimiento
+puede llegar a tanta que sea visible toda la noche y no se ponga
+debajo del <placeName ref="catalogo_nombres_lugares.xml#H003">orizonte</placeName>, de todo compondré su efemeride a su tiempo
+con las demas consequencias que de aý resultan. No ignoro <abbr source="catalogo_nombres_abreviaturas.xml#Q005">qe</abbr>
+</p>
+</div>
+
+<div>
+  <p>Folio 10 recto</p>
+<p>el Vulgo há estrañado que viendose en el <placeName ref="catalogo_nombres_lugares.xml#O005">oriente</placeName> hechava su ra-
+bo para el <placeName ref="catalogo_nombres_lugares.xml#O003">occidente</placeName>, y que al presente estando en el <placeName ref="catalogo_nombres_lugares.xml#O003">occidente</placeName>
+lo hecha a la parte opuesta y [averse] del [minimo <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName> parece] fun-
+damento porque todos los cometas siempre echan su rabo a la 
+parte opuesta del <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName>.
+</p>
+<p>
+  Y este es el discurso, aque la brevedad del tiempo y mis continuas
+ocupaciones dan lugar [asujetome] en todo a mejor parecer y a la Cen-
+sura de la Santa y Catolica <orgName ref="catalogo_nombres_organizaciones.xml#I004">Iglesia Romana</orgName>, que consiente estos
+juicios Astrologicos, [(latín) <foreign xml:lang="lat">cum reservatione liberi arbitry</foreign>], reservando la
+soverania de todo al supremo <persName ref="catalogo_nombres_personas.xml#D010">Dios</persName> [(latín) <foreign xml:lang="lat">ad cuius nostrum</foreign>], ovedecen los ele-
+mentos <!--nota en el costado izquierdo-->+[<foreign xml:lang="lat">Vtin edmetione captivitatis (ilegible)...</foreign>] se rinde la naturaleza los <placeName ref="catalogo_nombres_lugares.xml#M014">mares</placeName> se apartan estremecer-
+se los <placeName ref="catalogo_nombres_lugares.xml#C006">cielos</placeName>, <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName> y astros, mudan sus influencias, y cursos naturales. [(latín) <foreign xml:lang="lat">et
+<!--nota en el costado izquierdo-->+[Yn oratione tem] stetit Sol adgabaon et reberus est. Sol decem lineis por grados quos
+decenderat.</foreign>] y supuesto su divina piedad nos lo representa, en forma
+de flechas, espadas, lanzas, luces y hachas encendidas, en lugar
+de horrores sean señales de su misericordia; para que los que nos
+parecen pregones de sus iras sean con <persName ref="catalogo_nombres_personas.xml#A007"><abbr source="catalogo_nombres_abreviaturas.xml#S013">Sn.</abbr> Agustin</persName> anuncios de piedades;
+<!--nota en el costado izquierdo-->+[<foreign xml:lang="lat">Otios congregatione aposto lorum...</foreign>] con <persName ref="catalogo_nombres_personas.xml#T004">Tertuliano</persName> profetas de reconciliacion, lenguas del <persName ref="catalogo_nombres_personas.xml#D010">Espiritu Santo</persName>
+sean flechas del Amor Divino, espadas y lanzas de fortaleza en los
+travajos, luces desvanecedoras de tinieblas, y Arcos de Iris como los
+</p>
+</div>
+
+<div>
+  <p>Folio 10 verso</p>
+<p>
+  <!--nota en el costado izquierdo--> +[pues del diluvio] que dió en señal de su reconciliacion con el genero humano.
+</p>
+<p>
+  <!--nota en el costado izquierdo-->+[Nota] En esto va el Calculo de mis observaciones de los Eclipses que
+[ilegible] pide de los postreros Años.
+</p> 
+<p>
+  Del Eclipse de <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName>. en <placeName ref="catalogo_nombres_lugares.xml#P022">panama</placeName> cuia elevacion de polo bo-
+real [símbolo] de grados 9.3. observé el fin del Eclipse de <placeName ref="catalogo_nombres_lugares.xml#L004">luna</placeName> del <date when="1675-07-06">dia 6
+de Julio de 1675</date>. porque el principio me estorvaron las nubes
+y en el momento del verdadero fin de este Eclipse fué elevado [for-
+mahant] al <placeName ref="catalogo_nombres_lugares.xml#O005">oriente</placeName> grados 24.40. eso es hora 11.59.52. <foreign xml:lang="lat">post me-
+ridium dicte dici</foreign>.
+</p>
+<p> 
+  En la <placeName ref="catalogo_nombres_lugares.xml#H010">Habana</placeName> cuia altura de polo es de grados 23.6. observé
+el otro eclipse de <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> del dia <date when="1675-12-31">31 de Diciembre del mismo año
+del 1675</date>. y fue su verdadero principio en elevacion de [Procyon] al
+<placeName ref="catalogo_nombres_lugares.xml#O005">oriente</placeName> de grados 31.38. eso es hora 8.45.21. su fin elevado el regulo
+al <placeName ref="catalogo_nombres_lugares.xml#O005">oriente</placeName> de grados 27.58. eso es hora 10.45.12. [<foreign xml:lang="lat">unde tota diratio
+horarum dico horg</foreign>] 1.59.51. este eclipse se le pasó por alto a [As-
+golo] Romano
+</p>
+<p>
+  En <placeName ref="catalogo_nombres_lugares.xml#C019">Chiclana</placeName> que dista al Noroeste de <placeName ref="catalogo_nombres_lugares.xml#C020">Cadiz</placeName> cosa de tres
+leguas, y cuia elevacion de polo es de grados 36.31. observé el 
+eclipse de <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> de <date when="1677-05-16">16 de Mayo de 1677</date>. su verdadero principio
+fue elevado <placeName ref="catalogo_nombres_lugares.xml#A017">Arturo</placeName> al <placeName ref="catalogo_nombres_lugares.xml#O003">occidente</placeName> grados 32.2. esso es hora 1.53.21.
+</p>
+</div>
+
+<div>
+  <p>Folio 11 recto</p>
+<p>
+<foreign xml:lang="lat">post meridiam nortem</foreign>; su verdadero fin elevada la [linea] al <placeName ref="catalogo_nombres_lugares.xml#O003">occiden-
+te</placeName> grados 20.59. esso es hora 4.34.11. la total duracion fue de 
+horas 2.40.20. este eclipse observó el catedratico de <placeName ref="catalogo_nombres_lugares.xml#S017">Sevilla</placeName>
+<persName ref="catalogo_nombres_personas.xml#C030"><abbr source="catalogo_nombres_abreviaturas.xml#D020">Dn</abbr> Juan de la Cruz y Mesa</persName> su principio en <placeName ref="catalogo_nombres_lugares.xml#S017">Sevilla</placeName> hora 1.54.
+el fin hora 4.33 y estan los lugares casi en un mismo <placeName ref="catalogo_nombres_lugares.xml#M013">meridia-
+no</placeName>.
+</p>
+<p>
+En <placeName ref="catalogo_nombres_lugares.xml#C019">Chiclana</placeName> observé otro eclipse de <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> el <date when="1678-10-29">dia 29 de Octubre
+de 1678</date>. su principio a las 6.5'.48'' la Imersion total en <abbr source="catalogo_nombres_abreviaturas.xml#E015">elevan.</abbr>
+de la lira al <placeName ref="catalogo_nombres_lugares.xml#O003">occidente</placeName> de grados 55.8' esso es hora 7.5'.52'' la
+emersion elevada la lira grados 35.52' esso es hora 8.48'.:19'' el
+fin, elevada la lira al <placeName ref="catalogo_nombres_lugares.xml#O003">occidente</placeName> grados 25.10. esso es hora 9.48'.9''
+la total duracion de horas 3.42'.21''. <persName ref="catalogo_nombres_personas.xml#C030"><abbr source="catalogo_nombres_abreviaturas.xml#D021">D.n</abbr>. Juan de la Cruz</persName> lo ob-
+servo en <placeName ref="catalogo_nombres_lugares.xml#S017">Sevilla</placeName> la imersion hora 7.8'. emersion hora 8.49. [sabu bene].
+</p>
+<p> 
+  <persName ref="catalogo_nombres_personas.xml#M026"><abbr source="catalogo_nombres_abreviaturas.xml#D021">D.n</abbr> Vicente [Aust] de Mayorca</persName> observó el eclipse de
+<placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> del <date when="1675-01-11">11 de Enero 1675</date>. la total immersion hora 6.35. emer-
+sion hora 8.7'. y el año <date when="1676">1676</date>. el eclipse de <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName>. de <date when="1676-06-10">[10] de Junio</date>
+su principio hora 7.34' fin hora 10.12'. en este <placeName ref="catalogo_nombres_lugares.xml#C012">Puerto de Cam-
+peche</placeName> observé el eclipse de <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName> de <date when="1680-01-22">22 de (Enero)</date> digo <date when="1680-09-22"><abbr source="catalogo_nombres_abreviaturas.xml#S020">Septiem.re</abbr>
+del año pasado del 1680</date> su verdadero principio fué elevado el <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName>
+al <placeName ref="catalogo_nombres_lugares.xml#O003">occidente</placeName> de grados 69.53'. de donde se deduce por los triangulos
+</p>
+</div>
+
+<div>
+  <p>Folio 11 verso</p> 
+<p>
+  esfericos hora 0.13'.44''. despues de medio dia su fin en elevacion
+del mismo <placeName ref="catalogo_nombres_lugares.xml#S007">sol</placeName>. al <placeName ref="catalogo_nombres_lugares.xml#O003">occidente</placeName> de grados 46.39. esto es hora 2.37'.20''.
+por donde su medio fue hora 1.25'.32''. P.M. su total duracion de
+horas 2.23'.36''. se obscurecieron segun el anteojo a lo mas 5 dedos
+ó partes de las quales todo el diametro del disco solar tiene 12
+la observacion fue <!--símbolo encima de la x y en "proximo"-->exacta y iré continuandola en el eclipse
+de <placeName ref="catalogo_nombres_lugares.xml#L004">luna</placeName> proximo.
+</p> 
+<p>
+ <foreign xml:lang="lat">Observatio lunaris deliqy, diez <date when="1681-03-04">4 Marty 1681</date> facta a <persName ref="catalogo_nombres_personas.xml#T008">Mattino de
+la Torre</persName> in portum <placeName ref="catalogo_nombres_lugares.xml#C012"><abbr source="catalogo_nombres_abreviaturas.xml#S021">S.ti</abbr> Francisci de Campeche</placeName>.</foreign>
+</p>
+<p>
+  <foreign xml:lang="lat">Successith de lunare deliquium die <date when="1681-03-04">4 Marty anni 1681</date>. mané
+<placeName ref="catalogo_nombres_lugares.xml#L004">luna</placeName> ad <placeName ref="catalogo_nombres_lugares.xml#O003">occidentem</placeName>, et. âmé observattum est In portum <placeName ref="catalogo_nombres_lugares.xml#C012"><abbr source="catalogo_nombres_abreviaturas.xml#S021">S.ti</abbr> <abbr source="catalogo_nombres_abreviaturas.xml#F006">Fran.ci</abbr>
+de Campeche</placeName>, cuyus borea poli elevatio est. <abbr source="catalogo_nombres_abreviaturas.xml#G001">gr.</abbr> 19.41.</foreign>
+</p>
+<p>
+  <foreign xml:lang="lat">[suit] que verium eius initium; nam Spurium pauculis momen-
+tis preces serat de - indicavit manifesté telescopium, nam supremus
+lune mango erat lumine [hebetion], donec evitentes umbram terres-
+trem, ingremis est, coque momento erat alta <placeName ref="catalogo_nombres_lugares.xml#E007">Spica virginis</placeName> ad <placeName ref="catalogo_nombres_lugares.xml#O003">oc-
+cidentem</placeName> gradibus 51.50. eiusque declinattio [aurralis] <abbr source="catalogo_nombres_abreviaturas.xml#G005">grad.</abbr> 9. 27
+et ammsio recta 127. 7'. <placeName ref="catalogo_nombres_lugares.xml#S007">solis</placeName> vero locus in H. 14.35'.38''. et [asumsio]
+<placeName ref="catalogo_nombres_lugares.xml#L004">luna</placeName> 345.49 [unde] seducitur hora, qûo <placeName ref="catalogo_nombres_lugares.xml#E007">Spica</placeName> in <placeName ref="catalogo_nombres_lugares.xml#M013">Meridiano</placeName> fue-
+rat 14.5'.12''. P.M. et angulus ad polum Momento veri prin-</foreign>
+</p>
+</div>
+
+<div>
+<p>Folio 12 recto</p>
+<p>
+  <foreign xml:lang="lat">cipy <abbr source="catalogo_nombres_abreviaturas.xml#G005">grad.</abbr> 25.2. sive hore 1.40'.8''. qui ad [diti horis  14.5.12 octe]
+horas 15.45'.20''. pro dicto momento veri principy [huius eclipsis:]
+indicto loco <placeName ref="catalogo_nombres_lugares.xml#C012"><abbr source="catalogo_nombres_abreviaturas.xml#S021">S.ti</abbr> <abbr source="catalogo_nombres_abreviaturas.xml#F006">Fran.ci</abbr> de Campeche</placeName> i dest hora 3.45'.20''. matuti-
+na <date when="1681-03-04">4. marty 1681</date>.</foreign>
+</p>
+<p>
+<foreign xml:lang="lat">Nulle alie phas es fuere, nam <placeName ref="catalogo_nombres_lugares.xml#L004">luna</placeName> eclipsatta, in <placeName ref="catalogo_nombres_lugares.xml#H003">horizontom</placeName>
+Immersa est [esferé] momento, quo <placeName ref="catalogo_nombres_lugares.xml#S007">Sol</placeName> super cum ascendebat
+eclipsatti [himt] disci 9. qualium totus est 12 [colon]
+partis eclipsate, toto tempore rubeus subringer, orango superior
+aliquantum lucidios. Observatio exactissima frit cuius collatto
+cum alys [m] viveris partibus valcat ad veritatem inquisitio-
+nis [merirannum] differenttis = <persName ref="catalogo_nombres_personas.xml#T008">Martinus de la Torre</persName>____________</foreign>
+</p>
+<p>
+  En <placeName ref="catalogo_nombres_lugares.xml#P022">Panama</placeName> cuia elevacion de polo boreal es 9<abbr source="catalogo_nombres_abreviaturas.xml#G001">gr.</abbr> 3' observé el
+fin del eclipse de <placeName ref="catalogo_nombres_lugares.xml#L004">Luna</placeName> de <date when="1675-07-06">6 de Julio de 1675</date>. porque el princi-
+pio estorvaron las nubes  y en el mesmo momento del fin verdadero 
+fue elevado [Formabat] al <placeName ref="catalogo_nombres_lugares.xml#O005">oriente</placeName> 24<abbr source="catalogo_nombres_abreviaturas.xml#G001">gr</abbr> 40. y <abbr source="catalogo_nombres_abreviaturas.xml#P006">pa.</abbr> el consiguiente
+<abbr source="catalogo_nombres_abreviaturas.xml#H001">hor</abbr> 11.59.52. P.M. dicte dici. ____________________
+</p>
+</div>
+</body>
+</text>
+</TEI>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
