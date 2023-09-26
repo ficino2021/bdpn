@@ -10,11 +10,14 @@
 		<opera id="B002">Biblia. Job. Capítulo 35, verso 5</opera>
 		<opera id="B003">Biblia. Libro de Oseas</opera>
 		<opera id="B004">Biblia. Salmos 67. vers. 10</opera>
+		<opera id="B005">Biblia. Proverbios.</opera> 
  	</operaList>
 
  	<operaList nom="C">
  		<opera id="C001">Commentariorum in textum evangelicum. João da Sylveira</opera>
 		<opera id="C002">Canon de medicina. Avicena</opera> <!--probablemente, la cita no es clara-->
+		<opera id="C003">Civitas Dei. Libro que 5. Agustín.</opera>
+		<opera id="C004">Cuestiones naturales. Libro VII. Séneca.</opera> 
  	</operaList>
 
  	<operaList nom="D">
@@ -58,12 +61,14 @@
  	<operaList nom="L">
  		<opera id="L001">Lunario 1681. Carlos de Sigüenza y Góngora</opera>
 		<opera id="L002">Liber introductorii maioris ad scientiam judiciorum astrorum. Albumasar</opera>
+		<opera id="L003">Lapidicina. Gerónimo Pérez de Nueros</opera>
  	</operaList>
 
  	<operaList nom="M">
  		<opera id="M001">Meteororum. Alberto Magno. Tratado III. Capítulo IV</opera> <!-- Alberto cita a Juan Damaseno-->
 		<opera id="M002">Manifiesto filosófico contra los cometas. Carlos de Sigüenza y Góngora</opera><!--Manifiesto Filosófico contra los cometas despojados del imperio que tenían sobre los tímidos-->
 		<opera id="M003">Metefísica. Aristóteles</opera>
+		<opera id="M004">Metereologica. Arisóteles</opera>
  	</operaList>
 
  	<operaList nom="N">
