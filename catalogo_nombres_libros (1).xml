@@ -26,6 +26,7 @@
 		<opera id="D003">De magnis conjunctionibus. Albumasar</opera> <!--Kitāb al‐milal wa‐ʾl‐duwal ("Book on religions and dynasties")-->
 		<opera id="D004">De natura Rerum. Beda el venerable. Capítulo XXIV</opera>
 		<opera id="D005">De cometis et prodigiosis eorum portentis. Francisco Fernandez Rajo y Gomez. Capítulo XXIII</opera>
+		<opera Id="D006">Diario, y Pronostico de Temporales. Joseph de Escobar Salmerón y Castro</opera>
 		
  	</operaList>
 
@@ -63,6 +64,7 @@
 		<opera id="L002">Liber introductorii maioris ad scientiam judiciorum astrorum. Albumasar</opera>
 		<opera id="L003">Lapidicina. Gerónimo Pérez de Nueros</opera>
 		<opera id="L004">Aforismos. Libro 1. Galeno</opera>
+		<opera id="L005">In Liber Sententiarum. II Distinctio 7 q 2 a 2. Santo Tomás de Aquino</opera> 
  	</operaList>
 
  	<operaList nom="M">
@@ -104,6 +106,7 @@
  	<operaList nom="S">
  		<opera id="S001">Sermon 81. San Agustín</opera>
 		<opera id="S002">Speculum astrologiae vniuersam mathematicam scientiam in certas classes digestam complectens. Francesco Giuntini</opera>
+		<opera id="S003">Summa dictaminis. Thomas Capuanus</opera>
  	</operaList>
 
  	<operaList nom="T">
