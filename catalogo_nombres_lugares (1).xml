@@ -89,6 +89,7 @@
  <place id="D002">Declinación meridional</place> <!--Hacia el sur/meridiano-->
  <place id="D003">Declinación septentrional</place> <!--Hacia el norte-->
  <place id="D004">Dragón</place> <!--Constelación-->
+ <place id="D005">Delfín</place> <!--Constelación-->
 </placeList>
 
 
