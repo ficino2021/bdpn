@@ -277,7 +277,7 @@
 		<person id="J008" género="hombre" procedencia="España? ">Jesús María, Cristóbal de (fray)</person> <!--Parece que también fue conocido por Cristobal de Ulloa-->
 		<person id="J009" género="hombre" procedencia="España">Jesús María, Juan de (fray)</person> <!--Tiene un homónimo nacido en 1620-->
 		<person id="J010" género="mujer" procedencia="España">Jesús, Beatriz de (sor)</person> <!--conocida como La Santa del Ángel-->
-		<person id="J011" género="mujer " procedencia="España">Jesús, María de (sor)</person> <!--Tiene un homónima nacida en 1643-->
+		<person id="J011" género="mujer" procedencia="España">Jesús, María de (sor)</person> <!--Tiene un homónima nacida en 1643-->
 		<person id="J012" género="hombre" procedencia="Israel">Juan el Bautista (san)</person>
 		<person id="J013" género="hombre" procedencia="Israel">José (san)</person> <!--Jhosep, padre de María--> 
 		<person id="J014" género="hombre" procedencia="Portugal">José I (rey de Portugal)</person>
@@ -298,6 +298,7 @@
 		<person id="J029" género="hombre" procedencia="España">Jerónimo , Fray García de Mendoza y Zuñiga</person>
                 <person id="J030" género="" procedencia="">Justin</person>  <!--no identificado aun-->
                 <person id="J031" género="" procedencia="">Jeanzoui, Henrico</person> <!--no identificado aun-->
+                <person id="J032" género="mujer" procedencia="Mítico">Juno (diosa)</person> <!--mitología romana-->
 	</personList>
 	<personList nom="K">
 		<person id="K001" género="hombre " procedencia="Alemania">Kepler, Johannes (astrónomo)</person>
