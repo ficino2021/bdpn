@@ -67,6 +67,7 @@
 		<person id="A063" género="hombre" procedencia="Egipto">Apolonio de Rodas (poeta)</person><!--Aplolono Rodio-->
 		<person id="A064" género="mujer" procedencia="">Angeles, Isabel de los</person>
 		<person id="A065" género="hombre" procedencia="">Atlas (dios)</person>
+                <person id="A066" género="mujer" procedencia="Mítico">Artemisa</person> <!--Melliza de Apolo, también es llamada Diana por los romanos-->
 	</personList>	
 	<personList nom="B">
 		<person id="B001" género="mujer" procedencia="">Baca, Isabel</person>
