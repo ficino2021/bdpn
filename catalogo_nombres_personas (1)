@@ -57,7 +57,6 @@
 		<person id="A054" género="hombre" procedencia="">Adonis</person>
 		<person id="A055" género="mujer" procedencia="">Aracne</person>
 		<person id="A056" género="mujer" procedencia="Italia">Atia Balba Cesonia</person> <!--id duplicado-->
-		<person id="A056" género="mujer" procedencia="">Artemisa (diosa)</person> <!--Diana--> <!--id duplicado-->
 		<person id="A057" género="hombre" procedencia="">Apolo (dios)</person><!--Febo-->
 		<person id="A058" género="hombre" procedencia="México">Araujo, Jerónimo de (fray)</person> 
 		<person id="A059" género="hombre" procedencia="Alemania">Pedro Apiano (matemático)</person>
