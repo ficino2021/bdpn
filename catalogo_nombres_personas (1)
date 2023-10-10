@@ -56,7 +56,7 @@
 		<person id="A053" género="hombre" procedencia="Egipto">Aarón</person>
 		<person id="A054" género="hombre" procedencia="">Adonis</person>
 		<person id="A055" género="mujer" procedencia="">Aracne</person>
-		<person id="A056" género="mujer" procedencia="Italia">Atia Balba Cesonia</person> <!--id duplicado-->
+		<person id="A056" género="mujer" procedencia="Italia">Atia Balba Cesonia</person> 
 		<person id="A057" género="hombre" procedencia="">Apolo (dios)</person><!--Febo-->
 		<person id="A058" género="hombre" procedencia="México">Araujo, Jerónimo de (fray)</person> 
 		<person id="A059" género="hombre" procedencia="Alemania">Pedro Apiano (matemático)</person>
@@ -66,6 +66,7 @@
 		<person id="A063" género="hombre" procedencia="Egipto">Apolonio de Rodas (poeta)</person><!--Aplolono Rodio-->
 		<person id="A064" género="mujer" procedencia="">Angeles, Isabel de los</person>
 		<person id="A065" género="hombre" procedencia="">Atlas (dios)</person>
+                <person id="A066" género="mujer" procedencia="Mítico">Artemisa (diosa)> <!--Diana para Roma-->
 	</personList>	
 	<personList nom="B">
 		<person id="B001" género="mujer" procedencia="">Baca, Isabel</person>
