@@ -119,6 +119,7 @@
  <abbreviation id="H002">Horiz.e</abbreviation> <!--Horizonte-->
  <abbreviation id="H003">h.</abbreviation> <!--Hora(s)-->
  <abbreviation id="H004">hr.</abbreviation> <!--Hora(s)-->
+ <abbreviation id="H005">Hist.</abbreviation> <!--Historia-->
 </abbreviationList>
 
 
@@ -187,6 +188,7 @@
  <abbreviation id="N009">Nob.re</abbreviation> <!--Noviembre-->
  <abbreviation id="N010">Nam.</abbreviation> <!--Abreviatura en latín-->
  <abbreviation id="N011">NovR</abbreviation> <!--Variación de noviembre-->
+ <abbreviation id="N012">Nat.</abbreviation> <!--Natural-->
 </abbreviationList>
 
 
