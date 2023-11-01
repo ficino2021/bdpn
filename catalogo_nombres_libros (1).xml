@@ -2,45 +2,45 @@
 
 <operas>
 	<operaList nom="A">
- 		<opera id="A001">Antiguedades Judias. Flavio Josefo. Libro VII. Capítulo 12</opera>
+ 		<opera id="A001" título="Antigüedades judías" autor="Falvio Josefo">Antiguedades Judias. Flavio Josefo. Libro VII. Capítulo 12</opera>
  	</operaList>
 
 	<operaList nom="B">
- 		<opera id="B001">Biblia. Salmos 146</opera> <!--Lo encontre como Psal. 146-->
-		<opera id="B002">Biblia. Job. Capítulo 35, verso 5</opera>
-		<opera id="B003">Biblia. Libro de Oseas</opera>
-		<opera id="B004">Biblia. Salmos 67. vers. 10</opera>
-		<opera id="B005">Biblia. Proverbios.</opera> 
+ 		<opera id="B001" título="Biblia" autor="no identificado">Biblia. Salmos 146</opera> <!--Lo encontre como Psal. 146-->
+		<opera id="B002" título="Biblia" autor="no identificado">Biblia. Job. Capítulo 35, verso 5</opera>
+		<opera id="B003" título="Biblia" autor="no identificado">Biblia. Libro de Oseas</opera>
+		<opera id="B004" título="Biblia" autor="no identificado">Biblia. Salmos 67. vers. 10</opera>
+		<opera id="B005" título="Biblia" autor="no identificado">Biblia. Proverbios.</opera> 
  	</operaList>
 
  	<operaList nom="C">
- 		<opera id="C001">Commentariorum in textum evangelicum. João da Sylveira</opera>
-		<opera id="C002">Canon de medicina. Avicena</opera> <!--probablemente, la cita no es clara-->
-		<opera id="C003">Civitas Dei. Libro que 5. Agustín.</opera>
-		<opera id="C004">Cuestiones naturales. Libro VII. Séneca.</opera> 
+ 		<opera id="C001" título="Comentarios al texto del Evangelio" autor="João da Sylveira">Commentariorum in textum evangelicum. João da Sylveira</opera>
+		<opera id="C002" título="Canon de medicina" autor="Avicena">Canon de medicina. Avicena</opera> <!--probablemente, la cita no es clara-->
+		<opera id="C003" título="La ciudad de Dios" autor="San Agustín de Hipona">Civitas Dei. Libro que 5. Agustín.</opera>
+		<opera id="C004" título="Cuestiones naturales" autor="Séneca">Cuestiones naturales. Libro VII. Séneca.</opera> 
  	</operaList>
 
  	<operaList nom="D">
- 		<opera id="D001">De Natura Rerum. Beda el Venerable. XXIV</opera>
-		<opera id="D002">De cometis et prodigiosis eorum portentis. Francisco Fernandez Rajo y Gomez</opera>
-		<opera id="D003">De magnis conjunctionibus. Albumasar</opera> <!--Kitāb al‐milal wa‐ʾl‐duwal ("Book on religions and dynasties")-->
-		<opera id="D004">De natura Rerum. Beda el venerable. Capítulo XXIV</opera>
-		<opera id="D005">De cometis et prodigiosis eorum portentis. Francisco Fernandez Rajo y Gomez. Capítulo XXIII</opera>
-		<opera Id="D006">Diario, y Pronostico de Temporales. Joseph de Escobar Salmerón y Castro</opera>
+ 		<opera id="D001" título="De la naturaleza de las cosas" autor="Beda el venerable">De Natura Rerum. Beda el Venerable. XXIV</opera>
+		<opera id="D002" título="De los cometas y sus prodigiosos portentos" autor="Francisco Fernandez Rajo y Gomez">De cometis et prodigiosis eorum portentis. Francisco Fernandez Rajo y Gomez</opera>
+		<opera id="D003" título="De grandes conjunciones" autor="Abū Ma'shar">De magnis conjunctionibus. Albumasar</opera> <!--Kitāb al‐milal wa‐ʾl‐duwal ("Book on religions and dynasties")-->
+		<opera id="D004" título="De la naturaleza de las cosas" autor="Beda el venerable">De natura Rerum. Beda el venerable. Capítulo XXIV</opera> <!--Referencia repetida. Ver D001-->
+		<opera id="D005" título="De los cometas y sus prodigiosos portentos" autor="Francisco Fernandez Rajo y Gomez">De cometis et prodigiosis eorum portentis. Francisco Fernandez Rajo y Gomez. Capítulo XXIII</opera>
+		<opera Id="D006" título="Diarioy pronóstico de los temporales" autor="Joseph de Escobar Salmerón y Castro">Diario, y Pronostico de Temporales. Joseph de Escobar Salmerón y Castro</opera> <!--Probablemente el título correcto sea Lunario y pronóstico de los temporales-->
 		
  	</operaList>
 
  	<operaList nom="E">
- 		<opera id="E001">Eneida. Virgilio Marón.</opera>
-		<opera id="E002">Efemérides. Johannes Stadius</opera> 
+ 		<opera id="E001" título=" Eneida" autor="Virgilio">Eneida. Virgilio Marón.</opera>
+		<opera id="E002" título="Efemérides" autor="Johannes Stadius">Efemérides. Johannes Stadius</opera> 
  	</operaList>
 
  	<operaList nom="F">
- 		<opera id="F001">Flatib. Hipócrates</opera> <!--No encontré la obra-->
+ 		<opera id="F001" título="Flatib" autor="Hipócrates">Flatib. Hipócrates</opera> <!--No encontré la obra-->
  	</operaList>
 
  	<operaList nom="G">
- 		<opera id="G001">Geórgicas. Virgilio.</opera>
+ 		<opera id="G001" título="Geórgicas" autor="Virgilio">Geórgicas. Virgilio.</opera>
  	</operaList>
 
  	<operaList nom="H">
@@ -48,7 +48,7 @@
  	</operaList>
 
  	<operaList nom="I">
- 		<opera id="I001">In cuaturo libros meteorologicorum aristotelis commentaria et cuestiones. Nicolo Cabeo</opera>
+ 		<opera id="I001" título="In libros meteorologicorvm Aristotelis commentaria, et qvaestiones" autor="Nicolo Cabeo">In cuaturo libros meteorologicorum aristotelis commentaria et cuestiones. Nicolo Cabeo</opera>
  	</operaList>
 
  	<operaList nom="J">
@@ -60,45 +60,45 @@
  	</operaList>
 
  	<operaList nom="L">
- 		<opera id="L001">Lunario 1681. Carlos de Sigüenza y Góngora</opera>
-		<opera id="L002">Liber introductorii maioris ad scientiam judiciorum astrorum. Albumasar</opera>
-		<opera id="L003">Lapidicina. Gerónimo Pérez de Nueros</opera>
-		<opera id="L004">Aforismos. Libro 1. Galeno</opera>
-		<opera id="L005">Liber Sententiarum. II Distinctio 7 q 2 a 2. Santo Tomás de Aquino</opera> 
+ 		<opera id="L001" título="Lunario 1681" autor="Carlos de Singüenza y Góngora">Lunario 1681. Carlos de Sigüenza y Góngora</opera>
+		<opera id="L002" título="Libro de la introducción mayor a la ciencia de los juicios de los astros" autor="Abū Ma'shar">Liber introductorii maioris ad scientiam judiciorum astrorum. Albumasar</opera>
+		<opera id="L003" título="Lapidicina" autor="Gerónimo Pérez de Nueros">Lapidicina. Gerónimo Pérez de Nueros</opera>
+		<opera id="L004" título="Aforismos" autor="Galeno">>Aforismos. Libro 1. Galeno</opera>
+		<opera id="L005" título="Libro de la sentencias" autor="Santo Tomás de Aquino">Liber Sententiarum. II Distinctio 7 q 2 a 2. Santo Tomás de Aquino</opera> <!-- Liber Sententiarum es una obra de Pedro Lombardo. Parece que Tomás de Aquino escribió un comentario-->
  	</operaList>
 
  	<operaList nom="M">
- 		<opera id="M001">Meteororum. Alberto Magno. Tratado III. Capítulo IV</opera> <!-- Alberto cita a Juan Damaseno-->
-		<opera id="M002">Manifiesto filosófico contra los cometas. Carlos de Sigüenza y Góngora</opera><!--Manifiesto Filosófico contra los cometas despojados del imperio que tenían sobre los tímidos-->
-		<opera id="M003">Metafísica. Aristóteles</opera>
-		<opera id="M004">Meteorológicos. Aristóteles</opera>
-		<opera id="M005">Metamorphoseis. Ovidio. Libro 10.</opera>
+ 		<opera id="M001" título="Sobre los meteoros" autor="Alberto Magno">Meteororum. Alberto Magno. Tratado III. Capítulo IV</opera> <!-- Alberto cita a Juan Damaseno. Parece que el título de la obra es: De Meteoris-->
+		<opera id="M002" título="Manifiesto filosófico contra los cometas" autor="Carlos de Sigüenza y Góngora">Manifiesto filosófico contra los cometas. Carlos de Sigüenza y Góngora</opera><!--Manifiesto Filosófico contra los cometas despojados del imperio que tenían sobre los tímidos-->
+		<opera id="M003" título="Metafísica" autor="Aristóteles">Metafísica. Aristóteles</opera>
+		<opera id="M004" título="Meteorológicos" autor="Aristóteles">Meteorológicos. Aristóteles</opera>
+		<opera id="M005" título="Metamofósis" autor="Ovidio">Metamorphoseis. Ovidio. Libro 10.</opera>
  	</operaList>
 
  	<operaList nom="N">
- 		<opera id="N001">No identificado. Aristóteles</opera>
-		<opera id="N002">No identificado. Agustín de Hipona (san)</opera>
-		<opera id="N003">No identificado. Aristóteles</opera>
-		<opera id="N004">No identificado. Ptolomeo, Claudio</opera>
-		<opera id="N005">No identificado. Leopoldo de Austria</opera>
-		<opera id="N006">No identificado. Giuntini, Francesco</opera>
-		<opera id="N007">No identificado. Agustín de Hipona (san)</opera>
-		<opera id="N008">No identificado. Tertuliano</opera>
-		<opera id="N009">Naturalis philosophiae, compendium sive de consideratione rerum naturalium. Francisco Titelmans. Libro 6. Cap. 4. De generatione Comete</opera>
+ 		<opera id="N001" título="No identificado" autor="Aristóteles">No identificado. Aristóteles</opera>
+		<opera id="N002" título="No identificado" autor="Agustín de Hipona">No identificado. Agustín de Hipona (san)</opera>
+		<opera id="N003" título="No identificado" autor="Artistóteles">No identificado. Aristóteles</opera>
+		<opera id="N004" título="No identificado" autor="Ptolomeo">No identificado. Ptolomeo, Claudio</opera>
+		<opera id="N005" título="No identificado" autor="Leopoldo de Austrias">No identificado. Leopoldo de Austria</opera>
+		<opera id="N006" título="No identificado" autor="Francesco Giuntini">No identificado. Giuntini, Francesco</opera>
+		<opera id="N007" título="No identificado" autor="Agustín de Hipona">No identificado. Agustín de Hipona (san)</opera>
+		<opera id="N008" título="No identificado" autor="Tertuliano">No identificado. Tertuliano</opera>
+		<opera id="N009" título="Naturalis philosophiae, compendium sive de consideratione rerum naturalium" autor="Francisco Titelman">Naturalis philosophiae, compendium sive de consideratione rerum naturalium. Francisco Titelmans. Libro 6. Cap. 4. De generatione Comete</opera>
  	</operaList>
 
  	<operaList nom="O">
- 		<opera id="O001">Odas. Horacio. Libro 2,10</opera><!--Horacio Flaco, Quinto-->
-		<opera id="O002">Oráculos sibilinos. Sibila eritrea. Libro III. 334-336</opera>
+ 		<opera id="O001" título="Odas" autor="Horacio">Odas. Horacio. Libro 2,10</opera><!--Horacio Flaco, Quinto-->
+		<opera id="O002" título="Oráculos sibilinos " autor="Sibila eritrea">Oráculos sibilinos. Sibila eritrea. Libro III. 334-336</opera>
  	</operaList>
 
  	<operaList nom="P">
- 		<opera id="P001">Política. Aristóteles</opera>
-		<opera id="P002">Pedagógo. Clemente de Alejandría. Libro 2, c. 10</opera> 
+ 		<opera id="P001" título="Política" autor="Aristóteles">Política. Aristóteles</opera>
+		<opera id="P002" título="Pedagogo" autor="Aristóteles">Pedagógo. Clemente de Alejandría. Libro 2, c. 10</opera> 
  	</operaList>
 
  	<operaList nom="Q">
- 		<opera id="Q001">Quadrip. Ptolomeo, Claudio. Cap. 8</opera> <!--No encontré la obra-->
+ 		<opera id="Q001" título="Tetrabiblos. Fundamentos de la Astrologia" autor="Ptolomeo">Quadrip. Ptolomeo, Claudio. Cap. 8</opera> <!--No encontré la obra. Conocido en latín como: Quadripartitum-->
  	</operaList>
 
  	<operaList nom="R">
@@ -106,22 +106,22 @@
  	</operaList>
 
  	<operaList nom="S">
- 		<opera id="S001">Sermon 81. San Agustín</opera>
-		<opera id="S002">Speculum astrologiae vniuersam mathematicam scientiam in certas classes digestam complectens. Francesco Giuntini</opera>
-		<opera id="S003">Summa dictaminis. Thomas Capuanus</opera>
-		<opera id="S004">Simbolos selectos, y parabolas historicas. Nicolás Caussin</opera>
-		<opera id="S005">Sermones. Crisólogo. 142</opera>
+ 		<opera id="S001" título="Sermón 81" autor="San Agustín de Hipona">Sermon 81. San Agustín</opera>
+		<opera id="S002" título="Speculum astrologiae, vniuersam mathematicam scientiam, in certas classes digestam, complectens" autor="Francesco Giuntini">Speculum astrologiae vniuersam mathematicam scientiam in certas classes digestam complectens. Francesco Giuntini</opera>
+		<opera id="S003" título="Summa dictaminis" autor="Thomas Capuanus">Summa dictaminis. Thomas Capuanus</opera>
+		<opera id="S004" título="Simbolos selectos, y parabolas historicas" autor="Nicolás Caussin">Simbolos selectos, y parabolas historicas. Nicolás Caussin</opera>
+		<opera id="S005" título="Sermones" autor="Crisólogo">Sermones. Crisólogo. 142</opera>
  	</operaList>
 
  	<operaList nom="T">
- 		<opera id="T001">Teogonía. Hesíodo</opera>
+ 		<opera id="T001" título="Teogonía" autor="Hesíodo">Teogonía. Hesíodo</opera>
  	</operaList>
 
  	<operaList nom="U">
  		<opera id="U001"></opera>
  	</operaList>
  	<operaList nom="V">
- 		<opera id="V001">Galeno. Libro 1</opera> <!--No encontré la obra original-->
+ 		<opera id="V001" título="No identificado" autor="Galeno">Galeno. Libro 1</opera> <!--No encontré la obra original-->
  	</operaList>
 
  	<operaList nom="W">
