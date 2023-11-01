@@ -36,7 +36,7 @@
  	</operaList>
 
  	<operaList nom="F">
- 		<opera id="F001" titulo="Flatib" autor="Hipócrates">Flatib. Hipócrates</opera> <!--No encontré la obra-->
+ 		<opera id="F001" titulo="De flatibus liber" autor="Hipócrates">Flatib. Hipócrates</opera> <!--No encontré la obra-->
  	</operaList>
 
  	<operaList nom="G">
