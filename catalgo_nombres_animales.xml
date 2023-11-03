@@ -46,6 +46,7 @@
 <animalList nom="L">
 	<animal id="L001">Liebre</animal>
 	<animal id="L002">León</animal>
+	<animal id="L003">Langosta</animal>
 </animalList>
 
 <animalList nom="M">
