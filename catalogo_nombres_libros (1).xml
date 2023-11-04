@@ -95,7 +95,7 @@
 
  	<operaList nom="P">
  		<opera id="P001" titulo="Política" autor="Aristóteles">Política. Aristóteles</opera>
-		<opera id="P002" titulo="Pedagogo" autor="Aristóteles">Pedagógo. Clemente de Alejandría. Libro 2, c. 10</opera> 
+		<opera id="P002" titulo="Pedagogo" autor="Clemente de Alejandría">Pedagógo. Clemente de Alejandría. Libro 2, c. 10</opera> 
  	</operaList>
 
  	<operaList nom="Q">
