@@ -1,0 +1,86 @@
+Cronología de la Biblioteca Digital del Pensamiento Novhispano
+El origen, 2006
+
+El proyecto tiene su origen en un diálogo de Ernesto Priani Saisó con Alí Arturo Martínez Albarrán, entonces estudiante de licenciatura en filosofía alrededor de la que podría ser su tesis de licenciatura. Alí se interesaba, por una parte, por el texto antiguo, y por otro en los temas de astrología. En un intercambio de ideas pensamos que quizás buscar la recepción de algún tratado antiguo de astrología entre pensadores novohispanos podía ser un buen tema de tesis. Alí dio, investigando con el tema, con el Discurso Ethereologico del nuevo comenta de fray Diego Rodríguez, sobre el cual haría finalmente su trabajo recepcional, pero pensamos que un resultado interesante de la investigación dado que no había una edición moderna del mismo, era hacer una publicación digital. A partir de ahí se comenzó a fraguar la que hoy es la Biblioteca Digital del Pensamiento Novohispano. 
+
+ 
+
+Primera versión, 2008
+
+A lo largo de dos años, después, de haber pensado en una edición digital del Discurso Ethereologico de fray Diego y de haber investigado sobre su contexto, su relación con otros textos contemporáneos con los que debate el tema de la naturaleza de los cometas, entramos en contacto con la entonces Dirección General de Cómputo Académico de la UNAM y les propusimos generar una primera versión experimental de la biblioteca. Para ella generó una estructura de datos en XML (DTD) propia con cerca de 150 categorías y se construyó un sistema en el que, por un lado, se encontraban las transcripciones digitales desplegadas en HTML y, por otro, una base de datos que se alimentaba manualmente con los términos identificados para formar parte del índice. El sistema estuvo alojado en los servidores de la DGSCA durante los dos primeros años de trabajo. Cuando lo presentamos su objetivo estaba sintetizado en este párrafo: 
+
+La Biblioteca Digital del Pensamiento novohispano es un proyecto dedicado a la publicación de ediciones críticas de textos impresos y manuscritos editados en Nueva España durante los siglos XVII y XVIII. La edición de las obras, en soporte digital tienen como finalidad hacer accesible a estudiantes, académicos e investigadores las fuentes novohispanas, para que sirvan como herramienta de investigación y de enseñanza sobre el pensamiento novohispano.
+
+Iniciamos queriendo publicar ocho documentos, todos relativos con la disputa astrológica. Entre ellos el Discurso Etereológico de fray Diego Rodríguez y La especulación astrológica y física de los cometas de Gaspar Evelino.  
+
+El proyecto se realizó con el financiamiento del proyecto PAPIME, PE-401407 de la Dirección General de Apoyos al Personal Académico. 
+
+A finales de 2008 se presentó la biblioteca al entonces Computers and the Humanities Users Group de la Universidad de Brown, dentro del que se encontraban Julia Flanders, Eli Mylonas y Syd Buman, académicos muy activos con la Text Encoding Iniciative. Después de la presentación, el grupo ubicó el trabajo en la BdPn dentro del campo de las Humanidades Digitales y sugirió utilizar TEI como esquema de marcado estándar de texto para lo que nos proponíamos. Las propuestas se vertieron al interior del grupo de trabajo, y se decidió reestructurar el proyecto con otra premisa
+
+ 
+
+Segunda versión, 2009  
+
+A partir de lo aprendido en la reunión con colegas en Brown, en 2009 se inició un nuevo desarrollo de la biblioteca. Conceptualmente, la visión respecto al trabajo de investigación había cambiado por completo. De ser la biblioteca un subproducto de un proyecto de estudio de los textos se convirtió en la herramienta principal para su estudio y en el medio para obtener nuevos conocimientos sobre la disputa. Se dejó así atrás la idea de que el proyecto se centraba en digitalizar y se formuló un primer proyecto de investigación centrado en identificar cuáles eran las fuentes de los que abrevaban los participantes en la controversia.
+
+En este sentido los esfuerzos se enfocaron en dos cosas. El estudio de los documentos para identificar sus fuentes, el trabajo para identificar y utilizar los estándares de marcado que se utilizarían con el fin de colocar al proyecto en la misma ruta que otros proyectos internaciones. Así, se incorporó una versión adaptada del TEI Lite como estándar de marcado para la BdPn y se produjo un proceso autodidáctico de aprendizaje de TEI por parte de los miembros del equipo. 
+
+Por otra parte, en cuanto a la función de una edición académica digital, se consideró la idea de Schillingsburg de que:
+
+[An electronic scholarly edition] is a tool for students of a work, returning to it with the intention of exploring its history, its connectives tissues, its roots and ramifications. Such students want to be able to search texts from stern to stern electronically, to go directly from one passage in a work to its corresponding passages in other versions or from to its sources or context in other works. They want annotations, textual variants[...] (Schillingsburg, 1996: 165).
+
+Para esta nueva versión, la BdPn fue entendida como un proyecto en dos niveles. En el primero, como un sistema de herramientas digitales para la investigación, que ofrecería:
+
+1. Indexación automática de términos, referencias, nombres y datos,
+
+marcados en el texto.
+
+2. Una herramienta de colaboración para hacer anotaciones filológicas y de
+
+interpretación.
+
+3. Un grupo de recursos que utiliza los índices para proveer información
+
+acerca de personas, obras citadas, significado de palabras del español
+
+antiguo y de conceptos técnicos, médicos, astronómicos y astrológicos.
+
+4. En un segundo nivel la BdPn sería una colección de ediciones digitales de
+
+transcripciones diplomáticas en XML de libros que forman parte del debate
+
+sobre la naturaleza de los cometas, que tiene lugar en la segunda mitad del
+
+siglo XVII.
+
+ 
+
+En cuanto al sistema esta versión de la Biblioteca consideraba el registro de colaboradores para comentar los textos y los índices con ligas para ir a información específica, sobre todo en la parte de nombres de personas, esta etapa ofrecería al usuario tanto la información biográfica de la persona en cuestión, como la cantidad de apariciones de esta en los textos hospedados. Para la realización del proyecto se utilizó la versión 1.10 del framework Zend corriendo sobre LAMP desarrollado por el programador independiente Daniel Zavala. El sistema se hospedó en un servidor propio, comprado para ello, del que estuvo a cargo la Dirección General de Bibliotecas de la UNAM.
+
+Esta etapa se realizó con el financiamiento del proyecto PAPITT IN404711 de la Dirección General de Apoyos al Personal Académico. 
+
+Para este entonces la Biblioteca había alcanzado la decena de documentos publicados, todos ellos relativo a la disputa astronómica, como la Exposición Astronómica del cometa del padre Kino y la Libra Astronómica y filosófica de Sigüenza y Góngora, más la adición de un par de lunarios, uno de Sigüenza y el otro de Marco Antonio Gamboa.  
+
+ 
+
+Tercera versión, 2012 
+
+Con el sistema de la biblioteca consolidado y con el interés de ampliar el corpus que la conforma, a partir de 2012 se buscó invitar a investigadores que estuvieran trabajando con un corpus novohispano y se interesaran por el formato de edición electrónica que presentaba la BdPn. Es así como en charlas con Clara Inés Ramírez del Instituto de Investigaciones sobre la Universidad y la Educación, quien dirige el proyecto Escritos de mujeres, nos propusimos desarrollar un proyecto de investigación sobre la retórica del cuerpo en hombres y mujeres en la Nueva España. El propósito era utilizar tanto el corpus desarrollado por la BdPn como por Escritos de Mujeres para identificar las formas de mención al cuerpo en los textos. Utilizaríamos la marca para marcar aquellas menciones al cuerpo y después recuperarlos para poder hacer contraste. Ese es el origen de esa marca en la biblioteca. Los textos aportados por Escritos de mujeres fueron Copia de los papeles, que por orden de su confesor ha escrito Sor Isabel Manuela de Santa María de Isabel Manuela de Santa María; Relación de la fundación del convento antiguo de Santa Teresa de María de la Encarnación; Devociones varias, compuestas por la venerable y muy reverenda Madre Sor María Ana Águeda de San Ignacio y Fundación del convento Inés de la Cruz, más una Carta a su majestad que ha servido numerosas veces para hacer pruebas con el marcado de la BdPn. Las responsables del marcado original de estos textos fueron miembros del grupo de escritos de mujeres. 
+
+Paralelamente el investigador David Dominguez Herbón quién trabajaba con textos novohispanos relativos a la documentación sobre los eventos geofísicos —sísmicos y volcánicos, principalmente— que periódicamente afectaban a Guatemala, se interesó que que los documentos fueran publicados en las BdPn, y así lo hicimos. En este caso el marcado de los textos fue hecho por él mismo. 
+
+En esta ocasión solo se renovó parte del sistema ya existente con Daniel Zavala y el sitio se hospedó en un servidor comercial, utilizando algunas herramientas de procesamiento en Amazon.  
+
+Esta etapa se realizó con el financiamiento del proyecto CB-2011-01 0164639 del Consejo Nacional de Ciencia y Tecnología. 
+
+2022, cuarta versión 
+
+A inicios de 2021, en conversaciones con Isabel Galina del Instituto de Investigaciones Bibliográficas concebimos el proyecto de investigación Colecciones digitales inclusivas. Análisis crítico de los procesos de creación de las colecciones digitales mexicanas (proyecto PAPIIT IG400322) cuyo objetivo era formular, a partir del análisis crítico de cuatro colecciones digitalizadas y de una revisión histórica de su desarrollo, una propuesta de lineamientos, criterios y modelos de gestión de proyectos de digitalización que sean más incluyentes en términos de la representación de sujetos y objetos tradicionalmente marginados -mujeres, pueblos indígenas, población y cultura afroamericanas- y con una visión que supere la representación visual del objeto físico e incluya la representación digital del objeto a partir de los textos digitalizados. Uno de los obejtivos específicos de ese proyecto era experimentar con el uso de esos criterios en la BdPn y aprovechar la oportunidad para renovar el sistema, que ya había ido quedando obsoleto, actualizar el marcado del texto a la versión más actual de las etiquetas TEI/SML. 
+
+Esta actualización de la biblioteca permitió también, dada la evolución del entorno de las bibliotecas y archivos en México, que han iniciado proyectos de digitalziación de los fondos antiguos, buscar contar con las imágenes de la mayor parte de los textos. A través del proyecto y en acuerdo con el Fondo reservado de la Biblioteca Nacional de México, se digitalizaron cuatro obras: el Reportorio de los tiempos, y historia natural de la Nueva España de Enrico Martínez, el documento Lafragua (RLAF LAF 615) que contiene la mayor parte de los documentos relativos a la disputa astronómica, y tres manuscritos de fray Diego Rodíguez que esperamos incproprar en un futuro a la BdPn.  
+
+El desarrollo del nuevo sistema de la biblioteca estuvo a cargo de un equipo conformado por Elisa Salinas (coordinación), Susana Zavala Torres (diseño) y Oscar Escamilla (programación).  Se hizo en Drupal, con un módulo desarrolado de manera específica para incorporar los XML/TEI y se ecuentra hospedada en el servidor de la Facultad de Filosofía y Letras en la Dirección General de Tecnologías de la Información de la UNAM.  
+
+Referencias
+
+Peter L. Shillingsburg. Scholarly Editing in the Computer Age: Theory and Practice (University of Georgia Press, 1986)
