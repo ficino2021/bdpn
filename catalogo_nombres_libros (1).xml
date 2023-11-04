@@ -79,7 +79,7 @@
  	<operaList nom="N">
  		<opera id="N001" titulo="No identificado" autor="Aristóteles">No identificado. Aristóteles</opera>
 		<opera id="N002" titulo="No identificado" autor="Agustín de Hipona">No identificado. Agustín de Hipona (san)</opera>
-		<opera id="N003" titulo="No identificado" autor="Artistóteles">No identificado. Aristóteles</opera>
+		<opera id="N003" titulo="No identificado" autor="Artistóteles">No identificado. Aristóteles</opera> <!--Repetido con N001-->
 		<opera id="N004" titulo="No identificado" autor="Ptolomeo">No identificado. Ptolomeo, Claudio</opera>
 		<opera id="N005" titulo="No identificado" autor="Leopoldo de Austrias">No identificado. Leopoldo de Austria</opera>
 		<opera id="N006" titulo="No identificado" autor="Francesco Giuntini">No identificado. Giuntini, Francesco</opera>
