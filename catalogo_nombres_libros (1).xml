@@ -32,7 +32,8 @@
 
  	<operaList nom="E">
  		<opera id="E001" titulo="Eneida" autor="Virgilio">Eneida. Virgilio Marón.</opera>
-		<opera id="E002" titulo="Efemérides" autor="Johannes Stadius">Efemérides. Johannes Stadius</opera> 
+		<opera id="E002" titulo="Efemérides" autor="Johannes Stadius">Efemérides. Johannes Stadius</opera>
+		<opera id="E003" titulo="Compentario sobre la Epidemia de Hipócrates"" Autor="Galeno">In Hippocratis de Morbis Vulgaribus, Commentarii. Galeno</opera>
  	</operaList>
 
  	<operaList nom="F">
