@@ -18,6 +18,7 @@
 		<opera id="C002" titulo="Canon de medicina" autor="Avicena">Canon de medicina. Avicena</opera> <!--probablemente, la cita no es clara-->
 		<opera id="C003" titulo="La ciudad de Dios" autor="San Agustín de Hipona">Civitas Dei. Libro que 5. Agustín.</opera>
 		<opera id="C004" titulo="Cuestiones naturales" autor="Séneca">Cuestiones naturales. Libro VII. Séneca.</opera> 
+		<opera id="C005" titulo="Comentario sobre la Epidemia de Hipócrates"" Autor="Galeno">In Hippocratis de Morbis Vulgaribus, Commentarii. Galeno</opera>
  	</operaList>
 
  	<operaList nom="D">
@@ -33,7 +34,6 @@
  	<operaList nom="E">
  		<opera id="E001" titulo="Eneida" autor="Virgilio">Eneida. Virgilio Marón.</opera>
 		<opera id="E002" titulo="Efemérides" autor="Johannes Stadius">Efemérides. Johannes Stadius</opera>
-		<opera id="E003" titulo="Compentario sobre la Epidemia de Hipócrates"" Autor="Galeno">In Hippocratis de Morbis Vulgaribus, Commentarii. Galeno</opera>
  	</operaList>
 
  	<operaList nom="F">
