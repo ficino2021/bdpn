@@ -333,9 +333,10 @@
 		<person id="L024" género="hombre" procedencia="Austria">Leopoldo I de Habsburgo (rey)</person> <!--Leopoldo de Austria-->
 		<person id="L025" género="hombre" procedencia="Bélgica">Lambergio, Felipe (astrónomo)</person> <!--Philippe van Lansberge-->
 		<person id="L026" género="hombre" procedencia="Austria">Leopoldo de Austria</person> <!--Leopoldo de Austria S. XII-XIII. Compilador de un texto medieval muy influyente acerca de astronomía y astrología-->
-		<person id="L027" género="hombre" procedencia="Francia">Luis XIII</person> <!--También como Ludovico de Regis-->
+		<person id="L027" género="hombre" procedencia="Francia">Luis XIII</person>
                 <person id="L028" género="mujer" procedencia="Mítico">Latona (diosa)</person> 
                 <person id="L029" género="hombre" procedencia="Alejandría">Lisímaco</person> <!--Lisímaco Alexandrino-->
+                <person id="L030" género="hombre" procedencia="indefinida">Ludovico</person> <!--No he encontrado a quién se refiere Bonilla-->
 	</personList>
 	<personList nom="M">
 		<person id="M001" género="hombre" procedencia="Turquía">Marco Opelio Macrino (emperador)</person>
