@@ -29,7 +29,7 @@
 		<opera id="D004" titulo="De la naturaleza de las cosas" autor="Beda el venerable">De natura Rerum. Beda el venerable. Capítulo XXIV</opera> <!--Referencia repetida. Ver D001-->
 		<opera id="D005" titulo="De cometis et prodigiosis eorum portentis" autor="Francisco Fernandez Rajo y Gomez">De cometis et prodigiosis eorum portentis. Francisco Fernandez Rajo y Gomez. Capítulo XXIII</opera>
 		<opera Id="D006" titulo="Diario y pronóstico de los temporales" autor="Joseph de Escobar Salmerón y Castro">Diario, y Pronostico de Temporales. Joseph de Escobar Salmerón y Castro</opera> <!--Probablemente el título correcto sea Lunario y pronóstico de los temporales-->
-		
+		<opera id="D007" titulo="De Regis">de Regis part. I Aphor. 9.</opera> <!--No pude identificar la obra-->
  	</operaList>
 
  	<operaList nom="E">
@@ -105,7 +105,7 @@
  	</operaList>
 
  	<operaList nom="R">
- 		<opera id="R001"></opera>
+ 		<opera id="R001"></opera> 
  	</operaList>
 
  	<operaList nom="S">
