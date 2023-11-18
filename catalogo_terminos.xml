@@ -126,6 +126,7 @@
 		<cuerpo id="V003">vértice de cabeza</cuerpo>
 		<cuerpo id="V004">venas</cuerpo>
 		<cuerpo id="V005">vómitos</cuerpo>
+		<cuerpo id="V006">vello</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="W"> 
 		<cuerpo id="W001"></cuerpo>
