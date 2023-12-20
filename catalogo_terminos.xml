@@ -29,6 +29,7 @@
  <termCuerpo nom="D"> 
 		<cuerpo id="D001">dedo índice</cuerpo>
 	 	<cuerpo id="D002">desauciado</cuerpo><!—enfermedad?—>
+	        <cuerpo id="D003">dientes</cuerpo>
 	</termCuerpo>
 <termCuerpo nom="E"> 
 		<cuerpo id="E001">extremidades</cuerpo>
