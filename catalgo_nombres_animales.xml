@@ -67,6 +67,8 @@
 	<animal id="P003">Perro</animal>
 	<animal id="P004">Pescado</animal>
 	<animal id="P005">Perro lebreste</animal>
+	<animal id="P006">Pavo</animal>
+	<animal id="P007">Paloma</animal>
 </animalList>
 
 <animalList nom="Q">
