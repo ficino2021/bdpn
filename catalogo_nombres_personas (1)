@@ -488,6 +488,7 @@
 		<person id="S037" género="mujer" procedencia="Israel?">Santa Ana (madre de la virgen María)</person>
 		<person id="S038" género="hombre" procedencia="">San Miguel arcángel</person>
                 <person id="S039" género="hombre" procedencia="Flandes">Stadius, Johannes</person> <!--matemático y astrólogo 1500--> 
+                <person id="S040" género="hombre" procedencia="Mítico">Samoteo</person> <!--Mitología, padre de Eaco-->
 	</personList>
 	<personList nom="T">
 		<person id="T001" género="hombre" procedencia="Italia">Publio Cornelio Tácito​ (historiador)</person> <!--Nombre repetido T006-->
