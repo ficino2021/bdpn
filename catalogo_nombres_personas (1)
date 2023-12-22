@@ -447,6 +447,7 @@
 		<person id="R016" género="hombre" procedencia="Italia">Ruchelo, Jerónimo</person> <!--Girolamo Ruscelli-->
 		<person id="R017" género="hombre" procedencia="">Ríos, Guillermo de los</person>
                 <person id="R017" género="hombre" procedencia="">Rocha, Tomás</person> 
+		<person id="R018" género="hombre" procedencia="">Rodríguez de Lupercio, Francisco</person><!--impresor-->
 	</personList>	 
 	<personList nom="S">
 		<person id="S001" género="hombre" procedencia="México">Salemerón y Castro, José de (astrónomo)</person> <!--Parece el mismo que E012, este personaje era médico y astrónomo. Además, tiene el mismo error de ortografía-->
