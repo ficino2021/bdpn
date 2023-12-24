@@ -116,7 +116,7 @@
 		<person id="C013" género="hombre" procedencia="Francia">Caussin, Nicolás</person>
 		<person id="C014" género="hombre" procedencia="Grecia">Celso (filósofo)</person>
 		<person id="C015" género="mujer" procedencia="España">Cepeda y Ahumada, Teresa de</person>
-		<person id="C016" género="hombre " procedencia="España">Cerda y Aragón, Tomás de la</person>
+		<person id="C016" género="hombre " procedencia="España">Cerda y Aragón, Tomás de la (virrey)</person><!--Sugiero asentar este id como "Cerda y Aragón, Tomás Antonio de la (virrey)". En el catálogo de autoridades de la BNE aparece como "Cerda y Aragon, Antonio de la" y en el de BNM UNAM como "Cerda y Aragón" o "Cerda y Aragón, Tomás Antonio".-->
 		<person id="C017" género="hombre " procedencia="Italia">Pedro Crisólogo arzobispo de Rávena (san)</person>
 		<person id="C018" género="hombre " procedencia="Alemania">Clavio, Crsitóbal (matemático)</person><!--Christopher Clavius-->
 		<person id="C019" género="hombre " procedencia="Italia">Marco Tulio Cicerón (retor)</person>
