@@ -187,7 +187,7 @@
  <place id="L009">Libra</place> <!--Constelación del zodiaco-->
  <place id="L010">Lisboa, Portugal</place>
  <place id="L011">Locutorio</place>
- <place id="L012">Laguna de Cameros, España</place>
+ <place id="L012">Laguna de Cameros, España</place><!--En la provincia de la Rioja-->
 </placeList>
 
 
@@ -215,6 +215,7 @@
  <place id="M021">Medio Cielo</place>
  <place id="M022">Montefalco, Italia</place> 
  <place id="M023">Mar egeo</place> <!--Parte del mar mediterraneo-->
+ <place id="M024">Moraleja, España</place> <!--En la provincia de Cáceres-->
 </placeList>
 
 
