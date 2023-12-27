@@ -208,7 +208,7 @@
 		<person id="F010" género="hombre" procedencia="España">Felipe IV (rey)</person>
 		<person id="F011" género="hombre" procedencia="">Felipo IIII</person> <!--Parece que se les fue una "I" demás. Felipo IIII me lleva a Felipe III-->
 		<person id="F012" género="hombre" procedencia="España">Fernando VI (rey de España)</person>
-		<person id="F013" género="hombre" procedencia="España">Fernández Rajo y Gómez, Francisco (médico)</person> <!--Nombre duplicado F025-->
+		<person id="F013" género="hombre" procedencia="España">Fernández Rajo y Gómez, Francisco (médico)</person> 
 		<person id="F014" género="hombre" procedencia="España">Fernández de Córdoba y López de Roelas, Diego (marqués)</person>
 		<person id="F015" género="hombre" procedencia="España">Ferrufino, Julio César (matemático)</person>
 		<person id="F016" género="hombre" procedencia="Bélgica">Fieno, Tomás</person>
@@ -219,8 +219,8 @@
 		<person id="F021" género="mujer" procedencia="">Flora (diosa)</person>
 		<person id="F022" género="hombre" procedencia="Estados Unidos">Florencia, Francisco de</person>
 		<person id="F023" género="mujer" procedencia="Perú ">Flores de Oliva, Isabel</person>
-		<person id="F024" género="hombe" procedencia="Italia">Publio Nigidio Fígulo (filósofo)</person>
-		<person id="F025" género="hombre" procedencia="España">Fernández Raxo y Gómez, Francisco</person> <!--Nombre duplicado F013-->
+		<person id="F024" género="hombre" procedencia="Italia">Publio Nigidio Fígulo (filósofo)</person>
+		<person id="F025" género="" procedencia=""></person> 
 		<person id="F026" género="hombre" procedencia="Israel">Flavio, Josefo (historiador judeoromano)</person>
 		<person id="F027" género="hombre" procedencia="Israel">Felipe, San (apóstol)</person>
 	</personList>
