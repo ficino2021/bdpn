@@ -187,7 +187,7 @@
  <place id="L009">Libra</place> <!--Constelación del zodiaco-->
  <place id="L010">Lisboa, Portugal</place>
  <place id="L011">Locutorio</place>
- <place id="L012">Laguna de Cameros</place>
+ <place id="L012">Laguna de Cameros, España</place>
 </placeList>
 
 
@@ -282,6 +282,7 @@
  <place id="P028">Patio</place>
  <place id="P029">Puerto Rico</place> 
  <place id="P030">Patmos, Grecia</place> <!--Pathmos.-->
+ <place id="P031">Paredes de Nava, España</place> <!--En la provincia de Palencia-->
 </placeList>
 
 
