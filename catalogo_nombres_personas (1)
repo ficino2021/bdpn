@@ -424,7 +424,7 @@
 		<person id="P020" género="hombre" procedencia="Holanda">Putte, Hendrik van der (escritor)</person>
 		<person id="P021" género="hombre" procedencia="España? ">Pérez de Nueros, Jerónimo</person>
                 <person id="P022" género="hombre" procedencia="Mítico">Polifemo</person> <!--Cíclope, personaje de mitología griega-->
-                <person id="P023" género="hombre" procedencia="Piceno, Roma">Cneo Pompeyo Magno</person> 
+                <person id="P023" género="hombre" procedencia="Piceno, Roma">Pompeyo</person> <!--Cneo Pompeyo Magno--> 
 	</personList>
 	<personList nom="Q">
 		<person id="Q001" género="hombre" procedencia="España">Quezada de Figueroa, Juan</person>
