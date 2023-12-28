@@ -350,7 +350,8 @@
 
 
 <placeList nom="U">
- <place id="U001"> Universo alto</place>
+ <place id="U001"> Universo alto</place> <!--Probable referencia a la zona supralunar-->
+ <place id="U002"> Universo bajo</place> <!--Probable referencia a la zona sublunar-->
 </placeList>
 
 
