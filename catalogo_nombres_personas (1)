@@ -68,6 +68,7 @@
 		<person id="A065" género="hombre" procedencia="">Atlas (dios)</person>
                 <person id="A066" género="mujer" procedencia="Mítico">Artemisa (diosa)</person> <!--Diana para Roma-->
                 <person id="A067" género="hombre" procedencia="Afganistán">Abulmasar</person> <!--Ya'far ibn Muḥammad Ibn 'Umar Abū Ma'shar al-Baljī, también conocido como al-Falaki-->
+                <person id="A068" género="hombre" procedencia="Toledo">Acre, Pedro Sánchez (de)</person> <!--Pedro Sánchez Racionero-->
 	</personList>	
 	<personList nom="B">
 		<person id="B001" género="mujer" procedencia="">Baca, Isabel</person>
