@@ -490,7 +490,7 @@
 		<person id="S038" género="hombre" procedencia="">San Miguel arcángel</person>
                 <person id="S039" género="hombre" procedencia="Flandes">Stadius, Johannes</person> <!--matemático y astrólogo 1500--> 
                 <person id="S040" género="hombre" procedencia="Mítico">Samoteo</person> <!--Mitología, padre de Eaco-->
-                <person id="S041" género="hombre" procedencia="Roma, Italia">Sergio III</person> <!--Summo Pontifice-->
+                <person id="S041" género="hombre" procedencia="Roma, Italia">Sergio III</person> <!--Summo Pontífice-->
 
 	</personList>
 	<personList nom="T">
