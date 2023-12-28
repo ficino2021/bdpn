@@ -26,6 +26,7 @@
 		<cuerpo id="C010">calentura</cuerpo><!—enfermedad?—>
 		<cuerpo id="C011">crines</cuerpo> <!--Conjunto de cerdas que tienen algunos animales en la parte superior del cuello.-->
 		<cuerpo id="C012">cabellos</cuerpo> 
+		<cuerpo id="C013">cola</cuerpo <!--En plural en el texto-->
 	</termCuerpo>
  <termCuerpo nom="D"> 
 		<cuerpo id="D001">dedo índice</cuerpo>
