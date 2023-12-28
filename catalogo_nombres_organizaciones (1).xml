@@ -52,6 +52,7 @@
 <organizationList nom="G">
  <organization id="G001">Gobernaciones</organization>
  <organization id="G002">Gobierno eclesiástico y secular</organization>
+ <organization id="G003">Godos</organization><!--También llamados visigodos-->
 </organizationList>
 
 <organizationList nom="H">
