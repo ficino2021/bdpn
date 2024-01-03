@@ -14,6 +14,7 @@
 		<opera id="B004" titulo="Biblia" autor="no identificado">Biblia. Salmos 67. Vers. 10</opera>
 		<opera id="B005" titulo="Biblia" autor="no identificado">Biblia. Proverbios.</opera> 
 		<opera id="B006" titulo="Biblia" autor="no identificado">Biblia. Macabeos 5. Vers. 4</opera>
+		<opera id="B007" titulo="Biblia" autor="no identificado">Biblia. Filipenses 4. Vers. 7</opera><!--El autor de esta carta es Pablo de Tarso. ¿Debemos cambiar el autor de este id?-->
  	</operaList>
 
  	<operaList nom="C">
