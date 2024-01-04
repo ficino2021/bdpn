@@ -102,6 +102,7 @@
 		<cuerpo id="P006">pecho</cuerpo>
 		<cuerpo id="P007">pierna(s)</cuerpo>
 		<cuerpo id="P008">pulmón</cuerpo>
+		<cuerpo id="P009">pelo</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="Q"> 
 		<cuerpo id="Q001">quijada</cuerpo>
