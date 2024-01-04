@@ -376,6 +376,7 @@
 		<person id="M027" género="hombre" procedencia="Alemania">Milichio, Jacobo (astrónomo)</person> <!--Jacob Milich-->
 		<person id="M028" género="hombre" procedencia="Italia">Mezzavachis, Flaminio (astrónomo)</person> <!--Flaminio Mezzavacca-->
 		<person id="M029" género="hombre" procedencia="">Marco Manilio (poeta)</person> <!--Marcus Manilius--> <!--Probablemente nació en el norte de África-->
+                <person id="M030" género="hombre" procedencia="Alemania">Mario, Simon</person> <!--Simon Marius, astrónomo alemán-->
 	</personList>
 	<personList nom="N">
 		<person id="N001" género="hombre" procedencia="Irak">Nabucodonosor II (rey)</person>
