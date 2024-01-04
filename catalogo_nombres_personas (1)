@@ -307,7 +307,7 @@
                 <person id="J030" género="" procedencia="">Justin</person>  <!--no identificado aun-->
                 <person id="J031" género="" procedencia="">Jeanzoui, Henrico</person> <!--no identificado aun-->
                 <person id="J032" género="mujer" procedencia="Mítico">Juno (diosa)</person> <!--mitología romana-->
-                <person id="J033" género="hombre" procedencia="">Julián o Don Iulian (conde></person> 
+                <person id="J033" género="hombre" procedencia="">Julián o Don Iulian (conde)></person> 
 	</personList>
 	<personList nom="K">
 		<person id="K001" género="hombre " procedencia="Alemania">Kepler, Johannes (astrónomo)</person>
