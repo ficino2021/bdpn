@@ -38,7 +38,8 @@
 		<cuerpo id="E002">estómago</cuerpo>
 		<cuerpo id="E003">entrañas</cuerpo>
 		<cuerpo id="E004">enfermedad</cuerpo>
-	<cuerpo id="E004">espalda(s)</cuerpo>
+	        <cuerpo id="E005">espalda(s)</cuerpo> <!--corregido, el ID era 004, estaba repetido-->
+	        <cuerpo id="E006">espinazo</cuerpo>
 	
 	</termCuerpo>
 	<termCuerpo nom="F"> 
