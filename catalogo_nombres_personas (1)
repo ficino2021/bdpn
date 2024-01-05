@@ -68,7 +68,7 @@
 		<person id="A065" género="hombre" procedencia="">Atlas (dios)</person>
                 <person id="A066" género="mujer" procedencia="Mítico">Artemisa (diosa)</person> <!--Diana para Roma-->
                 <person id="A067" género="hombre" procedencia="Afganistán">Abulmasar</person> <!--Ya'far ibn Muḥammad Ibn 'Umar Abū Ma'shar al-Baljī, también conocido como al-Falaki-->
-                <person id="A068" género="hombre" procedencia="Toledo">Acre, Pedro Sánchez (de)</person> <!--Pedro Sánchez Racionero-->
+                <person id="A068" género="hombre" procedencia="Toledo">Acre, Pedro Sánchez de</person> <!--Pedro Sánchez Racionero-->
                 <person id="A069" género="hombre" procedencia="España">Ambrosio de Morales</person>
                 <person id="A070" género="hombre" procedencia="Portugal">Alfonso Enriquez (rey)</person> <!--Alfonso I de Portugal-->
 	</personList>	
@@ -251,7 +251,7 @@
 		<person id="G020" género="hombre" procedencia="Turquía">Claudio Galeno Nicon de Pérgamo (médico)</person>
 		<person id="G021" género="hombre" procedencia="Cuba">Gamboa Riaño y Vargas-Machuca, Marco Antonio de</person>
                 <person id="G022" género="hombre" procedencia="">Gonzalez, Andrés</person> <!--Teologo y matemático--> 
-                <person id="G023" género="hombre" prodecencia="mítica">Gerión</person> <!--mitología griega-->
+                <person id="G023" género="hombre" prodecencia="Mítico">Gerión</person> <!--mitología griega-->
 	</personList>
 	<personList nom="H">
 		<person id="H001" género="" procedencia="">Hagesio</person> <!--Aparece mencionado en la historia de la ciencia en México-->
@@ -266,7 +266,8 @@
 		<person id="H010" género="hombre" procedencia="Italia">Quinto Horacio Flaco (poeta)</person>
 		<person id="H011" género="hombre" procedencia="Grecia">Higinio papa</person>
 		<person id="H012" género="hombre" procedencia="">Hermes (dios)</person>
-                <person id="H013" género="hombre" procedencia="mítica">Hércules o Hercules (semidios)</person>
+                <person id="H013" género="hombre" procedencia="Mítico">Hércules o Hercules (semidios)</person>
+		<person id="H014! género="hombre" procedencia="España">Herrera y Tordesillas, Antonio de</person> <!--cronista, historiador y escritor del diglo de Oro-->
  	</personList>
 	<personList nom="I">
 		<person id="I001" género="hombre" procedencia="España">Ignacio de Loyola (san)</person> <!--Nombre repetido, ver L021-->
@@ -311,8 +312,8 @@
                 <person id="J030" género="" procedencia="">Justin</person>  <!--no identificado aun-->
                 <person id="J031" género="" procedencia="">Jeanzoui, Henrico</person> <!--no identificado aun-->
                 <person id="J032" género="mujer" procedencia="Mítico">Juno (diosa)</person> <!--mitología romana-->
-                <person id="J033" género="hombre" procedencia="">Julián o Don Iulian (conde)></person> 
-                <person id="J034" género="hombre" procedencia="Portugal">Juan III (rey)</person> <!--de avis-->
+                <person id="J033" género="hombre" procedencia="">Iulian (conde)></person> <!--Don Julián-->
+                <person id="J034" género="hombre" procedencia="Portugal">Juan III (rey)</person> <!--de Avis-->
 	</personList>
 	<personList nom="K">
 		<person id="K001" género="hombre " procedencia="Alemania">Kepler, Johannes (astrónomo)</person>
