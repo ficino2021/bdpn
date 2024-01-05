@@ -123,6 +123,8 @@
  <abbreviation id="H003">h.</abbreviation> <!--Hora(s)-->
  <abbreviation id="H004">hr.</abbreviation> <!--Hora(s)-->
  <abbreviation id="H005">Hist.</abbreviation> <!--Historia-->
+ <abbreviation id="H006">Homil.</abbreiation> 
+
 </abbreviationList>
 
 
@@ -238,6 +240,7 @@
  <abbreviation id="Q003">quato</abbreviation> <!--cuanto. Aparece la a con una virgulilla en el manuscrito-->
  <abbreviation id="Q004">q</abbreviation> <!--que. Aparece la q con una virgulilla en el manuscrito-->
  <abbreviation id="Q005">qe</abbreviation> <!--que-->
+ <abbreviation id="Q006">quest.</abbreviation>
 </abbreviationList>
 
 
