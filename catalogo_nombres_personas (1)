@@ -399,6 +399,7 @@
 		<person id="N007" género="hombre" procedencia="España">Nuñez de Zamora, Antonio</person> <!--Autor de Repetitiones super caput primum et tertium libri de differentiis symptomatum-->
 		<person id="N008" género="mujer" procedencia="">Nictímene</person>
 		<person id="N009" género="mujer" procedencia="">Níobe</person>
+		<person id="N010" género="hombre" procedencia="Japón">Nobunanga</person> <!--Oda Nobunaga-->
 	</personList>
 	<personList nom="O">
 		<person id="O001" género="hombre" procedencia="Colombia">Oviedo y Baños Sotomayor, Diego Antonio de</person>
