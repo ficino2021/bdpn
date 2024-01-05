@@ -123,7 +123,8 @@
  <abbreviation id="H003">h.</abbreviation> <!--Hora(s)-->
  <abbreviation id="H004">hr.</abbreviation> <!--Hora(s)-->
  <abbreviation id="H005">Hist.</abbreviation> <!--Historia-->
- <abbreviation id="H006">Homil.</abbreiation> 
+ <abbreviation id="H006">Homil.</abbreviation> 
+ <abbreviation id="H007">Hexam.</abbreviation>
 
 </abbreviationList>
 
