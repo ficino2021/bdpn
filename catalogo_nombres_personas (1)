@@ -71,7 +71,7 @@
                 <person id="A068" género="hombre" procedencia="Toledo">Acre, Pedro Sánchez de</person> <!--Pedro Sánchez Racionero-->
                 <person id="A069" género="hombre" procedencia="España">Ambrosio de Morales</person>
                 <person id="A070" género="hombre" procedencia="Portugal">Alfonso Enriquez (rey)</person> <!--Alfonso I de Portugal-->
-		<person id="A071" género="hombre" procedencia="México">Agustín Dávila Padilla(arzobispo)</person> 
+		<person id="A071" género="hombre" procedencia="México">Agustín Dávila Padilla(arzobispo)</person> <!--nacido en México y fue arzobispo de Santo Domingo-->
 	</personList>	
 	<personList nom="B">
 		<person id="B001" género="mujer" procedencia="">Baca, Isabel</person>
