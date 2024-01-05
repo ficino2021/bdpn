@@ -504,6 +504,7 @@
                 <person id="S039" género="hombre" procedencia="Flandes">Stadius, Johannes</person> <!--matemático y astrólogo 1500--> 
                 <person id="S040" género="hombre" procedencia="Mítico">Samoteo</person> <!--Mitología, padre de Eaco-->
                 <person id="S041" género="hombre" procedencia="Roma, Italia">Sergio III</person> <!--Summo Pontífice-->
+		<perdon id="S042" género="hombre" procedencia="Portugal">Sebástian I(rey)</person> <!--Rey de Portugal-->
 
 	</personList>
 	<personList nom="T">
