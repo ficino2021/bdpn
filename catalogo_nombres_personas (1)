@@ -300,7 +300,7 @@
 		<person id="J019" género="hombre" procedencia="Italia">Décimo Julio Juvenal (poeta)</person> <!--Error de ortografía: Julio a Junio-->
 		<person id="J020" género="hombre" procedencia="">Júpiter (dios)</person> <!--Jove--> 
 		<person id="J021" género="hombre" procedencia="">Job (profeta)</person> 
-		<person id="J022" género="hombre" procedencia="">Jiménez Orlando, Francisco</person>
+		<person id="J022" género="hombre" procedencia="">Jiménez Orlando, Francisco</person><!--Aparece en los textos como Ximénez-->
 		<person id="J023" género="hombre" procedencia="Siria? ">Juan Clímaco (san)</person>
 		<person id="J024" género="hombre" procedencia="">Jesús (san)</person> <!--Parece ser una fecha. Será la fiesta del santo nombre de Jesús?-->
 		<person id="J025" género="hombre" procedencia="Sira">Juan Damasceno (san) (teólogo)</person>
