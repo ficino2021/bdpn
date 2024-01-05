@@ -385,6 +385,7 @@
                 <person id="M030" género="hombre" procedencia="Alemania">Mario, Simon</person> <!--Simon Marius, astrónomo alemán-->
 		<person id="M031" género="hombre" procedencia="">Muley Mahameth</person>
 		<person id="M032" género="hombre" procedencia="">Muley Meluc</person> <!--hermano de Muley Mahameth-->
+		<person id="M033" género="hombre" procedencia="España">Mateo Alemán y de Enero</person> <!--escritor-->
 	</personList>
 	<personList nom="N">
 		<person id="N001" género="hombre" procedencia="Irak">Nabucodonosor II (rey)</person>
