@@ -267,7 +267,7 @@
 		<person id="H011" género="hombre" procedencia="Grecia">Higinio papa</person>
 		<person id="H012" género="hombre" procedencia="">Hermes (dios)</person>
                 <person id="H013" género="hombre" procedencia="Mítico">Hércules o Hercules (semidios)</person>
-		<person id="H014! género="hombre" procedencia="España">Herrera y Tordesillas, Antonio de</person> <!--cronista, historiador y escritor del diglo de Oro-->
+		<person id="H014" género="hombre" procedencia="España">Herrera y Tordesillas, Antonio de</person> <!--cronista, historiador y escritor del diglo de Oro-->
  	</personList>
 	<personList nom="I">
 		<person id="I001" género="hombre" procedencia="España">Ignacio de Loyola (san)</person> <!--Nombre repetido, ver L021-->
