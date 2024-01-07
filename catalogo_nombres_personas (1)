@@ -200,6 +200,7 @@
                 <person id="E030" género="hombre" procedencia="España">Escobar (de) y Llamas, Diego Osorio</person> <!--Obispo de la Puebla de los Angeles-->
                 <person id="E031" género="hombre" procedencia="Mítico">Épafo</person> <!--Mitología griega, Épafo era un rey de Egipto, hijo de Zeus-->
                 <person id="E032" género="hombre" procedencia="España">Abraham ben Meir ibn Ezra</person> <!--Rabí. Conocido también como Aben Ezra o Esra, Abraham Judaeus, Abendre y Avenara-->
+                <person id="E033" género="mujer" procedencia="Mítico">Euterpe</person><!--Musa de la música-->
 	</personList>
 	<personList nom="F">
 		<person id="F001" género="hombre" procedencia="">Faetón</person>
