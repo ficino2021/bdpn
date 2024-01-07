@@ -13,6 +13,7 @@
 <animalList nom="C">
 	<animal id="C001">Carnero</animal>
 	<animal id="C002">Cisne</animal>
+	<animal id="C003">Caballo</animal>
 </animalList>
 
 <animalList nom="D">
