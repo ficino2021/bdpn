@@ -536,6 +536,7 @@
 	<personList nom="U">
  		<person id="U001" género="hombre" procedencia="">Ulises</person>
 		<person id="U002" género="" procedencia="">Uzi</person> <!--Posiblemente un rey judio-->
+		<person id="U003" género="" procedencia="">Urania</person> <!--Musa de la astronomía y astrología-->
 	</personList>
 	<personList nom="V">
 		<person id="V001" género="mujer" procedencia="">Vaca, Isabel</person>
