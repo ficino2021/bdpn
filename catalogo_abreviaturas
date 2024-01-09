@@ -142,6 +142,7 @@
  <abbreviation id="I002">Instrum.tos</abbreviation> <!--instrumentos-->
  <abbreviation id="I003">ij.</abbreviation>
  <abbreviation id="I004">Inqq</abbreviation> <--Inquisición-->
+ <abbreviation id="I005">Inst.</abbreviation> 
 </abbreviationList>
 
 
@@ -190,6 +191,7 @@
  <abbreviation id="M017">Meth.</abbreviation> <!--Metamorfosis-->
  <abbreviation id="M018">Mag.</abbreviation> <!--No encontré el significado en el diccionario de abreviaturas. El contexto no indica que se trate ni de Magnis, obra de Albumasar, ni de "magestad". -->
  <abbreviation id="M019">morte</abbreviation><!--Aparece la e con una virgulilla-->
+ <abbreviation id="M020">Monach.</abbreviation> 
 </abbreviationList>
 
 
