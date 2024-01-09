@@ -71,6 +71,7 @@
 	<termCuerpo nom="L"> 
 		<cuerpo id="L001">lágrima</cuerpo>
 		<cuerpo id="L002">lengua</cuerpo>
+		<cuerpo id="L003">labio</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="M"> 
 		<cuerpo id="M001">mano</cuerpo>
