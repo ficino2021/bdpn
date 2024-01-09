@@ -30,6 +30,7 @@
 	<animal id="G001">Ganado</animal><!--Conjunto de animales cuadrúpedos-->
 	<animal id="G002">Gallina</animal>
 	<animal id="G003">Gusano</animal>
+	<animal id="G004">Grulla</animal> 
 </animalList>
 
 <animalList nom="H">
