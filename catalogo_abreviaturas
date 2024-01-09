@@ -115,6 +115,7 @@
  <abbreviaiton id="G004">Gualax.a</abbreviation> <!--Guadalajara. Los caracteres seguidos al punto aparecen como superindices en el mss-->
  <abbreviation id="G005">grad.</abbreviation> <!--Grados-->
  <abbreviation id="G006">Gen.</abbreviation> <!--Génesis-->
+ <abbreviation id="G007">Genes.</abbreviation> <!--Génesis-->
 </abbreviationList>
 
 
