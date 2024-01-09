@@ -22,6 +22,7 @@
 </animalList>
 
 <animalList nom="E">
+	<animal id="E001">Estrella de mar</animal>
 </animalList>
 
 <animalList nom="F">
