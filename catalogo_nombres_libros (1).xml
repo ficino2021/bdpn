@@ -60,6 +60,7 @@
  		<opera id="H001" titulo="Hexameron" autor="San Ambrosio de Milán">Hexameron. San Ambrosio de Milán</opera> <!--En el Discurso Etereológico se refieren al libro sin H-->
 		<opera id="H002" titulo="Historia" autor="Justino Martir">Historia. Justino Martir. Libro 7</opera>
 		<opera id="H003" titulo="Historia Angelica" autor="Flavio Vegesio Renato">Historia Angelica. Flavio Vegesio Renato. Libro XVI.</opera>
+		<opera id="H004" titulo="Homiliae in Evangeluim Sancti Johannis" autor="San Juan Chrisostomo">Homiliae in Evangelium Sancti Johannis. San Juan Crisostomo. Cap. 2</opera>
  	</operaList>
 
  	<operaList nom="I">
