@@ -119,6 +119,7 @@
 		<cuerpo id="S001">sangre</cuerpo>
 		<cuerpo id="S002">sudor</cuerpo>
 		<cuerpo id="S003">salud</cuerpo>
+		<cuerpo id="S004">sien</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="T"> 
 		<cuerpo id="T001">tobillo</cuerpo>
