@@ -49,6 +49,7 @@
 	<animal id="L001">Liebre</animal>
 	<animal id="L002">León</animal>
 	<animal id="L003">Langosta</animal>
+	<animal id="L004">Lobo</animal>
 </animalList>
 
 <animalList nom="M">
