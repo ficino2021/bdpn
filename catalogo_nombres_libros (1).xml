@@ -26,7 +26,8 @@
 		<opera id="C004" titulo="Cuestiones naturales" autor="Séneca">Cuestiones naturales. Libro VII. Séneca.</opera> 
 		<opera id="C005" titulo="Comentario sobre la Epidemia de Hipócrates" autor="Galeno">Epidemis. Galeno</opera>
 		<opera id="C006" titulo="Centiloquio o las cien sentencias" autor="Hermes Trismegistro">Aphorismo 73. Hermes Trismegistro</opera> <!--Atribuido también a Firmico Materno y Ptolomeo-->
-		<opera id="C007" titulo="Canónica" autor="San Pedro">2 Canónica. San Pedro, cap. 13</opera>
+		<opera id="C007" titulo="Canónica" autor="San Pedro">Canónica 2. San Pedro, cap. 13</opera>
+		<opera id="C008" titulo="Canónica" autor="San Pedro">Canónica 2. San Pedro, cap. 3</opera> <!--Al ser un capítulo distinto y especificarlo crei prudente la nueva marca-->
  	</operaList>
 
  	<operaList nom="D">
