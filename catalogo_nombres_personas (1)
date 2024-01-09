@@ -272,8 +272,8 @@
 		<person id="H012" género="hombre" procedencia="">Hermes (dios)</person>
                 <person id="H013" género="hombre" procedencia="Mítico">Hércules o Hercules (semidios)</person>
 		<person id="H014" género="hombre" procedencia="España">Herrera y Tordesillas, Antonio de</person> <!--cronista, historiador y escritor del diglo de Oro-->
- 	</personList>
 		<person id="H015" género="hombre" procedencia="Egipto">Hermes Trismegisto (personaje helenístico legendario. Alquimista, astrólogo, filósofo)</person>
+	</personList>
 	<personList nom="I">
 		<person id="I001" género="hombre" procedencia="España">Ignacio de Loyola (san)</person> <!--Nombre repetido, ver L021-->
 		<person id="I002" género="hombre" procedencia="Italia">Inocencio I papa (san)</person>
