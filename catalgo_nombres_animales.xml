@@ -4,6 +4,7 @@
 	<animal id="A001">Aguila</animal>
 	<animal id="A002">Animal</animal>
 	<animal id="A003">Asno</animal>
+	<animal id="A004">Ave</animal>
 </animalList>
 
 <animalList nom="B">
