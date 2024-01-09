@@ -205,7 +205,7 @@
                 <person id="E033" género="mujer" procedencia="Mítico">Euterpe</person><!--Musa de la música-->
 	</personList>
 	<personList nom="F">
-		<person id="F001" género="hombre" procedencia="">Faetón</person>
+		<person id="F001" género="hombre" procedencia="">Faetón</person><!--Faetonte, Ethonte. Hijo del dios Helios-->
 		<person id="F002" género="hombre" procedencia="">Fariñas, Manuel de</person>
 		<person id="F003" género="hombre" procedencia="">Fauno</person>
 		<person id="F004" género="" procedencia=""></person> <!--Esta id está vacío-->
