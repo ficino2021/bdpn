@@ -83,7 +83,8 @@
 		<opera id="M002" titulo="Manifiesto filosófico contra los cometas" autor="Carlos de Sigüenza y Góngora">Manifiesto filosófico contra los cometas. Carlos de Sigüenza y Góngora</opera><!--Manifiesto Filosófico contra los cometas despojados del imperio que tenían sobre los tímidos-->
 		<opera id="M003" titulo="Metafísica" autor="Aristóteles">Metafísica. Aristóteles</opera>
 		<opera id="M004" titulo="Meteorológicos" autor="Aristóteles">Meteorológicos. Aristóteles</opera>
-		<opera id="M005" titulo="Metamofósis" autor="Ovidio">Metamorphoseis. Ovidio. Libro 10.</opera>
+		<opera id="M005" titulo="Metamorfósis libro 10" autor="Ovidio">Metamorfosis. Ovidio. Libro 10.</opera>
+		<opera id="M006" titulo="Metamorfósis libro 2" autor="Ovidio">Metamorfosis. Ovidio. Libro 2.</opera>
  	</operaList>
 
  	<operaList nom="N">
