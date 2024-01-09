@@ -63,6 +63,7 @@
 		<opera id="H003" titulo="Historia Angelica" autor="Flavio Vegesio Renato">Historia Angelica. Flavio Vegesio Renato. Libro XVI.</opera>
 		<opera id="H004" titulo="Homiliae in Evangeluim" autor="San Juan Chrisostomo">Homiliae in Evangelium. San Juan Crisostomo. Cap. 2</opera>
 		<opera id="H005" titulo="Hippolytus" autor="Seneca">Hippolytus. Seneca. Act. 1</opera> <!--Tragedia, también llamada Phaedra-->
+		<opera id="H006" titulo="Historia natural" autor="Plinio">Historia natural. Plinio. Lib. 29, cap. 3</opera>
  	</operaList>
 
  	<operaList nom="I">
