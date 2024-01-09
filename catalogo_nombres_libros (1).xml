@@ -59,6 +59,7 @@
  	<operaList nom="H">
  		<opera id="H001" titulo="Hexameron" autor="San Ambrosio de Milán">Hexameron. San Ambrosio de Milán</opera> <!--En el Discurso Etereológico se refieren al libro sin H-->
 		<opera id="H002" titulo="Historia" autor="Justino Martir">Historia. Justino Martir. Libro 7</opera>
+		<opera id="H003" titulo="Historia Angelica" autor="Flavio Vegesio Renato">Historia Angelica. Flavio Vegesio Renato. Libro XVI.</opera>
  	</operaList>
 
  	<operaList nom="I">
@@ -87,8 +88,8 @@
 		<opera id="M002" titulo="Manifiesto filosófico contra los cometas" autor="Carlos de Sigüenza y Góngora">Manifiesto filosófico contra los cometas. Carlos de Sigüenza y Góngora</opera><!--Manifiesto Filosófico contra los cometas despojados del imperio que tenían sobre los tímidos-->
 		<opera id="M003" titulo="Metafísica" autor="Aristóteles">Metafísica. Aristóteles</opera>
 		<opera id="M004" titulo="Meteorológicos" autor="Aristóteles">Meteorológicos. Aristóteles</opera>
-		<opera id="M005" titulo="Metamorfósis libro 10" autor="Ovidio">Metamorfosis. Ovidio. Libro 10.</opera>
-		<opera id="M006" titulo="Metamorfósis libro 2" autor="Ovidio">Metamorfosis. Ovidio. Libro 2.</opera>
+		<opera id="M005" titulo="Metamorfósis" autor="Ovidio">Metamorfosis. Ovidio. Libro 10.</opera>
+		<opera id="M006" titulo="Metamorfósis" autor="Ovidio">Metamorfosis. Ovidio. Libro 2.</opera>
  	</operaList>
 
  	<operaList nom="N">
