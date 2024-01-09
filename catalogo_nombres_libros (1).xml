@@ -56,7 +56,8 @@
  	</operaList>
 
  	<operaList nom="H">
- 		<opera id="H001" titulo="Hexameron">Hexameron. San Ambrosio de Milán</opera> <!--En el Discurso Etereológico se refieren al libro sin H-->
+ 		<opera id="H001" titulo="Hexameron" autor="San Ambrosio de Milán">Hexameron. San Ambrosio de Milán</opera> <!--En el Discurso Etereológico se refieren al libro sin H-->
+		<opera id="H002" titulo="Historia" autor="Justino Martir">Historia. Justino Martir. Libro 7</opera>
  	</operaList>
 
  	<operaList nom="I">
