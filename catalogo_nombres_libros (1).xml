@@ -67,6 +67,7 @@
 
  	<operaList nom="I">
  		<opera id="I001" titulo="In libros meteorologicorvm Aristotelis commentaria, et qvaestiones" autor="Nicolo Cabeo">In cuaturo libros meteorologicorum aristotelis commentaria et cuestiones. Nicolo Cabeo</opera>
+		<opera id="I002" titulo="Inst. Monach." autor="Juan Hierosolimitano">Inst. Monach. Juan Hierosolimitano. Cap. 32</opera> 
  	</operaList>
 
  	<operaList nom="J">
