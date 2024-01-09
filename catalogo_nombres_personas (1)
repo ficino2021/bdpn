@@ -73,6 +73,7 @@
                 <person id="A070" género="hombre" procedencia="Portugal">Alfonso Enriquez (rey)</person> <!--Alfonso I de Portugal-->
 		<person id="A071" género="hombre" procedencia="México">Agustín Dávila Padilla (arzobispo)</person> <!--nacido en México y fue arzobispo de Santo Domingo-->
 		<person id="A072" género="hombre" procedencia="España">Acosta, José de</person>
+                <person id="A073" género="hombre" procedencia="">Alcazar, Padre</person> 
 	</personList>	
 	<personList nom="B">
 		<person id="B001" género="mujer" procedencia="">Baca, Isabel</person>
