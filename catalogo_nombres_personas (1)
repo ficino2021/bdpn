@@ -424,6 +424,7 @@
                 <person id="O010" género="hombre" procedencia="México">Oriz de los Hexos, Juan</person> <!--Censor de la santa inquisición-->
                 <person id="O011" género="hombre" procedencia="Mítico">Orfeo (mitología)</person> <!--personaje de la mitología griega-->
                 <person id="O012" género="hombre" procedencia="Italia">Ovidio (poeta)</person>
+                <person id="O013" género="hombre" procedencia="Italia">Octavio, Cayo</person> <!--Cayo Octavio Turino padre biológico del emperador Augusto-->
 	</personList>
 	<personList nom="P">
 		<person id="P001" género="hombre" procedencia="Turquía">Pablo de Tarso apóstol (san)</person> <!--Saulo de Tarso--> 
