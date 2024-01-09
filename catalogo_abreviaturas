@@ -74,6 +74,7 @@
  <abbreviation id="D019">Diz.re</abbreviation> <!--Diciembre-->
  <abbreviation id="D020">Dn</abbreviation> <!--Don-->
  <abbreviation id="D021">D.n</abbreviation> <!--Don-->
+ <abbreviation id="D022">Domini.</abbreviation> 
 </abbreviationList>
 
 
@@ -199,6 +200,7 @@
  <abbreviation id="N010">Nam.</abbreviation> <!--Abreviatura en latín-->
  <abbreviation id="N011">NovR</abbreviation> <!--Variación de noviembre-->
  <abbreviation id="N012">Nat.</abbreviation> <!--Natural-->
+ <abbreviation id="N013">Nativit.</abbreviation> 
 </abbreviationList>
 
 
