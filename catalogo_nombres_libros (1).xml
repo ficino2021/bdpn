@@ -45,6 +45,7 @@
  	<operaList nom="E">
  		<opera id="E001" titulo="Eneida" autor="Virgilio">Eneida. Virgilio Marón.</opera>
 		<opera id="E002" titulo="Efemérides" autor="Johannes Stadius">Efemérides. Johannes Stadius</opera>
+		<opera id="E003" titulo="Églogas" autor="Virgilio">Égloga IV. Virgilio. V. 29</opera>
  	</operaList>
 
  	<operaList nom="F">
@@ -60,7 +61,8 @@
  		<opera id="H001" titulo="Hexameron" autor="San Ambrosio de Milán">Hexameron. San Ambrosio de Milán</opera> <!--En el Discurso Etereológico se refieren al libro sin H-->
 		<opera id="H002" titulo="Historia" autor="Justino Martir">Historia. Justino Martir. Libro 7</opera>
 		<opera id="H003" titulo="Historia Angelica" autor="Flavio Vegesio Renato">Historia Angelica. Flavio Vegesio Renato. Libro XVI.</opera>
-		<opera id="H004" titulo="Homiliae in Evangeluim Sancti Johannis" autor="San Juan Chrisostomo">Homiliae in Evangelium Sancti Johannis. San Juan Crisostomo. Cap. 2</opera>
+		<opera id="H004" titulo="Homiliae in Evangeluim" autor="San Juan Chrisostomo">Homiliae in Evangelium. San Juan Crisostomo. Cap. 2</opera>
+		<opera id="H005" titulo="Hippolytus" autor="Seneca">Hippolytus. Seneca. Act. 1</opera> <!--Tragedia, también llamada Phaedra-->
  	</operaList>
 
  	<operaList nom="I">
