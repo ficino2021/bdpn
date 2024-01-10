@@ -398,6 +398,7 @@
 		<person id="M033" género="hombre" procedencia="España">Mateo Alemán y de Enero</person> <!--escritor-->
                 <person id="M034" género="hombre" procedencia="Mitico">Mercurio (dios)</person>
 		<person id="M035" género="hombre" procedencia="México">Moctezuma Xocoyotzin</person>
+                <person id="M036" género="mujer" procedencia="Mitico">Medusa (mitologia griega)</person>
 	</personList>
 	<personList nom="N">
 		<person id="N001" género="hombre" procedencia="Irak">Nabucodonosor II (rey)</person>
