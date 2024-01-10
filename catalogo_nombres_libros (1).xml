@@ -30,6 +30,7 @@
 		<opera id="C006" titulo="Centiloquio o las cien sentencias" autor="Hermes Trismegistro">Aphorismo 73. Hermes Trismegistro</opera> <!--Atribuido también a Firmico Materno y Ptolomeo-->
 		<opera id="C007" titulo="Canónica" autor="San Pedro">Canónica 2. San Pedro, cap. 13</opera>
 		<opera id="C008" titulo="Canónica" autor="San Pedro">Canónica 2. San Pedro, cap. 3</opera> <!--Al ser un capítulo distinto y especificarlo crei prudente la nueva marca-->
+		<opera id="C009" titulo="Columba" autor="Pierio Valeriano, Giovani">Columba. Giovani Pierio Valeriano. Lib. 22</opera>
  	</operaList>
 
  	<operaList nom="D">
