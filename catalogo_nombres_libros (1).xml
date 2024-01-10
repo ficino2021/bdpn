@@ -54,6 +54,7 @@
  		<opera id="F001" titulo="De flatibus liber" autor="Hipócrates">Flatib. Hipócrates</opera> <!--No encontré la obra-->
 		<opera id="F002" titulo="Fabulae" autor="Higino, Julio Cayo">Fabulas. Higinio. Cap. 192</opera> 
 		<opera id="F003" titulo="Fastorum" autor="Ovidio">Fastorum. Ovidio. Lib. 5</opera>
+		<opera id="F004" titulo="Fastorum" autor="Ovidio">Fastorum. Ovidio. Lib. 4</opera>
  	</operaList>
 
  	<operaList nom="G">
