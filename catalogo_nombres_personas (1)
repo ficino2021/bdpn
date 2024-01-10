@@ -526,7 +526,6 @@
 		<person id="S042" género="hombre" procedencia="Portugal">Sebastián I(rey)</person> <!--Rey de Portugal-->
 		<person id="S043" género="hombre" procedencia="España">Sandoval, Prudencio de (fray)</person> <!--historiador-->
                 <person id="S044" género="hombre" procedencia="Libia">Severo, Alejandro</person> <!--Alejandro Severo, emperador romano-->
-
 	</personList>
 	<personList nom="T">
 		<person id="T001" género="hombre" procedencia="Italia">Publio Cornelio Tácito​ (historiador)</person> <!--Nombre repetido T006-->
@@ -541,7 +540,7 @@
 		<person id="T010" género="hombre" procedencia="">Trismegisto, Hermes</person>
 		<person id="T011" género="hombre" procedencia="Italia">Tomás de Aquino (santo)</person> <!--Nombre repetido T002-->
 		<person id="T012" género="hombre" procedencia="Israel">Tomás el Apóstol (apóstol de Jesús)</person>
-                <person id="T013" género="hombre" procedencia="Francia">Ravisio Textor</person> <!--Jean Tixier de Ravisi, humanista y erudito francés-->
+                <person id="T013" género="hombre" procedencia="Francia">Textor, Ravisio</person> <!--Jean Tixier de Ravisi, humanista y erudito francés-->
 	</personList>
 	<personList nom="U">
  		<person id="U001" género="hombre" procedencia="">Ulises</person>
