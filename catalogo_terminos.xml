@@ -82,6 +82,7 @@
 		<cuerpo id="M005">manos</cuerpo>
 		<cuerpo id="M006">madre</cuerpo><!--matriz, útero-->
 		<cuerpo id="M007">muslo(s)</cuerpo>
+		<cuerpo id="M008">madeja</cuerpo><!--conjunto de la cabellera-->
 	</termCuerpo>
 	<termCuerpo nom="N"> 
 		<cuerpo id="N001">nervio</cuerpo>
