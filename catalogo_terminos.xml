@@ -50,6 +50,7 @@
 	<termCuerpo nom="G"> 
 		<cuerpo id="G001">garganta</cuerpo>
 		<cuerpo id="G002">genitales</cuerpo>
+		<cuerpo id="G003">guedeja</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="H"> 
 		<cuerpo id="H001">hueso</cuerpo>
