@@ -27,6 +27,7 @@
 		<cuerpo id="C011">crines</cuerpo> <!--Conjunto de cerdas que tienen algunos animales en la parte superior del cuello.-->
 		<cuerpo id="C012">cabello</cuerpo> 
 		<cuerpo id="C013">cola</cuerpo> <!--En plural en el texto-->
+		<cuerpo id="C014">cadejo</cuerpo> <!--Parte del cabello que se encuentra muy enredada-->
 	</termCuerpo>
  <termCuerpo nom="D"> 
 		<cuerpo id="D001">dedo índice</cuerpo>
