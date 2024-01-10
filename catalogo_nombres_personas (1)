@@ -361,6 +361,7 @@
                 <person id="L029" género="hombre" procedencia="Alejandría">Lisímaco</person> <!--Lisímaco Alexandrino-->
                 <person id="L030" género="hombre" procedencia="indefinida">Ludovico</person> <!--No he encontrado a quién se refiere Bonilla-->
                 <person id="L031" género="hombre" procedencia="Dinamarca">Longomontano, Christian Severus</person> <!--Christen Sørensen Longomontanus-->
+                <person id="L032" género="hombre" procedencia="Mitico">Lucifer</person>
 	</personList>
 	<personList nom="M">
 		<person id="M001" género="hombre" procedencia="Turquía">Marco Opelio Macrino (emperador)</person>
