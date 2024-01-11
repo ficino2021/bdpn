@@ -3,11 +3,10 @@
 <operas>
 	<operaList nom="A">
  		<opera id="A001" titulo="Antigüedades judías" autor="Falvio Josefo">Antiguedades Judias. Flavio Josefo. Libro VII. Capítulo 12</opera>
-		<opera id="A002" titulo="Argonauticorum" autor="Apolonio Pergeo">Argonauticorum. Apolonio Pergeo. Libro 4.</opera>
+		<opera id="A002" titulo="Argonauticorum" autor="Apolonio Pergeo">Argonauticorum. Apolonio Pergeo.</opera>
 		<opera id="A003" titulo="Astronómica" autor="Marco Manilo">Astronomica</opera>
 		<opera id="A004" titulo="Ara coeli" autor="Felipe Boskhiero">Ara coeli. Felipe Boskhiero</opera>
-		<opera id="A005" titulo="Argonauticas" autor="Apolonio Rodio">Argonauticas. Apolonio Pergeo. Libro 3.</opera>
-		<opera id="A006" titulo="Ars amatoria" autor="Ovidio">Ars Amatoria. Ovidio. Lib. 2</opera>
+		<opera id="A005" titulo="Ars amatoria" autor="Ovidio">Ars Amatoria. Ovidio.</opera>
  	</operaList>
 
 	<operaList nom="B">
