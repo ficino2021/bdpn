@@ -145,7 +145,8 @@
  <abbreviation id="I002">Instrum.tos</abbreviation> <!--instrumentos-->
  <abbreviation id="I003">ij.</abbreviation>
  <abbreviation id="I004">Inqq</abbreviation> <--Inquisición-->
- <abbreviation id="I005">Inst.</abbreviation> 
+ <abbreviation id="I005">Inst.</abbreviation>
+ <abbreviation id="I006">ibide</abbreviation><!--ibidem. Aparece la e con una virgulilla-->
 </abbreviationList>
 
 
