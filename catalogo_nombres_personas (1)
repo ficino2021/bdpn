@@ -232,6 +232,7 @@
 		<person id="F025" género="" procedencia=""></person> 
 		<person id="F026" género="hombre" procedencia="Israel">Flavio, Josefo (historiador judeoromano)</person>
 		<person id="F027" género="hombre" procedencia="Israel">Felipe, San (apóstol)</person>
+		<person id="F028" género="hombre" procedencia="">Francisco Iunctino Florentino(astrólogo)</person>
 	</personList>
 	<personList nom="G">
 		<person id="G001" género="hombre" procedencia="Italia">Galileo Galilei (satrónomo)</person>
