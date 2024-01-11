@@ -327,7 +327,7 @@
 	<personList nom="K">
 		<person id="K001" género="hombre " procedencia="Alemania">Kepler, Johannes (astrónomo)</person>
 		<person id="K002" género="hombre " procedencia="Italia">Kino, Eusebio Francisco (padre)</person>
-		<person id="K003" género="hombre " procedencia="Alemania">Kircher, Ansatasio (lingüísta)</person>
+		<person id="K003" género="hombre " procedencia="Alemania">Kircher, Atanasio (lingüísta)</person><!--"Anastasio Kierkerio"-->
 	</personList>
 	<personList nom="L">
 		<person id="L001" género="hombre " procedencia="">Laertes (rey)</person>
