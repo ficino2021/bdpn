@@ -255,7 +255,7 @@
 		<person id="G017" género="hombre" procedencia="España">Güemes y Horcasitas, Juan Francisco de (virrey)</person>
 		<person id="G018" género="hombre" procedencia="">Gramico, Teodoro</person>
 		<person id="G019" género="hombre" procedencia="España">Gómez de Gayangos y Morquecho, Tomás (militar)</person>
-		<person id="G020" género="hombre" procedencia="Turquía">Claudio Galeno Nicon de Pérgamo (médico)</person>
+		<person id="G020" género="hombre" procedencia="Turquía">Claudio Galeno Nicon de Pérgamo (médico)</person> <!--está marcado doble vez (P003)-->
 		<person id="G021" género="hombre" procedencia="Cuba">Gamboa Riaño y Vargas-Machuca, Marco Antonio de</person>
                 <person id="G022" género="hombre" procedencia="">Gonzalez, Andrés</person> <!--Teologo y matemático--> 
                 <person id="G023" género="hombre" prodecencia="Mítico">Gerión</person> <!--mitología griega-->
@@ -453,7 +453,8 @@
 		<person id="P020" género="hombre" procedencia="Holanda">Putte, Hendrik van der (escritor)</person>
 		<person id="P021" género="hombre" procedencia="España? ">Pérez de Nueros, Jerónimo</person>
                 <person id="P022" género="hombre" procedencia="Mítico">Polifemo</person> <!--Cíclope, personaje de mitología griega-->
-                <person id="P023" género="hombre" procedencia="Piceno, Roma">Pompeyo</person> <!--Cneo Pompeyo Magno--> 
+                <person id="P023" género="hombre" procedencia="Piceno, Roma">Pompeyo</person> <!--Cneo Pompeyo Magno-->
+		<person id="P024" género="hombre" procedencia="Italia antigua">Plinio el Viejo (escritor y militar)</person>
 	</personList>
 	<personList nom="Q">
 		<person id="Q001" género="hombre" procedencia="España">Quezada de Figueroa, Juan</person>
