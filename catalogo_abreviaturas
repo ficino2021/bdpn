@@ -103,6 +103,7 @@
  <abbreviation id="E015">elevan.</abbreviation> <!--abreviatura no identificada. Podría ser elevación. Folio 11 recto Carta Don Martín de la Torre-->
  <abbreviation id="E016">Exam.</abbreviation> <!--Puede referirse a la obra Hexameron atribuida a Anastasio Sinaíta-->
  <abbreviation id="E017">Eclog.</abbreviation> <!--Eglogas-->
+ <abbreviation id="E018">Epid.</abbreviation>
 </abbreviationList>
 
 
@@ -126,6 +127,7 @@
  <abbreviation id="G005">grad.</abbreviation> <!--Grados-->
  <abbreviation id="G006">Gen.</abbreviation> <!--Génesis-->
  <abbreviation id="G007">Genes.</abbreviation> <!--Génesis-->
+ <abbreviation id="G008">Gal.</abbreviation>
 </abbreviationList>
 
 
@@ -313,6 +315,7 @@
  <abbreviation id="T003">tiepos</abbreviation> <!--tiempos. Aparece la e con una virgulilla en el manuscrito-->
  <abbreviation id="T004">tambie</abbreviation> <!--también. Aparece la e con una virgulilla en el manuscrito-->
  <abbreviation id="T005">teblores</abbreviation> <!--temblores. Aparece la primera e con una virgulilla en el manuscrito-->
+ <abbreviation id="T006">text.</abbreviation>
 </abbreviationList>
 
 
