@@ -29,6 +29,8 @@
 		<cuerpo id="C012">cabello</cuerpo> 
 		<cuerpo id="C013">cola</cuerpo> <!--En plural en el texto-->
 		<cuerpo id="C014">cadejo</cuerpo> <!--Parte del cabello que se encuentra muy enredada-->
+		<cuerpo id="C015">Cocoliztli</cuerpo> <!--enfermedad que afectó a los nativos de la Nueva España, tras la llegada de los conquistadores españoles-->
+		<cuerpo id="C016">calenturas</cuerpo>
 	</termCuerpo>
  <termCuerpo nom="D"> 
 		<cuerpo id="D001">dedo índice</cuerpo>
@@ -79,6 +81,7 @@
 		<cuerpo id="L001">lágrima</cuerpo>
 		<cuerpo id="L002">lengua</cuerpo>
 		<cuerpo id="L003">labio</cuerpo>
+		<cuerpo id="L004">lágrimas</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="M"> 
 		<cuerpo id="M001">mano</cuerpo>
@@ -114,6 +117,7 @@
 		<cuerpo id="P007">pierna(s)</cuerpo>
 		<cuerpo id="P008">pulmón</cuerpo>
 		<cuerpo id="P009">pelo</cuerpo>
+		<cuerpo id="P010">pasmo</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="Q"> 
 		<cuerpo id="Q001">quijada</cuerpo>
