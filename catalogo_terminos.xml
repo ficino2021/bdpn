@@ -61,6 +61,7 @@
 		<cuerpo id="H006">humores</cuerpo>
 		<cuerpo id="H007">Humor colérico</cuerpo>
 		<cuerpo id="H008">Hombro izquierdo</cuerpo> <!--ombro izquierdo-->
+		<cuerpo id="H009">Humor melancólico</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="I"> 
 		<cuerpo id="I001"></cuerpo>
