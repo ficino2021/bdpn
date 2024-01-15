@@ -47,6 +47,7 @@
 	<termCuerpo nom="F"> 
 		<cuerpo id="F001">flema(s)</cuerpo>
 		<cuerpo id="F002">frente</cuerpo>
+		<cuerpo id="F003">fiebres</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="G"> 
 		<cuerpo id="G001">garganta</cuerpo>
@@ -63,6 +64,7 @@
 		<cuerpo id="H007">Humor colérico</cuerpo>
 		<cuerpo id="H008">Hombro izquierdo</cuerpo> <!--ombro izquierdo-->
 		<cuerpo id="H009">Humor melancólico</cuerpo>
+		<cuerpo id="H010">Hypos</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="I"> 
 		<cuerpo id="I001"></cuerpo>
