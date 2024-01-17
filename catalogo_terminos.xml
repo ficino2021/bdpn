@@ -67,7 +67,8 @@
 		<cuerpo id="H008">Hombro izquierdo</cuerpo> <!--ombro izquierdo-->
 		<cuerpo id="H009">Humor melancólico</cuerpo>
 		<cuerpo id="H010">Hypos</cuerpo>
-		<cuerpo id="H011">hinchazon</cuerpo>
+		<cuerpo id="H011">hinchazón</cuerpo>
+		<cuerpo id="H012">hypo</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="I"> 
 		<cuerpo id="I001"></cuerpo>
