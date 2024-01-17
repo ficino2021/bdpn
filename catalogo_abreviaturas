@@ -258,6 +258,7 @@
  <abbreviation id="P018">part.</abbreviation> <!--Podría ser parte. Discurso ethereológico-->
  <abbreviation id="P019">philp.</abbreviation> <!--Hace referencia al libro/epístolas bíblicas a los filipenses-->
  <abbreviation id="P020">Philosoph.</abbreviation> <!--Philosophorum-->
+ <abbreviation id="P021">presag.</abbreviation>
 </abbreviationList>
 
 
@@ -307,6 +308,7 @@
  <abbreviation id="S022">Serm.</abbreviation> <!--No identificada, podría ser sermón-->
  <abbreviation id="S023">Sit.</abbreviation>
  <abbreviation id="S024">S. C. S. R. E.</abbreviation> <!--No identificada. Discurso etereologico-->
+ <abbreviation id="S025">sec.</abbreviation>
 </abbreviationList>
 
 
@@ -317,6 +319,7 @@
  <abbreviation id="T004">tambie</abbreviation> <!--también. Aparece la e con una virgulilla en el manuscrito-->
  <abbreviation id="T005">teblores</abbreviation> <!--temblores. Aparece la primera e con una virgulilla en el manuscrito-->
  <abbreviation id="T006">text.</abbreviation>
+ <abbreviation id="T007">t.</abbreviation>
 </abbreviationList>
 
 
