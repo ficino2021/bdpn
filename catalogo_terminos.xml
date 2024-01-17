@@ -83,6 +83,7 @@
 		<cuerpo id="L002">lengua</cuerpo>
 		<cuerpo id="L003">labio</cuerpo>
 		<cuerpo id="L004">lágrimas</cuerpo>
+		<cuerpo id="L005">labios</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="M"> 
 		<cuerpo id="M001">mano</cuerpo>
