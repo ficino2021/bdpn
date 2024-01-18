@@ -261,6 +261,7 @@
  <abbreviation id="P020">Philosoph.</abbreviation> <!--Philosophorum-->
  <abbreviation id="P021">presag.</abbreviation>
  <abbreviation id="P022">prognost.</abbreviation>
+ <abbreviation id="P023">predict.</abbreviation>
 </abbreviationList>
 
 
@@ -311,6 +312,7 @@
  <abbreviation id="S023">Sit.</abbreviation>
  <abbreviation id="S024">S. C. S. R. E.</abbreviation> <!--No identificada. Discurso etereologico-->
  <abbreviation id="S025">sec.</abbreviation>
+ <abbreviation id="S026">sect.</abbreviation>
 </abbreviationList>
 
 
@@ -323,6 +325,7 @@
  <abbreviation id="T006">text.</abbreviation>
  <abbreviation id="T007">t.</abbreviation>
  <abbreviation id="T008">tHip.</abbreviation>
+ <abbreviation id="T009">tex.</abbreviation>
 </abbreviationList>
 
 
