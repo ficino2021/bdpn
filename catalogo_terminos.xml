@@ -109,6 +109,7 @@
 		<cuerpo id="O005">orejas</cuerpo>
 		<cuerpo id="O006">ojos</cuerpo>
 		<cuerpo id="O007">orina</cuerpo>
+		<cuerpo id="O008">oídos</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="P"> 
 		<cuerpo id="P001">palma</cuerpo>
@@ -136,6 +137,7 @@
 		<cuerpo id="S002">sudor</cuerpo>
 		<cuerpo id="S003">salud</cuerpo>
 		<cuerpo id="S004">sien</cuerpo>
+		<cuerpo id="S005">sordera</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="T"> 
 		<cuerpo id="T001">tobillo</cuerpo>
@@ -163,7 +165,7 @@
 		<cuerpo id="Y001"></cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="Z"> 
-		<cuerpo id="Z001"></cuerpo>
+		<cuerpo id="Z001">zumbido</cuerpo>
 	</termCuerpo>
 </terminos>
 
