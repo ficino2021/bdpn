@@ -8,6 +8,7 @@
 		<cuerpo id="A004">Ánima</cuerpo>
 		<cuerpo id="A005">achaque</cuerpo><!--enfermedad?-->
 		<cuerpo id="A006">asma</cuerpo><!--enfermedad?-->
+		<cuerpo id="A007">aliento</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="B"> 
 		<cuerpo id="B001">barbas</cuerpo>
