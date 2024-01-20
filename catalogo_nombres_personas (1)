@@ -205,6 +205,7 @@
                 <person id="E031" género="hombre" procedencia="Mítico">Épafo</person> <!--Mitología griega, Épafo era un rey de Egipto, hijo de Zeus-->
                 <person id="E032" género="hombre" procedencia="España">Abraham ben Meir ibn Ezra</person> <!--Rabí. Conocido también como Aben Ezra o Esra, Abraham Judaeus, Abendre y Avenara-->
                 <person id="E033" género="mujer" procedencia="Mítico">Euterpe</person><!--Musa de la música-->
+		<person id="E034" género="hombre" procedencia="Portugal">Enrique I de Portugal (rey)</person>
 	</personList>
 	<personList nom="F">
 		<person id="F001" género="hombre" procedencia="">Faetón</person><!--Faetonte, Ethonte. Hijo del dios Helios-->
@@ -455,7 +456,6 @@
 		<person id="P021" género="hombre" procedencia="España? ">Pérez de Nueros, Jerónimo</person>
                 <person id="P022" género="hombre" procedencia="Mítico">Polifemo</person> <!--Cíclope, personaje de mitología griega-->
                 <person id="P023" género="hombre" procedencia="Piceno, Roma">Pompeyo</person> <!--Cneo Pompeyo Magno-->
-		<person id="P024" género="hombre" procedencia="Italia antigua">Plinio el Viejo (escritor y militar)</person>
 	</personList>
 	<personList nom="Q">
 		<person id="Q001" género="hombre" procedencia="España">Quezada de Figueroa, Juan</person>
