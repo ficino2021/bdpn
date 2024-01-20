@@ -134,7 +134,8 @@
  <place id="F001">Frankfurt</place>
  <place id="F002">Firmamento</place> <!--El cielo en que se supone hallarse las estrellas-->
  <place id="F003">Francia</place>
- <place id="F004">Filipinas</lugar>
+ <place id="F004">Filipinas</place>
+ <place id="F005">Finisterre</place> <!--municipio español-->
 </placeList>
 
 
