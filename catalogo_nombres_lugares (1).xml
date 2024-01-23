@@ -52,6 +52,7 @@
  <place id="B005">Beocia, Grecia (región)</place>
  <place id="B006">Braganza, Portugal</place>
  <place id="B007">Bérgamo, Italia</place>
+ <place id="B008">Balconete, España</place>  <!-- se puede encontrar como Valconete -->
 </placeList>
 
 
@@ -95,6 +96,8 @@
  <place id="C037">Cuextlauac, México</place> <!--También Cuitláhuac, referente al terrirtorio mixteco-->
  <place id="C038">Coluro</place>
  <place id="C039">Cabo de San Vicente</place> <!--Cabo de Portugal-->
+ <place id="C040">El Colmenar, España</place>
+ <place id="C041">El Cardoso, España</place>
 </placeList>
 
 
@@ -107,6 +110,7 @@
  <place id="D006">Delos</place> <!--Isla griega de las Cícladas-->
  <place id="D007">Desgreñados astros</place> 
  <place id="D008">Dalmacia, Croacia</place> 
+ <place id="D009">Dueñas, España</place> 
 </placeList>
 
 
@@ -162,6 +166,7 @@
  <place id="H010">Habana</place>
  <place id="H011">Holanda</place>
  <place id="H012">Villa de Hebro, España</place> <!--Miranda de Ebro-->
+ <place id="H011">Villas de Higuera, España</place>
 </placeList>
 
 
@@ -396,7 +401,8 @@
  <place id="V004">Venecia, Italia</place>
  <place id="V005">Virgo</place> <!--constelacion-->
  <place id="V006">Vía láctea</place> 
-
+ <place id="V007">El Vado, España </place> <!--actualmente pueblo perteneciente a Guadalajara, España-->
+ 
 </placeList>
 
 
