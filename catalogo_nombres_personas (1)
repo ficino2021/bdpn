@@ -404,6 +404,7 @@
                 <person id="M034" género="hombre" procedencia="Mitico">Mercurio (dios)</person>
 		<person id="M035" género="hombre" procedencia="México">Moctezuma Xocoyotzin</person>
                 <person id="M036" género="mujer" procedencia="Mitico">Medusa (mitologia griega)</person>
+		<person id="M037" género="hombre" procedencia="España">Mendoza y Luna, Juan de (marqués)</person> <!--marqués de Montesclaros y administrador de las provincias españolas en América-->   
 	</personList>
 	<personList nom="N">
 		<person id="N001" género="hombre" procedencia="Irak">Nabucodonosor II (rey)</person>
