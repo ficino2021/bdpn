@@ -107,6 +107,7 @@
 		<person id="B026" género="mujer" procedencia="México">Benavides, Paula de</person><!--Viuda de Bernardo Calderon. Impresora-->
                 <person id="B027" género="hombre" procedencia="México">Bonilla (de), Fabriello</person>
 		<person id="B028" género="hombre" procedencia="Mesopotamia">Bethem <!--Muhammad ibn Jabir Al-Battani--> (astrólogo)</person>
+		<person id="B029" género="hombre" procedencia="">Bazán, Hernando</person> 
 	</personList>
 	<personList nom="C">
 		<person id="C001" género="hombre" procedencia="Italia">Cabeo, Niccolo (filósofo)</person>
