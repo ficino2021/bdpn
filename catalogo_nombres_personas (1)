@@ -550,6 +550,7 @@
 		<person id="T011" género="hombre" procedencia="Italia">Tomás de Aquino (santo)</person> <!--Nombre repetido T002-->
 		<person id="T012" género="hombre" procedencia="Israel">Tomás el Apóstol (apóstol de Jesús)</person>
                 <person id="T013" género="hombre" procedencia="Francia">Textor, Ravisio</person> <!--Jean Tixier de Ravisi, humanista y erudito francés-->
+		<person id="T014" género="hombre" procedencia="">Torrero, Sebastián (licenciado)</person>
 	</personList>
 	<personList nom="U">
  		<person id="U001" género="hombre" procedencia="">Ulises</person>
