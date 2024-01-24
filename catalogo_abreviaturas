@@ -204,6 +204,7 @@
  <abbreviation id="M018">Mag.</abbreviation> <!--No encontré el significado en el diccionario de abreviaturas. El contexto no indica que se trate ni de Magnis, obra de Albumasar, ni de "magestad". -->
  <abbreviation id="M019">morte</abbreviation><!--Aparece la e con una virgulilla-->
  <abbreviation id="M020">Monach.</abbreviation> 
+ <abbreviation id="M021">Max.</abbreviation>
 </abbreviationList>
 
 
@@ -262,6 +263,7 @@
  <abbreviation id="P021">presag.</abbreviation>
  <abbreviation id="P022">prognost.</abbreviation>
  <abbreviation id="P023">predict.</abbreviation>
+ <abbreviation id="P024">pontif.</abbreviation>
 </abbreviationList>
 
 
