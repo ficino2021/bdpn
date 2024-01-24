@@ -171,6 +171,7 @@
      		<person id="D014" género="hombre" procedencia="España">Diego de Alcalá, Fray</person> <!--El religioso de San Diego-->
                 <person id="D015" género="hombre" procedencia="Mítico">Deucalion (dios)</person> <!--Mitología griega-->
 		<person id="D016" género="hombre" procedencia="España">Diego Pérez de Mesa (astrónomo)</person>
+		<person id="D017" género="hombre" procedencia="Turquía">de Sinope, Diógenes (filósofo)</person> <!--Diógenes el Cínico o Diógenes el Perro-->
 	</personList>
 	<personList nom="E">
 		<person id="E001" género="hombre" procedencia="">Edipo (rey)</person>
