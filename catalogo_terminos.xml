@@ -15,6 +15,7 @@
 		<cuerpo id="B001">barbas</cuerpo>
 		<cuerpo id="B002">brazo(s)</cuerpo>
 		<cuerpo id="B003">boca</cuerpo>
+		<cuerpo id="B004">bubas</cuerpo> <!--enfermedad-->
 	</termCuerpo>
 	<termCuerpo nom="C"> 
 		<cuerpo id="C001">cabeza</cuerpo>
