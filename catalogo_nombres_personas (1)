@@ -75,6 +75,7 @@
 		<person id="A072" género="hombre" procedencia="España">Acosta, José de</person>
                 <person id="A073" género="hombre" procedencia="">Alcazar, Padre</person> 
 		<person id="A074" género="hombre" procedencia="">Aponiense, Pedro</person>
+		<person id="A075" género="hombre" procedencia="Nueva España">Acamapichtli (tlatoani)</person>
 	</personList>	
 	<personList nom="B">
 		<person id="B001" género="mujer" procedencia="">Baca, Isabel</person>
