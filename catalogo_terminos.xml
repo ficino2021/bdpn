@@ -147,6 +147,7 @@
 		<cuerpo id="S003">salud</cuerpo>
 		<cuerpo id="S004">sien</cuerpo>
 		<cuerpo id="S005">sordera</cuerpo>
+		<cuerpo id="S006">sentidos</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="T"> 
 		<cuerpo id="T001">tobillo</cuerpo>
