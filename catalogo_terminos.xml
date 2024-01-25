@@ -103,6 +103,7 @@
 		<cuerpo id="M006">madre</cuerpo><!--matriz, útero-->
 		<cuerpo id="M007">muslo(s)</cuerpo>
 		<cuerpo id="M008">madeja</cuerpo><!--conjunto de la cabellera-->
+		<cuerpo id="M009">miembros</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="N"> 
 		<cuerpo id="N001">nervio</cuerpo>
