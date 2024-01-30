@@ -119,6 +119,7 @@
 		<cuerpo id="O006">ojos</cuerpo>
 		<cuerpo id="O007">orina</cuerpo>
 		<cuerpo id="O008">oídos</cuerpo>
+		<cuerpo id="O009">órganos</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="P"> 
 		<cuerpo id="P001">palma</cuerpo>
