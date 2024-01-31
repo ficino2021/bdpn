@@ -35,6 +35,7 @@
 		<cuerpo id="C015">Cocoliztli</cuerpo> <!--enfermedad que afectó a los nativos de la Nueva España, tras la llegada de los conquistadores españoles-->
 		<cuerpo id="C016">calenturas</cuerpo>
 		<cuerpo id="C017">cólera</cuerpo>
+		<cuerpo id="C018">cabezas</cuerpo>
 	</termCuerpo>
  <termCuerpo nom="D"> 
 		<cuerpo id="D001">dedo índice</cuerpo>
