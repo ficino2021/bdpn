@@ -9,12 +9,14 @@
 
 <animalList nom="B">
 	<animal id="B001">Buey</animal>
+	<animal id="B002">Bestia</animal>
 </animalList>
 
 <animalList nom="C">
 	<animal id="C001">Carnero</animal>
 	<animal id="C002">Cisne</animal>
 	<animal id="C003">Caballo</animal>
+	<animal id="C004">Cordero</animal>
 </animalList>
 
 <animalList nom="D">
