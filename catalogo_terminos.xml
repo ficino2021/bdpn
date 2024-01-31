@@ -77,7 +77,7 @@
 		<cuerpo id="H013">heridas</cuerpo>
 		<cuerpo id="H014">humor</cuerpo>
 		<cuerpo id="H015">humor flemático</cuerpo>
-		<cuerpo id="H016">humor sanguíneo</cuerpo>
+		<cuerpo id="H016">humor sanguíneo</cuerpo> <!--humor benigno-->
 	</termCuerpo>
 	<termCuerpo nom="I"> 
 		<cuerpo id="I001">inflamaciones</cuerpo>
