@@ -547,7 +547,7 @@
 		<person id="S042" género="hombre" procedencia="Portugal">Sebastián I(rey)</person> <!--Rey de Portugal-->
 		<person id="S043" género="hombre" procedencia="España">Sandoval, Prudencio de (fray)</person> <!--historiador-->
                 <person id="S044" género="hombre" procedencia="Libia">Severo, Alejandro</person> <!--Alejandro Severo, emperador romano-->
-		<person id="S045" género="hombre" procedencia="España">Sánchez Ciruelo, Pedro (matemático y teólogo)</person>
+		<person id="S045" género="hombre" procedencia="Italia">Sansovino, Francesco</person>
 	</personList>
 	<personList nom="T">
 		<person id="T001" género="hombre" procedencia="Italia">Publio Cornelio Tácito​ (historiador)</person> <!--Nombre repetido T006-->
