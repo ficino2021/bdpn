@@ -36,6 +36,7 @@
 		<cuerpo id="C016">calenturas</cuerpo>
 		<cuerpo id="C017">cólera</cuerpo>
 		<cuerpo id="C018">cabezas</cuerpo>
+		<cuerpo id="C019">corazones</cuerpo>
 	</termCuerpo>
  <termCuerpo nom="D"> 
 		<cuerpo id="D001">dedo índice</cuerpo>
