@@ -609,7 +609,7 @@
 		<person id="Z003" género="hombre" procedencia="España">Zaragoza, José de</person>
 		<person id="Z004" género="hombre" procedencia="España">Zerda, Thomas Antonio de la</person> <!--ID duplicado. Error de ortografía Thomas por Tomás-->
 		<person id="Z004" género="hombre" procedencia="">Zeus (dios)</person> <!--ID duplicado-->
-		<person id="Z005" género="hombre" procedencia="">Zuinglio, Ulrico</person>
+		<person id="Z005" género="hombre" procedencia="Suiza">Zuinglio, Ulrico</person>
 </personList>
 </persons>
 
