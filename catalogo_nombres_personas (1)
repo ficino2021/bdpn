@@ -156,6 +156,7 @@
                 <person id="C042" género="mujer" procedencia="Mítico">Clymene</person> <!--Ninfa, mitología griega-->
                 <person id="C043" género="hombre" procedencia="Mítico">Cygno (cicno)</person> <!--Hijo de Apolo-->
                 <person id="C044" género="hombre" procedencia="México-Tenochtitlán">Chimalpopoca (tlatoani)</person> <!--Tercer tlatoani mexica-->
+		<person id="C045" género="hombre" procedencia="Francia">Calvino, Juan (teólogo y filósofo)</person>
 	</personList>
 	<personList nom="D">
 		<person id="D001" género="hombre" procedencia="Grecia">Dionisio Areopagita obispo de Atenas (santo)</person>
