@@ -49,6 +49,7 @@
  		<opera id="E001" titulo="Eneida" autor="Virgilio">Eneida. Virgilio Marón.</opera>
 		<opera id="E002" titulo="Efemérides" autor="Johannes Stadius">Efemérides. Johannes Stadius</opera>
 		<opera id="E003" titulo="Églogas" autor="Virgilio">Égloga IV. Virgilio. V. 29</opera>
+		<opera id="E004" titulo="Elementos" autor="Euclides">Elementos 4. Euclides</opera>
  	</operaList>
 
  	<operaList nom="F">
