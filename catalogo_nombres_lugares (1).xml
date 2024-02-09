@@ -170,7 +170,8 @@
  <place id="H010">Habana</place>
  <place id="H011">Holanda</place>
  <place id="H012">Villa de Hebro, España</place> <!--Miranda de Ebro-->
- <place id="H011">Villas de Higuera, España</place>
+ <place id="H011">Villas de Higuera, España</place><!--id repetido-->
+ <place id="H014">Hidra</place> <!--Constelación-->
 </placeList>
 
 
