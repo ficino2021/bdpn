@@ -86,6 +86,7 @@
 
 <animalList nom="S">
 	<animal id="S001">Serpiente</animal>
+	<animal id="S002">Sierpe</animal>
 </animalList>
 
 <animalList nom="T">
