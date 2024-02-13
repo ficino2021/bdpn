@@ -77,7 +77,8 @@
 		<person id="A074" género="hombre" procedencia="">Aponiense, Pedro</person>
 		<person id="A075" género="hombre" procedencia="Tenochtitlan">Acamapichtli (tlatoani)</person>
 		<person id="A076" género="hombre" procedencia="Arabia Saudita">Alcabitius</person> <!--Abd Al Aziz Al Kabisi-->
-		<person id="A077" género="hombre" procedencia="">Abd Allah ibn Abd al-Muttalib (padre de Mohammad, profeta islámico)</person>
+		<person id="A077" género="hombre" procedencia="Arabia Saudita">Abd Allah ibn Abd al-Muttalib (padre de Mohammad, profeta islámico)</person>
+		<person id="A078" género="mujer" procedencia="Arabia Saudita">Ámina bint Wahb (madre de Mohammad, profeta islámico)</person>
 	</personList>	
 	<personList nom="B">
 		<person id="B001" género="mujer" procedencia="">Baca, Isabel</person>
