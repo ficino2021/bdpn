@@ -300,6 +300,7 @@
                 <person id="H016" género="hombre" procedencia="Roma">Higinio, Cayo Julio (escritor)</person> <!--También Gayo Julio Higino-->
 		<person id="H017" género="hombre" procedencia="Mítico">Helios (dios)</person> 
 		<person id="H018" género="hombre" procedencia="México-Tenochtitlán">Huitzilíhuitl (tlatoani)</person>  <!--Segundo tlatoani de mexica-->
+		<person id="H019" género="hombre" procedencia="Turquía">Heraclio (emperador romano de Oriente)</person>
 	</personList>
 	<personList nom="I">
 		<person id="I001" género="hombre" procedencia="España">Ignacio de Loyola (san)</person> <!--Nombre repetido, ver L021-->
