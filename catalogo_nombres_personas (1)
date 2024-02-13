@@ -77,6 +77,7 @@
 		<person id="A074" género="hombre" procedencia="">Aponiense, Pedro</person>
 		<person id="A075" género="hombre" procedencia="Tenochtitlan">Acamapichtli (tlatoani)</person>
 		<person id="A076" género="hombre" procedencia="Arabia Saudita">Alcabitius</person> <!--Abd Al Aziz Al Kabisi-->
+		<person id="A077" género="hombre" procedencia="">Abd Allah ibn Abd al-Muttalib (padre de Mohammad, profeta islámico)</person>
 	</personList>	
 	<personList nom="B">
 		<person id="B001" género="mujer" procedencia="">Baca, Isabel</person>
@@ -251,7 +252,7 @@
 		<person id="F031" género="hombre" procedencia="Italia">Fírmico Materno, Julio (astrólogo)</person>
 	</personList>
 	<personList nom="G">
-		<person id="G001" género="hombre" procedencia="Italia">Galileo Galilei (satrónomo)</person>
+		<person id="G001" género="hombre" procedencia="Italia">Galileo Galilei (astrónomo)</person>
 		<person id="G002" género="hombre" procedencia="México?">Guzman y Córdova, Sebastián de</person> <!--Parece mexicano. Se dice que fue juez y editor-->
 		<person id="G003" género="hombre" procedencia="España">Gonzalez de Mendoza, Pedro (cardenal)</person>
 		<person id="G004" género="hombre" procedencia="">Ganímedes (héroe)</person>
@@ -572,6 +573,7 @@
 		<person id="T012" género="hombre" procedencia="Israel">Tomás el Apóstol (apóstol de Jesús)</person>
                 <person id="T013" género="hombre" procedencia="Francia">Textor, Ravisio</person> <!--Jean Tixier de Ravisi, humanista y erudito francés-->
 		<person id="T014" género="hombre" procedencia="">Torrero, Sebastián (licenciado)</person>
+		<person id="T015" género="hombre" procedencia="Turquía">Tiberio, Mauricio (emperador)</person>
 	</personList>
 	<personList nom="U">
  		<person id="U001" género="hombre" procedencia="">Ulises</person>
