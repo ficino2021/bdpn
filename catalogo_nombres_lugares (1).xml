@@ -386,6 +386,7 @@
  <place id="S022">Siria</place>
  <place id="S023">Septentrión</place><!--Norte. Considero que se debe usar este id y no el S009 -->
  <place id="S024">Signos Estivales</place><!--Signos del zodiaco pertenecientes al verano-->
+ <place id="S025">Signos Hibernos</place><!--Signos del zodiaco pertenecientes al invierno-->
  </placeList>
 
 
