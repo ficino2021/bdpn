@@ -248,7 +248,7 @@
  <place id="M013">Meridiano</place>
  <place id="M014">Mar</place> 
  <place id="M015">Meridianos</place> <!--plural-->
- <place id="M016">Medusa</place> <!--Nebulosa-->
+ <place id="M016">Medusa</place> <!--Nebulosa. No confundir con el id "M028"-->
  <place id="M017">Mesopotamia</place>
  <place id="M018">Mar arábigo</place>
  <place id="M019">Media Región</place>
@@ -260,6 +260,7 @@
  <place id="M025">Mundo celeste</place> <!--Cielo; firmamento-->
  <place id="M026">Marruecos</place>
  <place id="M027">Magdeburgo, Alemania</place>
+ <place id="M028">Medusa</place><!--Constelación en desuso. Forma parte de Perseo actualmente. No confundir con el id "M016"-->
  
 </placeList>
 
