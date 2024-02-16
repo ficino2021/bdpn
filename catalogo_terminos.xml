@@ -134,6 +134,7 @@
 		<cuerpo id="P008">pulmón</cuerpo>
 		<cuerpo id="P009">pelo</cuerpo>
 		<cuerpo id="P010">pasmo</cuerpo>
+		<cuerpo id="P011">pie</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="Q"> 
 		<cuerpo id="Q001">quijada</cuerpo>
