@@ -430,6 +430,7 @@
 		<person id="M037" género="hombre" procedencia="España">Mendoza y Luna, Juan de (marqués)</person> <!--marqués de Montesclaros y administrador de las provincias españolas en América-->
 		<person id="M038" género="hombre" procedencia="Arabia Saudita">Muḥammad (fundador del islam)</person> <!--Abū l-Qāsim Muḥammad ibn ‘Abd Allāh ibn ‘Abd al-Muṭṭalib ibn Hāšim al-Qurayšī-->
 		<person id="M039" género="hombre" procedencia="Turquía">Murad III (sultán del Imperio otomano)</person> <!--Amurates III-->
+		<person id="M040" género="hombre" procedencia="Turquía">Mehmed III (sultán del Imperio otomano)</person>
 	</personList>
 	<personList nom="N">
 		<person id="N001" género="hombre" procedencia="Irak">Nabucodonosor II (rey)</person>
