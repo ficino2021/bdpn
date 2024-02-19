@@ -389,6 +389,7 @@
                 <person id="L031" género="hombre" procedencia="Dinamarca">Longomontano, Christian Severus</person> <!--Christen Sørensen Longomontanus-->
                 <person id="L032" género="hombre" procedencia="Mitico">Lucifer</person>
 		<person id="L033" género="hombre" procedencia="">Lafantino, Gerónimo</person>
+		<person id="L034" género="hombre" procedencia="Italia">León III (papa)</person>
 	</personList>
 	<personList nom="M">
 		<person id="M001" género="hombre" procedencia="Turquía">Marco Opelio Macrino (emperador)</person>
