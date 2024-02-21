@@ -112,6 +112,7 @@
                 <person id="B027" género="hombre" procedencia="México">Bonilla (de), Fabriello</person>
 		<person id="B028" género="hombre" procedencia="Mesopotamia">Bethem <!--Muhammad ibn Jabir Al-Battani--> (astrólogo)</person>
 		<person id="B029" género="hombre" procedencia="">Bazán, Hernando</person> 
+		<person id="B030" género="hombre" procedencia="Francia">Benedicto XII (papa)</person> <!--Jacques Fournier-->
 	</personList>
 	<personList nom="C">
 		<person id="C001" género="hombre" procedencia="Italia">Cabeo, Niccolo (filósofo)</person>
