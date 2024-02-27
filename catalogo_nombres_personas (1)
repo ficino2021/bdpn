@@ -187,6 +187,7 @@
 		<person id="D017" género="hombre" procedencia="Turquía">de Sinope, Diógenes (filósofo)</person> <!--Diógenes el Cínico o Diógenes el Perro-->
 		<person id="D018" género="hombre" procedencia="Alemania">de Austria, Don Juan</person>
 		<person id="D019" género="hombre" procedencia="Francia">de Nôtre-Dame, Michel</person> <!--Nostradamus-->
+		<person id="D020" género="hombre" procedencia="Italia">de Nápoles, Alfonso II</person>
 	</personList>
 	<personList nom="E">
 		<person id="E001" género="hombre" procedencia="">Edipo (rey)</person>
