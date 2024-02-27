@@ -165,6 +165,7 @@
 		<person id="C046" género="hombre" procedencia="Rumanía">Corvino, Matías (rey)</person>
 		<person id="C047" género="hombre" procedencia="Bélgica">Carlomagno (rey de los francos)</person>
 		<person id="C048" género="hombre" procedencia="Francia">Clemente VI (papa)</person> <!--Pierre Roger de Beaumont-->
+		<person id="C049" género="hombre" procedencia="Constantinopla">Constantino XI Dragases Paleólogo</person> <!--último emperador Romano de Oriente-->
 	</personList>
 	<personList nom="D">
 		<person id="D001" género="hombre" procedencia="Grecia">Dionisio Areopagita obispo de Atenas (santo)</person>
