@@ -439,6 +439,7 @@
 		<person id="M039" género="hombre" procedencia="Turquía">Murad III (sultán del Imperio otomano)</person> <!--Amurates III-->
 		<person id="M040" género="hombre" procedencia="Turquía">Mehmed III (sultán del Imperio otomano)</person>
 		<person id="M041" género="hombre" procedencia="Turquía">Murad I (bey y sultán del Imperio otomano)</person> <!--Amurates I-->
+		<person id="M042" género="hombre" procedencia="Turquía">Murad II (sultán del Imperio otomano)</person> <!--Amurates II-->
 	</personList>
 	<personList nom="N">
 		<person id="N001" género="hombre" procedencia="Irak">Nabucodonosor II (rey)</person>
