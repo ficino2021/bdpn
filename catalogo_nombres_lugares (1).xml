@@ -434,12 +434,13 @@
  <place id="T016">Tierra Santa</place>
  <place id="T017">Trebisonda, Turquía</place>
  <place id="T018">Túnez</place>
+ <place id="T019">Tidore, isla de Indonesia</place>
 </placeList>
 
 
 <placeList nom="U">
- <place id="U001"> Universo alto</place> <!--Probable referencia a la zona supralunar-->
- <place id="U002"> Universo bajo</place> <!--Probable referencia a la zona sublunar-->
+ <place id="U001">Universo alto</place> <!--Probable referencia a la zona supralunar-->
+ <place id="U002">Universo bajo</place> <!--Probable referencia a la zona sublunar-->
 </placeList>
 
 
