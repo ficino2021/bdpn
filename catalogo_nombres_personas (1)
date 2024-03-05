@@ -291,6 +291,7 @@
 		<person id="G026" género="hombre" procedencia="Italia">Gregorio XVIII (papa)</person> <!--nombre secular: Ugo Buoncompagni-->
 		<person id="G027" género="hombre" procedencia="Italia">Gaurico, Luca (obispo y astrólogo)</person>
 		<person id="G028" género="hombre" procedencia="Francia">Gregorio XI (papa)</person> <!--Pierre Roger de Beaufort-->
+		<person id="G029" género="hombre" procedencia="España">Gómez de Espinosa, Gonzalo (militar y explorador)</person>
 	</personList>
 	<personList nom="H">
 		<person id="H001" género="" procedencia="">Hagesio</person> <!--Aparece mencionado en la historia de la ciencia en México-->
