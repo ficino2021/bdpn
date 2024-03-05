@@ -206,6 +206,7 @@
  <place id="I009">Islas de Beurlossto</place> <!--No sé a que se refiera pero incluye Costa Rica y Santo Domingo-->
  <place id="I010">Islas de Barlovento</place> <!--Parecen ser las mismas que el anterior-->
  <place id="I011">Ingolstadt, Alemania</place> <!--Ciudad en Bavaria-->
+ <place id="I012">islas Molucas, Indonesia</place>
  
 </placeList>
 
@@ -435,6 +436,7 @@
  <place id="T017">Trebisonda, Turquía</place>
  <place id="T018">Túnez</place>
  <place id="T019">Tidore, isla de Indonesia</place>
+ <place id="T020">Ternate, Indonesia</place>
 </placeList>
 
 
