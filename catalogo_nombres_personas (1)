@@ -191,6 +191,7 @@
 		<person id="D019" género="hombre" procedencia="Francia">de Nôtre-Dame, Michel</person> <!--Nostradamus-->
 		<person id="D020" género="hombre" procedencia="Italia">de Nápoles, Alfonso II</person>
 		<person id="D021" género="hombre" procedencia="Portugal">de Magallanes, Fernando</person> <!--Hernando de Magallanes-->
+                <person id="D022" género="hombre" procedencia="Siria">Demetrio I Sóter</person> 
 	</personList>
 	<personList nom="E">
 		<person id="E001" género="hombre" procedencia="">Edipo (rey)</person>
