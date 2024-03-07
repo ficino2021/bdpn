@@ -170,6 +170,7 @@
 		<person id="C049" género="hombre" procedencia="Constantinopla">Constantino XI Dragases Paleólogo</person> <!--último emperador Romano de Oriente-->
 		<person id="C050" género="hombre" procedencia="México">Cortés Ramírez de Arellano, Fernando</person> <!--III marqués del Valle de Oaxaca-->
 		<person id="C051" género="hombre" procedencia="Italia">Clemente VII (papa)</person> <!--Julio de Médici-->
+		<person id="C052" género="hombre" procedencia="Panamá">Comogre o Ponquiaco</person> <!--cacique de los comogre-->
 	</personList>
 	<personList nom="D">
 		<person id="D001" género="hombre" procedencia="Grecia">Dionisio Areopagita obispo de Atenas (santo)</person>
