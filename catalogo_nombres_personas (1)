@@ -81,6 +81,7 @@
 		<person id="A078" género="mujer" procedencia="Arabia Saudita">Ámina bint Wahb (madre de Mohammad, profeta islámico)</person>
 		<person id="A079" género="hombre" procedencia="Grecia">Alejandro V (antipapa)</person> <!--Pietro Filargo-->
 		<person id="A080" género="hombre" procedencia="Países Bajos">Adriano VI (papa)</person> <!--Adriano de Utrecht-->
+		<person id="A081" género="hombre" procedencia="España">Arias Dávila, Pedro (militar)</person> <!--Pedrarias-->
 	</personList>	
 	<personList nom="B">
 		<person id="B001" género="mujer" procedencia="">Baca, Isabel</person>
