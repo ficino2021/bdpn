@@ -78,6 +78,7 @@
 	<animal id="P005">Perro lebreste</animal>
 	<animal id="P006">Pavo</animal>
 	<animal id="P007">Paloma</animal>
+	<animal id="P008">Puerco</animal>
 </animalList>
 
 <animalList nom="Q">
