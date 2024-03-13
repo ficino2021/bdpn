@@ -18,6 +18,7 @@
 	<animal id="C003">Caballo</animal>
 	<animal id="C004">Cordero</animal>
 	<animal id="C005">Cabrío</animal>
+	<animal id="C006">Caballos</animal>
 </animalList>
 
 <animalList nom="D">
