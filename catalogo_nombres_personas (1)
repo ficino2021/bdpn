@@ -199,6 +199,7 @@
                 <person id="D022" género="hombre" procedencia="Siria">Demetrio I Sóter</person> 
 		<person id="D023" género="hombre" procedencia="España">de Herrera y Tordesillas, Antonio (cronista)</person>
 		<person id="D024" género="hombre" procedencia="España">de Almagro, Diego (conquistador)</person> <!--Diego de Montenegro Gutiérrez-->
+		<person id="D025" género="hombre" procedencia="España">de Luque, Hernando (sacerdote)</person>
 	</personList>
 	<personList nom="E">
 		<person id="E001" género="hombre" procedencia="">Edipo (rey)</person>
