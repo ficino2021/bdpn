@@ -118,6 +118,7 @@
 		<person id="B030" género="hombre" procedencia="Francia">Benedicto XII (papa)</person> <!--Jacques Fournier-->
 		<person id="B031" género="hombre" procedencia="Turquía">Bāyazīd I (sultán otomano)</person> <!--Bayaceto-->
 		<person id="B032" género="hombre" procedencia="Turquía">Bāyazīd II (sultán otomano)</person> <!--Bayaceto II-->
+                <person id="B033" género="hombre" procedencia="Italia">Marco Junio Bruto</person> <!--No confundir con Décimo Junio Bruto Albino-->
 	</personList>
 	<personList nom="C">
 		<person id="C001" género="hombre" procedencia="Italia">Cabeo, Niccolo (filósofo)</person>
