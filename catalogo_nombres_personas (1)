@@ -173,6 +173,7 @@
 		<person id="C051" género="hombre" procedencia="Italia">Clemente VII (papa)</person> <!--Julio de Médici-->
 		<person id="C052" género="hombre" procedencia="Panamá">Comogre o Ponquiaco</person> <!--cacique de los comogre-->
 		<person id="C053" género="hombre" procedencia="Italia">Colón, Cristóbal</person>
+                <person id="C054" género="hombre" procedencia="Egipto">Cleopatra (reina)</person> <!--Celopatra VII Filopátor Nea Thea-->
 	</personList>
 	<personList nom="D">
 		<person id="D001" género="hombre" procedencia="Grecia">Dionisio Areopagita obispo de Atenas (santo)</person>
