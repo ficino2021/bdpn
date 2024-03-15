@@ -127,9 +127,9 @@
 		<person id="C004" género="hombre" procedencia="">Cano, Salvador</person>
 		<person id="C005" género="hombre" procedencia="Grecia">Clemente de Alejandría</person><!--Tito Flavio Clemente-->
 		<person id="C006" género="hombre" procedencia="Italia">Cardano, Girolamo (médico)</person>
-		<person id="C007" género="hombre" procedencia="Bélgica">Carlos I (rey)</person>
+		<person id="C007" género="hombre" procedencia="Bélgica">Carlos I (rey)</person><!--Se trata de Carlos I de Alemania, y Carlos V de España-->
 		<person id="C008" género="hombre" procedencia="España">Carlos II (rey)</person>
-		<person id="C009" género="hombre" procedencia="Bélgica">Carlos V (rey)</person>
+		<person id="C009" género="hombre" procedencia="Bélgica">Carlos V (rey)</person><!--Se trata de Carlos V de España, y Carlos I de Alemania-->
 		<person id="C010" género="hombre" procedencia="Polonia">Copérnico, Nicolás (astrónomo)</person>
 		<person id="C011" género="hombre" procedencia="">Castillet, Juan</person>
 		<person id="C012" género="hombre" procedencia="España">Castro, Juan de</person>
