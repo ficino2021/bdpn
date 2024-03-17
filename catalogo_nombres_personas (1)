@@ -516,7 +516,7 @@
 		<person id="P017" género="hombre" procedencia="Turquía">Proclo el Sucesor (filósofo)</person> <!--Diácono-->
 		<person id="P018" género="hombre" procedencia="Grecia">Ptolomeo I (rey)</person>
 		<person id="P019" género="hombre" procedencia="Egipto">Claudio Ptolomeo(astrónomo)</person>
-		<person id="P020" género="hombre" procedencia="Holanda">Putte, Hendrik van der (escritor)</person>
+		<person id="P020" género="hombre" procedencia="Holanda">Putte, Hendrik van der (escritor)</person><!--Erycius Puteanus, Ericio Puteano-->
 		<person id="P021" género="hombre" procedencia="España? ">Pérez de Nueros, Jerónimo</person>
                 <person id="P022" género="hombre" procedencia="Mítico">Polifemo</person> <!--Cíclope, personaje de mitología griega-->
                 <person id="P023" género="hombre" procedencia="Piceno, Roma">Pompeyo</person> <!--Cneo Pompeyo Magno-->
