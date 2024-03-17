@@ -525,6 +525,7 @@
 		<person id="P026" género="hombre" procedencia="Grecia">Platón (filósofo)</person>
 		<person id="P027" género="hombre" procedencia="Panamá">Panquiaco (cacique)</person> <!--hijo mayor de Comagre-->
 		<person id="P028" género="hombre" procedencia="España">Pizarro González, Francisco (conquistador)</person>
+                <person id="P029" género="hombre" procedencia="Siria">Procopio de Cesarea</person>
 	</personList>
 	<personList nom="Q">
 		<person id="Q001" género="hombre" procedencia="España">Quezada de Figueroa, Juan</person>
