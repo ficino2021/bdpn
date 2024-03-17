@@ -477,6 +477,7 @@
 		<person id="N010" género="hombre" procedencia="Japón">Nobunanga</person> <!--Oda Nobunaga-->
 		<person id="N011" género="hombre" procedencia="Alemania">Naboth, Valentin</person>
 		<person id="N012" género="hombre" procedencia="España">Núñez de Balboa, Vasco</person>
+                <person id="N013" género="hombre" procedencia="España">Niseno, Gregorio</person>
 	</personList>
 	<personList nom="O">
 		<person id="O001" género="hombre" procedencia="Colombia">Oviedo y Baños Sotomayor, Diego Antonio de</person>
