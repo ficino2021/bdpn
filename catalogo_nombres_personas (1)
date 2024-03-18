@@ -418,6 +418,7 @@
 		<person id="L034" género="hombre" procedencia="Italia">León III (papa)</person>
 		<person id="L035" género="hombre" procedencia="Hungría">Luis II de Hungría (rey)</person>
 		<person id="L036" género="hombre" procedencia="Italia">León X (papa)</person> <!--Giovanni di Lorenzo de' Medici-->
+		<person id="L037" género="mujer" procedencia="Portugal">de Lencastre y Cárdenas Manrique, María de Guadalupe (duquesa)</person> <!--Duquesa de Aveiro-->
 	</personList>
 	<personList nom="M">
 		<person id="M001" género="hombre" procedencia="Turquía">Marco Opelio Macrino (emperador)</person>
