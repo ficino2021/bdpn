@@ -466,6 +466,7 @@
 		<person id="M041" género="hombre" procedencia="Turquía">Murad I (bey y sultán del Imperio otomano)</person> <!--Amurates I-->
 		<person id="M042" género="hombre" procedencia="Turquía">Murad II (sultán del Imperio otomano)</person> <!--Amurates II-->
 		<person id="M043" género="hombre" procedencia="Turquía">Mehmed II (sultán del Imperio otomano)</person>
+		<person id="M044" género="hombre" procedencia="España">Martín de Alcántara, Francisco (conquistador)</person>
 	</personList>
 	<personList nom="N">
 		<person id="N001" género="hombre" procedencia="Irak">Nabucodonosor II (rey)</person>
@@ -531,6 +532,7 @@
                 <person id="P029" género="hombre" procedencia="Siria">Procopio de Cesarea</person>
 		<person id="P030" género="hombre" procedencia="España">Pizarro y Vargas, Hernando (conquistador)</person>
 		<person id="P031" género="hombre" procedencia="España">Pizarro Alonso, Juan (conquistador)</person>
+		<person id="P032" género="hombre" procedencia="España">Pizarro Alonso, Gonzalo (conquistador)</person>
 	</personList>
 	<personList nom="Q">
 		<person id="Q001" género="hombre" procedencia="España">Quezada de Figueroa, Juan</person>
