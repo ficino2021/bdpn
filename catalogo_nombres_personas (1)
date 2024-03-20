@@ -530,6 +530,7 @@
 		<person id="P028" género="hombre" procedencia="España">Pizarro González, Francisco (conquistador)</person>
                 <person id="P029" género="hombre" procedencia="Siria">Procopio de Cesarea</person>
 		<person id="P030" género="hombre" procedencia="España">Pizarro y Vargas, Hernando (conquistador)</person>
+		<person id="P031" género="hombre" procedencia="España">Pizarro Alonso, Juan (conquistador)</person>
 	</personList>
 	<personList nom="Q">
 		<person id="Q001" género="hombre" procedencia="España">Quezada de Figueroa, Juan</person>
