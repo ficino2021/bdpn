@@ -529,6 +529,7 @@
 		<person id="P027" género="hombre" procedencia="Panamá">Panquiaco (cacique)</person> <!--hijo mayor de Comagre-->
 		<person id="P028" género="hombre" procedencia="España">Pizarro González, Francisco (conquistador)</person>
                 <person id="P029" género="hombre" procedencia="Siria">Procopio de Cesarea</person>
+		<person id="P030" género="hombre" procedencia="España">Pizarro y Vargas, Hernando (conquistador)</person>
 	</personList>
 	<personList nom="Q">
 		<person id="Q001" género="hombre" procedencia="España">Quezada de Figueroa, Juan</person>
