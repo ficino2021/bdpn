@@ -467,6 +467,7 @@
 		<person id="M042" género="hombre" procedencia="Turquía">Murad II (sultán del Imperio otomano)</person> <!--Amurates II-->
 		<person id="M043" género="hombre" procedencia="Turquía">Mehmed II (sultán del Imperio otomano)</person>
 		<person id="M044" género="hombre" procedencia="España">Martín de Alcántara, Francisco (conquistador)</person>
+		<person id="M045" género="hombre" procedencia="Perú">Manco Cápac (gobernador y fundador de la cultura inca)</person>
 	</personList>
 	<personList nom="N">
 		<person id="N001" género="hombre" procedencia="Irak">Nabucodonosor II (rey)</person>
