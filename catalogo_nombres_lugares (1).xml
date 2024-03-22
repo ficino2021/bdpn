@@ -375,7 +375,7 @@
 
 
 <placeList nom="Q">
- <place id="Q001"> </place>
+ <place id="Q001">Quito, Ecuador</place>
 </placeList>
 
 
@@ -454,6 +454,7 @@
  <place id="T020">Ternate, Indonesia</place>
  <place id="T021">Tumbes, Perú</place>
  <place id="T022">Trujillo, Perú</place>
+ <place id="T023">Tomebamba, Ecuador</place>
 </placeList>
 
 
