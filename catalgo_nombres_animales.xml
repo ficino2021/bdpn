@@ -10,6 +10,7 @@
 <animalList nom="B">
 	<animal id="B001">Buey</animal>
 	<animal id="B002">Bestia</animal>
+	<animal id="B003">Búho</animal>
 </animalList>
 
 <animalList nom="C">
