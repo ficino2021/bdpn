@@ -633,7 +633,8 @@
 		<person id="T014" género="hombre" procedencia="">Torrero, Sebastián (licenciado)</person>
 		<person id="T015" género="hombre" procedencia="Turquía">Tiberio, Mauricio (emperador)</person>
 		<person id="T016" género="hombre" procedencia="Uzbekistán">Tamerlán (conquistador)</person>
-		<person id="T017" género="hombre" procedencia="Ecuador">Tomalá (cacique indígena)</person>
+		<person id="T017" género="hombre" procedencia="Perú">Túpac Yupanqui (décimo soberano inca)</person> <!--Túpac Inca Yupanqui, Tupa Inga o Tupa Inga Yupangui-->
+		<person id="T018" género="hombre" procedencia="Ecuador">Tomalá (cacique indígena)</person>
 	</personList>
 	<personList nom="U">
  		<person id="U001" género="hombre" procedencia="">Ulises</person>
