@@ -82,6 +82,7 @@
 		<person id="A079" género="hombre" procedencia="Grecia">Alejandro V (antipapa)</person> <!--Pietro Filargo-->
 		<person id="A080" género="hombre" procedencia="Países Bajos">Adriano VI (papa)</person> <!--Adriano de Utrecht-->
 		<person id="A081" género="hombre" procedencia="España">Arias Dávila, Pedro (militar)</person> <!--Pedrarias-->
+		<person id="A082" género="hombre" procedencia="Perú">Atahualpa (último soberano inca)</person> <!--bautizado Francisco-->
 	</personList>	
 	<personList nom="B">
 		<person id="B001" género="mujer" procedencia="">Baca, Isabel</person>
