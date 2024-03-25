@@ -119,7 +119,8 @@
  <place id="C048">Cuerpo(s) celeste(s)</place>
  <place id="C049">Chicama, Perú</place>
  <place id="C050">Cuzco, Perú</place>
- <place id="C051">Cueva de Tambo Ushco, Perú</place>
+ <place id="C051">Cueva de Tambo Ushco, Perú</place
+ <place id="C052">cielo</place><!--PARAÍSO. NO CONFUNDIR CON C006-->
 </placeList>
 
 
