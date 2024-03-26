@@ -231,7 +231,8 @@
  <abbreviation id="N010">Nam.</abbreviation> <!--Abreviatura en latín-->
  <abbreviation id="N011">NovR</abbreviation> <!--Variación de noviembre-->
  <abbreviation id="N012">Nat.</abbreviation> <!--Natural-->
- <abbreviation id="N013">Nativit.</abbreviation> 
+ <abbreviation id="N013">Nativit.</abbreviation>
+ <abbreviation id="N014">NN.</abbreviation><!--Naturales. Abreviatura en latín-->
 </abbreviationList>
 
 
