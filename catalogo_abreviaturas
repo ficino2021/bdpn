@@ -122,6 +122,7 @@
  <abbreviation id="E019">e</abbreviation><!--en. Aparece con una virgulilla-->
  <abbreviation id="E020">expogo</abbreviation><!--expongo. Aparece con una virgulilla en la primera o-->
  <abbreviation id="E021">Ex.ma</abbreviation><!--Excelentisima. Las letras después del punto aparecen como un superínidce. NO CONFUNDIR CON E003-->
+ <abbreviation id="E022">estapa</abbreviation><!--estampa. La primera a aparece con una virgulilla-->
 </abbreviationList>
 
 
