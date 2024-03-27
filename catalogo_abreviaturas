@@ -117,6 +117,7 @@
  <abbreviation id="E018">Epid.</abbreviation>
  <abbreviation id="E019">e</abbreviation><!--en. Aparece con una virgulilla-->
  <abbreviation id="E020">expogo</abbreviation><!--expongo. Aparece con una virgulilla en la primera o-->
+ <abbreviation id="E021">Ex.ma</abbreviation><!--Excelentisima. Las letras después del punto aparecen como un superínidce. NO CONFUNDIR CON E003-->
 </abbreviationList>
 
 
