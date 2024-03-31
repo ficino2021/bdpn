@@ -73,7 +73,8 @@
 <abbreviation id="C023">costubres</abbreviation><!--costumbres. Aparece la u con una virgulilla en el manuscrito-->
 <abbreviation id="C024">corresponde</abbreviation><!--corresponden. Aparece la última e con una virgulilla en el manuscrito-->
 <abbreviation id="C025">coronado</abbreviation><!--coronando. Aparece con una virgulilla en la a-->
-<abbreviation id="C026">costellaciones</abbreviation><!--constelaciones. Aparece con una virgulilla en la o-->
+<abbreviation id="C026">costellaciones</abbreviation><!--constelaciones. Aparece con una virgulilla en la primera o-->
+<abbreviation id="C027">Costellacion</abbreviation><!--constelación. Aparece con una virgulilla en la primera o-->
 </abbreviationList>
 
 
