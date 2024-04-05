@@ -205,6 +205,7 @@
 		<person id="D024" género="hombre" procedencia="España">de Almagro, Diego (conquistador)</person> <!--Diego de Montenegro Gutiérrez-->
 		<person id="D025" género="hombre" procedencia="España">de Luque, Hernando (sacerdote)</person>
      		<person id="D026" género="hombre" procedencia="">Daniel (profeta)</person>
+		<person id="D027" género="hombre" procedencia="España">de Soto, Hernando (conquistador)</person>
 	</personList>
 	<personList nom="E">
 		<person id="E001" género="hombre" procedencia="">Edipo (rey)</person>
