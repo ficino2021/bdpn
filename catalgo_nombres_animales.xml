@@ -20,6 +20,7 @@
 	<animal id="C004">Cordero</animal>
 	<animal id="C005">Cabrío</animal>
 	<animal id="C006">Caballos</animal>
+	<animal id="C007">Carneros</animal>
 </animalList>
 
 <animalList nom="D">
