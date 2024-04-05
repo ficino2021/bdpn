@@ -400,6 +400,7 @@
  <place id="R013">Región elemental</place>
  <place id="R014">Régulo</place> <!--Cor Leonis – Rex – Kabeleced-->
  <place id="R015">Región del Darién</place>
+ <place id="R016">Río Chira</place>
 </placeList>
 
 
@@ -432,6 +433,7 @@
  <place id="S026">Suria, España</place>
  <place id="S027">Sanlúcar de Barrameda, España</place>
  <place id="S028">Santa, Perú</place>
+ <place id="S029">San Miguel, Perú</place>
  </placeList>
 
 
