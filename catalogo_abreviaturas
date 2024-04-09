@@ -165,6 +165,7 @@
  <abbreviation id="F012">firmameto</abbreviation> <!--firmamento. Aparece la e con una virgulilla-->
  <abbreviation id="F013">forçosamete</abbreviation> <!--forzosamente. Aparece la primera e con una virgulilla-->
  <abbreviation id="F014">fogo</abbreviation> <!--fogón. Aparece con una virgulilla en la segunda o-->
+ <abbreviation id="F015">finalmete</abbreviation> <!--finalmente. Aparece con una virgulilla en la primera e-->
 </abbreviationList>
 
 
