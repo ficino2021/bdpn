@@ -425,6 +425,7 @@
  <abbreviation id="S029">subtesa</abbreviation><!--subtensa. Aparece la e con una virgulilla-->
  <abbreviation id="S030">segudos</abbreviation><!--segundos. Aparece la u con una virgulilla-->
  <abbreviation id="S031">solitariamete</abbreviation><!--solitariamente. Aparece con una virgulilla en la primera e-->
+ <abbreviation id="S032">so</abbreviation><!--son. Aparece con una virgulilla en la o-->
 </abbreviationList>
 
 
