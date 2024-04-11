@@ -157,6 +157,7 @@
  <abbreviation id="E023">escodan</abbreviation><!--escondan. Aparece la o con una virgulilla-->
  <abbreviation id="E024">existecia</abbreviation><!--existencia. Aparece la segunda e con una virgulilla-->
  <abbreviation id="E025">estado</abbreviation><!--estando. Aparece una virgulilla en la a-->
+ <abbreviation id="E026">escode</abbreviation><!--esconde. Aparece con una virgulilla en la o-->
 </abbreviationList>
 
 
