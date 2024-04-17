@@ -276,6 +276,7 @@
 		<person id="F029" género="hombre" procedencia="">Franco Risueño, Hernando (doctor)</person>
 		<person id="F030" género="hombre" procedencia="Italia">Ficino, Marsilio (filósofo)</person>
 		<person id="F031" género="hombre" procedencia="Italia">Fírmico Materno, Julio (astrólogo)</person>
+		<person id="F032" género="hombre" procedencia="Perú">Felipillo (traductor nativo tallán)</person>
 	</personList>
 	<personList nom="G">
 		<person id="G001" género="hombre" procedencia="Italia">Galileo Galilei (astrónomo)</person>
