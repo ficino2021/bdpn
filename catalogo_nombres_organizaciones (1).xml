@@ -145,6 +145,7 @@
  <organization id="S002">Santa Iglesia de México</organization> 
  <organization id="S003">Serracenos</organization> 
  <organization id="S004">Santa sede apostólica</organization>
+ <organization id="S005">Santa Iglesia Catedral</organization><!--Catedral de la Ciudad de México-->
 </organizationList>
 
 <organizationList nom="T">
