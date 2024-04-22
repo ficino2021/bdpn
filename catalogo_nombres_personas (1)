@@ -668,6 +668,7 @@
 		<person id="V020" género="mujer" procedencia="">Vesta</person> <!--Hija de Saturno, encargada de proteger la paz en el Olimpo-->
 		<person id="V021" género="mujer" procedencia="">Venus (diosa)</person>
                 <person id="V022" género="hombre" procedencia="">Cayo Veleyo Patérculo (historiador)</person>
+		<person id="V023" género="hombre" procedencia="España">Vaca de Castro, Cristóbal (magistrado)</person>
 	</personList>
 <personList nom="W">
 		<person id="W001" género="hombre" procedencia="Alemania">Waybel, Andrés</person> <!--Nombre repetido V005-->
