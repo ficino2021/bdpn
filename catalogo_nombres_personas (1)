@@ -491,6 +491,7 @@
 		<person id="N012" género="hombre" procedencia="España">Núñez de Balboa, Vasco</person>
                 <person id="N013" género="hombre" procedencia="Capadocia, Turquía">Niseno, Gregorio</person>
                 <person id="N014" género="hombre" procedencia="Turquía">Nazianseno, Gregorio</person>
+		<person id="N015" género="hombre" procedencia="España">Núñez de Vela, Blasco (militar y político)</person>
 	</personList>
 	<personList nom="O">
 		<person id="O001" género="hombre" procedencia="Colombia">Oviedo y Baños Sotomayor, Diego Antonio de</person>
