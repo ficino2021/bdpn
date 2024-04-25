@@ -247,6 +247,7 @@
                 <person id="E033" género="mujer" procedencia="Mítico">Euterpe</person><!--Musa de la música-->
 		<person id="E034" género="hombre" procedencia="Portugal">Enrique I de Portugal (rey)</person>
 		<person id="E035" género="hombre" procedencia="">Euclides</person><!--Autor del famoso texto de geometría "Elementos". No debe confundirse con Euclides de Mégara, contemporáneo de Platón.-->
+		<person id="E036" género="hombre" procedencia="España">Enríquez de Almansa, Martín (IV virrey de Nueva España, VI virrey del Perú)</person>
 	</personList>
 	<personList nom="F">
 		<person id="F001" género="hombre" procedencia="">Faetón</person><!--Faetonte, Ethonte. Hijo del dios Helios-->
