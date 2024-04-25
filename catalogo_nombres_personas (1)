@@ -660,9 +660,9 @@
 		<person id="V002" género="" procedencia="">Valenciano</person>
 		<person id="V003" género="hombre" procedencia="España? ">Valenzuela, Francisco</person> <!--posiblemente Francisco Peréz Valenzuela-->
 		<person id="V004" género="hombre" procedencia="España? ">Valles, Francisco</person> <!--posiblemente Francisco Valles de Covarrubias-->
-		<person id="V005" género="hombre " procedencia="Alemania">Vaybel, Andrés</person> <!--buscar en google: inauthor:"Andreas Waibl". Nombre repetido W001-->
-		<person id="V006" género="hombre " procedencia="México? ">Vega y Vic, José de</person> <!--También como Joseph-->
-		<person id="V007" género="hombre " procedencia="España">Velasco y Castilla, Luis de</person>
+		<person id="V005" género="hombre" procedencia="Alemania">Vaybel, Andrés</person> <!--buscar en google: inauthor:"Andreas Waibl". Nombre repetido W001-->
+		<person id="V006" género="hombre" procedencia="México? ">Vega y Vic, José de</person> <!--También como Joseph-->
+		<person id="V007" género="hombre" procedencia="España">Velasco y Castilla, Luis de</person>
 		<person id="V008" género="hombre" procedencia="">Velasco, Antonio</person> <!--Tiene varios homónimos-->
 		<person id="V009" género="hombre" procedencia="">Velázquez</person> <!--Podría ser el pintor-->
 		<person id="V010" género="hombre" procedencia="Italia">Vespasiano</person> <!--Debería ser Tito Flavio Vespasiano-->
