@@ -213,6 +213,7 @@
 		<person id="D031" género="hombre" procedencia="España">de Zúñiga Acevedo y Velasco, Gaspar (VIII virrey de Nueva España y X virrey del Perú)</person>
 		<person id="D032" género="hombre" procedencia="Francia">de Francia, Francisco I (rey de Francia)</person>
 		<person id="D033" género="hombre" procedencia="España">de Loyola, Ignacio (fundador de la Compañía de Jesús)</person>
+		<person id="D034" género="mujer" procedencia="Portugal">de Portugal, Isabel</person>
 	</personList>
 	<personList nom="E">
 		<person id="E001" género="hombre" procedencia="">Edipo (rey)</person>
