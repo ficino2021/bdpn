@@ -214,6 +214,7 @@
 		<person id="D032" género="hombre" procedencia="Francia">de Francia, Francisco I (rey de Francia)</person>
 		<person id="D033" género="hombre" procedencia="España">de Loyola, Ignacio (fundador de la Compañía de Jesús)</person>
 		<person id="D034" género="mujer" procedencia="Portugal">de Portugal, Isabel</person>
+		<person id="D035" género="hombre" procedencia="Portugal">de Portugal, Manuel I</person>
 	</personList>
 	<personList nom="E">
 		<person id="E001" género="hombre" procedencia="">Edipo (rey)</person>
