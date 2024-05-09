@@ -60,12 +60,13 @@
  <place id="B005">Beocia, Grecia (región)</place>
  <place id="B006">Braganza, Portugal</place>
  <place id="B007">Bérgamo, Italia</place>
- <place id="B008">Balconete, España</place>  <!-- se puede encontrar como Valconete -->
+ <place id="B008">Balconete, España</place> <!-- se puede encontrar como Valconete -->
  <place id="B009">Bosnia y Herzegovina</place>
  <place id="B010">Bursa, Turquía</place>
  <place id="B011">Belgrado, Serbia</place>
  <place id="B012">Buda, Hungría</place>
- <place id="B013">Bootes</place><!--El Boyero. Constelación-->
+ <place id="B013">Bootes</place> <!--El Boyero. Constelación-->
+ <place id="B014">Burgos, España</place>
 </placeList>
 
 
