@@ -586,10 +586,11 @@
 		<person id="R016" género="hombre" procedencia="Italia">Ruchelo, Jerónimo</person> <!--Girolamo Ruscelli-->
 		<person id="R017" género="hombre" procedencia="">Ríos, Guillermo de los</person>
                 <person id="R017" género="hombre" procedencia="">Rocha, Tomás</person> 
-		<person id="R018" género="hombre" procedencia="">Rodríguez de Lupercio, Francisco</person><!--impresor-->
+		<person id="R018" género="hombre" procedencia="">Rodríguez de Lupercio, Francisco</person> <!--impresor-->
                 <person id="R019" género="hombre" procedencia="Worms, Alemania">Ruperto de Salzburgo, San</person> <!--Ruperto de Salzburgo o Ruperto de Worms-->
-                <person id="R020" género="hombre" procedencia="Toledo">Rada, Rodrigo Jiménez (de)</person><!--Don Rodrigo-->
-                <person id="R021" género="hombre" procedencia="">Don Rodrigo>/person><!--último rey visigodo de España-->
+                <person id="R020" género="hombre" procedencia="Toledo">Rada, Rodrigo Jiménez (de)</person> <!--Don Rodrigo-->
+                <person id="R021" género="hombre" procedencia="">Don Rodrigo</person> <!--último rey visigodo de España-->
+		<person id="R022" género="hombre" procedencia="España">Ramírez de Fuenleal, Sebastián (obispo)</person>
 	</personList>	 
 	<personList nom="S">
 		<person id="S001" género="hombre" procedencia="México">Salemerón y Castro, José de (astrónomo)</person> <!--Parece el mismo que E012, este personaje era médico y astrónomo. Además, tiene el mismo error de ortografía-->
