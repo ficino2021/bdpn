@@ -218,6 +218,7 @@
 		<person id="D036" género="hombre" procedencia="España">de Saavedra Cerón, Álvaro (explorador)</person>
 		<person id="D037" género="hombre" procedencia="España">de Narváez, Pánfilo (conquistador)</person>
 		<person id="D038" género="hombre" procedencia="España">Dorantes de Carranza, Andrés</person>
+		<person id="D039" género="hombre" procedencia="España">del Castillo Maldonado, Alonso</person>
 	</personList>
 	<personList nom="E">
 		<person id="E001" género="hombre" procedencia="">Edipo (rey)</person>
@@ -256,6 +257,7 @@
 		<person id="E034" género="hombre" procedencia="Portugal">Enrique I de Portugal (rey)</person>
 		<person id="E035" género="hombre" procedencia="">Euclides</person><!--Autor del famoso texto de geometría "Elementos". No debe confundirse con Euclides de Mégara, contemporáneo de Platón.-->
 		<person id="E036" género="hombre" procedencia="España">Enríquez de Almansa, Martín (IV virrey de Nueva España, VI virrey del Perú)</person>
+		<person id="E037" género="hombre" procedencia="Marruecos">Estevanico (esclavo africano)</person> <!--Estevan de Dorantes-->
 	</personList>
 	<personList nom="F">
 		<person id="F001" género="hombre" procedencia="">Faetón</person><!--Faetonte, Ethonte. Hijo del dios Helios-->
