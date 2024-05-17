@@ -403,6 +403,7 @@
                 <person id="J032" género="mujer" procedencia="Mítico">Juno (diosa)</person> <!--mitología romana-->
                 <person id="J033" género="hombre" procedencia="">Iulian (conde)></person> <!--Don Julián-->
                 <person id="J034" género="hombre" procedencia="Portugal">Juan III (rey)</person> <!--de Avis-->
+		<person id="J035" género="hombre" procedencia="Portugal">Juan II (rey)</person> <!--apodado Príncipe Perfecto-->
 	</personList>
 	<personList nom="K">
 		<person id="K001" género="hombre " procedencia="Alemania">Kepler, Johannes (astrónomo)</person>
