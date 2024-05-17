@@ -178,6 +178,7 @@
 		<person id="C053" género="hombre" procedencia="Italia">Colón, Cristóbal</person>
                 <person id="C054" género="mujer" procedencia="Egipto">Cleopatra (reina)</person> <!--Celopatra VII Filopátor Nea Thea-->
                 <person id="C055" género="hombre" procedencia="Escocia">Carlos I (rey)</person> <!--Carlos Estuardo, Rey de Inglaterra-->
+		<person id="C056" género="hombre" procedencia="España">Cortés, Hernán</person> <!--Conquistador de México-->
 	</personList>
 	<personList nom="D">
 		<person id="D001" género="hombre" procedencia="Grecia">Dionisio Areopagita obispo de Atenas (santo)</person>
