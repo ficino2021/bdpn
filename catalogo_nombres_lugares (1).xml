@@ -227,6 +227,8 @@
  <place id="I018">Isla de Madeira</place> <!--o isla de Madera, región autónoma de Portugal-->
  <place id="I019">Isla La Gomera</place> <!--de las islas Canarias (España)-->
  <place id="I020">Isla de Guanahani</place> <!--San Salvador, Bahamas-->
+ <place id="I021">Isla de Cuba</place> <!--Actualmete República de Cuba-->
+ <place id="I022">Isla de Haití</place> <!--Actualmente Haití-->
  
 </placeList>
 
