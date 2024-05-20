@@ -358,6 +358,7 @@
 		<person id="H023" género="hombre" procedencia="Perú">Huáscar (último emperador incaico)</person> <!--Tupac Cusi Hualpa-->
 		<person id="H024" género="hombre" procedencia="España">Hurtado de Mendoza y Cabrera, Andrés (III Virrey del Perú)</person>
 		<person id="H025" género="hombre" procedencia="España">Hurtado de Mendoza y Manrique, García (VIII Virrey del Perú)</person>
+		<person id="H026" género="hombre" procedencia="España">Hurtado de Mendoza y Pacheco, Diego (poeta y diplomático)</person>
 	</personList>
 	<personList nom="I">
 		<person id="I001" género="hombre" procedencia="España">Ignacio de Loyola (san)</person> <!--Nombre repetido, ver L021-->
