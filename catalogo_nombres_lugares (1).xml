@@ -515,10 +515,11 @@
 
 
 <placeList nom="Z">
- <place id="Z001">Zalamea de la Serena, España</place><!---Cenete--> 
- <place id="Z002">Zenete, España</place><!---Cenete--> 
- <place id="Z003">Zenit</place><!--región astronómica-->
- <place id="Z004">Zodiaco</place><!--esfera celeste en la cual se encuentran las constelaciones del zodiaco-->
- <place id="Z005">Zelanda, Paises Bajos</place><!--provincia de los paises bajos, dif. a Nueva Zelanda-->
+ <place id="Z001">Zalamea de la Serena, España</place> <!---Cenete--> 
+ <place id="Z002">Zenete, España</place> <!---Cenete--> 
+ <place id="Z003">Zenit</place> <!--región astronómica-->
+ <place id="Z004">Zodiaco</place> <!--esfera celeste en la cual se encuentran las constelaciones del zodiaco-->
+ <place id="Z005">Zelanda, Paises Bajos</place> <!--provincia de los paises bajos, dif. a Nueva Zelanda-->
+ <place id="Z006">Zelandia</place> <!--continente casi sumergido-->
 </placeList>
 </places>
