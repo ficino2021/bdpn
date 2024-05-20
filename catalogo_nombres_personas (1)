@@ -670,6 +670,7 @@
 		<person id="T016" género="hombre" procedencia="Uzbekistán">Tamerlán (conquistador)</person>
 		<person id="T017" género="hombre" procedencia="Perú">Túpac Yupanqui (décimo soberano inca)</person> <!--Túpac Inca Yupanqui, Tupa Inga o Tupa Inga Yupangui-->
 		<person id="T018" género="hombre" procedencia="Ecuador">Tomalá (cacique indígena)</person>
+		<person id="T019" género="hombre" procedencia="Reunido Unido">Tudor, Arturo</person> <!--hijo mayor de Enrique VII de Inglaterra-->
 	</personList>
 	<personList nom="U">
  		<person id="U001" género="hombre" procedencia="">Ulises</person>
