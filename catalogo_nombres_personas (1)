@@ -227,6 +227,7 @@
 		<person id="D041" género="hombre" procedencia="Inglaterra">de Inglaterra, Enrique VIII (rey)</person>
 		<person id="D042" género="hombre" procedencia="Inglaterra">de Inglaterra, Enrique VII (rey)</person>
 		<person id="D043" género="mujer" procedencia="España">de Aragón y Castilla, Catalina (reina)</person>
+		<person id="D044" género="hombre" procedencia="España">de Aragón, Fernando II (rey)</person>
 	</personList>
 	<personList nom="E">
 		<person id="E001" género="hombre" procedencia="">Edipo (rey)</person>
