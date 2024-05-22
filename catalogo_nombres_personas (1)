@@ -86,6 +86,7 @@
 		<person id="A083" género="hombre" procedencia="España">Álvarez de Toledo, Francisco (V virrey del Perú)</person>
 		<person id="A084" género="hombre" procedencia="España">Aragón, Fernando II de (rey)</person> <!--tambien llamado El Católico-->
 		<person id="A085" género="hombre" procedencia="España">Arana, Diego de</person> <!--marino de la corona de Castilla, acompañó a Colón en su expedición-->
+		<person id="A086" género="hombre" procedencia="Italia">Alejandro VI (papa)</person> <!--Su nombre de nacimiento era Rodrigo Lanzol y de Borja-->
 	</personList>	
 	<personList nom="B">
 		<person id="B001" género="mujer" procedencia="">Baca, Isabel</person>
