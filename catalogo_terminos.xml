@@ -42,6 +42,7 @@
 		<cuerpo id="D001">dedo índice</cuerpo>
 	 	<cuerpo id="D002">desauciado</cuerpo><!--enfermedad-->
 	        <cuerpo id="D003">dientes</cuerpo>
+	 	<cuerpo id="D004">dedos</cuerpo>
 	</termCuerpo>
 <termCuerpo nom="E"> 
 		<cuerpo id="E001">extremidades</cuerpo>
@@ -135,6 +136,7 @@
 		<cuerpo id="P009">pelo</cuerpo>
 		<cuerpo id="P010">pasmo</cuerpo>
 		<cuerpo id="P011">pie</cuerpo>
+		<cuerpo id="P012">palmas</cuerpo>
 	</termCuerpo>
 	<termCuerpo nom="Q"> 
 		<cuerpo id="Q001">quijada</cuerpo>
