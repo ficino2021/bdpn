@@ -58,6 +58,8 @@
 		<opera id="E005" titulo="Églogas" autor="Virgilio">Égloga X. Virgilio. V. 77</opera>
 		<opera id="E006" titulo="Elegiae" autor="Tíbulo">Elegiae II. Tíbulo.</opera>
 		<opera id="E007" titulo="Exotericae exercitationes adversus Cardanum" autor="Escalígero">Exotericae exercitationes de subtilitate adversus Cardanum. Escalígero, Julio César.</opera>
+		<opera id="E008" titulo="Eclesiastés 3:11" autor="El Predicador"> <!--Incluido en el Libro del Eclesiastés, a su vez incluido en el Antiguo Testamento de la Biblia. Autor se nombra a sí mismo como "El Predicaor"-->
+
  	</operaList>
 
  	<operaList nom="F">
