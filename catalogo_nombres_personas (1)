@@ -459,6 +459,7 @@
 		<person id="L037" género="mujer" procedencia="Portugal">de Lencastre y Cárdenas Manrique, María de Guadalupe (duquesa)</person> <!--Duquesa de Aveiro-->
 		<person id="L038" género="hombre" procedencia="España">López de Gómara, Francisco (cronista)</person>
 		<person id="L039" género="hombre" procedencia="España">López de Zúñiga y Velasco, Diego (IV virrey del Perú)</person>
+		<person id="L040" género="hombre" procedencia="Italia">León I (papa)</person> <!--León I el Magno o el Grande-->
 	</personList>
 	<personList nom="M">
 		<person id="M001" género="hombre" procedencia="Turquía">Marco Opelio Macrino (emperador)</person>
