@@ -575,6 +575,7 @@
 		<person id="P030" género="hombre" procedencia="España">Pizarro y Vargas, Hernando (conquistador)</person>
 		<person id="P031" género="hombre" procedencia="España">Pizarro Alonso, Juan (conquistador)</person>
 		<person id="P032" género="hombre" procedencia="España">Pizarro Alonso, Gonzalo (conquistador)</person>
+		<person id="P033" género="hombre" procedencia="Italia">Pío V (papa)</person>
 	</personList>
 	<personList nom="Q">
 		<person id="Q001" género="hombre" procedencia="España">Quezada de Figueroa, Juan</person>
