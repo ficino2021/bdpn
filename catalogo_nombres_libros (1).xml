@@ -50,6 +50,7 @@
 		<opera Id="D006" titulo="Diario y pronóstico de los temporales" autor="Joseph de Escobar Salmerón y Castro">Diario, y Pronostico de Temporales. Joseph de Escobar Salmerón y Castro</opera> <!--Probablemente el título correcto sea Lunario y pronóstico de los temporales-->
 		<opera id="D007" titulo="De Regis">de Regis part. I Aphor. 9.</opera> <!--No pude identificar la obra-->
 		<opera id="D008" titulo="De bello Getico" autor="Claudiano">De bello Getico. Claudio Claudiano.</opera><!--También como "De bello Gothico", "De bello Pollentino" o "Guerra contra los getas"-->
+		<opera id="D009" titulo="De Urbis Excidio" autor="San Agustín">De Urbis Excidio. Tomo 9. San Agustín.</opera>
  	</operaList>
 
  	<operaList nom="E">
