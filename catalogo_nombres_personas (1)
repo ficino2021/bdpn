@@ -578,6 +578,7 @@
 		<person id="P031" género="hombre" procedencia="España">Pizarro Alonso, Juan (conquistador)</person>
 		<person id="P032" género="hombre" procedencia="España">Pizarro Alonso, Gonzalo (conquistador)</person>
 		<person id="P033" género="hombre" procedencia="Italia">Pío V (papa)</person>
+		<person id="P034" género="hombre" procedencia="Desconocido">Puiteano</person> <!--Sin más información-->
 	</personList>
 	<personList nom="Q">
 		<person id="Q001" género="hombre" procedencia="España">Quezada de Figueroa, Juan</person>
