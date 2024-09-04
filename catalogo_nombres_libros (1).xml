@@ -138,6 +138,7 @@
  	<operaList nom="O">
  		<opera id="O001" titulo="Odas" autor="Horacio">Odas. Horacio. Libro 2,10</opera><!--Horacio Flaco, Quinto-->
 		<opera id="O002" titulo="Oráculos sibilinos " autor="Sibila eritrea">Oráculos sibilinos. Sibila eritrea. Libro III. 334-336</opera>
+		<opera id="O003" titulo="Oráculos sibilinos" autor="Sibila babilónica">Oráculos sibilinos. Sibila babilónica. Libro 7</opera> <!--También llamada Sibila pérsica, hebrea o egipcia-->
  	</operaList>
 
  	<operaList nom="P">
