@@ -106,6 +106,7 @@
 		<opera id="L004" titulo="Aforismos" autor="Galeno">>Aforismos. Libro 1. Galeno</opera>
 		<opera id="L005" titulo="Libro de la sentencias" autor="Santo Tomás de Aquino">Liber Sententiarum. II Distinctio 7 q 2 a 2. Santo Tomás de Aquino</opera> <!-- Liber Sententiarum es una obra de Pedro Lombardo. Parece que Tomás de Aquino escribió un comentario-->
 		<opera id="L006" titulo="La guerra de los judíos" autor="Flavio Josefo">cap 21. de Bell. Jud.</opera>
+		<opera id="L007" titulo="Libro 7" autor="Sibila Babilónica">Libro 7. Sibila Babilónica</opera>
  	</operaList>
 
  	<operaList nom="M">
