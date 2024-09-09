@@ -64,8 +64,8 @@
 		<opera id="E005" titulo="Églogas" autor="Virgilio">Égloga X. Virgilio. V. 77</opera>
 		<opera id="E006" titulo="Elegiae" autor="Tíbulo">Elegiae II. Tíbulo.</opera>
 		<opera id="E007" titulo="Exotericae exercitationes adversus Cardanum" autor="Escalígero">Exotericae exercitationes de subtilitate adversus Cardanum. Escalígero, Julio César.</opera>
-		<opera id="E008" titulo="Eclesiastés 3:11" autor="El Predicador"> <!--Incluido en el Libro del Eclesiastés, a su vez incluido en el Antiguo Testamento de la Biblia. Autor se nombra a sí mismo como "El Predicaor"-->
-
+		<opera id="E008" titulo="Eclesiastés 3:11" autor="El Predicador">Eclesiastés 3:11. El Predicador</opera> <!--Incluido en el Libro del Eclesiastés, a su vez incluido en el Antiguo Testamento de la Biblia. Autor se nombra a sí mismo como "El Predicador"-->
+		<opera id="E009" titulo="Eclesiástico 43" autor="Sirácides">Eclesiástico 43. Sirácides</opera> <!--Sirácides también conocido como Jesús ben Sirá-->
  	</operaList>
 
  	<operaList nom="F">
