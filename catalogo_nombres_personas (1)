@@ -184,6 +184,7 @@
 		<person id="C056" género="hombre" procedencia="España">Cortés, Hernán</person> <!--Conquistador de México-->
 		<person id="C057" género="hombre" procedencia="Italia">Colón, Bartolomé</person> <!--hermano de Cristóbal Colón-->
 		<person id="C058" género="hombre" procedencia="">Cizato</person>
+		<person id="C059" género="hombre" procedencia="">Chemeron</person> <!--No se encontraron datos de Chemeron-->
 	</personList>
 	<personList nom="D">
 		<person id="D001" género="hombre" procedencia="Grecia">Dionisio Areopagita obispo de Atenas (santo)</person>
