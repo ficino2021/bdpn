@@ -68,7 +68,8 @@
 		<opera id="E007" titulo="Exotericae exercitationes adversus Cardanum" autor="Escalígero">Exotericae exercitationes de subtilitate adversus Cardanum. Escalígero, Julio César.</opera>
 		<opera id="E008" titulo="Eclesiastés 3:11" autor="El Predicador">Eclesiastés 3:11. El Predicador</opera> <!--Incluido en el Libro del Eclesiastés, a su vez incluido en el Antiguo Testamento de la Biblia. Autor se nombra a sí mismo como "El Predicador"-->
 		<opera id="E009" titulo="Eclesiástico 43" autor="Sirácides">Eclesiástico 43. Sirácides</opera> <!--Sirácides también conocido como Jesús ben Sirá-->
- 	</operaList>
+ 		<opera id="E010" titulo="Epístola. II" autor="San León">Epístola. II. San León (papa)</opera> <!--León I el Magno o el Grande-->
+	</operaList>
 
  	<operaList nom="F">
  		<opera id="F001" titulo="De flatibus liber" autor="Hipócrates">Flatib. Hipócrates</opera> <!--No encontré la obra-->
