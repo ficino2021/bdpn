@@ -41,6 +41,8 @@
 		<opera id="C008" titulo="Canónica" autor="San Pedro">Canónica 2. San Pedro, cap. 3</opera> <!--Al ser un capítulo distinto y especificarlo crei prudente la nueva marca-->
 		<opera id="C009" titulo="Columba" autor="Pierio Valeriano, Giovani">Columba. Giovani Pierio Valeriano. Lib. 22</opera>
 		<opera id="C010" titulo="Cometographia" autor="Johannes Hevelius">Cometographia. Hevelius, Johannes</opera>
+		<opera id="C011" titulo="La ciudad de Dios" autor="San Agustín de Hipona">De civitate Dei. Libro 2 Capítulo. 43. San Agustín.</opera>
+		<opera id="C012" titulo="La ciudad de Dios" autor="San Agustín de Hipona">De civitate Dei. Libro 3 Capítulo. 1. San Agustín.</opera>
  	</operaList>
 
  	<operaList nom="D">
