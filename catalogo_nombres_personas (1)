@@ -713,6 +713,7 @@
 		<person id="V021" género="mujer" procedencia="">Venus (diosa)</person>
                 <person id="V022" género="hombre" procedencia="">Cayo Veleyo Patérculo (historiador)</person>
 		<person id="V023" género="hombre" procedencia="España">Vaca de Castro, Cristóbal (magistrado)</person>
+		<person id="V024" género="hombre" procedencia="">Vendelino</person> <!--Sin información al respecto-->
 	</personList>
 <personList nom="W">
 		<person id="W001" género="hombre" procedencia="Alemania">Waybel, Andrés</person> <!--Nombre repetido V005-->
