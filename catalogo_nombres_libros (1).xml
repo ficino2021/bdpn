@@ -118,7 +118,7 @@
 
  	<operaList nom="M">
  		<opera id="M001" titulo="Sobre los meteoros" autor="Alberto Magno">Meteororum. Alberto Magno. Tratado III. Capítulo IV</opera> <!-- Alberto cita a Juan Damaseno. Parece que el título de la obra es: De Meteoris-->
-		<opera id="M002" titulo="Manifiesto filosófico contra los cometas" autor="Carlos de Sigüenza y Góngora">Manifiesto filosófico contra los cometas. Carlos de Sigüenza y Góngora</opera><!--Manifiesto Filosófico contra los cometas despojados del imperio que tenían sobre los tímidos-->
+		<opera id="M002" titulo="Manifiesto filosófico contra los cometas" autor="Carlos de Sigüenza y Góngora">Manifiesto Filosófico contra los cometas despojados del imperio que tenían sobre los tímidos. Carlos de Sigüenza y Góngora</opera>
 		<opera id="M003" titulo="Metafísica" autor="Aristóteles">Metafísica. Aristóteles</opera>
 		<opera id="M004" titulo="Meteorológicos" autor="Aristóteles">Meteorológicos. Aristóteles</opera>
 		<opera id="M005" titulo="Metamorfósis" autor="Ovidio">Metamorfosis. Ovidio.</opera>
